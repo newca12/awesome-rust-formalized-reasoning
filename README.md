@@ -30,13 +30,16 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Provers
 
+- [Avalog](https://crates.io/crates/avalog) - experimental implementation of Avatar Logic with a Prolog-like syntax.
 - [Debug-SAT](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
 - [CoP](https://crates.io/crates/cop) - reimplement in Rust several automated theorem provers of the leanCoP family, such as leanCoP and nanoCoP.
 - [lazyCoP](https://github.com/MichaelRawson/lazycop) - automatic theorem prover for first-order logic with equality.
 - [lapjv](https://crates.io/crates/lapjv) - linear Assignmment Problem solver using Jonker-Volgenant algorithm.
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
 - [meancop](https://github.com/MichaelRawson/lerna) :skull: - became CoP.
+- [Monotonic-Solver](https://crates.io/crates/monotonic_solver) - monotonic solver designed to be easy to use with Rust enum expressions.
 - [OpenZKP Stark](https://crates.io/crates/zkp-stark) - implementation of STARK zero-knowledge-proofs.
+- [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive) - fast, brute force, automatic theorem prover for first order logic.
 - [Poi](https://crates.io/crates/poi) - pragmatic point-free theorem prover assistant.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
@@ -51,6 +54,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) - static simulator for Rust programs. It runs a set of test cases and attempts to prove that all assertions pass on all valid inputs.
 - [kocheck](https://crates.io/crates/kocheck) :skull: -  became Kontroli.
 - [Kontroli](https://crates.io/crates/kontroli) - alternative implementation of the logical framework Dedukti, concentrating on the verification of proofs.
+- [pocket_prover-set](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) - prototype verifier for Rust, built upon the the Viper verification infrastructure.
 - [Rust verification tools list](https://alastairreid.github.io/rust-verification-tools/) :information_source: - list of tools
 - [smetamath](https://crates.io/crates/smetamath) - parallel and incremental verifier for Metamath databases.
@@ -121,8 +125,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - mm0-rs, olean-rs, smetamath.
-- [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
+- [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, kocheck, Kontroli, meancop.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper. 
@@ -131,17 +135,16 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, uasat-rs. 
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, plar-rs
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
-- [Sven Nilsen](https://twitter.com/bvssvni) - Debug-SAT, Poi.
+- [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn. 
-- [Miklos Maroti]()
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, SATCoP. tptp.
 - [Alastair Reid](https://alastairreid.github.io) - Rust verification tools list.
 - [Erik Rohkohl](https://blogs.itemis.com/author/erik-rohkohl) - n-queens-sat.
 - [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
 - [Salman Saghafi](https://github.com/salmans) - Rusty Razor.
-- [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, Simple Verification of RustPrograms via Functional Purification.
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, sudoku_sat.
+- [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, Simple Verification of RustPrograms via Functional Purification.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Brendan Zabarauskas]() - Fathom, moniker, Pikelet, rust-nbe-for-mltt. 
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
