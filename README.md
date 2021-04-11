@@ -1,5 +1,5 @@
 ## About ##
-A curated list of awesome Rust resources regarding automated or semi-automated formalization efforts in any area, including classical mathematics, constructive mathematics formal algorithms, and program verification. 
+A curated list of (sometimes) awesome Rust resources regarding automated or semi-automated formalization efforts in any area, including classical mathematics, constructive mathematics formal algorithms, and program verification.
 
 awesome-rust-formalized-reasoning is an EDLA project.
 
@@ -33,13 +33,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Debug-SAT](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
 - [CoP](https://crates.io/crates/cop) - reimplement in Rust several automated theorem provers of the leanCoP family, such as leanCoP and nanoCoP.
 - [lazyCoP](https://github.com/MichaelRawson/lazycop) - automatic theorem prover for first-order logic with equality.
-- [lapjv](https://crates.io/crates/lapjv) - linear Assignmment Problem solve using Jonker-Volgenant algorithm.
+- [lapjv](https://crates.io/crates/lapjv) - linear Assignmment Problem solver using Jonker-Volgenant algorithm.
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
 - [meancop](https://github.com/MichaelRawson/lerna) :skull: - became CoP.
 - [OpenZKP Stark](https://crates.io/crates/zkp-stark) - implementation of STARK zero-knowledge-proofs.
 - [Poi](https://crates.io/crates/poi) - pragmatic point-free theorem prover assistant.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
-- [SATCoP](https://github.com/MichaelRawson/lazycop) - theorem prover for first-order logic based on connection tableau and SAT solving.
+- [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
 - [UASAT-RS](https://github.com/mmaroti/uasat-rs) - AT solver based calculator for discrete mathematics and universal algebra.
 
 ### Verification
@@ -48,15 +48,19 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [CaDiCaL SAT solver](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
 - [Chalk](https://github.com/rust-lang/chalk) - implements the Rust trait system, based on Prolog-ish logic rules.
 - [Creusot](https://github.com/xldenis/creusot) - tool for deductive verification of Rust code.
+- [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) - static simulator for Rust programs. It runs a set of test cases and attempts to prove that all assertions pass on all valid inputs.
 - [kocheck](https://crates.io/crates/kocheck) :skull: -  became Kontroli.
 - [Kontroli](https://crates.io/crates/kontroli) - alternative implementation of the logical framework Dedukti, concentrating on the verification of proofs.
+- [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) - prototype verifier for Rust, built upon the the Viper verification infrastructure.
 - [Rust verification tools list](https://alastairreid.github.io/rust-verification-tools/) :information_source: - list of tools
 - [smetamath](https://crates.io/crates/smetamath) - parallel and incremental verifier for Metamath databases.
+- [Verifier](https://github.com/trivial-rs/verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
 
 ### Libraries
 
 - [anthem](https://github.com/potassco/anthem) - translate answer set programs to first-order theorem prover language.
 - [Closure Calculus](https://crates.io/crates/closure_calculus) - library for Barry Jay's Closure Calculus.
+- [compiler](https://github.com/trivial-rs/compiler) - Trivial compiler framework for Metamath Zero binary proofs.
 - [discrimination-tree](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
 - [Fathom](https://crates.io/crates/fathom) - declarative data definition language for formally specifying binary data formats.
 - [foliage](https://crates.io/crates/foliage) - First-order logic with integer arithmetics.
@@ -64,8 +68,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Kravanenn](https://github.com/ppedrot/kravanenn) - set of tools for Coq.  
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations using input/output examples to learn typed first-order term rewriting systems that perform list routines.
 - [logic-rs](https://github.com/ixjf/logic-rs) :skull: - parser of relational predicate logic & truth tree solver.
-- [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util/) :skull: - move to Voile.
+- [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util/) :skull: - became Voile.
 - [mm0-rs](https://github.com/digama0/mm0/tree/master/mm0-rs) - MM0/MM1 server.
+- [mmb-binutils](https://github.com/trivial-rs/mmb-binutils) - utility tools for Metamath Zero binary proof files.
+- [mmb-parser](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format
+- [mmb-types](https://crates.io/crates/mmb-types) - library containing the definitions of the opcodes in the Metamath Zero binary proof files.
 - [moniker](https://github.com/brendanzab/moniker) [:package:](https://crates.io/crates/moniker)[:package:](https://crates.io/crates/moniker-derive) - automagical variable binding library. 
 - [n-queens-sat](https://github.com/erohkohl/n-queens-sat) - Modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
 - [nanoda](https://github.com/ammkrn/nanoda) :skull: - became nanoda-lib.
@@ -84,7 +91,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [tarpit-rs](https://github.com/sdleffler/tarpit-rs) - type-level implementation of Smallfuck in Rust, doubling as a Turing-completeness proof for Rust's type system.
 - [term-rewriting-rs](https://crates.io/crates/term_rewriting) - library for representing, parsing, and computing with first-order term rewriting systems.
 - [tptp](https://crates.io/crates/tptp) :diamonds: - parse the TPTP format.
-- [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util) :skull: - move to Narc.
+- [The Trivial Metamath Zero kernel](https://crates.io/crates/trivial-kernel) - Metamath Zero kernel for Trivial.
+- [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util) :skull: - became Narc.
 - [Whisper](https://github.com/sdleffler/whisper) - logic Programming DSL.
 
 ### Books
@@ -106,7 +114,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Thesis
 
 - [A Formal Verification of Rust's Binary Search Implementation](https://kha.github.io/2016/07/22/formally-verifying-rusts-binary-search.html) - post about ongoing master’s thesis.
-- [Simple Verification of RustPrograms via Functional Purification](https://pp.ipd.kit.edu/uploads/publikationen/ullrich16masterarbeit.pdf)
+- [Simple Verification of RustPrograms via Functional Purification](https://pp.ipd.kit.edu/uploads/publikationen/ullrich16masterarbeit.pdf) - thesis.
 
 ### Community
 
@@ -116,6 +124,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, kocheck, Kontroli, meancop.
+- [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper. 
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
 - [Victor Maia](https://medium.com/@maiavictor) - Symmetric Interaction Calculus.
@@ -133,5 +142,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Salman Saghafi](https://github.com/salmans) - Rusty Razor.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, Simple Verification of RustPrograms via Functional Purification.
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, sudoku_sat.
+- [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Brendan Zabarauskas]() - Fathom, moniker, Pikelet, rust-nbe-for-mltt. 
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
