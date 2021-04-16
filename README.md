@@ -14,6 +14,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
   - [Libraries](#libraries)
   - [Books](#books)
   - [Kanren](#kanren)
+  - [Lambda_Calculus](lambda_calculus)
 - [Resources](#resources)
   - [Thesis](#thesis)
   - [Community](#community)
@@ -50,6 +51,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Bounded Registers](https://crates.io/crates/bounded-registers) - high-assurance memory-mapped register interaction library.
 - [CaDiCaL SAT solver](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
 - [Chalk](https://github.com/rust-lang/chalk) - implements the Rust trait system, based on Prolog-ish logic rules.
+- [Chevre](https://github.com/pvdrz/chevre) :skull: - small propositional logic interpreter.
 - [Creusot](https://github.com/xldenis/creusot) - tool for deductive verification of Rust code.
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) - static simulator for Rust programs. It runs a set of test cases and attempts to prove that all assertions pass on all valid inputs.
 - [kocheck](https://crates.io/crates/kocheck) :skull: -  became Kontroli.
@@ -58,6 +60,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) - prototype verifier for Rust, built upon the the Viper verification infrastructure.
 - [Rust verification tools list](https://alastairreid.github.io/rust-verification-tools/) :information_source: - list of tools
 - [smetamath](https://crates.io/crates/smetamath) - parallel and incremental verifier for Metamath databases.
+- [Scryer Prolog](https://crates.io/crates/scryer-prolog) - modern Prolog implementation.
 - [Verifier](https://github.com/trivial-rs/verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
 
 ### Libraries
@@ -113,6 +116,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rslogic](https://crates.io/crates/rslogic) - logic programming framework for Rust inspired by µKanren.
 - [rust-kanren](https://github.com/wartmanm/rust-kanren) - loose interpretation of miniKanren and cKanren.
 
+### Lambda_Calculus
+
+- [blc](https://crates.io/crates/blc) - implementation of the binary lambda calculus.
+- [lambda_calc](https://crates.io/crates/lambda_calc) - command-line untyped lambda calculus interpreter.
+- [lambda_calculus](https://crates.io/crates/lambda_calculus) - simple, zero-dependency implementation of pure lambda calculus in.
+
+
 ## Resources
 
 ### Thesis
@@ -129,8 +139,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, kocheck, Kontroli, meancop.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
+- [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper. 
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
+- [mcmfb](https://github.com/mcmfb) - lambda_calc.
 - [Victor Maia](https://medium.com/@maiavictor) - Symmetric Interaction Calculus.
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, uasat-rs. 
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, plar-rs
@@ -138,12 +150,14 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn. 
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
+- [Christian Poveda](https://github.com/pvdrz) - Chevre.
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, SATCoP. tptp.
 - [Alastair Reid](https://alastairreid.github.io) - Rust verification tools list.
 - [Erik Rohkohl](https://blogs.itemis.com/author/erik-rohkohl) - n-queens-sat.
 - [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
 - [Salman Saghafi](https://github.com/salmans) - Rusty Razor.
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, sudoku_sat.
+- [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, Simple Verification of RustPrograms via Functional Purification.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Brendan Zabarauskas]() - Fathom, moniker, Pikelet, rust-nbe-for-mltt. 
