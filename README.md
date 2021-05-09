@@ -1,5 +1,5 @@
 ## About ##
-A curated list of (sometimes) awesome Rust resources regarding automated or semi-automated formalization efforts in any area, including classical mathematics, constructive mathematics formal algorithms, and program verification.
+An exhaustive list of all Rust resources regarding automated or semi-automated formalization efforts in any area, constructive mathematics, formal algorithms, and program verification.
 
 awesome-rust-formalized-reasoning is an EDLA project.
 
@@ -89,6 +89,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Pikelet](https://crates.io/crates/pikelet) - small, functional, dependently typed programming language.
 - [polytype](https://crates.io/crates/polytype) - Hindley-Milner polymorphic typing system.
 - [program-induction](https://crates.io/crates/programinduction) - library for program induction and learning representations.
+- [Prop](https://crates.io/crates/prop) - library for theorem proving with Intuitionistic Propositional Logic.
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-unify](https://crates.io/crates/rust-unify) :skull: - unification algorithum implementation.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase) - tool for constructing finite models for first-order theories.
@@ -147,7 +148,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, uasat-rs. 
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, plar-rs
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
-- [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi.
+- [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn. 
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
