@@ -161,5 +161,5 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, Simple Verification of RustPrograms via Functional Purification.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
-- [Brendan Zabarauskas]() - Fathom, moniker, Pikelet, rust-nbe-for-mltt. 
+- [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
