@@ -56,6 +56,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) - static simulator for Rust programs. It runs a set of test cases and attempts to prove that all assertions pass on all valid inputs.
 - [kocheck](https://crates.io/crates/kocheck) :skull: -  became Kontroli.
 - [Kontroli](https://crates.io/crates/kontroli) - alternative implementation of the logical framework Dedukti, concentrating on the verification of proofs.
+- [p4-analyzer](https://github.com/AzureMarker/p4-analyzer) - static analysis tool which checks P4 code for bugs.
 - [pocket_prover-set](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) - prototype verifier for Rust, built upon the the Viper verification infrastructure.
 - [Rust verification tools list](https://alastairreid.github.io/rust-verification-tools/) :information_source: - list of tools
@@ -137,6 +138,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - mm0-rs, olean-rs, smetamath.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
+- [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, kocheck, Kontroli, meancop.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
