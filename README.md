@@ -59,7 +59,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [p4-analyzer](https://github.com/AzureMarker/p4-analyzer) - static analysis tool which checks P4 code for bugs.
 - [pocket_prover-set](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) - prototype verifier for Rust, built upon the the Viper verification infrastructure.
-- [Rust verification tools list](https://alastairreid.github.io/rust-verification-tools/) :information_source: - list of tools
+- [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021/) :information_source: - list of tools
 - [smetamath](https://crates.io/crates/smetamath) - parallel and incremental verifier for Metamath databases.
 - [Scryer Prolog](https://crates.io/crates/scryer-prolog) - modern Prolog implementation.
 - [Verifier](https://github.com/trivial-rs/verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
