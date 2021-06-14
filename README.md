@@ -123,6 +123,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [blc](https://crates.io/crates/blc) - implementation of the binary lambda calculus.
 - [lambda_calc](https://crates.io/crates/lambda_calc) - command-line untyped lambda calculus interpreter.
 - [lambda_calculus](https://crates.io/crates/lambda_calculus) - simple, zero-dependency implementation of pure lambda calculus in.
+- [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl) - Lambda Calculus parser and evaluator and a separate command line REPL
 
 
 ## Resources
@@ -149,6 +150,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Victor Maia](https://medium.com/@maiavictor) - Symmetric Interaction Calculus.
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, uasat-rs. 
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, plar-rs
+- [Harald Maida](https://github.com/haraldmaida) - Lamcal
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
 - [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn. 
