@@ -30,7 +30,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ## Projects
 
-### Provers
+### Provers & Solvers
 
 - [Avalog](https://crates.io/crates/avalog) - experimental implementation of Avatar Logic with a Prolog-like syntax.
 - [Debug-SAT](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
@@ -38,14 +38,17 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lazyCoP](https://github.com/MichaelRawson/lazycop) - automatic theorem prover for first-order logic with equality.
 - [lapjv](https://crates.io/crates/lapjv) - linear Assignmment Problem solver using Jonker-Volgenant algorithm.
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
+- [Logic solver](https://github.com/qnighy/logic-solver-rs) - Logic solver.
 - [meancop](https://crates.io/crates/meancop) :skull: - became CoP.
 - [Monotonic-Solver](https://crates.io/crates/monotonic_solver) - monotonic solver designed to be easy to use with Rust enum expressions.
 - [OpenZKP Stark](https://crates.io/crates/zkp-stark) - implementation of STARK zero-knowledge-proofs.
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive) - fast, brute force, automatic theorem prover for first order logic.
 - [Poi](https://crates.io/crates/poi) - pragmatic point-free theorem prover assistant.
+- [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin) - reimplementation of MiniSat.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
-- [UASAT-RS](https://github.com/mmaroti/uasat-rs) - AT solver based calculator for discrete mathematics and universal algebra.
+- [UASAT-RS](https://github.com/mmaroti/uasat-rs) - SAT solver based calculator for discrete mathematics and universal algebra.
+- [Varisat](https://crates.io/crates/varisat) - CDCL based SAT solver.
 
 ### Verification
 
@@ -70,10 +73,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [anthem](https://github.com/potassco/anthem) - translate answer set programs to first-order theorem prover language.
 - [Closure Calculus](https://crates.io/crates/closure_calculus) - library for Barry Jay's Closure Calculus.
-- [compiler](https://github.com/trivial-rs/compiler) - Trivial compiler framework for Metamath Zero binary proofs.
+- [CNF Parser](https://crates.io/crates/cnf-parser) - efficient and customizable parser for the .cnf file format.
+- [compiler](https://github.com/trivial-rs/compiler) - trivial compiler framework for Metamath Zero binary proofs.
+- [DIMACS Parser](https://crates.io/crates/dimacs) - utilities to parse files in DIMACS .cnf or .sat file format.
 - [discrimination-tree](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
 - [Fathom](https://crates.io/crates/fathom) - declarative data definition language for formally specifying binary data formats.
-- [foliage](https://crates.io/crates/foliage) - First-order logic with integer arithmetics.
+- [Flussab CNF](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format
+- [foliage](https://crates.io/crates/foliage) - first-order logic with integer arithmetics.
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) - simulations using 2AFC triads to learn formal systems as typed first-order term rewriting systems.
 - [Kravanenn](https://github.com/ppedrot/kravanenn) - set of tools for Coq.  
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations using input/output examples to learn typed first-order term rewriting systems that perform list routines.
@@ -103,6 +109,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [term-rewriting-rs](https://crates.io/crates/term_rewriting) - library for representing, parsing, and computing with first-order term rewriting systems.
 - [tptp](https://crates.io/crates/tptp) :diamonds: - parse the TPTP format.
 - [The Trivial Metamath Zero kernel](https://crates.io/crates/trivial-kernel) - Metamath Zero kernel for Trivial.
+- [Varisat - DIMACS](https://crates.io/crates/varisat-dimacs) - DIMCAS CNF parser and writer for the Varisat SAT solver.
 - [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util) :skull: - became Narc.
 - [Whisper](https://github.com/sdleffler/whisper) - logic Programming DSL.
 
@@ -133,7 +140,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Thesis
 
 - [A Formal Verification of Rust's Binary Search Implementation](https://kha.github.io/2016/07/22/formally-verifying-rusts-binary-search.html) - post about ongoing master’s thesis.
-- [Simple Verification of RustPrograms via Functional Purification](https://pp.ipd.kit.edu/uploads/publikationen/ullrich16masterarbeit.pdf) - thesis.
+- [Simple Verification of Rust Programs via Functional Purification](https://pp.ipd.kit.edu/uploads/publikationen/ullrich16masterarbeit.pdf) - thesis.
 
 ### Community
 
@@ -144,7 +151,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, kocheck, Kontroli, meancop.
+- [Robin Freyler](https://robbepop.github.io/) - CNF Parser, DIMACS Parser.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
+- [Masaki Hara](https://twitter.com/qnighy/) - Logic solver, RatSat.
+- [Jannis Harder](https://jix.one/) -  Flussab CNF, Varisat, Varisat - DIMACS.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper. 
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
@@ -165,7 +175,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Salman Saghafi](https://github.com/salmans) - Rusty Razor.
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, sudoku_sat.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
-- [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, Simple Verification of RustPrograms via Functional Purification.
+- [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, Simple Verification of Rust Programs via Functional Purification.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
