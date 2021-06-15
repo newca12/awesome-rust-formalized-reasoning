@@ -25,6 +25,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - Abandoned :skull:
 - List of resources :information_source:
+- More than one crate :package:
 - No other alternatives :diamonds:
 
 ## Projects
@@ -54,6 +55,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Chevre](https://github.com/pvdrz/chevre) :skull: - small propositional logic interpreter.
 - [Creusot](https://github.com/xldenis/creusot) - tool for deductive verification of Rust code.
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) - static simulator for Rust programs. It runs a set of test cases and attempts to prove that all assertions pass on all valid inputs.
+- [frat-rs](https://github.com/digama0/frat) - verify DIMACS proof.
 - [kocheck](https://crates.io/crates/kocheck) :skull: -  became Kontroli.
 - [Kontroli](https://crates.io/crates/kontroli) - alternative implementation of the logical framework Dedukti, concentrating on the verification of proofs.
 - [p4-analyzer](https://github.com/AzureMarker/p4-analyzer) - static analysis tool which checks P4 code for bugs.
@@ -77,7 +79,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations using input/output examples to learn typed first-order term rewriting systems that perform list routines.
 - [logic-rs](https://github.com/ixjf/logic-rs) :skull: - parser of relational predicate logic & truth tree solver.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util/) :skull: - became Voile.
-- [mm0-rs](https://github.com/digama0/mm0/tree/master/mm0-rs) - MM0/MM1 server.
+- [mm0-rs](https://github.com/digama0/mm0/tree/master/mm0-rs) [:package:](https://crates.io/crates/mm0b_parser)[:package:](https://crates.io/crates/mm0_deepsize)[:package:](https://crates.io/crates/mm0_util) - MM0/MM1 server and utilities.
 - [mmb-binutils](https://github.com/trivial-rs/mmb-binutils) - utility tools for Metamath Zero binary proof files.
 - [mmb-parser](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format
 - [mmb-types](https://crates.io/crates/mmb-types) - library containing the definitions of the opcodes in the Metamath Zero binary proof files.
@@ -123,7 +125,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [blc](https://crates.io/crates/blc) - implementation of the binary lambda calculus.
 - [lambda_calc](https://crates.io/crates/lambda_calc) - command-line untyped lambda calculus interpreter.
 - [lambda_calculus](https://crates.io/crates/lambda_calculus) - simple, zero-dependency implementation of pure lambda calculus in.
-- [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl) - Lambda Calculus parser and evaluator and a separate command line REPL
+- [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl) - Lambda Calculus parser and evaluator and a separate command line REPL.
 
 
 ## Resources
@@ -137,7 +139,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
-- [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - mm0-rs, olean-rs, smetamath.
+- [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - frat-rs, mm0-rs, olean-rs, smetamath.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
