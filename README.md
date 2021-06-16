@@ -9,7 +9,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ## Contents
 
 - [Projects](#projects)
-  - [Provers](#provers)
+  - [Provers & Solvers](#provers-and-solvers)
   - [Verification](#verification)
   - [Libraries](#libraries)
   - [Books](#books)
@@ -30,7 +30,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ## Projects
 
-### Provers & Solvers
+### Provers and Solvers
 
 - [Avalog](https://crates.io/crates/avalog) - experimental implementation of Avatar Logic with a Prolog-like syntax.
 - [Debug-SAT](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
@@ -41,12 +41,16 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) - Logic solver.
 - [meancop](https://crates.io/crates/meancop) :skull: - became CoP.
 - [Monotonic-Solver](https://crates.io/crates/monotonic_solver) - monotonic solver designed to be easy to use with Rust enum expressions.
+- [msat](https://crates.io/crates/msat) - MaxSAT Solver.
 - [OpenZKP Stark](https://crates.io/crates/zkp-stark) - implementation of STARK zero-knowledge-proofs.
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive) - fast, brute force, automatic theorem prover for first order logic.
 - [Poi](https://crates.io/crates/poi) - pragmatic point-free theorem prover assistant.
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin) - reimplementation of MiniSat.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
+- [rsat](https://crates.io/crates/rsat) - SAT Solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
+- [slp](https://crates.io/crates/slp) - SolHOP Linear Programming Solver.
+- [SolHOP](https://crates.io/crates/solhop) - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
 - [UASAT-RS](https://github.com/mmaroti/uasat-rs) - SAT solver based calculator for discrete mathematics and universal algebra.
 - [Varisat](https://crates.io/crates/varisat) - CDCL based SAT solver.
 
@@ -155,6 +159,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Masaki Hara](https://twitter.com/qnighy/) - Logic solver, RatSat.
 - [Jannis Harder](https://jix.one/) -  Flussab CNF, Varisat, Varisat - DIMACS.
+- [Prateek Kumar](https://prateekkumar.in/) - msat, rsat, slp, SolHOP.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper. 
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
