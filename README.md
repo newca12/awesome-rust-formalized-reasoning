@@ -122,6 +122,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [plar-rs](https://github.com/nikomatsakis/plar-rs) - Exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
 - [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) - another collection of implementations of TAPL.
 - [tapl-rust](https://github.com/ilya-klyuchnikov/tapl-rust)
+- [tnt](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher, and Bach.
 - [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) - Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!
 
 ### Kanren
@@ -179,6 +180,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
 - [Salman Saghafi](https://github.com/salmans) - Rusty Razor.
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, sudoku_sat.
+- [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, Simple Verification of Rust Programs via Functional Purification.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
