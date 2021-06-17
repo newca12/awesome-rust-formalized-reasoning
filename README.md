@@ -24,6 +24,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ## Legend
 
 - Abandoned :skull:
+- Toy project :baby_chick:
 - List of resources :information_source:
 - More than one crate :package:
 - No other alternatives :diamonds:
@@ -121,7 +122,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [plar-rs](https://github.com/nikomatsakis/plar-rs) - Exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
 - [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) - another collection of implementations of TAPL.
-- [tapl-rust](https://github.com/ilya-klyuchnikov/tapl-rust)
+- [tapl-rust](https://github.com/ilya-klyuchnikov/tapl-rust) :baby_chick: - very limited TAPL implemention.
 - [tnt](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher, and Bach.
 - [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) - Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!
 
@@ -160,6 +161,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Masaki Hara](https://twitter.com/qnighy/) - Logic solver, RatSat.
 - [Jannis Harder](https://jix.one/) -  Flussab CNF, Varisat, Varisat - DIMACS.
+- [Ilya Klyuchnikov](https://pat.keldysh.ru/~ilya/) - tapl-rust.
 - [Prateek Kumar](https://prateekkumar.in/) - msat, rsat, slp, SolHOP.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper. 
