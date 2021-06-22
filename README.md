@@ -73,6 +73,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021/) :information_source: - list of tools
 - [smetamath](https://crates.io/crates/smetamath) - parallel and incremental verifier for Metamath databases.
 - [Scryer Prolog](https://crates.io/crates/scryer-prolog) - modern Prolog implementation.
+- [t3p](https://github.com/skbaek/tesc/tree/master/t3p-rs) - optimized TESC (Theory-Extensible Sequent Calculus) verifier.
 - [Verifier](https://github.com/trivial-rs/verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
 
 ### Libraries
@@ -183,6 +184,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Erik Rohkohl](https://blogs.itemis.com/author/erik-rohkohl) - n-queens-sat.
 - [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
 - [Salman Saghafi](https://github.com/salmans) - Rusty Razor.
+- [skbaek](https://github.com/skbaek) - t3p.
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, sudoku_sat.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
