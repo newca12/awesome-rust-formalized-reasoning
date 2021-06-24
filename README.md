@@ -50,6 +50,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
 - [rsat](https://crates.io/crates/rsat) - SAT Solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
+- [Serkr](https://github.com/mAarnos/Serkr) - automated theorem prover for first order logic with equality.
 - [slp](https://crates.io/crates/slp) - SolHOP Linear Programming Solver.
 - [SolHOP](https://crates.io/crates/solhop) - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
 - [UASAT-RS](https://github.com/mmaroti/uasat-rs) - SAT solver based calculator for discrete mathematics and universal algebra.
@@ -154,6 +155,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
 - [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib.
+- [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - frat-rs, mm0-rs, olean-rs, smetamath.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
