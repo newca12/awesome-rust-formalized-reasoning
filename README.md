@@ -28,52 +28,55 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - List of resources :information_source:
 - More than one crate :package:
 - Best in Class :diamonds:
+- Popular :star:
+- Exhumated :ghost:
+- Deleted :recycle:
 
 ## Projects
 
 ### Provers and Solvers
 
-- [Avalog](https://crates.io/crates/avalog) - experimental implementation of Avatar Logic with a Prolog-like syntax.
+- [Avalog](https://crates.io/crates/avalog) :star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
 - [Debug-SAT](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
 - [CoP](https://crates.io/crates/cop) - reimplement in Rust several automated theorem provers of the leanCoP family, such as leanCoP and nanoCoP.
 - [lazyCoP](https://github.com/MichaelRawson/lazycop) - automatic theorem prover for first-order logic with equality.
 - [lapjv](https://crates.io/crates/lapjv) - linear Assignmment Problem solver using Jonker-Volgenant algorithm.
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
-- [Logic solver](https://github.com/qnighy/logic-solver-rs) - Logic solver.
+- [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - Logic solver.
 - [meancop](https://crates.io/crates/meancop) :skull: - became CoP.
-- [Monotonic-Solver](https://crates.io/crates/monotonic_solver) - monotonic solver designed to be easy to use with Rust enum expressions.
+- [Monotonic-Solver](https://crates.io/crates/monotonic_solver) :star: - monotonic solver designed to be easy to use with Rust enum expressions.
 - [msat](https://crates.io/crates/msat) - MaxSAT Solver.
-- [OpenZKP Stark](https://crates.io/crates/zkp-stark) - implementation of STARK zero-knowledge-proofs.
-- [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive) - fast, brute force, automatic theorem prover for first order logic.
-- [Poi](https://crates.io/crates/poi) - pragmatic point-free theorem prover assistant.
-- [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin) - reimplementation of MiniSat.
+- [OpenZKP Stark](https://crates.io/crates/zkp-stark) :star: - implementation of STARK zero-knowledge-proofs.
+- [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive) :star: - fast, brute force, automatic theorem prover for first order logic.
+- [Poi](https://crates.io/crates/poi) :star: - pragmatic point-free theorem prover assistant.
+- [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin) :star: - reimplementation of MiniSat.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
 - [rsat](https://crates.io/crates/rsat) - SAT Solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
-- [Serkr](https://github.com/mAarnos/Serkr) - automated theorem prover for first order logic with equality.
-- [slp](https://crates.io/crates/slp) - SolHOP Linear Programming Solver.
+- [Serkr](https://github.com/mAarnos/Serkr) [:ghost:](https://github.com/newca12/Serkr) :star: - automated theorem prover for first order logic with equality.
+- [slp](https://crates.io/crates/slp) :skull: - became SolHOP.
 - [SolHOP](https://crates.io/crates/solhop) - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
 - [UASAT-RS](https://github.com/mmaroti/uasat-rs) - SAT solver based calculator for discrete mathematics and universal algebra.
-- [Varisat](https://crates.io/crates/varisat) - CDCL based SAT solver.
+- [Varisat](https://github.com/jix/varisat)[:package:](https://crates.io/crates/varisat)[:package:](https://crates.io/crates/varisat-checker)[:package:](https://crates.io/crates/varisat-cli)[:package:](https://crates.io/crates/varisat-dimacs)[:package:](https://crates.io/crates/varisat-formula)[:package:](https://crates.io/crates/varisat-internal-macros)[:package:](https://crates.io/crates/varisat-internal-proof)[:package:](https://crates.io/crates/varisat-lrat) :star: - CDCL based SAT solver.
 
 ### Verification
 
-- [Bounded Registers](https://crates.io/crates/bounded-registers) - high-assurance memory-mapped register interaction library.
+- [Bounded Registers](https://crates.io/crates/bounded-registers) :star: - high-assurance memory-mapped register interaction library.
 - [CaDiCaL SAT solver](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
-- [Chalk](https://github.com/rust-lang/chalk) - implements the Rust trait system, based on Prolog-ish logic rules.
-- [Chevre](https://github.com/pvdrz/chevre) :skull: - small propositional logic interpreter.
-- [Creusot](https://github.com/xldenis/creusot) - tool for deductive verification of Rust code.
-- [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) - static simulator for Rust programs. It runs a set of test cases and attempts to prove that all assertions pass on all valid inputs.
+- [Chalk](https://github.com/rust-lang/chalk) :star: - implements the Rust trait system, based on Prolog-ish logic rules.
+- [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
+- [Creusot](https://github.com/xldenis/creusot) :star: - tool for deductive verification of Rust code.
+- [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) :star: - static simulator for Rust programs. It runs a set of test cases and attempts to prove that all assertions pass on all valid inputs.
 - [frat-rs](https://github.com/digama0/frat) - verify DIMACS proof.
 - [kocheck](https://crates.io/crates/kocheck) :skull: -  became Kontroli.
 - [Kontroli](https://crates.io/crates/kontroli) - alternative implementation of the logical framework Dedukti, concentrating on the verification of proofs.
 - [p4-analyzer](https://github.com/AzureMarker/p4-analyzer) - static analysis tool which checks P4 code for bugs.
 - [pocket_prover-set](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
-- [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) - prototype verifier for Rust, built upon the the Viper verification infrastructure.
+- [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) :star: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
 - [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check) :diamonds: - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
 - [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021/) :information_source: - list of tools
-- [smetamath](https://crates.io/crates/smetamath) - parallel and incremental verifier for Metamath databases.
-- [Scryer Prolog](https://crates.io/crates/scryer-prolog) - modern Prolog implementation.
+- [smetamath](https://crates.io/crates/smetamath) :star: - parallel and incremental verifier for Metamath databases.
+- [Scryer Prolog](https://crates.io/crates/scryer-prolog) :star: - modern Prolog implementation.
 - [t3p](https://github.com/skbaek/tesc/tree/master/t3p-rs) - optimized TESC (Theory-Extensible Sequent Calculus) verifier.
 - [Verifier](https://github.com/trivial-rs/verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
 
@@ -85,62 +88,61 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [compiler](https://github.com/trivial-rs/compiler) - trivial compiler framework for Metamath Zero binary proofs.
 - [DIMACS Parser](https://crates.io/crates/dimacs) - utilities to parse files in DIMACS .cnf or .sat file format.
 - [discrimination-tree](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
-- [Fathom](https://crates.io/crates/fathom) - declarative data definition language for formally specifying binary data formats.
+- [Fathom](https://crates.io/crates/fathom) :star: - declarative data definition language for formally specifying binary data formats.
 - [Flussab CNF](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format
 - [foliage](https://crates.io/crates/foliage) - first-order logic with integer arithmetics.
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) - simulations using 2AFC triads to learn formal systems as typed first-order term rewriting systems.
-- [Kravanenn](https://github.com/ppedrot/kravanenn) - set of tools for Coq.  
+- [Kravanenn](https://github.com/ppedrot/kravanenn) :star: - set of tools for Coq.  
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations using input/output examples to learn typed first-order term rewriting systems that perform list routines.
-- [logic-rs](https://github.com/ixjf/logic-rs) :skull: - parser of relational predicate logic & truth tree solver.
-- [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util/) :skull: - became Voile.
-- [mm0-rs](https://github.com/digama0/mm0/tree/master/mm0-rs) [:package:](https://crates.io/crates/mm0b_parser)[:package:](https://crates.io/crates/mm0_deepsize)[:package:](https://crates.io/crates/mm0_util) - MM0/MM1 server and utilities.
+- [logic-rs](https://github.com/ixjf/logic-rs) :skull: :star: - parser of relational predicate logic & truth tree solver.
+- [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util/) :skull: :star: - became Voile.
+- [mm0-rs](https://github.com/digama0/mm0/tree/master/mm0-rs) [:package:](https://crates.io/crates/mm0b_parser)[:package:](https://crates.io/crates/mm0_deepsize)[:package:](https://crates.io/crates/mm0_util) :star: - MM0/MM1 server and utilities.
 - [mmb-binutils](https://github.com/trivial-rs/mmb-binutils) - utility tools for Metamath Zero binary proof files.
 - [mmb-parser](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format
 - [mmb-types](https://crates.io/crates/mmb-types) - library containing the definitions of the opcodes in the Metamath Zero binary proof files.
-- [moniker](https://github.com/brendanzab/moniker) [:package:](https://crates.io/crates/moniker)[:package:](https://crates.io/crates/moniker-derive) - automagical variable binding library. 
+- [moniker](https://github.com/brendanzab/moniker) [:package:](https://crates.io/crates/moniker)[:package:](https://crates.io/crates/moniker-derive) :star: - automagical variable binding library. 
 - [n-queens-sat](https://github.com/erohkohl/n-queens-sat) - Modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
-- [nanoda](https://github.com/ammkrn/nanoda) :skull: - became nanoda-lib.
+- [nanoda](https://github.com/ammkrn/nanoda) :skull: :star: - became nanoda-lib.
 - [nanoda_lib](https://github.com/ammkrn/nanoda_lib) - type inference/checking functionality based on the Lean theorem prover.
-- [Narc](https://crates.io/crates/nar) - dependently-typed programming language with Agda style dependent pattern matching.
+- [Narc](https://crates.io/crates/nar) :star: - dependently-typed programming language with Agda style dependent pattern matching.
 - [olean-rs](https://github.com/digama0/olean-rs) - parser/viewer for olean files.
-- [Pikelet](https://crates.io/crates/pikelet) - small, functional, dependently typed programming language.
-- [polytype](https://crates.io/crates/polytype) - Hindley-Milner polymorphic typing system.
-- [program-induction](https://crates.io/crates/programinduction) - library for program induction and learning representations.
+- [Pikelet](https://crates.io/crates/pikelet) :star: - small, functional, dependently typed programming language.
+- [polytype](https://crates.io/crates/polytype) :star: - Hindley-Milner polymorphic typing system.
+- [program-induction](https://crates.io/crates/programinduction) :star: - library for program induction and learning representations.
 - [Prop](https://crates.io/crates/prop) - library for theorem proving with Intuitionistic Propositional Logic.
-- [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) - normalization by evaluation for Martin-Löf Type Theory with dependent records.
-- [rust-unify](https://crates.io/crates/rust-unify) :skull: - unification algorithum implementation.
-- [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase) - tool for constructing finite models for first-order theories.
-- [Splr](https://crates.io/crates/splr) - modern CDCL SAT solver.
+- [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
+- [rust-unify](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
+- [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase) :star: - tool for constructing finite models for first-order theories.
+- [Splr](https://crates.io/crates/splr) :star: - modern CDCL SAT solver.
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
-- [Symmetric Interaction Calculus](https://github.com/maiavictor/symmetric-interaction-calculus) - programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
-- [tarpit-rs](https://github.com/sdleffler/tarpit-rs) - type-level implementation of Smallfuck in Rust, doubling as a Turing-completeness proof for Rust's type system.
-- [term-rewriting-rs](https://crates.io/crates/term_rewriting) - library for representing, parsing, and computing with first-order term rewriting systems.
+- [Symmetric Interaction Calculus](https://github.com/maiavictor/symmetric-interaction-calculus) :star: - programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
+- [tarpit-rs](https://github.com/sdleffler/tarpit-rs) :star: - type-level implementation of Smallfuck in Rust, doubling as a Turing-completeness proof for Rust's type system.
+- [term-rewriting-rs](https://crates.io/crates/term_rewriting) :star: - library for representing, parsing, and computing with first-order term rewriting systems.
 - [tptp](https://crates.io/crates/tptp) :diamonds: - parse the TPTP format.
 - [The Trivial Metamath Zero kernel](https://crates.io/crates/trivial-kernel) - Metamath Zero kernel for Trivial.
-- [Varisat - DIMACS](https://crates.io/crates/varisat-dimacs) - DIMCAS CNF parser and writer for the Varisat SAT solver.
-- [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util) :skull: - became Narc.
-- [Whisper](https://github.com/sdleffler/whisper) - logic Programming DSL.
+- [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util) :skull: :star: - became Narc.
+- [Whisper](https://github.com/sdleffler/whisper) :star: - logic Programming DSL.
 
 ### Books
 
 - [plar-rs](https://github.com/nikomatsakis/plar-rs) - Exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
-- [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) - another collection of implementations of TAPL.
+- [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star: - another collection of implementations of TAPL.
 - [tapl-rust](https://github.com/ilya-klyuchnikov/tapl-rust) :baby_chick: - very limited TAPL implemention.
 - [tnt](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher, and Bach.
-- [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) - Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!
+- [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) :star: - Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!
 
 ### Kanren
 
-- [Canrun](https://crates.io/crates/canrun) - logic programming library inspired by the *Kanren family of language DSLs.
+- [Canrun](https://crates.io/crates/canrun) :star: - logic programming library inspired by the *Kanren family of language DSLs.
 - [miniKANREN](https://crates.io/crates/mini-kanren) - miniKANREN as a DSL.
-- [rslogic](https://crates.io/crates/rslogic) - logic programming framework for Rust inspired by µKanren.
-- [rust-kanren](https://github.com/wartmanm/rust-kanren) - loose interpretation of miniKanren and cKanren.
+- [rslogic](https://crates.io/crates/rslogic) :star: - logic programming framework for Rust inspired by µKanren.
+- [rust-kanren](https://github.com/wartmanm/rust-kanren) :star: - loose interpretation of miniKanren and cKanren.
 
 ### Lambda_Calculus
 
 - [blc](https://crates.io/crates/blc) - implementation of the binary lambda calculus.
 - [lambda_calc](https://crates.io/crates/lambda_calc) - command-line untyped lambda calculus interpreter.
-- [lambda_calculus](https://crates.io/crates/lambda_calculus) - simple, zero-dependency implementation of pure lambda calculus in.
+- [lambda_calculus](https://crates.io/crates/lambda_calculus) :star: - simple, zero-dependency implementation of pure lambda calculus in safe Rust.
 - [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl) - Lambda Calculus parser and evaluator and a separate command line REPL.
 
 
@@ -165,7 +167,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Robin Freyler](https://robbepop.github.io/) - CNF Parser, DIMACS Parser.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Masaki Hara](https://twitter.com/qnighy/) - Logic solver, RatSat.
-- [Jannis Harder](https://jix.one/) -  Flussab CNF, Varisat, Varisat - DIMACS.
+- [Jannis Harder](https://jix.one/) -  Flussab CNF, Varisat.
 - [Ilya Klyuchnikov](https://pat.keldysh.ru/~ilya/) - tapl-rust.
 - [Prateek Kumar](https://prateekkumar.in/) - msat, rsat, slp, SolHOP.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
