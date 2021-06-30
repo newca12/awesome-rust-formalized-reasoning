@@ -16,6 +16,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
   - [Kanren](#kanren)
   - [Lambda_Calculus](lambda_calculus)
 - [Resources](#resources)
+  - [Crates keywords](#crates-keywords)
   - [Thesis](#thesis)
   - [Community](#community)
 
@@ -152,6 +153,20 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [A Formal Verification of Rust's Binary Search Implementation](https://kha.github.io/2016/07/22/formally-verifying-rusts-binary-search.html) - post about ongoing master’s thesis.
 - [Simple Verification of Rust Programs via Functional Purification](https://pp.ipd.kit.edu/uploads/publikationen/ullrich16masterarbeit.pdf) - thesis.
+
+### Crates keywords
+
+- [solver](https://crates.io/keywords/solver) - 59 entries.
+- [logic](https://crates.io/keywords/logic) - 35 entries.
+- [sat](https://crates.io/keywords/sat - 24 entries.)
+- [smt](https://crates.io/keywords/smt) - 21 entries.
+- [satisfiability](https://crates.io/keywords/satisfiability) - 21 entries.
+- [verification](https://crates.io/keywords/verification) - 20 entries.
+- [first-order](https://crates.io/keywords/first-order) - 6 entries.
+- [rewriting](https://crates.io/keywords/rewriting) - 6 entries.
+- [cnf](https://crates.io/keywords/cnf) - 5 entries.
+- [dependent-types](https://crates.io/keywords/dependent-types) - 3 entries.
+- [dimacs](https://crates.io/keywords/dimacs) - 3 entries.
 
 ### Community
 
