@@ -158,7 +158,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [solver](https://crates.io/keywords/solver) - 59 entries.
 - [logic](https://crates.io/keywords/logic) - 35 entries.
-- [sat](https://crates.io/keywords/sat - 24 entries.)
+- [sat](https://crates.io/keywords/sat) - 24 entries.
 - [smt](https://crates.io/keywords/smt) - 21 entries.
 - [satisfiability](https://crates.io/keywords/satisfiability) - 21 entries.
 - [verification](https://crates.io/keywords/verification) - 20 entries.
