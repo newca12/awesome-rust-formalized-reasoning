@@ -126,7 +126,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Books
 
-- [plar-rs](https://github.com/nikomatsakis/plar-rs) - Exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
+- [plar-rs](https://github.com/nikomatsakis/plar-rs) [:ghost:](https://github.com/newca12/plar-rs) - Exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
 - [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star: - another collection of implementations of TAPL.
 - [tapl-rust](https://github.com/ilya-klyuchnikov/tapl-rust) :baby_chick: - very limited TAPL implemention.
 - [tnt](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher, and Bach.
