@@ -51,6 +51,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive) :star: - fast, brute force, automatic theorem prover for first order logic.
 - [Poi](https://crates.io/crates/poi) :star: - pragmatic point-free theorem prover assistant.
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin) :star: - reimplementation of MiniSat.
+- [reachability_solver](https://crates.io/crates/reachability_solver) - linear reachability solver for directional edges.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
 - [rsat](https://crates.io/crates/rsat) - SAT Solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
@@ -93,7 +94,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Flussab CNF](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format
 - [foliage](https://crates.io/crates/foliage) - first-order logic with integer arithmetics.
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) - simulations using 2AFC triads to learn formal systems as typed first-order term rewriting systems.
-- [Kravanenn](https://github.com/ppedrot/kravanenn) :star: - set of tools for Coq.  
+- [Kravanenn](https://github.com/ppedrot/kravanenn) :star: - set of tools for Coq.
+- [linear_solver](https://crates.io/crates/linear_solver) - linear solver designed to be easy to use with Rust enums.
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations using input/output examples to learn typed first-order term rewriting systems that perform list routines.
 - [logic-rs](https://github.com/ixjf/logic-rs) :skull: :star: - parser of relational predicate logic & truth tree solver.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util/) :skull: :star: - became Voile.
@@ -194,7 +196,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, plar-rs
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
-- [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop.
+- [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn. 
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
