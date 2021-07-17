@@ -85,6 +85,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Libraries
 
 - [anthem](https://github.com/potassco/anthem) - translate answer set programs to first-order theorem prover language.
+- [dedukti-parse](https://crates.io/crates/dedukti-parse) - Parser for the Dedukti file format.
 - [Closure Calculus](https://crates.io/crates/closure_calculus) - library for Barry Jay's Closure Calculus.
 - [CNF Parser](https://crates.io/crates/cnf-parser) - efficient and customizable parser for the .cnf file format.
 - [compiler](https://github.com/trivial-rs/compiler) - trivial compiler framework for Metamath Zero binary proofs.
@@ -180,7 +181,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
-- [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, kocheck, Kontroli, meancop.
+- [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, dedukti-parse, kocheck, Kontroli, meancop.
 - [Robin Freyler](https://robbepop.github.io/) - CNF Parser, DIMACS Parser.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Masaki Hara](https://twitter.com/qnighy/) - Logic solver, RatSat.
