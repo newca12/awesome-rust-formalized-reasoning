@@ -75,6 +75,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [pocket_prover-set](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) :star: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
 - [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check) :diamonds: - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
+- [rlfsc](https://crates.io/crates/rlfsc) - A checker for the LFSC proof language.
 - [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021/) :information_source: - list of tools
 - [smetamath](https://crates.io/crates/smetamath) :star: - parallel and incremental verifier for Metamath databases.
 - [Scryer Prolog](https://crates.io/crates/scryer-prolog) :star: - modern Prolog implementation.
@@ -157,16 +158,17 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 59 entries.
+- [solver](https://crates.io/keywords/solver) - 60 entries.
 - [logic](https://crates.io/keywords/logic) - 35 entries.
 - [sat](https://crates.io/keywords/sat) - 24 entries.
 - [smt](https://crates.io/keywords/smt) - 21 entries.
 - [satisfiability](https://crates.io/keywords/satisfiability) - 21 entries.
 - [verification](https://crates.io/keywords/verification) - 20 entries.
+- [rewriting](https://crates.io/keywords/rewriting) - 7 entries.
 - [first-order](https://crates.io/keywords/first-order) - 6 entries.
-- [rewriting](https://crates.io/keywords/rewriting) - 6 entries.
 - [cnf](https://crates.io/keywords/cnf) - 5 entries.
-- [dependent-types](https://crates.io/keywords/dependent-types) - 3 entries.
+- [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries.
+- [dependent-types](https://crates.io/keywords/dependent-types) - 4 entries.
 - [dimacs](https://crates.io/keywords/dimacs) - 3 entries.
 
 ### Community
@@ -196,6 +198,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
 - [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
+- [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn. 
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
