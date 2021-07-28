@@ -70,8 +70,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Creusot](https://github.com/xldenis/creusot) :star: - tool for deductive verification of Rust code.
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) :star: - static simulator for Rust programs. It runs a set of test cases and attempts to prove that all assertions pass on all valid inputs.
 - [frat-rs](https://github.com/digama0/frat) - verify DIMACS proof.
-- [kocheck](https://crates.io/crates/kocheck) :skull: -  became Kontroli.
-- [Kontroli](https://crates.io/crates/kontroli) - alternative implementation of the logical framework Dedukti, concentrating on the verification of proofs.
+- [Kontroli](https://github.com/01mf02/kontroli-rs)  [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli) - alternative implementation of the logical framework Dedukti, concentrating on the verification of proofs.
 - [p4-analyzer](https://github.com/AzureMarker/p4-analyzer) - static analysis tool which checks P4 code for bugs.
 - [pocket_prover-set](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) :star: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
