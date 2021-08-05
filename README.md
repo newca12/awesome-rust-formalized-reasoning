@@ -40,6 +40,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Avalog](https://crates.io/crates/avalog) :star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
 - [Debug-SAT](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
 - [CoP](https://crates.io/crates/cop) - reimplement in Rust several automated theorem provers of the leanCoP family, such as leanCoP and nanoCoP.
+- [egglog](https://github.com/philzook58/egglog) - Using the egg library with a file format and semantics similar to datalog.
 - [lazyCoP](https://github.com/MichaelRawson/lazycop) - automatic theorem prover for first-order logic with equality.
 - [lapjv](https://crates.io/crates/lapjv) - linear Assignmment Problem solver using Jonker-Volgenant algorithm.
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
@@ -215,3 +216,4 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
+- [Philip Zucker](http://www.philipzucker.com/) - egglog.
