@@ -91,6 +91,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [compiler](https://github.com/trivial-rs/compiler) - trivial compiler framework for Metamath Zero binary proofs.
 - [DIMACS Parser](https://crates.io/crates/dimacs) - utilities to parse files in DIMACS .cnf or .sat file format.
 - [discrimination-tree](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
+- [egg](https://crates.io/crates/egg) :star: - flexible, high-performance e-graph library.
 - [Fathom](https://crates.io/crates/fathom) :star: - declarative data definition language for formally specifying binary data formats.
 - [Flussab CNF](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format
 - [foliage](https://crates.io/crates/foliage) - first-order logic with integer arithmetics.
@@ -213,6 +214,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, Simple Verification of Rust Programs via Functional Purification.
+- [Max Willsey](https://www.mwillsey.com/) - egg.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
