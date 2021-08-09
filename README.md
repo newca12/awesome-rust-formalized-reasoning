@@ -167,11 +167,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [smt](https://crates.io/keywords/smt) - 21 entries.
 - [satisfiability](https://crates.io/keywords/satisfiability) - 21 entries.
 - [verification](https://crates.io/keywords/verification) - 20 entries.
+- [prover](https://crates.io/keywords/prover) - 7 entries.
 - [rewriting](https://crates.io/keywords/rewriting) - 7 entries.
 - [first-order](https://crates.io/keywords/first-order) - 6 entries.
 - [cnf](https://crates.io/keywords/cnf) - 5 entries.
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries.
 - [dependent-types](https://crates.io/keywords/dependent-types) - 4 entries.
+- [stark](https://crates.io/keywords/stark) - 4 entries.
 - [dimacs](https://crates.io/keywords/dimacs) - 3 entries.
 
 ### Community
