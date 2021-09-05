@@ -89,6 +89,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [anthem](https://github.com/potassco/anthem) - translate answer set programs to first-order theorem prover language.
 - [Closure Calculus](https://crates.io/crates/closure_calculus) - library for Barry Jay's Closure Calculus.
+- [Cnfpack](https://crates.io/crates/cnfpack) - converts between the text based DIMACS CNF file format and the compressed binary Cnfpack format.
 - [CNF Parser](https://crates.io/crates/cnf-parser) - efficient and customizable parser for the .cnf file format.
 - [compiler](https://github.com/trivial-rs/compiler) - trivial compiler framework for Metamath Zero binary proofs.
 - [DIMACS Parser](https://crates.io/crates/dimacs) - utilities to parse files in DIMACS .cnf or .sat file format.
@@ -167,10 +168,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 60 entries.
+- [solver](https://crates.io/keywords/solver) - 61 entries.
 - [logic](https://crates.io/keywords/logic) - 35 entries.
-- [sat](https://crates.io/keywords/sat) - 24 entries.
-- [smt](https://crates.io/keywords/smt) - 21 entries.
+- [sat](https://crates.io/keywords/sat) - 25 entries.
+- [smt](https://crates.io/keywords/smt) - 23 entries.
 - [satisfiability](https://crates.io/keywords/satisfiability) - 21 entries.
 - [verification](https://crates.io/keywords/verification) - 20 entries.
 - [prover](https://crates.io/keywords/prover) - 7 entries.
@@ -196,7 +197,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Robin Freyler](https://robbepop.github.io/) - CNF Parser, DIMACS Parser.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Masaki Hara](https://twitter.com/qnighy/) - Logic solver, RatSat.
-- [Jannis Harder](https://jix.one/) -  Flussab CNF, Varisat.
+- [Jannis Harder](https://jix.one/) - Cnfpack, Flussab CNF, Varisat.
 - [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
 - [Ilya Klyuchnikov](https://pat.keldysh.ru/~ilya/) - tapl-rust.
 - [Prateek Kumar](https://prateekkumar.in/) - msat, rsat, slp, SolHOP.
