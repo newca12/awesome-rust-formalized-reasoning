@@ -47,6 +47,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - Logic solver.
 - [meancop](https://crates.io/crates/meancop) :skull: - became CoP.
+- [Mikino](https://github.com/OCamlPro/mikino)[:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - a simple induction and BMC engine.
 - [Monotonic-Solver](https://crates.io/crates/monotonic_solver) :star: - monotonic solver designed to be easy to use with Rust enum expressions.
 - [msat](https://crates.io/crates/msat) - MaxSAT Solver.
 - [OpenZKP Stark](https://crates.io/crates/zkp-stark) :star: - implementation of STARK zero-knowledge-proofs.
@@ -57,6 +58,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
 - [rsat](https://crates.io/crates/rsat) - SAT Solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
+- [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) - a reimplementation of the SAT-solver described in SAT-MICRO: petit mais costaud! by Sylvain Conchon et al.
 - [Serkr](https://github.com/mAarnos/Serkr) [:ghost:](https://github.com/newca12/Serkr) :star: - automated theorem prover for first order logic with equality.
 - [slp](https://crates.io/crates/slp) :skull: - became SolHOP.
 - [SolHOP](https://crates.io/crates/solhop) - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
@@ -190,6 +192,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - frat-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
+- [Adrien Champion](https://github.com/AdrienChampion) - Mikino, SAT-MICRO.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
