@@ -18,6 +18,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Resources](#resources)
   - [Crates keywords](#crates-keywords)
   - [Thesis](#thesis)
+  - [Blogs](#blogs)
   - [Community](#community)
 
 ---
@@ -160,6 +161,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [A Formal Verification of Rust's Binary Search Implementation](https://kha.github.io/2016/07/22/formally-verifying-rusts-binary-search.html) - post about ongoing master’s thesis.
 - [Simple Verification of Rust Programs via Functional Purification](https://pp.ipd.kit.edu/uploads/publikationen/ullrich16masterarbeit.pdf) - thesis.
 
+### Blogs
+
+- [Research notebook by Michael Färber about improving with Rust the performance of nonclausal automated theorem provers.](https://github.com/01mf02/adam-notes)
+
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 60 entries.
@@ -187,7 +192,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
-- [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, meancop.
+- [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, meancop, research notebook by Michael Färber about improving with Rust the performance of nonclausal automated theorem provers.
 - [Robin Freyler](https://robbepop.github.io/) - CNF Parser, DIMACS Parser.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Masaki Hara](https://twitter.com/qnighy/) - Logic solver, RatSat.
