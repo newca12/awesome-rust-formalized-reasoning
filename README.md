@@ -59,6 +59,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rsat](https://crates.io/crates/rsat) - SAT Solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
 - [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) - a reimplementation of the SAT-solver described in SAT-MICRO: petit mais costaud! by Sylvain Conchon et al.
+- [screwsat](https://crates.io/crates/screwsat) :star: - a simple CDCL SAT Solver.
 - [Serkr](https://github.com/mAarnos/Serkr) [:ghost:](https://github.com/newca12/Serkr) :star: - automated theorem prover for first order logic with equality.
 - [slp](https://crates.io/crates/slp) :skull: - became SolHOP.
 - [SolHOP](https://crates.io/crates/solhop) - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
@@ -174,16 +175,16 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [logic](https://crates.io/keywords/logic) - 35 entries.
 - [sat](https://crates.io/keywords/sat) - 25 entries.
 - [smt](https://crates.io/keywords/smt) - 23 entries.
-- [satisfiability](https://crates.io/keywords/satisfiability) - 21 entries.
-- [verification](https://crates.io/keywords/verification) - 20 entries.
+- [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries.
+- [verification](https://crates.io/keywords/verification) - 22 entries.
 - [prover](https://crates.io/keywords/prover) - 7 entries.
 - [rewriting](https://crates.io/keywords/rewriting) - 7 entries.
 - [first-order](https://crates.io/keywords/first-order) - 6 entries.
-- [cnf](https://crates.io/keywords/cnf) - 5 entries.
+- [cnf](https://crates.io/keywords/cnf) - 6 entries.
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries.
 - [dependent-types](https://crates.io/keywords/dependent-types) - 4 entries.
 - [stark](https://crates.io/keywords/stark) - 4 entries.
-- [dimacs](https://crates.io/keywords/dimacs) - 3 entries.
+- [dimacs](https://crates.io/keywords/dimacs) - 4 entries.
 
 ### Community
 
@@ -227,6 +228,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, sudoku_sat.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
+- [Hitoshi Togasaki](https://github.com/togatoga) - screwsat.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, Simple Verification of Rust Programs via Functional Purification.
 - [Max Willsey](https://www.mwillsey.com/) - egg.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
