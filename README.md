@@ -63,6 +63,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Serkr](https://github.com/mAarnos/Serkr) [:ghost:](https://github.com/newca12/Serkr) :star: - automated theorem prover for first order logic with equality.
 - [slp](https://crates.io/crates/slp) :skull: - became SolHOP.
 - [SolHOP](https://crates.io/crates/solhop) - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
+- [Splr](https://crates.io/crates/splr) :star: - modern CDCL SAT solver.
 - [UASAT-RS](https://github.com/mmaroti/uasat-rs) - SAT solver based calculator for discrete mathematics and universal algebra.
 - [Varisat](https://github.com/jix/varisat)[:package:](https://crates.io/crates/varisat)[:package:](https://crates.io/crates/varisat-checker)[:package:](https://crates.io/crates/varisat-cli)[:package:](https://crates.io/crates/varisat-dimacs)[:package:](https://crates.io/crates/varisat-formula)[:package:](https://crates.io/crates/varisat-internal-macros)[:package:](https://crates.io/crates/varisat-internal-proof)[:package:](https://crates.io/crates/varisat-lrat) :star: - CDCL based SAT solver.
 - [Winterfell](https://github.com/novifinancial/winterfell)[:package:](https://crates.io/crates/winter-air)[:package:](https://crates.io/crates/winter-crypto)[:package:](https://crates.io/crates/winterfell)[:package:](https://crates.io/crates/winter-fri)[:package:](https://crates.io/crates/winter-math)[:package:](https://crates.io/crates/winter-prover)[:package:](https://crates.io/crates/winter-utils)[:package:](https://crates.io/crates/winter-verifier) :star: - A STARK prover and verifier for arbitrary computations.
@@ -90,19 +91,30 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Libraries
 
-- [anthem](https://github.com/potassco/anthem) - translate answer set programs to first-order theorem prover language.
-- [Closure Calculus](https://crates.io/crates/closure_calculus) - library for Barry Jay's Closure Calculus.
-- [Cnfpack](https://crates.io/crates/cnfpack) - converts between the text based DIMACS CNF file format and the compressed binary Cnfpack format.
+#### Parser
+
 - [CNF Parser](https://crates.io/crates/cnf-parser) - efficient and customizable parser for the .cnf file format.
-- [compiler](https://github.com/trivial-rs/compiler) - trivial compiler framework for Metamath Zero binary proofs.
 - [DIMACS Parser](https://crates.io/crates/dimacs) - utilities to parse files in DIMACS .cnf or .sat file format.
+- [Flussab CNF](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format.
+- [mmb-parser](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format.
+- [olean-rs](https://github.com/digama0/olean-rs) - parser/viewer for olean files.
+- [tptp](https://crates.io/crates/tptp) :diamonds: - parse the TPTP format.
+
+##### Translator
+
+- [anthem](https://github.com/potassco/anthem) - translate answer set programs to first-order theorem prover language.
+- [Cnfpack](https://crates.io/crates/cnfpack) - converts between the text based DIMACS CNF file format and the compressed binary Cnfpack format.
+- [hz-to-mm0](https://github.com/digama0/hz-to-mm0) - translator from HOL Zero / Common HOL to Metamath Zero.
+
+#### Misc
+
+- [Closure Calculus](https://crates.io/crates/closure_calculus) - library for Barry Jay's Closure Calculus.
+- [compiler](https://github.com/trivial-rs/compiler) - trivial compiler framework for Metamath Zero binary proofs.
 - [discrimination-tree](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
 - [egg](https://crates.io/crates/egg) :star: - flexible, high-performance e-graph library.
 - [Fathom](https://crates.io/crates/fathom) :star: - declarative data definition language for formally specifying binary data formats.
-- [Flussab CNF](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format
 - [foliage](https://crates.io/crates/foliage) - first-order logic with integer arithmetics.
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) - simulations using 2AFC triads to learn formal systems as typed first-order term rewriting systems.
-- [hz-to-mm0](https://github.com/digama0/hz-to-mm0) - translator from HOL Zero / Common HOL to Metamath Zero.
 - [Kravanenn](https://github.com/ppedrot/kravanenn) :star: - set of tools for Coq.
 - [linear_solver](https://crates.io/crates/linear_solver) - linear solver designed to be easy to use with Rust enums.
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations using input/output examples to learn typed first-order term rewriting systems that perform list routines.
@@ -110,14 +122,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util/) :skull: :star: - became Voile.
 - [mm0-rs](https://github.com/digama0/mm0/tree/master/mm0-rs) [:package:](https://crates.io/crates/mm0b_parser)[:package:](https://crates.io/crates/mm0_deepsize)[:package:](https://crates.io/crates/mm0_util) :star: - MM0/MM1 server and utilities.
 - [mmb-binutils](https://github.com/trivial-rs/mmb-binutils) - utility tools for Metamath Zero binary proof files.
-- [mmb-parser](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format
 - [mmb-types](https://crates.io/crates/mmb-types) - library containing the definitions of the opcodes in the Metamath Zero binary proof files.
 - [moniker](https://github.com/brendanzab/moniker) [:package:](https://crates.io/crates/moniker)[:package:](https://crates.io/crates/moniker-derive) :star: - automagical variable binding library. 
 - [n-queens-sat](https://github.com/erohkohl/n-queens-sat) - Modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
 - [nanoda](https://github.com/ammkrn/nanoda) :skull: :star: - became nanoda-lib.
 - [nanoda_lib](https://github.com/ammkrn/nanoda_lib) - type inference/checking functionality based on the Lean theorem prover.
 - [Narc](https://crates.io/crates/nar) :star: - dependently-typed programming language with Agda style dependent pattern matching.
-- [olean-rs](https://github.com/digama0/olean-rs) - parser/viewer for olean files.
 - [Pikelet](https://crates.io/crates/pikelet) :star: - small, functional, dependently typed programming language.
 - [polytype](https://crates.io/crates/polytype) :star: - Hindley-Milner polymorphic typing system.
 - [program-induction](https://crates.io/crates/programinduction) :star: - library for program induction and learning representations.
@@ -125,12 +135,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-unify](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase) :star: - tool for constructing finite models for first-order theories.
-- [Splr](https://crates.io/crates/splr) :star: - modern CDCL SAT solver.
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
 - [Symmetric Interaction Calculus](https://github.com/maiavictor/symmetric-interaction-calculus) :star: - programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
 - [tarpit-rs](https://github.com/sdleffler/tarpit-rs) :star: - type-level implementation of Smallfuck in Rust, doubling as a Turing-completeness proof for Rust's type system.
 - [term-rewriting-rs](https://crates.io/crates/term_rewriting) :star: - library for representing, parsing, and computing with first-order term rewriting systems.
-- [tptp](https://crates.io/crates/tptp) :diamonds: - parse the TPTP format.
 - [The Trivial Metamath Zero kernel](https://crates.io/crates/trivial-kernel) - Metamath Zero kernel for Trivial.
 - [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util) :skull: :star: - became Narc.
 - [Whisper](https://github.com/sdleffler/whisper) :star: - logic Programming DSL.
@@ -167,7 +175,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Blogs
 
-- [Research notebook by Michael Färber about improving with Rust the performance of nonclausal automated theorem provers.](https://github.com/01mf02/adam-notes)
+- [Research notebook about improving with Rust the performance of nonclausal automated theorem provers.](https://github.com/01mf02/adam-notes)
 
 ### Crates keywords
 
@@ -197,7 +205,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
-- [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, meancop, research notebook by Michael Färber about improving with Rust the performance of nonclausal automated theorem provers.
+- [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
 - [Robin Freyler](https://robbepop.github.io/) - CNF Parser, DIMACS Parser.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Masaki Hara](https://twitter.com/qnighy/) - Logic solver, RatSat.
