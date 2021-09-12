@@ -69,6 +69,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [slp](https://crates.io/crates/slp) :skull: - became SolHOP.
 - [SolHOP](https://crates.io/crates/solhop) - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
 - [Splr](https://crates.io/crates/splr) :star: - modern CDCL SAT solver.
+- [starlit](https://github.com/jix/starlit) :egg::construction: - CDCL SAT solver.
 - [UASAT-RS](https://github.com/mmaroti/uasat-rs) :egg: - SAT solver based calculator for discrete mathematics and universal algebra.
 - [Varisat](https://github.com/jix/varisat)[:package:](https://crates.io/crates/varisat)[:package:](https://crates.io/crates/varisat-checker)[:package:](https://crates.io/crates/varisat-cli)[:package:](https://crates.io/crates/varisat-dimacs)[:package:](https://crates.io/crates/varisat-formula)[:package:](https://crates.io/crates/varisat-internal-macros)[:package:](https://crates.io/crates/varisat-internal-proof)[:package:](https://crates.io/crates/varisat-lrat):star: - CDCL based SAT solver.
 - [Winterfell](https://github.com/novifinancial/winterfell)[:package:](https://crates.io/crates/winter-air)[:package:](https://crates.io/crates/winter-crypto)[:package:](https://crates.io/crates/winterfell)[:package:](https://crates.io/crates/winter-fri)[:package:](https://crates.io/crates/winter-math)[:package:](https://crates.io/crates/winter-prover)[:package:](https://crates.io/crates/winter-utils)[:package:](https://crates.io/crates/winter-verifier):star: - A STARK prover and verifier for arbitrary computations.
@@ -181,6 +182,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Blogs
 
 - [Research notebook about improving with Rust the performance of nonclausal automated theorem provers.](https://github.com/01mf02/adam-notes)
+- [Varisat notebook](https://jix.one/blog/rust/)
 
 ### Crates keywords
 
@@ -214,7 +216,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Robin Freyler](https://robbepop.github.io/) - CNF Parser, DIMACS Parser.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Masaki Hara](https://twitter.com/qnighy/) - Logic solver, RatSat.
-- [Jannis Harder](https://jix.one/) - Cnfpack, Flussab CNF, Varisat.
+- [Jannis Harder](https://jix.one/) - Cnfpack, Flussab CNF, starlit, Varisat, Varisat notebook.
 - [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
 - [Ilya Klyuchnikov](https://pat.keldysh.ru/~ilya/) - tapl-rust.
 - [Prateek Kumar](https://prateekkumar.in/) - msat, rsat, slp, SolHOP.
