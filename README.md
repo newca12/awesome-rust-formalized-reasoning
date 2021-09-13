@@ -171,6 +171,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [miniKANREN](https://github.com/mbillingr/miniKANREN) [:package:](https://crates.io/crates/mini-kanren) - miniKANREN as a DSL.
 - [rslogic](https://github.com/kulibali/rslogic) [:package:](https://crates.io/crates/rslogic):star: - logic programming framework for Rust inspired by µKanren.
 - [rust-kanren](https://github.com/wartmanm/rust-kanren) :star: - loose interpretation of miniKanren and cKanren.
+- [µKanren-rs](https://github.com/ekzhang/ukanren-rs) [:package:](https://crates.io/crates/ukanren):star: - implementation of µKanren.
 
 ### Lambda_Calculus
 
@@ -257,5 +258,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Max Willsey](https://www.mwillsey.com/) - egg.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
+- [Eric Zhang](https://www.ekzhang.com/) - µKanren-rs.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
 - [Philip Zucker](http://www.philipzucker.com/) - egglog.
