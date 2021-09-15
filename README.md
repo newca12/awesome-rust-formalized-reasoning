@@ -101,6 +101,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [smetamath](https://github.com/sorear/smetamath-rs) [:package:](https://crates.io/crates/smetamath) :star: - parallel and incremental verifier for Metamath databases.
 - [Scryer Prolog](https://github.com/mthom/scryer-prolog) [:package:](https://crates.io/crates/scryer-prolog):star: - modern Prolog implementation.
 - [t3p](https://github.com/skbaek/tesc/tree/master/t3p-rs) - optimized TESC (Theory-Extensible Sequent Calculus) verifier.
+- [TIP](https://github.com/v4kst1z/TIP) :baby_chick: - tiny imperative programming language aimed at teaching the fundamental concepts of static program analysis.
 - [Verifier](https://github.com/trivial-rs/verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
 
 ### Libraries
@@ -160,8 +161,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Books
 
 - [plar-rs](https://github.com/nikomatsakis/plar-rs) [:ghost:](https://github.com/newca12/plar-rs) - Exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
+- [tapl](https://github.com/v4kst1z/tapl) - implementation of TAPL.
 - [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star: - another collection of implementations of TAPL.
-- [tapl-rust](https://github.com/ilya-klyuchnikov/tapl-rust) :baby_chick: - very limited TAPL implemention.
+- [tapl-rust](https://github.com/ilya-klyuchnikov/tapl-rust) :recycle::baby_chick: - very limited TAPL implemention.
 - [tnt](https://github.com/SymmetricChaos/tnt) [:package:](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher, and Bach.
 - [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) :star: - Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!
 
@@ -256,6 +258,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Hitoshi Togasaki](https://github.com/togatoga) - screwsat.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, Simple Verification of Rust Programs via Functional Purification.
+- [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
 - [Max Willsey](https://www.mwillsey.com/) - egg.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
