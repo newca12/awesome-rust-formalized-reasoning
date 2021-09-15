@@ -190,6 +190,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Blogs
 
+- [Splr notebook.](https://shnarazk.github.io/tag/splr) :jp:
 - [Research notebook about improving with Rust the performance of nonclausal automated theorem provers.](https://github.com/01mf02/adam-notes)
 - [Varisat notebook.](https://jix.one/blog/rust/)
 
@@ -250,7 +251,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Salman Saghafi](https://github.com/salmans) - Rusty Razor.
 - [Srinath Setty](https://www.microsoft.com/en-us/research/people/srinath/) - Nova, Spartan.
 - [skbaek](https://github.com/skbaek) - t3p.
-- [Narazaki Shuji](https://shnarazk.github.io) - Splr, sudoku_sat.
+- [Narazaki Shuji](https://shnarazk.github.io) - Splr, Splr notebook, sudoku_sat.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Hitoshi Togasaki](https://github.com/togatoga) - screwsat.
