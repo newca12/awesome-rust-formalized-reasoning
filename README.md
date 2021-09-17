@@ -160,10 +160,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Books
 
+*There is [numerous](https://github.com/search?l=Rust&q=tapl&type=Repositories) implementations of TAPL, we keep only the most popular and keep an eye on implementations that worth attention.*
+
 - [plar-rs](https://github.com/nikomatsakis/plar-rs) [:ghost:](https://github.com/newca12/plar-rs) - Exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
 - [tapl](https://github.com/v4kst1z/tapl) - implementation of TAPL.
 - [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star: - another collection of implementations of TAPL.
-- [tapl-rust](https://github.com/ilya-klyuchnikov/tapl-rust) :recycle::baby_chick: - very limited TAPL implemention.
 - [tnt](https://github.com/SymmetricChaos/tnt) [:package:](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher, and Bach.
 - [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) :star: - Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!
 
@@ -230,7 +231,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Masaki Hara](https://twitter.com/qnighy/) - Logic solver, RatSat.
 - [Jannis Harder](https://jix.one/) - Cnfpack, Flussab CNF, starlit, Varisat, Varisat notebook.
 - [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
-- [Ilya Klyuchnikov](https://pat.keldysh.ru/~ilya/) - tapl-rust.
 - [Prateek Kumar](https://prateekkumar.in/) - msat, rsat, slp, SolHOP.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper. 
