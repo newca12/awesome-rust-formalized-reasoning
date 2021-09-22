@@ -124,7 +124,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [mmb-parser](https://github.com/trivial-rs/mmb-parser) [:package:](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format.
 - [olean-rs](https://github.com/digama0/olean-rs) - parser/viewer for olean files.
 - [smt2](https://github.com/regular-pv/smt2) [:package:](https://crates.io/crates/smt2) - SMT-LIB 2 parsing library.
-- [smt2parser](https://github.com/facebookincubator/smt2utils) [:package:](https://crates.io/crates/smt2parser) - generic parser library for the SMT-LIB-2 format.
 - [tptp](https://github.com/MichaelRawson/tptp) [:package:](https://crates.io/crates/tptp):diamonds: - parse the TPTP format.
 
 #### Translator
@@ -162,6 +161,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-unify](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star: - tool for constructing finite models for first-order theories.
+- [smt2utils](https://github.com/facebookincubator/smt2utils) [:package:](https://crates.io/crates/smt2parser)[:package:](https://crates.io/crates/smt2patch)[:package:](https://crates.io/crates/smt2proxy)[:package:](https://crates.io/crates/z3tracer) - Libraries and tools for the SMT-LIB-2 standard.
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
 - [Symmetric Interaction Calculus](https://github.com/maiavictor/symmetric-interaction-calculus) :star: - programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
 - [tarpit-rs](https://github.com/sdleffler/tarpit-rs) :star: - type-level implementation of Smallfuck in Rust, doubling as a Turing-completeness proof for Rust's type system.
@@ -231,7 +231,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
 - [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib.
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
-- [Mathieu Baudet](https://github.com/matbd) - smt2parser.
+- [Mathieu Baudet](https://github.com/matbd) - smt2utils.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - frat-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
 - [Adrien Champion](https://github.com/AdrienChampion) - Mikino, SAT-MICRO.
