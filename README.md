@@ -123,6 +123,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Flussab CNF](https://github.com/jix/flussab) [:package:](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format.
 - [mmb-parser](https://github.com/trivial-rs/mmb-parser) [:package:](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format.
 - [olean-rs](https://github.com/digama0/olean-rs) - parser/viewer for olean files.
+- [smt2](https://github.com/regular-pv/smt2) [:package:](https://crates.io/crates/smt2) - SMT-LIB 2 parsing library.
+- [smt2parser](https://github.com/facebookincubator/smt2utils) [:package:](https://crates.io/crates/smt2parser) - generic parser library for the SMT-LIB-2 format.
 - [tptp](https://github.com/MichaelRawson/tptp) [:package:](https://crates.io/crates/tptp):diamonds: - parse the TPTP format.
 
 #### Translator
@@ -229,6 +231,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
 - [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib.
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
+- [Mathieu Baudet](https://github.com/matbd) - smt2parser.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - frat-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
 - [Adrien Champion](https://github.com/AdrienChampion) - Mikino, SAT-MICRO.
@@ -240,6 +243,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Masaki Hara](https://twitter.com/qnighy/) - Logic solver, RatSat.
 - [Jannis Harder](https://jix.one/) - Cnfpack, Flussab CNF, starlit, Varisat, Varisat notebook.
+- [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
 - [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
 - [Prateek Kumar](https://prateekkumar.in/) - msat, rsat, slp, SolHOP.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
