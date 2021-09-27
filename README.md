@@ -24,7 +24,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
   - [Programming Language](#programming-language)
   - [Kanren](#kanren)
   - [Lambda Calculus](#lambda-calculus)
-- [Unclassified](#unclassified)
+  - [Unclassified](#unclassified)
 - [Resources](#resources)
   - [Crates keywords](#crates-keywords)
   - [Thesis](#thesis)
@@ -85,6 +85,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive):star: - fast, brute force, automatic theorem prover for first order logic.
 - [Poi](https://github.com/advancedresearch/poi) [:package:](https://crates.io/crates/poi):star: - pragmatic point-free theorem prover assistant.
+- [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs) - little propositional formula satisfiability solver using the propositional tableaux method.
 - [reachability_solver](https://github.com/advancedresearch/reachability_solver) [:package:](https://crates.io/crates/reachability_solver) - linear reachability solver for directional edges.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
 
@@ -95,7 +96,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Nova](https://github.com/Microsoft/Nova) [:package:](https://crates.io/crates/nova-snark):star: - high-speed recursive SNARK (a SNARK proof system.
 - [OpenZKP Stark](https://github.com/0xProject/OpenZKP/tree/master/crypto/stark) [:package:](https://crates.io/crates/zkp-stark):star: - implementation of STARK zero-knowledge-proofs.
 - [Spartan](https://github.com/microsoft/Spartan) [:package:](https://crates.io/crates/spartan):star: - high-speed zero-knowledge proof system.
-- [Winterfell](https://github.com/novifinancial/winterfell) [:package:](https://crates.io/crates/winter-air)[:package:](https://crates.io/crates/winter-crypto)[:package:](https://crates.io/crates/winterfell)[:package:](https://crates.io/crates/winter-fri)[:package:](https://crates.io/crates/winter-math)[:package:](https://crates.io/crates/winter-prover)[:package:](https://crates.io/crates/winter-utils)[:package:](https://crates.io/crates/winter-verifier):star: - A STARK prover and verifier for arbitrary computations.
+- [Winterfell](https://github.com/novifinancial/winterfell) [:package:](https://crates.io/crates/winter-air)[:package:](https://crates.io/crates/winter-crypto)[:package:](https://crates.io/crates/winterfell)[:package:](https://crates.io/crates/winter-fri)[:package:](https://crates.io/crates/winter-math)[:package:](https://crates.io/crates/winter-prover)[:package:](https://crates.io/crates/winter-utils)[:package:](https://crates.io/crates/winter-verifier):star: - a STARK prover and verifier for arbitrary computations.
 
 #### Misc
 
@@ -197,7 +198,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lambda_calculus](https://github.com/ljedrz/lambda_calculus) [:package:](https://crates.io/crates/lambda_calculus):star: - simple, zero-dependency implementation of pure lambda calculus in safe Rust.
 - [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl) - Lambda Calculus parser and evaluator and a separate command line REPL.
 
-## Unclassified
+### Unclassified
 
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) - simulations using 2AFC triads to learn formal systems as typed first-order term rewriting systems.
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations using input/output examples to learn typed first-order term rewriting systems that perform list routines.
@@ -285,6 +286,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
 - [Max Willsey](https://www.mwillsey.com/) - egg.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
+- [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Eric Zhang](https://www.ekzhang.com/) - µKanren-rs.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
