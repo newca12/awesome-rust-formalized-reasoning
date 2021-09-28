@@ -88,6 +88,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs) - little propositional formula satisfiability solver using the propositional tableaux method.
 - [reachability_solver](https://github.com/advancedresearch/reachability_solver) [:package:](https://crates.io/crates/reachability_solver) - linear reachability solver for directional edges.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
+- [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
 
 ### Verification
 
@@ -269,6 +270,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
 - [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
+- [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi/) - shari.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn. 
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
