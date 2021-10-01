@@ -36,13 +36,14 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ## Legend
 
 - Abandoned :skull:
-- Research paper implementation :lab_coat:
 - Best in Class :diamonds:
+- Book implementation :book:
 - Crate(s) :package:
 - Deleted :recycle:
 - Exhumated :ghost:
 - List of resources :information_source:
 - Popular :star:
+- Research paper implementation :lab_coat:
 - Toy project :baby_chick:
 - WIP :construction:
 
@@ -79,7 +80,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
 - [egglog](https://github.com/philzook58/egglog) :star: - Using the egg library with a file format and semantics similar to datalog.
 - [lapjv](https://github.com/Antti/lapjv-rust) [:package:](https://crates.io/crates/lapjv) - linear Assignmment Problem solver using Jonker-Volgenant algorithm.
-- [logic-rs](https://github.com/ixjf/logic-rs) :skull::star: - parser of relational predicate logic & truth tree solver.
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - Logic solver.
 - [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - a simple induction and BMC engine.
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
@@ -167,12 +167,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ## Books
 
-*There is [numerous](https://github.com/search?l=Rust&q=tapl&type=Repositories) implementations of TAPL, we keep only the most popular and keep an eye on implementations that worth attention.*
+*There is [numerous](https://github.com/search?l=Rust&q=tapl&type=Repositories) implementations of TAPL [:book:](https://www.cis.upenn.edu/~bcpierce/tapl/), we keep only the most popular and keep an eye on implementations that worth attention.*
 
-- [plar-rs](https://github.com/nikomatsakis/plar-rs) [:ghost:](https://github.com/newca12/plar-rs) - Exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
+- [logic-rs](https://github.com/ixjf/logic-rs) [:book:](https://ruccs.rutgers.edu/lepore-meaning-and-argument/lepore-about-the-book):skull::star: - parser of relational predicate logic & truth tree solver
+- [plar-rs](https://github.com/nikomatsakis/plar-rs) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp/)[:ghost:](https://github.com/newca12/plar-rs) - Exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
 - [tapl](https://github.com/v4kst1z/tapl) - implementation of TAPL.
 - [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star: - another collection of implementations of TAPL.
-- [tnt](https://github.com/SymmetricChaos/tnt) [:package:](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher, and Bach.
+- [tnt](https://github.com/SymmetricChaos/tnt) [:book:](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)[:package:](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher, and Bach.
 - [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) :star: - Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!
 
 ## Programming Language
