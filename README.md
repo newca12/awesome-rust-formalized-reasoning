@@ -199,6 +199,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Closure Calculus](https://github.com/advancedresearch/closure_calculus) [:package:](https://crates.io/crates/closure_calculus)[:lab_coat:](https://dl.acm.org/doi/abs/10.1145/3294032.3294085) - library for Barry Jay's Closure Calculus.
 - [lambda_calc](https://gitlab.com/mcmfb/lambda-calculator) [:package:](https://crates.io/crates/lambda_calc) - command-line untyped lambda calculus interpreter.
 - [lambda_calculus](https://github.com/ljedrz/lambda_calculus) [:package:](https://crates.io/crates/lambda_calculus):star: - simple, zero-dependency implementation of pure lambda calculus in safe Rust.
+- [lambda_calculus](https://github.com/thomasdziedzic/lambda_calculus) - no description.
 - [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl) - Lambda Calculus parser and evaluator and a separate command line REPL.
 
 ### Unclassified
@@ -251,6 +252,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
+- [Thomas Dziedzic](https://www.thomasdziedzic0.com/) - lambda_calculus.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
 - [Robin Freyler](https://robbepop.github.io/) - CNF Parser, DIMACS Parser.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
