@@ -20,12 +20,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
     - [Parser](#parser)
     - [Translator](#translator)
     - [Misc](#misc)
-  - [Books](#books)
+  - [Books code](#books-code)
   - [Programming Language](#programming-language)
   - [Kanren](#kanren)
   - [Lambda Calculus](#lambda-calculus)
   - [Unclassified](#unclassified)
 - [Resources](#resources)
+  - [Books](#books)
   - [Crates keywords](#crates-keywords)
   - [Thesis](#thesis)
   - [Blogs](#blogs)
@@ -165,7 +166,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [The Trivial Metamath Zero kernel](https://github.com/trivial-rs/kernel) [:package:](https://crates.io/crates/trivial-kernel) - Metamath Zero kernel for Trivial.
 - [Whisper](https://github.com/sdleffler/whisper) :star: - logic Programming DSL.
 
-## Books
+## Books code
 
 *There is [numerous](https://github.com/search?l=Rust&q=tapl&type=Repositories) implementations of TAPL [:book:](https://www.cis.upenn.edu/~bcpierce/tapl/), we keep only the most popular and keep an eye on implementations that worth attention.*
 
@@ -212,6 +213,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ## Resources
 
+### Books
+
+- [Verification for Dummies: SMT and Induction](https://ocamlpro.github.io/verification_for_dummies/) - broadly discusses induction as a formal verification technique.
+
 ### Thesis
 
 - [A Formal Verification of Rust's Binary Search Implementation](https://kha.github.io/2016/07/22/formally-verifying-rusts-binary-search.html) - post about ongoing master’s thesis.
@@ -248,7 +253,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mathieu Baudet](https://github.com/matbd) - smt2utils.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - frat-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
-- [Adrien Champion](https://github.com/AdrienChampion) - Mikino, SAT-MICRO.
+- [Adrien Champion](https://github.com/AdrienChampion) - Mikino, SAT-MICRO, Verification for Dummies.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
