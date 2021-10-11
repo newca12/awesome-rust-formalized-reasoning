@@ -66,8 +66,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [msat](https://github.com/solhop/msat) [:package:](https://crates.io/crates/msat) - MaxSAT Solver.
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin):star: - reimplementation of MiniSat.- [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat) - SAT Solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
-- [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) - a reimplementation of the SAT-solver described in SAT-MICRO: petit mais costaud! by Sylvain Conchon et al.
-- [screwsat](https://github.com/togatoga/screwsat) [:package:](https://crates.io/crates/screwsat):star: - a simple CDCL SAT Solver.
+- [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) - reimplementation of the SAT-solver described in SAT-MICRO: petit mais costaud! by Sylvain Conchon et al.
+- [screwsat](https://github.com/togatoga/screwsat) [:package:](https://crates.io/crates/screwsat):star: - simple CDCL SAT Solver.
 - [slp](https://github.com/solhop/slp) [:package:](https://crates.io/crates/slp):skull: - became SolHOP.
 - [SolHOP](https://github.com/solhop/solhop) [:package:](https://crates.io/crates/solhop) - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
 - [Splr](https://github.com/shnarazk/splr) [:package:](https://crates.io/crates/splr):diamonds::star: - modern CDCL SAT solver.
@@ -79,10 +79,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
 - [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
-- [egglog](https://github.com/philzook58/egglog) :star: - Using the egg library with a file format and semantics similar to datalog.
+- [egglog](https://github.com/philzook58/egglog) :star: - using the egg library with a file format and semantics similar to datalog.
 - [lapjv](https://github.com/Antti/lapjv-rust) [:package:](https://crates.io/crates/lapjv) - linear Assignmment Problem solver using Jonker-Volgenant algorithm.
-- [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - Logic solver.
-- [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - a simple induction and BMC engine.
+- [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - logic solver.
+- [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - simple induction and BMC engine.
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive):star: - fast, brute force, automatic theorem prover for first order logic.
 - [Poi](https://github.com/advancedresearch/poi) [:package:](https://crates.io/crates/poi):star: - pragmatic point-free theorem prover assistant.
@@ -113,8 +113,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [pocket_prover-set](https://github.com/advancedresearch/pocket_prover-set) [:package:](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [Prusti](https://github.com/viperproject/prusti-dev) :star: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
 - [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check):diamonds: - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
-- [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc) - A checker for the LFSC proof language.
-- [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021/) :information_source: - list of tools
+- [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc) - checker for the LFSC proof language.
+- [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021/) :information_source: - list of tools.
+- [second_opinion](https://github.com/ammkrn/second_opinion) - verifier for Metamath Zero proof files.
 - [smetamath](https://github.com/sorear/smetamath-rs) [:package:](https://crates.io/crates/smetamath) :star: - parallel and incremental verifier for Metamath databases.
 - [Scryer Prolog](https://github.com/mthom/scryer-prolog) [:package:](https://crates.io/crates/scryer-prolog):star: - modern Prolog implementation.
 - [t3p](https://github.com/skbaek/tesc/tree/master/t3p-rs) - optimized TESC (Theory-Extensible Sequent Calculus) verifier.
@@ -157,11 +158,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [polytype](https://github.com/lucasem/polytype-rs) [:package:](https://crates.io/crates/polytype):star: - Hindley-Milner polymorphic typing system.
 - [program-induction](https://github.com/lucasem/program-induction) [:package:](https://crates.io/crates/programinduction):star: - library for program induction and learning representations.
 - [Prop](https://github.com/advancedresearch/prop) [:package:](https://crates.io/crates/prop) - library for theorem proving with Intuitionistic Propositional Logic.
-- [rs-logik](https://github.com/SolarLiner/rs-logik) [:ghost:](https://github.com/newca12/rs-logik) - Propositional logic interpreter.
+- [rs-logik](https://github.com/SolarLiner/rs-logik) [:ghost:](https://github.com/newca12/rs-logik) - propositional logic interpreter.
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-unify](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star: - tool for constructing finite models for first-order theories.
-- [smt2utils](https://github.com/facebookincubator/smt2utils) [:package:](https://crates.io/crates/smt2parser)[:package:](https://crates.io/crates/smt2patch)[:package:](https://crates.io/crates/smt2proxy)[:package:](https://crates.io/crates/z3tracer) - Libraries and tools for the SMT-LIB-2 standard.
+- [smt2utils](https://github.com/facebookincubator/smt2utils) [:package:](https://crates.io/crates/smt2parser)[:package:](https://crates.io/crates/smt2patch)[:package:](https://crates.io/crates/smt2proxy)[:package:](https://crates.io/crates/z3tracer) - libraries and tools for the SMT-LIB-2 standard.
 - [term-rewriting-rs](https://github.com/joshrule/term-rewriting-rs) [:package:](https://crates.io/crates/term_rewriting) :star: - library for representing, parsing, and computing with first-order term rewriting systems.
 - [The Trivial Metamath Zero kernel](https://github.com/trivial-rs/kernel) [:package:](https://crates.io/crates/trivial-kernel) - Metamath Zero kernel for Trivial.
 - [Whisper](https://github.com/sdleffler/whisper) :star: - logic Programming DSL.
@@ -171,7 +172,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 *There is [numerous](https://github.com/search?l=Rust&q=tapl&type=Repositories) implementations of TAPL [:book:](https://www.cis.upenn.edu/~bcpierce/tapl/), we keep only the most popular and keep an eye on implementations that worth attention.*
 
 - [logic-rs](https://github.com/ixjf/logic-rs) [:book:](https://ruccs.rutgers.edu/lepore-meaning-and-argument/lepore-about-the-book):skull::star: - parser of relational predicate logic & truth tree solver
-- [plar-rs](https://github.com/nikomatsakis/plar-rs) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp/)[:ghost:](https://github.com/newca12/plar-rs) - Exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
+- [plar-rs](https://github.com/nikomatsakis/plar-rs) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp/)[:ghost:](https://github.com/newca12/plar-rs) - exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
 - [tapl](https://github.com/v4kst1z/tapl) - implementation of TAPL.
 - [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star: - another collection of implementations of TAPL.
 - [tnt](https://github.com/SymmetricChaos/tnt) [:book:](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)[:package:](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher, and Bach.
@@ -201,16 +202,16 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lambda_calc](https://gitlab.com/mcmfb/lambda-calculator) [:package:](https://crates.io/crates/lambda_calc) - command-line untyped lambda calculus interpreter.
 - [lambda_calculus](https://github.com/ljedrz/lambda_calculus) [:package:](https://crates.io/crates/lambda_calculus):star: - simple, zero-dependency implementation of pure lambda calculus in safe Rust.
 - [lambda_calculus](https://github.com/thomasdziedzic/lambda_calculus) - no description.
-- [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl) - Lambda Calculus parser and evaluator and a separate command line REPL.
+- [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl) - lambda calculus parser and evaluator and a separate command line REPL.
 
 ### Unclassified
 
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) - simulations using 2AFC triads to learn formal systems as typed first-order term rewriting systems.
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations using input/output examples to learn typed first-order term rewriting systems that perform list routines.
-- [n-queens-sat](https://github.com/erohkohl/n-queens-sat) - Modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
+- [n-queens-sat](https://github.com/erohkohl/n-queens-sat) - modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
-- [Supermux](https://github.com/tuzz/supermux) - a reduction of the superpermutation problem to Quantified Boolean Formula.
-- [Supersat](https://github.com/tuzz/supersat) - an attempt to find superpermutations by reducing the problem to SAT.
+- [Supermux](https://github.com/tuzz/supermux) - reduction of the superpermutation problem to Quantified Boolean Formula.
+- [Supersat](https://github.com/tuzz/supersat) - attempt to find superpermutations by reducing the problem to SAT.
 - [tarpit-rs](https://github.com/sdleffler/tarpit-rs) :star: - type-level implementation of Smallfuck in Rust, doubling as a Turing-completeness proof for Rust's type system.
 
 ## Resources
@@ -250,7 +251,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Community
 
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
-- [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib.
+- [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib, second_opinion.
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [Mathieu Baudet](https://github.com/matbd) - smt2utils.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
