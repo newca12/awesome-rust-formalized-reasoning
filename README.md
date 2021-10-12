@@ -144,6 +144,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [compiler](https://github.com/trivial-rs/compiler) :baby_chick: - trivial compiler framework for Metamath Zero binary proofs.
 - [discrimination-tree](https://github.com/MichaelRawson/discrimination-tree) [:package:](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
 - [egg](https://github.com/egraphs-good/egg) [:package:](https://crates.io/crates/egg):star: - flexible, high-performance e-graph library.
+- [FALL](https://github.com/remexre/fall) [:package:](https://crates.io/crates/fall) - easily embeddable, futures-friendly logic engine.
 - [Fathom](https://github.com/yeslogic/fathom) [:package:](https://crates.io/crates/fathom):star: - declarative data definition language for formally specifying binary data formats.
 - [foliage](https://github.com/potassco/foliage) [:package:](https://crates.io/crates/foliage) - first-order logic with integer arithmetics.
 - [Kravanenn](https://github.com/ppedrot/kravanenn) :star: - set of tools for Coq.
@@ -262,15 +263,15 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com/) - lambda_calculus.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
-- [Robin Freyler](https://robbepop.github.io/) - CNF Parser, DIMACS Parser.
+- [Robin Freyler](https://robbepop.github.io) - CNF Parser, DIMACS Parser.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Nathan Graule ](https://github.com/SolarLiner) - rs-logik.
-- [Masaki Hara](https://twitter.com/qnighy/) - Logic solver, RatSat.
+- [Masaki Hara](https://twitter.com/qnighy) - Logic solver, RatSat.
 - [Jannis Harder](https://jix.one/) - Cnfpack, Flussab CNF, starlit, Varisat, Varisat notebook.
 - [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
-- [Prateek Kumar](https://prateekkumar.in/) - msat, rsat, slp, SolHOP.
+- [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper. 
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
@@ -289,10 +290,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, SATCoP, tptp.
 - [Alastair Reid](https://alastairreid.github.io) - Rust verification tools list.
+- [Nathan Ringo](https://remexre.xyz) - FALL.
 - [Erik Rohkohl](https://blogs.itemis.com/author/erik-rohkohl) - n-queens-sat.
 - [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
 - [Salman Saghafi](https://github.com/salmans) - Rusty Razor.
-- [Srinath Setty](https://www.microsoft.com/en-us/research/people/srinath/) - Nova, Spartan.
+- [Srinath Setty](https://www.microsoft.com/en-us/research/people/srinath) - Nova, Spartan.
 - [skbaek](https://github.com/skbaek) - t3p.
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, Splr notebook, sudoku_sat.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
@@ -300,10 +302,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Hitoshi Togasaki](https://github.com/togatoga) - screwsat.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, Simple Verification of Rust Programs via Functional Purification.
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
-- [Max Willsey](https://www.mwillsey.com/) - egg.
+- [Max Willsey](https://www.mwillsey.com) - egg.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
-- [Eric Zhang](https://www.ekzhang.com/) - µKanren-rs.
+- [Eric Zhang](https://www.ekzhang.com) - µKanren-rs.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
-- [Philip Zucker](http://www.philipzucker.com/) - egglog.
+- [Philip Zucker](http://www.philipzucker.com) - egglog.
