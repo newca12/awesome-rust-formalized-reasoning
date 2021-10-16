@@ -121,6 +121,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [t3p](https://github.com/skbaek/tesc/tree/master/t3p-rs) - optimized TESC (Theory-Extensible Sequent Calculus) verifier.
 - [TIP](https://github.com/v4kst1z/TIP) :baby_chick: - tiny imperative programming language aimed at teaching the fundamental concepts of static program analysis.
 - [Verifier](https://github.com/trivial-rs/verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
+- [VeriWasm](https://github.com/PLSysSec/veriwasm) [:package:](https://crates.io/crates/veriwasm):star:[:lab_coat:](http://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf) - SFI verifier of Wasm binaries.
 
 ### Libraries
 
@@ -243,7 +244,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [sat](https://crates.io/keywords/sat) - 25 entries.
 - [smt](https://crates.io/keywords/smt) - 23 entries.
 - [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries.
-- [verification](https://crates.io/keywords/verification) - 22 entries.
+- [verification](https://crates.io/keywords/verification) - 23 entries.
 - [prover](https://crates.io/keywords/prover) - 7 entries.
 - [rewriting](https://crates.io/keywords/rewriting) - 7 entries.
 - [first-order](https://crates.io/keywords/first-order) - 6 entries.
@@ -274,6 +275,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Jannis Harder](https://jix.one/) - Cnfpack, Flussab CNF, starlit, Varisat, Varisat notebook.
 - [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
+- [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
 - [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
