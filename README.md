@@ -14,6 +14,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
     - [SAT Solver](#sat-solver)
     - [Misc](#misc)
   - [Verification](#verification)
+    - [Static Analysis](#static-analysis)
     - [Cryptographic](#cryptographic)
     - [Misc](#misc)
   - [Libraries](#libraries)
