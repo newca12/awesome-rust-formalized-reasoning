@@ -67,6 +67,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [msat](https://github.com/solhop/msat) [:package:](https://crates.io/crates/msat) - MaxSAT Solver.
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin):star: - reimplementation of MiniSat.- [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat) - SAT Solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
+- [Satire](https://github.com/Qwaz/satire) [:package:](https://crates.io/crates/satire) - educational SAT solver.
 - [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) - reimplementation of the SAT-solver described in SAT-MICRO: petit mais costaud! by Sylvain Conchon et al.
 - [screwsat](https://github.com/togatoga/screwsat) [:package:](https://crates.io/crates/screwsat):star: - simple CDCL SAT Solver.
 - [slp](https://github.com/solhop/slp) [:package:](https://crates.io/crates/slp):skull: - became SolHOP.
@@ -265,6 +266,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib, second_opinion.
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [Mathieu Baudet](https://github.com/matbd) - smt2utils.
+- [Yechan Bae](https://qwaz.github.io/) - Satire.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - frat-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
 - [Adrien Champion](https://github.com/AdrienChampion) - Mikino, SAT-MICRO, Verification for Dummies.
