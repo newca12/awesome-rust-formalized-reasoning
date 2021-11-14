@@ -121,6 +121,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Bounded Registers](https://github.com/auxoncorp/bounded-registers) [:package:](https://crates.io/crates/bounded-registers):star: - high-assurance memory-mapped register interaction library.
 - [Chalk](https://github.com/rust-lang/chalk) [:package:](https://crates.io/crates/chalk-solve)[:package:](https://crates.io/crates/chalk-derive)[:package:](https://crates.io/crates/chalk-engine)[:package:](https://crates.io/crates/chalk-ir)[:package:](https://crates.io/crates/chalk-macros)[:package:](https://crates.io/crates/chalk-recursive)[:package:](https://crates.io/crates/chalk-rust-ir):star: - implements the Rust trait system, based on Prolog-ish logic rules.
 - [frat-rs](https://github.com/digama0/frat) - verify DIMACS proof.
+- [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2/).
 - [Kontroli](https://github.com/01mf02/kontroli-rs)  [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli) - alternative implementation of the logical framework Dedukti, concentrating on the verification of proofs.
 - [pocket_prover-set](https://github.com/advancedresearch/pocket_prover-set) [:package:](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [Prusti](https://github.com/viperproject/prusti-dev) :star: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
@@ -201,6 +202,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ## Programming Language
 
 - [egglog](https://github.com/philzook58/egglog) :star: - using the egg library with a file format and semantics similar to datalog.
+- [Last Order Logic](https://github.com/advancedresearch/last_order_logic.git) [:package:](https://crates.io/crates/last_order_logic) - experimental logical language.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util/):skull::star: - became Voile.
 - [Narc](https://github.com/owo-lang/narc-rs) [:package:](https://crates.io/crates/nar):star: - dependently-typed programming language with Agda style dependent pattern matching.
 - [Pikelet](https://github.com/pikelet-lang/pikelet) [:package:](https://crates.io/crates/pikelet):star: - small, functional, dependently typed programming language.
@@ -231,6 +233,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) - simulations using 2AFC triads to learn formal systems as typed first-order term rewriting systems.
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations using input/output examples to learn typed first-order term rewriting systems that perform list routines.
 - [n-queens-sat](https://github.com/erohkohl/n-queens-sat) - modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
+- [nonogrid](https://github.com/tsionyx/nonogrid)[:package:](https://crates.io/crates/nonogrid) - lightning fast nonogram solver.
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
 - [Supermux](https://github.com/tuzz/supermux) - reduction of the superpermutation problem to Quantified Boolean Formula.
 - [Supersat](https://github.com/tuzz/supersat) - attempt to find superpermutations by reducing the problem to SAT.
@@ -257,7 +260,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 61 entries.
-- [logic](https://crates.io/keywords/logic) - 36 entries.
+- [logic](https://crates.io/keywords/logic) - 38 entries.
 - [sat](https://crates.io/keywords/sat) - 25 entries.
 - [smt](https://crates.io/keywords/smt) - 23 entries.
 - [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries.
@@ -266,7 +269,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rewriting](https://crates.io/keywords/rewriting) - 7 entries.
 - [first-order](https://crates.io/keywords/first-order) - 6 entries.
 - [cnf](https://crates.io/keywords/cnf) - 6 entries.
+- [smt-lib](https://crates.io/keywords/smt-lib) - 6 entries.
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries.
+- [z3](https://crates.io/keywords/z3) - 5 entries.
 - [dependent-types](https://crates.io/keywords/dependent-types) - 4 entries.
 - [stark](https://crates.io/keywords/stark) - 4 entries.
 - [dimacs](https://crates.io/keywords/dimacs) - 4 entries.
@@ -281,7 +286,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - frat-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
-- [Adrien Champion](https://github.com/AdrienChampion) - Mikino, SAT-MICRO, Verification for Dummies.
+- [Adrien Champion](https://github.com/AdrienChampion) - Kinō, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [Simon Cruanes](https://simon.cedeela.fr/) - BatSat.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
@@ -300,6 +305,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
 - [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
+- [Ivan Ladelshchikov](https://github.com/tsionyx) - nonogrid.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper. 
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
@@ -309,7 +315,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, plar-rs
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
-- [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
+- [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi/) - shari.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Chris Patuzzo](https://tuzz.tech) - Supermux, Supersat.
