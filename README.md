@@ -19,6 +19,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
     - [Misc](#misc)
   - [Libraries](#libraries)
     - [Parser](#parser)
+    - [Bindings](#bindings)
     - [Translator](#translator)
     - [Misc](#misc)
   - [Books code](#books-code)
@@ -104,6 +105,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [MirChecker](https://github.com/lizhuohua/rust-mir-checker) :star:[:lab_coat:](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/CCS2021.pdf) - simple static analysis tool.
 - [Rudra](https://github.com/sslab-gatech/Rudra) :star:[:lab_coat:](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf) - static analyzer to detect common undefined behaviors in Rust programs.
 - [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021/) :information_source: - list of tools.
+- [Rustproof](https://github.com/Rust-Proof/rustproof) [:package:](https://crates.io/crates/rustproof):star: - compiler plugin, verification condition generator.
 - [TIP](https://github.com/v4kst1z/TIP) :baby_chick: - tiny imperative programming language aimed at teaching the fundamental concepts of static program analysis.
 - [VeriWasm](https://github.com/PLSysSec/veriwasm) [:package:](https://crates.io/crates/veriwasm):star:[:lab_coat:](http://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf) - SFI verifier of Wasm binaries.
 
@@ -141,6 +143,14 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [smt2](https://github.com/regular-pv/smt2) [:package:](https://crates.io/crates/smt2) - SMT-LIB 2 parsing library.
 - [tptp](https://github.com/MichaelRawson/tptp) [:package:](https://crates.io/crates/tptp):diamonds: - parse the TPTP format.
 
+#### Bindings
+
+- [CaDiCaL SAT solver](https://github.com/mmaroti/cadical-rs/) [:package:](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
+- [libsmt.rs](https://github.com/sushant94/libsmt.rs) - bindings for SMTLIB2.
+- [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star: - generic library to interact with SMT-LIB 2 compliant solvers.
+- [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API)[:package:](https://crates.io/crates/rust_smt):skull::star: - generic high-level API for interacting with SMT solvers.
+- [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt) - fork of libsmt.rs.
+
 #### Translator
 
 - [anthem](https://github.com/potassco/anthem) - translate answer set programs to first-order theorem prover language.
@@ -150,7 +160,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Misc
 
 - [AbsoluteUnity](https://github.com/ray-kast/AbsoluteUnity) - think Prolog, but less capable.
-- [CaDiCaL SAT solver](https://github.com/mmaroti/cadical-rs/) [:package:](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
 - [compiler](https://github.com/trivial-rs/compiler) :baby_chick: - trivial compiler framework for Metamath Zero binary proofs.
 - [discrimination-tree](https://github.com/MichaelRawson/discrimination-tree) [:package:](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
 - [egg](https://github.com/egraphs-good/egg) [:package:](https://crates.io/crates/egg):star: - flexible, high-performance e-graph library.
@@ -269,11 +278,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [Mathieu Baudet](https://github.com/matbd) - smt2utils.
 - [Yechan Bae](https://qwaz.github.io/) - Rudra, Satire.
+- [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - frat-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
 - [Adrien Champion](https://github.com/AdrienChampion) - Mikino, SAT-MICRO, Verification for Dummies.
 - [Simon Cruanes](https://simon.cedeela.fr/) - BatSat.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
+- [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com/) - lambda_calculus.
@@ -311,6 +322,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Erik Rohkohl](https://blogs.itemis.com/author/erik-rohkohl) - n-queens-sat.
 - [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
 - [Salman Saghafi](https://github.com/salmans) - Rusty Razor.
+- [Michael Salter](https://github.com/salterm) - Rustproof, rustproof-libsmt.
 - [Ryan Schroeder](https://ryan-s.net/) - AbsoluteUnity, epilog.
 - [Srinath Setty](https://www.microsoft.com/en-us/research/people/srinath) - Nova, Spartan.
 - [skbaek](https://github.com/skbaek) - t3p.
