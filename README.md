@@ -149,10 +149,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Bindings
 
 - [CaDiCaL SAT solver](https://github.com/mmaroti/cadical-rs/) [:package:](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
+- [falcon-z3](https://github.com/falconre/falcon-z3) [:package:](https://crates.io/crates/falcon-z3) - bindings for Z3.
 - [libsmt.rs](https://github.com/sushant94/libsmt.rs) - bindings for SMTLIB2.
 - [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star: - generic library to interact with SMT-LIB 2 compliant solvers.
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API)[:package:](https://crates.io/crates/rust_smt):skull::star: - generic high-level API for interacting with SMT solvers.
 - [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt) - fork of libsmt.rs.
+- [z3](https://github.com/prove-rs/z3.rs) [:package:](https://crates.io/crates/z3)[:package:](https://crates.io/crates/z3-sys):star: - high-level and low-level Rust bindings for the Z3 solver.
+- [z3-rust](https://github.com/p4l1ly/z3-rust) [:package:](https://crates.io/crates/z3_ref) - high level bindings for the Microsoft's Z3 SMT solver.
 
 #### Translator
 
@@ -256,7 +259,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [A Formal Verification of Rust's Binary Search Implementation](https://kha.github.io/) :uk:
 - [Splr notebook.](https://shnarazk.github.io/tag/splr) :jp:
-- [Research notebook about improving with Rust the performance of nonclausal automated theorem provers.](https://github.com/01mf02/adam-notes) :uk:
+- [Research notebook about improving with Rust the performance of nonclausal automated theorem provers.](https://github.com/01mf02/adam-notes) :uk::diamonds:
 - [Varisat notebook.](https://jix.one/blog/rust/) :uk:
 
 ### Crates keywords
@@ -264,17 +267,17 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [solver](https://crates.io/keywords/solver) - 61 entries.
 - [logic](https://crates.io/keywords/logic) - 38 entries.
 - [sat](https://crates.io/keywords/sat) - 25 entries.
+- [verification](https://crates.io/keywords/verification) - 25 entries.
 - [smt](https://crates.io/keywords/smt) - 23 entries.
 - [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries.
-- [verification](https://crates.io/keywords/verification) - 23 entries.
+- [rewriting](https://crates.io/keywords/rewriting) - 8 entries.
 - [prover](https://crates.io/keywords/prover) - 7 entries.
-- [rewriting](https://crates.io/keywords/rewriting) - 7 entries.
 - [first-order](https://crates.io/keywords/first-order) - 6 entries.
 - [cnf](https://crates.io/keywords/cnf) - 6 entries.
 - [smt-lib](https://crates.io/keywords/smt-lib) - 6 entries.
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries.
 - [z3](https://crates.io/keywords/z3) - 5 entries.
-- [dependent-types](https://crates.io/keywords/dependent-types) - 4 entries.
+- [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries.
 - [stark](https://crates.io/keywords/stark) - 4 entries.
 - [dimacs](https://crates.io/keywords/dimacs) - 4 entries.
 
@@ -295,6 +298,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com/) - lambda_calculus.
+- [endeav0r](https://github.com/endeav0r) - falcon-z3.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
 - [Robin Freyler](https://robbepop.github.io) - CNF Parser, DIMACS Parser.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
@@ -317,6 +321,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, uasat-rs. 
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, plar-rs.
 - [Yusuke Matsushita](https://github.com/shiatsumat) - RustHorn.
+- [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
 - [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi/) - shari.
@@ -341,6 +346,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Hitoshi Togasaki](https://github.com/togatoga) - screwsat.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
+- [Pavol Vargovčík](https://github.com/p4l1ly) - z3-rust.
 - [Max Willsey](https://www.mwillsey.com) - egg.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
