@@ -83,6 +83,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
 - [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
+- [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
 - [lapjv](https://github.com/Antti/lapjv-rust) [:package:](https://crates.io/crates/lapjv) - linear Assignmment Problem solver using Jonker-Volgenant algorithm.
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - logic solver.
 - [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - simple induction and BMC engine.
@@ -105,6 +106,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [MirChecker](https://github.com/lizhuohua/rust-mir-checker) :star:[:lab_coat:](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/CCS2021.pdf) - simple static analysis tool.
 - [Rudra](https://github.com/sslab-gatech/Rudra) :star:[:lab_coat:](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf) - static analyzer to detect common undefined behaviors in Rust programs.
 - [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021/) :information_source: - list of tools.
+- [RustHorn](https://github.com/hopv/rust-horn) [:lab_coat:](https://link.springer.com/chapter/10.1007%2F978-3-030-44914-8_18) - CHC-based Automated Verification Tool for Rust.
 - [Rustproof](https://github.com/Rust-Proof/rustproof) [:package:](https://crates.io/crates/rustproof):star: - compiler plugin, verification condition generator.
 - [TIP](https://github.com/v4kst1z/TIP) :baby_chick: - tiny imperative programming language aimed at teaching the fundamental concepts of static program analysis.
 - [VeriWasm](https://github.com/PLSysSec/veriwasm) [:package:](https://crates.io/crates/veriwasm):star:[:lab_coat:](http://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf) - SFI verifier of Wasm binaries.
@@ -286,7 +288,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - frat-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
-- [Adrien Champion](https://github.com/AdrienChampion) - Kinō, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
+- [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [Simon Cruanes](https://simon.cedeela.fr/) - BatSat.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
@@ -311,9 +313,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
 - [mcmfb](https://github.com/mcmfb) - lambda_calc.
 - [Victor Maia](https://medium.com/@maiavictor) - Symmetric Interaction Calculus.
+- [Harald Maida](https://github.com/haraldmaida) - Lamcal.
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, uasat-rs. 
-- [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, plar-rs
-- [Harald Maida](https://github.com/haraldmaida) - Lamcal
+- [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, plar-rs.
+- [Yusuke Matsushita](https://github.com/shiatsumat) - RustHorn.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
 - [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi/) - shari.
