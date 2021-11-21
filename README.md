@@ -42,6 +42,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - Best in Class :diamonds:
 - Book implementation :book:
 - Crate(s) :package:
+- Crates keyword fully listed :100:
 - Deleted :recycle:
 - Exhumated :ghost:
 - List of resources :information_source:
@@ -83,7 +84,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Misc
 
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
-- [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
 - [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
 - [lapjv](https://github.com/Antti/lapjv-rust) [:package:](https://crates.io/crates/lapjv) - linear Assignmment Problem solver using Jonker-Volgenant algorithm.
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - logic solver.
@@ -151,6 +151,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Bindings
 
 - [CaDiCaL SAT solver](https://github.com/mmaroti/cadical-rs/) [:package:](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
+- [cryptominisat-rs](https://github.com/storyyeller/cryptominisat-rs) [:package:](https://crates.io/crates/cryptominisat) - bindings for [CryptoMiniSat](https://github.com/msoos/cryptominisat).
 - [falcon-z3](https://github.com/falconre/falcon-z3) [:package:](https://crates.io/crates/falcon-z3) - bindings for Z3.
 - [IPASIR](https://github.com/robbepop/ipasir-rs) [:package:](https://crates.io/crates/ipasir) - FFI bindings for the IPASIR incremental SAT solver interface.
 - [libsmt.rs](https://github.com/sushant94/libsmt.rs) - bindings for SMTLIB2.
@@ -169,6 +170,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Misc
 
 - [AbsoluteUnity](https://github.com/ray-kast/AbsoluteUnity) - think Prolog, but less capable.
+- [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
 - [compiler](https://github.com/trivial-rs/compiler) :baby_chick: - trivial compiler framework for Metamath Zero binary proofs.
 - [discrimination-tree](https://github.com/MichaelRawson/discrimination-tree) [:package:](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
 - [egg](https://github.com/egraphs-good/egg) [:package:](https://crates.io/crates/egg):star: - flexible, high-performance e-graph library.
@@ -191,6 +193,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-unify](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star: - tool for constructing finite models for first-order theories.
+- [Satoxid](https://github.com/neuring/satoxid) [:package:](https://crates.io/crates/satoxid) - library to help with encoding SAT problems.
 - [smt2utils](https://github.com/facebookincubator/smt2utils) [:package:](https://crates.io/crates/smt2parser)[:package:](https://crates.io/crates/smt2patch)[:package:](https://crates.io/crates/smt2proxy)[:package:](https://crates.io/crates/z3tracer) - libraries and tools for the SMT-LIB-2 standard.
 - [term-rewriting-rs](https://github.com/joshrule/term-rewriting-rs) [:package:](https://crates.io/crates/term_rewriting) :star: - library for representing, parsing, and computing with first-order term rewriting systems.
 - [The Trivial Metamath Zero kernel](https://github.com/trivial-rs/kernel) [:package:](https://crates.io/crates/trivial-kernel) - Metamath Zero kernel for Trivial.
@@ -243,6 +246,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations using input/output examples to learn typed first-order term rewriting systems that perform list routines.
 - [n-queens-sat](https://github.com/erohkohl/n-queens-sat) - modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
 - [nonogrid](https://github.com/tsionyx/nonogrid) [:package:](https://crates.io/crates/nonogrid) - lightning fast nonogram solver.
+- [rummy_to_sat ](https://github.com/neuring/rummy_to_sat) - implementation of a solver for [Rummy](https://en.wikipedia.org/wiki/Rummy).
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
 - [Supermux](https://github.com/tuzz/supermux) - reduction of the superpermutation problem to Quantified Boolean Formula.
 - [Supersat](https://github.com/tuzz/supersat) - attempt to find superpermutations by reducing the problem to SAT.
@@ -283,7 +287,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [z3](https://crates.io/keywords/z3) - 5 entries.
 - [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries.
 - [stark](https://crates.io/keywords/stark) - 4 entries.
-- [dimacs](https://crates.io/keywords/dimacs) - 4 entries.
+- [dimacs](https://crates.io/keywords/dimacs) - 4 entries. :100:
 
 ### Community
 
@@ -307,6 +311,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Robin Freyler](https://robbepop.github.io) - CNF Parser, DIMACS Parser, Stevia.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Nathan Graule ](https://github.com/SolarLiner) - rs-logik.
+- [Robert Grosse](https://github.com/Storyyeller) - cryptominisat-rs.
 - [Masaki Hara](https://twitter.com/qnighy) - Logic solver, RatSat.
 - [Jannis Harder](https://jix.one/) - Cnfpack, Flussab CNF, starlit, Varisat, Varisat notebook.
 - [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
@@ -326,6 +331,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, plar-rs.
 - [Yusuke Matsushita](https://github.com/shiatsumat) - RustHorn.
 - [mcmfb](https://github.com/mcmfb) - lambda_calc.
+- [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
 - [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
