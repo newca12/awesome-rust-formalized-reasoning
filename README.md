@@ -117,6 +117,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Nova](https://github.com/Microsoft/Nova) [:package:](https://crates.io/crates/nova-snark):star: - high-speed recursive SNARK (a SNARK proof system.
 - [OpenZKP Stark](https://github.com/0xProject/OpenZKP/tree/master/crypto/stark) [:package:](https://crates.io/crates/zkp-stark):star: - implementation of STARK zero-knowledge-proofs.
+- [Polygon Miden](https://github.com/maticnetwork/miden) [:package:](https://crates.io/crates/miden)[:package:](https://crates.io/crates/miden-air)[:package:](https://crates.io/crates/miden-assembly)[:package:](https://crates.io/crates/miden-core)[:package:](https://crates.io/crates/miden-processor)[:package:](https://crates.io/crates/miden-verifier):star: - STARK-based virtual machine.
 - [Spartan](https://github.com/microsoft/Spartan) [:package:](https://crates.io/crates/spartan):star: - high-speed zero-knowledge proof system.
 - [Winterfell](https://github.com/novifinancial/winterfell) [:package:](https://crates.io/crates/winter-air)[:package:](https://crates.io/crates/winter-crypto)[:package:](https://crates.io/crates/winterfell)[:package:](https://crates.io/crates/winter-fri)[:package:](https://crates.io/crates/winter-math)[:package:](https://crates.io/crates/winter-prover)[:package:](https://crates.io/crates/winter-utils)[:package:](https://crates.io/crates/winter-verifier):star: - a STARK prover and verifier for arbitrary computations.
 
@@ -283,10 +284,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [first-order](https://crates.io/keywords/first-order) - 6 entries.
 - [cnf](https://crates.io/keywords/cnf) - 6 entries.
 - [smt-lib](https://crates.io/keywords/smt-lib) - 6 entries.
+- [stark](https://crates.io/keywords/stark) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries.
 - [z3](https://crates.io/keywords/z3) - 5 entries.
-- [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries.
-- [stark](https://crates.io/keywords/stark) - 4 entries.
+- [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries. :100:
 - [dimacs](https://crates.io/keywords/dimacs) - 4 entries. :100:
 
 ### Community
@@ -353,6 +354,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [skbaek](https://github.com/skbaek) - t3p.
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, Splr notebook, sudoku_sat.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
+- [Bobbin Threadbare](https://github.com/bobbinth) - Polygon Miden.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Hitoshi Togasaki](https://github.com/togatoga) - screwsat.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
