@@ -161,6 +161,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt) - fork of libsmt.rs.
 - [z3](https://github.com/prove-rs/z3.rs) [:package:](https://crates.io/crates/z3)[:package:](https://crates.io/crates/z3-sys):star: - high-level and low-level Rust bindings for the Z3 solver.
 - [z3-rust](https://github.com/p4l1ly/z3-rust) [:package:](https://crates.io/crates/z3_ref) - high level bindings for the Microsoft's Z3 SMT solver.
+- [Z3D](https://github.com/alex-chew/z3d-rs) [:package:](https://crates.io/crates/z3d) - Z3 DSL interface.
 
 #### Translator
 
@@ -286,7 +287,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [smt-lib](https://crates.io/keywords/smt-lib) - 6 entries.
 - [stark](https://crates.io/keywords/stark) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries.
-- [z3](https://crates.io/keywords/z3) - 5 entries.
+- [z3](https://crates.io/keywords/z3) - 5 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries. :100:
 - [dimacs](https://crates.io/keywords/dimacs) - 4 entries. :100:
 
@@ -301,6 +302,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - frat-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
+- [Alex Chew](https://github.com/alex-chew) - Z3D.
 - [Simon Cruanes](https://simon.cedeela.fr/) - BatSat.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
