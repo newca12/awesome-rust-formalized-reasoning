@@ -84,6 +84,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Misc
 
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
+- [Esther](https://github.com/aodhneine/esther) :construction: - simple automated proof assistant.
 - [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
 - [lapjv](https://github.com/Antti/lapjv-rust) [:package:](https://crates.io/crates/lapjv) - linear Assignmment Problem solver using Jonker-Volgenant algorithm.
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - logic solver.
@@ -311,6 +312,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com/) - lambda_calculus.
 - [endeav0r](https://github.com/endeav0r) - falcon-z3.
+- [Aodhnait Étaín](https://aodhneine.github.io/) - Esther.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
 - [Robin Freyler](https://robbepop.github.io) - CNF Parser, DIMACS Parser, Stevia.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
