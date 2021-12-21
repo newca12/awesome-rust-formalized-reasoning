@@ -136,7 +136,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [second_opinion](https://github.com/ammkrn/second_opinion) - verifier for Metamath Zero proof files.
 - [smetamath](https://github.com/sorear/smetamath-rs) [:package:](https://crates.io/crates/smetamath) :star: - parallel and incremental verifier for Metamath databases.
 - [t3p](https://github.com/skbaek/tesc/tree/master/t3p-rs) - optimized TESC (Theory-Extensible Sequent Calculus) verifier.
-- [Verifier](https://github.com/trivial-rs/verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
+- [Verifier](https://github.com/trivial-rs/verifier) [:package:](https://crates.io/crates/trivial-verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
 
 ### Libraries
 
@@ -152,6 +152,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 #### Bindings
 
+- [bitwuzla-sys](https://github.com/fatemender/bitwuzla-sys) [:package:](https://crates.io/crates/bitwuzla-sys) - low-level bindings for the [Bitwuzla](https://bitwuzla.github.io/) SMT solver.
+- [boolector-sys](https://github.com/fatemender/boolector-sys) [:package:](https://crates.io/crates/boolector-sys) - low-level bindings for the [Boolector](https://boolector.github.io/) SMT solver.
 - [CaDiCaL SAT solver](https://github.com/mmaroti/cadical-rs/) [:package:](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
 - [cryptominisat-rs](https://github.com/storyyeller/cryptominisat-rs) [:package:](https://crates.io/crates/cryptominisat) - bindings for [CryptoMiniSat](https://github.com/msoos/cryptominisat).
 - [falcon-z3](https://github.com/falconre/falcon-z3) [:package:](https://crates.io/crates/falcon-z3) - bindings for Z3.
@@ -174,7 +176,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [AbsoluteUnity](https://github.com/ray-kast/AbsoluteUnity) - think Prolog, but less capable.
 - [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
-- [compiler](https://github.com/trivial-rs/compiler) :baby_chick: - trivial compiler framework for Metamath Zero binary proofs.
+- [compiler](https://github.com/trivial-rs/compiler) [:package:](https://crates.io/crates/trivial-compiler):baby_chick: - trivial compiler framework for Metamath Zero binary proofs.
 - [discrimination-tree](https://github.com/MichaelRawson/discrimination-tree) [:package:](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
 - [egg](https://github.com/egraphs-good/egg) [:package:](https://crates.io/crates/egg):star: - flexible, high-performance e-graph library.
 - [epilog](https://github.com/ray-kast/epilog) [:package:](https://crates.io/crates/epilog) - collection of Prolog-like tools for inference logic.
@@ -280,7 +282,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [logic](https://crates.io/keywords/logic) - 38 entries.
 - [sat](https://crates.io/keywords/sat) - 25 entries.
 - [verification](https://crates.io/keywords/verification) - 25 entries.
-- [smt](https://crates.io/keywords/smt) - 23 entries.
+- [smt](https://crates.io/keywords/smt) - 24 entries.
 - [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries.
 - [rewriting](https://crates.io/keywords/rewriting) - 8 entries.
 - [prover](https://crates.io/keywords/prover) - 7 entries.
@@ -288,7 +290,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [cnf](https://crates.io/keywords/cnf) - 6 entries.
 - [smt-lib](https://crates.io/keywords/smt-lib) - 6 entries.
 - [stark](https://crates.io/keywords/stark) - 6 entries. :100:
-- [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries.
+- [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 5 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries. :100:
 - [dimacs](https://crates.io/keywords/dimacs) - 4 entries. :100:
@@ -358,6 +360,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Srinath Setty](https://www.microsoft.com/en-us/research/people/srinath) - Nova, Spartan.
 - [skbaek](https://github.com/skbaek) - t3p.
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, Splr notebook, sudoku_sat.
+- [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
 - [Bobbin Threadbare](https://github.com/bobbinth) - Polygon Miden.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
