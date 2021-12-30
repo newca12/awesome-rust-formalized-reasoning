@@ -108,6 +108,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [MIRAI](https://github.com/facebookexperimental/MIRAI) [:package:](https://crates.io/crates/mirai-annotations):star: - intended to become a widely used static analysis tool for Rust.
 - [MirChecker](https://github.com/lizhuohua/rust-mir-checker) :star:[:lab_coat:](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/CCS2021.pdf) - simple static analysis tool.
 - [Rudra](https://github.com/sslab-gatech/Rudra) :star:[:lab_coat:](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf) - static analyzer to detect common undefined behaviors in Rust programs.
+- [Rust verification tools](https://github.com/project-oak/rust-verification-tools) :star: - collection of tools/libraries to support both static and dynamic verification of Rust programs.
 - [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021/) :information_source: - list of tools.
 - [RustHorn](https://github.com/hopv/rust-horn) [:lab_coat:](https://link.springer.com/chapter/10.1007%2F978-3-030-44914-8_18) - CHC-based Automated Verification Tool for Rust.
 - [Rustproof](https://github.com/Rust-Proof/rustproof) [:package:](https://crates.io/crates/rustproof):star: - compiler plugin, verification condition generator.
@@ -272,9 +273,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Blogs
 
-- [A Formal Verification of Rust's Binary Search Implementation](https://kha.github.io/) :uk:
+- [A Formal Verification of Rust's Binary Search Implementation.](https://kha.github.io/) :uk:
 - [Splr notebook.](https://shnarazk.github.io/tag/splr) :jp:
 - [Research notebook about improving with Rust the performance of nonclausal automated theorem provers.](https://github.com/01mf02/adam-notes) :uk::diamonds:
+- [Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs.](https://project-oak.github.io/rust-verification-tools) :uk:
 - [Varisat notebook.](https://jix.one/blog/rust/) :uk:
 
 ### Crates keywords
@@ -352,7 +354,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, SATCoP, tptp.
-- [Alastair Reid](https://alastairreid.github.io) - Rust verification tools list.
+- [Alastair Reid](https://alastairreid.github.io) - Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs,Rust verification tools ,Rust verification tools list.
 - [Nathan Ringo](https://remexre.xyz) - FALL.
 - [Erik Rohkohl](https://blogs.itemis.com/author/erik-rohkohl) - n-queens-sat.
 - [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
