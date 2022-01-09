@@ -178,6 +178,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Misc
 
 - [AbsoluteUnity](https://github.com/ray-kast/AbsoluteUnity) - think Prolog, but less capable.
+- [Avatar Hypergraph Rewriting](https://github.com/advancedresearch/avatar_hypergraph_rewriting) [:package:](https://crates.io/crates/avatar_hypergraph_rewriting) - hypergraph rewriting system with avatars for symbolic distinction.
 - [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
 - [compiler](https://github.com/trivial-rs/compiler) [:package:](https://crates.io/crates/trivial-compiler):baby_chick: - trivial compiler framework for Metamath Zero binary proofs.
 - [discrimination-tree](https://github.com/MichaelRawson/discrimination-tree) [:package:](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
@@ -205,6 +206,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Satoxid](https://github.com/neuring/satoxid) [:package:](https://crates.io/crates/satoxid) - library to help with encoding SAT problems.
 - [smt2utils](https://github.com/facebookincubator/smt2utils) [:package:](https://crates.io/crates/smt2parser)[:package:](https://crates.io/crates/smt2patch)[:package:](https://crates.io/crates/smt2proxy)[:package:](https://crates.io/crates/z3tracer) - libraries and tools for the SMT-LIB-2 standard.
 - [term-rewriting-rs](https://github.com/joshrule/term-rewriting-rs) [:package:](https://crates.io/crates/term_rewriting) :star: - library for representing, parsing, and computing with first-order term rewriting systems.
+- [tribool](https://github.com/novacrazy/rust-tribool) [:package:](https://crates.io/crates/tribool) - three-valued logic.
 - [The Trivial Metamath Zero kernel](https://github.com/trivial-rs/kernel) [:package:](https://crates.io/crates/trivial-kernel) - Metamath Zero kernel for Trivial.
 - [Whisper](https://github.com/sdleffler/whisper) :star: - logic Programming DSL.
 
@@ -283,7 +285,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 64 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 38 entries.
+- [logic](https://crates.io/keywords/logic) - 40 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 25 entries.
 - [verification](https://crates.io/keywords/verification) - 25 entries.
 - [smt](https://crates.io/keywords/smt) - 24 entries.
@@ -347,7 +349,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
-- [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Debug-SAT, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
+- [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Debug-SAT, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi/) - shari.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Chris Patuzzo](https://tuzz.tech) - Supermux, Supersat.
@@ -372,6 +374,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Fabian Thorand](https://github.com/fatho) - LogRu.
 - [Hitoshi Togasaki](https://github.com/togatoga) - screwsat.
+- [Aaron Trent](https://github.com/novacrazy) - tribool.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
 - [Pavol Vargovčík](https://github.com/p4l1ly) - z3-rust.
