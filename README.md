@@ -161,6 +161,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [cryptominisat-rs](https://github.com/storyyeller/cryptominisat-rs) [:package:](https://crates.io/crates/cryptominisat) - bindings for [CryptoMiniSat](https://github.com/msoos/cryptominisat).
 - [falcon-z3](https://github.com/falconre/falcon-z3) [:package:](https://crates.io/crates/falcon-z3) - bindings for Z3.
 - [IPASIR](https://github.com/robbepop/ipasir-rs) [:package:](https://crates.io/crates/ipasir) - FFI bindings for the IPASIR incremental SAT solver interface.
+- [Kissat-rs](https://github.com/firefighterduck/kissat-rs) [:package:](https://crates.io/crates/kissat) - bindings for the Kissat SAT solver.
 - [libsmt.rs](https://github.com/sushant94/libsmt.rs) - bindings for SMTLIB2.
 - [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star: - generic library to interact with SMT-LIB 2 compliant solvers.
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API)[:package:](https://crates.io/crates/rust_smt):skull::star: - generic high-level API for interacting with SMT solvers.
@@ -178,6 +179,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Misc
 
 - [AbsoluteUnity](https://github.com/ray-kast/AbsoluteUnity) - think Prolog, but less capable.
+- [Alice_rs](https://github.com/firefighterduck/alice_rs) [:lab_coat:](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/unroll_collapse_withproofs.pdf)[:lab_coat:](https://www21.in.tum.de/teaching/sar/SS20/8.pdf) - small proof-of-concept reference implementation of a decision procedure for A Decidable Fragment of Separation Logic.
 - [Avatar Hypergraph Rewriting](https://github.com/advancedresearch/avatar_hypergraph_rewriting) [:package:](https://crates.io/crates/avatar_hypergraph_rewriting) - hypergraph rewriting system with avatars for symbolic distinction.
 - [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
 - [compiler](https://github.com/trivial-rs/compiler) [:package:](https://crates.io/crates/trivial-compiler):baby_chick: - trivial compiler framework for Metamath Zero binary proofs.
@@ -287,15 +289,15 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [solver](https://crates.io/keywords/solver) - 64 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 40 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 25 entries.
-- [verification](https://crates.io/keywords/verification) - 25 entries.
-- [smt](https://crates.io/keywords/smt) - 24 entries.
-- [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries.
-- [rewriting](https://crates.io/keywords/rewriting) - 8 entries.
-- [prover](https://crates.io/keywords/prover) - 7 entries.
-- [first-order](https://crates.io/keywords/first-order) - 6 entries.
-- [cnf](https://crates.io/keywords/cnf) - 6 entries.
-- [smt-lib](https://crates.io/keywords/smt-lib) - 6 entries.
+- [sat](https://crates.io/keywords/sat) - 26 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 25 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 24 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries. :100:
+- [rewriting](https://crates.io/keywords/rewriting) - 8 entries. :100:
+- [prover](https://crates.io/keywords/prover) - 7 entries. :100:
+- [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
+- [cnf](https://crates.io/keywords/cnf) - 6 entries. :100:
+- [smt-lib](https://crates.io/keywords/smt-lib) - 6 entries. :100:
 - [stark](https://crates.io/keywords/stark) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 5 entries. :100:
@@ -324,6 +326,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [endeav0r](https://github.com/endeav0r) - falcon-z3.
 - [Aodhnait Étaín](https://aodhneine.github.io/) - Esther.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
+- [FireFighterDuck](https://github.com/firefighterduck) - Alice_rs, Kissat-rs.
 - [Robin Freyler](https://robbepop.github.io) - CNF Parser, DIMACS Parser, Stevia.
 - [Galois, Inc.](http://galois.com/) - crux-mir.
 - [Nathan Graule ](https://github.com/SolarLiner) - rs-logik.
