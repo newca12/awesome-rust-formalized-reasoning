@@ -85,6 +85,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
 - [Esther](https://github.com/aodhneine/esther) :construction: - simple automated proof assistant.
+- [gpp-solver](https://github.com/Ereski/gpp-solver) [:package:](https://crates.io/crates/gpp-solver) - small hybrid push-pull solver/planner that has the best of both worlds.
 - [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
 - [lapjv](https://github.com/Antti/lapjv-rust) [:package:](https://crates.io/crates/lapjv) - linear Assignmment Problem solver using Jonker-Volgenant algorithm.
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - logic solver.
@@ -281,7 +282,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 61 entries.
+- [solver](https://crates.io/keywords/solver) - 64 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 38 entries.
 - [sat](https://crates.io/keywords/sat) - 25 entries.
 - [verification](https://crates.io/keywords/verification) - 25 entries.
@@ -361,6 +362,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Salman Saghafi](https://github.com/salmans) - Rusty Razor.
 - [Michael Salter](https://github.com/salterm) - Rustproof, rustproof-libsmt.
 - [Ryan Schroeder](https://ryan-s.net/) - AbsoluteUnity, epilog.
+- [Carol Schulze](https://github.com/Ereski) - gpp-solver.
 - [Srinath Setty](https://www.microsoft.com/en-us/research/people/srinath) - Nova, Spartan.
 - [skbaek](https://github.com/skbaek) - t3p.
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, Splr notebook, sudoku_sat.
