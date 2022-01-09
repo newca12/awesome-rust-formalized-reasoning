@@ -187,6 +187,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [FALL](https://github.com/remexre/fall) [:package:](https://crates.io/crates/fall) - easily embeddable, futures-friendly logic engine.
 - [Fathom](https://github.com/yeslogic/fathom) [:package:](https://crates.io/crates/fathom):star: - declarative data definition language for formally specifying binary data formats.
 - [foliage](https://github.com/potassco/foliage) [:package:](https://crates.io/crates/foliage) - first-order logic with integer arithmetics.
+- [Joker Calculus](https://github.com/advancedresearch/joker_calculus.git) [:package:](https://crates.io/crates/joker_calculus) -  implementation of Joker Calculus in Rust.
 - [Kravanenn](https://github.com/ppedrot/kravanenn) :star: - set of tools for Coq.
 - [linear_solver](https://github.com/advancedresearch/linear_solver) [:package:](https://crates.io/crates/linear_solver):star: - linear solver designed to be easy to use with Rust enums.
 - [LogRu](https://github.com/fatho/logru/) [:package:](https://crates.io/crates/logru) - small, embeddable and fast interpreter for a subset of Prolog.
@@ -349,7 +350,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
-- [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Debug-SAT, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
+- [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi/) - shari.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Chris Patuzzo](https://tuzz.tech) - Supermux, Supersat.
