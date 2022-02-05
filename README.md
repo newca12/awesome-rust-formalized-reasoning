@@ -227,6 +227,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ## Programming Language
 
 - [egglog](https://github.com/philzook58/egglog) :star: - using the egg library with a file format and semantics similar to datalog.
+- [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) :star: - massively parallel, optimal functional runtime.
 - [Last Order Logic](https://github.com/advancedresearch/last_order_logic.git) [:package:](https://crates.io/crates/last_order_logic) - experimental logical language.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util/):skull::star: - became Voile.
 - [Narc](https://github.com/owo-lang/narc-rs) [:package:](https://crates.io/crates/nar):star: - dependently-typed programming language with Agda style dependent pattern matching.
@@ -344,7 +345,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper. 
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
 - [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus.
-- [Victor Maia](https://medium.com/@maiavictor) - Symmetric Interaction Calculus.
+- [Victor Maia](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Symmetric Interaction Calculus.
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal.
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, uasat-rs. 
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, plar-rs.
