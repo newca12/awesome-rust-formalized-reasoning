@@ -84,6 +84,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Misc
 
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
+- [cobalt](https://github.com/lcnr/cobalt) :construction: - a wip minimal proof assistant.
 - [Esther](https://github.com/aodhneine/esther) :construction: - simple automated proof assistant.
 - [gpp-solver](https://github.com/Ereski/gpp-solver) [:package:](https://crates.io/crates/gpp-solver) - small hybrid push-pull solver/planner that has the best of both worlds.
 - [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
@@ -308,11 +309,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Community
 
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
-- [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib, second_opinion.
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
-- [Mathieu Baudet](https://github.com/matbd) - smt2utils.
+- [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib, second_opinion.
 - [Yechan Bae](https://qwaz.github.io/) - Rudra, Satire.
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
+- [Mathieu Baudet](https://github.com/matbd) - smt2utils.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - frat-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
@@ -321,8 +322,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
-- [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
+- [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com/) - lambda_calculus.
 - [endeav0r](https://github.com/endeav0r) - falcon-z3.
 - [Aodhnait Étaín](https://aodhneine.github.io/) - Esther.
@@ -341,8 +342,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
 - [Ivan Ladelshchikov](https://github.com/tsionyx) - nonogrid.
+- [lcnr](https://lcnr.de/) - cobalt.
+- [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
-- [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper. 
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
 - [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus.
 - [Victor Maia](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Symmetric Interaction Calculus.
@@ -351,9 +353,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, plar-rs.
 - [Yusuke Matsushita](https://github.com/shiatsumat) - RustHorn.
 - [mcmfb](https://github.com/mcmfb) - lambda_calc.
-- [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
+- [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
 - [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi/) - shari.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
@@ -375,9 +377,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, Splr notebook, sudoku_sat.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
-- [Bobbin Threadbare](https://github.com/bobbinth) - Polygon Miden.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Fabian Thorand](https://github.com/fatho) - LogRu.
+- [Bobbin Threadbare](https://github.com/bobbinth) - Polygon Miden.
 - [Hitoshi Togasaki](https://github.com/togatoga) - screwsat.
 - [Aaron Trent](https://github.com/novacrazy) - tribool.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
