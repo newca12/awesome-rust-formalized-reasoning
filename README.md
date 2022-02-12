@@ -69,6 +69,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Debug-SAT](https://github.com/advancedresearch/debug_sat) [:package:](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
 - [msat](https://github.com/solhop/msat) [:package:](https://crates.io/crates/msat) - MaxSAT Solver.
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin):star: - reimplementation of MiniSat.- [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat) - SAT Solver.
+- [rust-smt-ir](https://github.com/awslabs/rust-smt-ir) - provides an intermediate representation (IR) in Rust for SMT-LIB queries along with tools for performing computations over queries and transforming queries in various ways.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
 - [Satire](https://github.com/Qwaz/satire) [:package:](https://crates.io/crates/satire) - educational SAT solver.
 - [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) - reimplementation of the SAT-solver described in SAT-MICRO: petit mais costaud! by Sylvain Conchon et al.
@@ -325,6 +326,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
+- [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com/) - lambda_calculus.
 - [endeav0r](https://github.com/endeav0r) - falcon-z3.
 - [Aodhnait Étaín](https://aodhneine.github.io/) - Esther.
