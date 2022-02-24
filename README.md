@@ -103,7 +103,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Verification
 
-#### Static Analysis
+#### Static Analysis / Rust verification tools
 
 - [Creusot](https://github.com/xldenis/creusot) :star: - tool for deductive verification of Rust code.
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) :star: - static simulator for Rust programs. It runs a set of test cases and attempts to prove that all assertions pass on all valid inputs.
@@ -111,8 +111,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [p4-analyzer](https://github.com/AzureMarker/p4-analyzer) - static analysis tool which checks P4 code for bugs.
 - [MIRAI](https://github.com/facebookexperimental/MIRAI) [:package:](https://crates.io/crates/mirai-annotations):star: - intended to become a widely used static analysis tool for Rust.
 - [MirChecker](https://github.com/lizhuohua/rust-mir-checker) :star:[:lab_coat:](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/CCS2021.pdf) - simple static analysis tool.
+- [Prusti](https://github.com/viperproject/prusti-dev) :star: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
 - [Rudra](https://github.com/sslab-gatech/Rudra) :star:[:lab_coat:](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf) - static analyzer to detect common undefined behaviors in Rust programs.
+- [Rust static analysis/verification reading and resources](https://github.com/facebookexperimental/MIRAI/blob/main/documentation/FurtherReading.md) :information_source: - for further reading.
 - [Rust verification tools](https://github.com/project-oak/rust-verification-tools) :star: - collection of tools/libraries to support both static and dynamic verification of Rust programs.
+- [Rust verification tools (2021)](https://rust-formal-methods.github.io/tools.html) - list of Rust verification tools with a bias towards ‘formal methods’ tools.
 - [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021/) :information_source: - list of tools.
 - [RustHorn](https://github.com/hopv/rust-horn) [:lab_coat:](https://link.springer.com/chapter/10.1007%2F978-3-030-44914-8_18) - CHC-based Automated Verification Tool for Rust.
 - [Rustproof](https://github.com/Rust-Proof/rustproof) [:package:](https://crates.io/crates/rustproof):star: - compiler plugin, verification condition generator.
@@ -136,7 +139,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2/).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti, concentrating on the verification of proofs.
 - [pocket_prover-set](https://github.com/advancedresearch/pocket_prover-set) [:package:](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
-- [Prusti](https://github.com/viperproject/prusti-dev) :star: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
 - [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check):diamonds: - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
 - [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc) - checker for the LFSC proof language.
 - [second_opinion](https://github.com/ammkrn/second_opinion) - verifier for Metamath Zero proof files.
@@ -323,7 +325,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
 - [Simon Cruanes](https://simon.cedeela.fr/) - BatSat.
-- [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot.
+- [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, Rust verification tools (2021).
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
@@ -391,7 +393,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
 - [Pavol Vargovčík](https://github.com/p4l1ly) - z3-rust.
-- [Herman Venter](https://github.com/hermanventer) - MIRAI.
+- [Herman Venter](https://github.com/hermanventer) - MIRAI, Rust static analysis/verification reading and resources.
 - [Max Willsey](https://www.mwillsey.com) - egg.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
