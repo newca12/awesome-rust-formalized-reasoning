@@ -14,7 +14,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
     - [SAT Solver](#sat-solver)
     - [Misc](#misc)
   - [Verification](#verification)
-    - [Static Analysis](#static-analysis)
+    - [Static Analysis & Rust verification tools](#static-analysis--rust-verification-tools)
     - [Cryptographic](#cryptographic)
     - [Misc](#misc)
   - [Libraries](#libraries)
@@ -104,7 +104,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Verification
 
-#### Static Analysis / Rust verification tools
+#### Static Analysis & Rust verification tools
 
 - [Creusot](https://github.com/xldenis/creusot) :star: - tool for deductive verification of Rust code.
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) :star: - static simulator for Rust programs.
