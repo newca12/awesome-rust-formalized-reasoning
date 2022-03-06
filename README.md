@@ -144,6 +144,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc) - checker for the LFSC proof language.
 - [second_opinion](https://github.com/ammkrn/second_opinion) - verifier for Metamath Zero proof files.
 - [smetamath](https://github.com/sorear/smetamath-rs) [:package:](https://crates.io/crates/smetamath) :star: - parallel and incremental verifier for Metamath databases.
+- [Supervisionary](https://github.com/veracruz-project/supervisionary) [:lab_coat:](https://dominicpm.github.io/publications/mulligan-supervisionary-2022.pdf) - experimental proof-checking system for Gordon's higher-order logic.
 - [t3p](https://github.com/skbaek/tesc/tree/master/t3p-rs) - optimized TESC (Theory-Extensible Sequent Calculus) verifier.
 - [Verifier](https://github.com/trivial-rs/verifier) [:package:](https://crates.io/crates/trivial-verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
 
@@ -365,6 +366,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [mcmfb](https://github.com/mcmfb) - lambda_calc.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
+- [Dominic Mulligan](https://dominicpm.github.io/) - Supervisionary.
 - [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
 - [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi/) - shari.
