@@ -139,6 +139,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Kani](https://github.com/model-checking/kani) :star:[:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf) - bit-precise model-checker, ensures that unsafe Rust code is actually safe.
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2/).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
+- [Metamath-knife](https://github.com/david-a-wheeler/metamath-knife) - verify Metamath proofs.
 - [pocket_prover-set](https://github.com/advancedresearch/pocket_prover-set) [:package:](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check):diamonds: - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
 - [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc) - checker for the LFSC proof language.
@@ -300,7 +301,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 68 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 72 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 40 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 26 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 25 entries. :100:
@@ -315,7 +316,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 5 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries. :100:
-- [dimacs](https://crates.io/keywords/dimacs) - 4 entries. :100:
+- [dimacs](https://crates.io/keywords/dimacs) - 5 entries. :100:
 
 ### Community
 
@@ -402,6 +403,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
 - [Pavol Vargovčík](https://github.com/p4l1ly) - z3-rust.
 - [Herman Venter](https://github.com/hermanventer) - MIRAI, Rust static analysis/verification reading and resources.
+- [David A. Wheeler](https://dwheeler.com/) - Metamath-knife.
 - [Max Willsey](https://www.mwillsey.com) - egg.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
