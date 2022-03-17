@@ -272,6 +272,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) - simulations to learn formal systems as typed first-order term rewriting systems.
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations to learn typed first-order term rewriting systems that perform list routines.
+- [Minimal models](https://github.com/jix/minimal_models_example) - uses a SAT solver to find minimal partial assignments that are model of a CNF formula.
 - [n-queens-sat](https://github.com/erohkohl/n-queens-sat) - modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
 - [nonogrid](https://github.com/tsionyx/nonogrid) [:package:](https://crates.io/crates/nonogrid) - lightning fast nonogram solver.
 - [rummy_to_sat ](https://github.com/neuring/rummy_to_sat) - implementation of a solver for [Rummy](https://en.wikipedia.org/wiki/Rummy).
@@ -348,7 +349,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Brandon H. Gomes](https://github.com/bhgomes) - qbar.
 - [Robert Grosse](https://github.com/Storyyeller) - cryptominisat-rs.
 - [Masaki Hara](https://twitter.com/qnighy) - Logic solver, RatSat.
-- [Jannis Harder](https://jix.one/) - Cnfpack, Flussab CNF, starlit, Varisat, Varisat notebook.
+- [Jannis Harder](https://jix.one/) - Cnfpack, Flussab CNF, Minimal models, starlit, Varisat, Varisat notebook.
 - [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
