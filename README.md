@@ -121,10 +121,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Rust static analysis/verification reading and resources](https://github.com/facebookexperimental/MIRAI/blob/main/documentation/FurtherReading.md) :information_source: - for further reading.
 - [Rust verification tools](https://github.com/project-oak/rust-verification-tools) :star: - collection of tools/libraries about static and dynamic verification of Rust programs.
 - [Rust verification tools (2021)](https://rust-formal-methods.github.io/tools.html) :information_source: - list of Rust verification tools with a bias towards ‘formal methods’ tools.
-- [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021/) :information_source: - list of tools.
+- [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021) :information_source: - list of tools.
 - [RustHorn](https://github.com/hopv/rust-horn) [:lab_coat:](https://link.springer.com/chapter/10.1007%2F978-3-030-44914-8_18) - CHC-based Automated Verification Tool for Rust.
 - [Rustproof](https://github.com/Rust-Proof/rustproof) [:package:](https://crates.io/crates/rustproof):star: - compiler plugin, verification condition generator.
 - [Shuttle](https://github.com/awslabs/shuttle) [:package:](https://crates.io/crates/shuttle):star: - library for testing concurrent Rust code.
+- [Stateright](https://github.com/stateright/stateright) [:package:](https://crates.io/crates/stateright):star: - model checker for implementing distributed systems.
 - [VeriWasm](https://github.com/PLSysSec/veriwasm) [:package:](https://crates.io/crates/veriwasm):star:[:lab_coat:](http://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf) - SFI verifier of Wasm binaries.
 
 #### Cryptographic
@@ -140,7 +141,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [ArcsJs - Provable](https://github.com/project-oak/arcsjs-provable) - set of ArcsJs focused tools for doing proofs on ArcsJs models.
 - [Bounded Registers](https://github.com/auxoncorp/bounded-registers) [:package:](https://crates.io/crates/bounded-registers):star: - high-assurance memory-mapped register interaction library.
 - [Chalk](https://github.com/rust-lang/chalk) [:package:](https://crates.io/crates/chalk-solve)[:package:](https://crates.io/crates/chalk-derive)[:package:](https://crates.io/crates/chalk-engine)[:package:](https://crates.io/crates/chalk-ir)[:package:](https://crates.io/crates/chalk-macros)[:package:](https://crates.io/crates/chalk-recursive)[:package:](https://crates.io/crates/chalk-rust-ir):star: - implements the Rust trait system, based on Prolog-ish logic rules.
-- [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2/).
+- [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
 - [Metamath-knife](https://github.com/david-a-wheeler/metamath-knife) - verify Metamath proofs.
 - [pocket_prover-set](https://github.com/advancedresearch/pocket_prover-set) [:package:](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
@@ -170,7 +171,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [boolector](boolector) [:package:](https://crates.io/crates/boolector) - safe high-level bindings for the [Boolector](https://boolector.github.io) SMT solver.
 - [bitwuzla-sys](https://github.com/fatemender/bitwuzla-sys) [:package:](https://crates.io/crates/bitwuzla-sys) - low-level bindings for the [Bitwuzla](https://bitwuzla.github.io) SMT solver.
-- [boolector-sys](https://github.com/fatemender/boolector-sys) [:package:](https://crates.io/crates/boolector-sys) - low-level bindings for the [Boolector](https://boolector.github.io/) SMT solver.
+- [boolector-sys](https://github.com/fatemender/boolector-sys) [:package:](https://crates.io/crates/boolector-sys) - low-level bindings for the [Boolector](https://boolector.github.io) SMT solver.
 - [CaDiCaL SAT solver](https://github.com/mmaroti/cadical-rs) [:package:](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
 - [cryptominisat-rs](https://github.com/storyyeller/cryptominisat-rs) [:package:](https://crates.io/crates/cryptominisat) - bindings for [CryptoMiniSat](https://github.com/msoos/cryptominisat).
 - [falcon-z3](https://github.com/falconre/falcon-z3) [:package:](https://crates.io/crates/falcon-z3) - bindings for Z3.
@@ -206,7 +207,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Joker Calculus](https://github.com/advancedresearch/joker_calculus.git) [:package:](https://crates.io/crates/joker_calculus) -  implementation of Joker Calculus in Rust.
 - [Kravanenn](https://github.com/ppedrot/kravanenn) :star: - set of tools for Coq.
 - [linear_solver](https://github.com/advancedresearch/linear_solver) [:package:](https://crates.io/crates/linear_solver):star: - linear solver designed to be easy to use with Rust enums.
-- [LogRu](https://github.com/fatho/logru/) [:package:](https://crates.io/crates/logru) - small, embeddable and fast interpreter for a subset of Prolog.
+- [LogRu](https://github.com/fatho/logru) [:package:](https://crates.io/crates/logru) - small, embeddable and fast interpreter for a subset of Prolog.
 - [mm0-rs](https://github.com/digama0/mm0/tree/master/mm0-rs) [:package:](https://crates.io/crates/mm0b_parser)[:package:](https://crates.io/crates/mm0_deepsize)[:package:](https://crates.io/crates/mm0_util):star: - MM0/MM1 server and utilities.
 - [mmb-binutils](https://github.com/trivial-rs/mmb-binutils) - utility tools for Metamath Zero binary proof files.
 - [mmb-types](https://crates.io/crates/mmb-types) - library containing the definitions of the opcodes in the Metamath Zero binary proof files.
@@ -229,10 +230,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ## Books code
 
-*There is [numerous](https://github.com/search?l=Rust&q=tapl&type=Repositories) implementations of TAPL [:book:](https://www.cis.upenn.edu/~bcpierce/tapl/), we keep only the most popular and keep an eye on implementations that worth attention.*
+*There is [numerous](https://github.com/search?l=Rust&q=tapl&type=Repositories) implementations of TAPL [:book:](https://www.cis.upenn.edu/~bcpierce/tapl), we keep only the most popular and keep an eye on implementations that worth attention.*
 
 - [logic-rs](https://github.com/ixjf/logic-rs) [:book:](https://ruccs.rutgers.edu/lepore-meaning-and-argument/lepore-about-the-book):skull::star: - parser of relational predicate logic & truth tree solver
-- [plar-rs](https://github.com/nikomatsakis/plar-rs) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp/)[:ghost:](https://github.com/newca12/plar-rs) - exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
+- [plar-rs](https://github.com/nikomatsakis/plar-rs) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp)[:ghost:](https://github.com/newca12/plar-rs) - exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
 - [tapl](https://github.com/v4kst1z/tapl) - implementation of TAPL.
 - [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star: - another collection of implementations of TAPL.
 - [tnt](https://github.com/SymmetricChaos/tnt) [:book:](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)[:package:](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher & Bach.
@@ -243,7 +244,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [egglog](https://github.com/philzook58/egglog) :star: - using the egg library with a file format and semantics similar to datalog.
 - [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) :star: - massively parallel, optimal functional runtime.
 - [Last Order Logic](https://github.com/advancedresearch/last_order_logic.git) [:package:](https://crates.io/crates/last_order_logic) - experimental logical language.
-- [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util/):skull::star: - became Voile.
+- [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util):skull::star: - became Voile.
 - [Narc](https://github.com/owo-lang/narc-rs) [:package:](https://crates.io/crates/nar):star: - dependently-typed programming language with Agda style dependent pattern matching.
 - [Pikelet](https://github.com/pikelet-lang/pikelet) [:package:](https://crates.io/crates/pikelet):star: - small, functional, dependently typed programming language.
 - [proto-vulcan](https://github.com/terohuttunen/proto-vulcan) [:package:](https://crates.io/crates/proto-vulcan)[:package:](https://crates.io/crates/proto-vulcan-macros) - miniKanren-family relational logic programming language.
@@ -251,7 +252,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Symmetric Interaction Calculus](https://github.com/maiavictor/symmetric-interaction-calculus) :star: - match the optimal λ-calculus reduction algorithm perfectly.
 - [tako](https://github.com/Cypher1/tako) -  experimental programming language for ergonomic software verification.
 - [TIP](https://github.com/v4kst1z/TIP) :baby_chick: - imperative programming language aimed at teaching fundamental concepts of static program analysis.
-- [Untyped Concatenative Calculus](https://github.com/dawn-lang/ucc) - toy programming language and prototype for [Dawn](https://www.dawn-lang.org/).
+- [Untyped Concatenative Calculus](https://github.com/dawn-lang/ucc) - toy programming language and prototype for [Dawn](https://www.dawn-lang.org).
 - [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util):skull::star: - became Narc.
 
 ## Kanren
@@ -288,7 +289,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Books
 
-- [Verification for Dummies: SMT and Induction](https://ocamlpro.github.io/verification_for_dummies/) - broadly discusses induction as a formal verification technique.
+- [Verification for Dummies: SMT and Induction](https://ocamlpro.github.io/verification_for_dummies) - broadly discusses induction as a formal verification technique.
 
 ### Thesis
 
@@ -297,11 +298,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Blogs
 
-- [A Formal Verification of Rust's Binary Search Implementation.](https://kha.github.io/) :uk:
+- [A Formal Verification of Rust's Binary Search Implementation.](https://kha.github.io) :uk:
 - [Splr notebook.](https://shnarazk.github.io/tag/splr) :jp:
 - [Research notebook about improving with Rust the performance of nonclausal automated theorem provers.](https://github.com/01mf02/adam-notes) :uk::diamonds:
 - [Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs.](https://project-oak.github.io/rust-verification-tools) :uk:
-- [Varisat notebook.](https://jix.one/blog/rust/) :uk:
+- [Varisat notebook.](https://jix.one/blog/rust) :uk:
 
 ### Crates keywords
 
@@ -327,33 +328,33 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib, second_opinion.
-- [Yechan Bae](https://qwaz.github.io/) - Rudra, Satire.
+- [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Mathieu Baudet](https://github.com/matbd) - smt2utils.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
-- [James Bornholt](https://www.cs.utexas.edu/~bornholt/) - Shuttle.
+- [James Bornholt](https://www.cs.utexas.edu/~bornholt) - Shuttle.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - FRAT-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
-- [Simon Cruanes](https://simon.cedeela.fr/) - BatSat.
+- [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, Rust verification tools (2021).
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir.
-- [Thomas Dziedzic](https://www.thomasdziedzic0.com/) - lambda_calculus.
+- [Thomas Dziedzic](https://www.thomasdziedzic0.com) - lambda_calculus.
 - [endeav0r](https://github.com/endeav0r) - falcon-z3.
-- [Aodhnait Étaín](https://aodhneine.github.io/) - Esther.
+- [Aodhnait Étaín](https://aodhneine.github.io) - Esther.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, Lambda Term Parsing, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
 - [FireFighterDuck](https://github.com/firefighterduck) - Alice_rs, Kissat-rs.
 - [Robin Freyler](https://robbepop.github.io) - CNF Parser, DIMACS Parser, Stevia.
-- [Galois, Inc.](http://galois.com/) - crux-mir.
+- [Galois, Inc.](http://galois.com) - crux-mir.
 - [Nathan Graule ](https://github.com/SolarLiner) - rs-logik.
 - [Brandon H. Gomes](https://github.com/bhgomes) - qbar.
 - [Robert Grosse](https://github.com/Storyyeller) - cryptominisat-rs.
 - [Masaki Hara](https://twitter.com/qnighy) - Logic solver, RatSat.
-- [Jannis Harder](https://jix.one/) - Cnfpack, Flussab CNF, Minimal models, starlit, Varisat, Varisat notebook.
+- [Jannis Harder](https://jix.one) - Cnfpack, Flussab CNF, Minimal models, starlit, Varisat, Varisat notebook.
 - [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
@@ -361,7 +362,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
 - [Ivan Ladelshchikov](https://github.com/tsionyx) - nonogrid.
-- [lcnr](https://lcnr.de/) - cobalt.
+- [lcnr](https://lcnr.de) - cobalt.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper.
 - [Carl Lerche](https://github.com/carllerche) - Loom.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
@@ -375,16 +376,17 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [mcmfb](https://github.com/mcmfb) - lambda_calc.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
-- [Dominic Mulligan](https://dominicpm.github.io/) - Supervisionary.
+- [Dominic Mulligan](https://dominicpm.github.io) - Supervisionary.
+- [Jon Nadal](https://github.com/jonnadal) - Stateright.
 - [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
 - [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Caso, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
-- [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi/) - shari.
+- [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi) - shari.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Chris Patuzzo](https://tuzz.tech) - Supermux, Supersat.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn. 
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
-- [Joshua Pratt](https://blog.mimir.systems/) - ArcsJs - Provable, tako.
+- [Joshua Pratt](https://blog.mimir.systems) - ArcsJs - Provable, tako.
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, SATCoP, tptp.
 - [Alastair Reid](https://alastairreid.github.io) - Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs,Rust verification tools ,Rust verification tools list.
 - [Nathan Ringo](https://remexre.xyz) - FALL.
@@ -392,7 +394,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
 - [Salman Saghafi](https://github.com/salmans) - Rusty Razor.
 - [Michael Salter](https://github.com/salterm) - Rustproof, rustproof-libsmt.
-- [Ryan Schroeder](https://ryan-s.net/) - AbsoluteUnity, epilog.
+- [Ryan Schroeder](https://ryan-s.net) - AbsoluteUnity, epilog.
 - [Carol Schulze](https://github.com/Ereski) - gpp-solver.
 - [Srinath Setty](https://www.microsoft.com/en-us/research/people/srinath) - Nova, Spartan.
 - [skbaek](https://github.com/skbaek) - t3p.
@@ -409,12 +411,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
 - [Pavol Vargovčík](https://github.com/p4l1ly) - z3-rust.
 - [Herman Venter](https://github.com/hermanventer) - MIRAI, Rust static analysis/verification reading and resources.
-- [David A. Wheeler](https://dwheeler.com/) - Metamath-knife.
+- [David A. Wheeler](https://dwheeler.com) - Metamath-knife.
 - [Max Willsey](https://www.mwillsey.com) - egg.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Eric Zhang](https://www.ekzhang.com) - µKanren-rs.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
-- [Li Zhuohua](https://zhuohua.me/) - MirChecker.
+- [Li Zhuohua](https://zhuohua.me) - MirChecker.
 - [Philip Zucker](http://www.philipzucker.com) - egglog.
