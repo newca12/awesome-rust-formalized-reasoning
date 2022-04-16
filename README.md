@@ -293,6 +293,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Thesis
 
+- [Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy](https://github.com/shiatsumat/master-thesis) - thesis.
 - [Simple Verification of Rust Programs via Functional Purification](https://pp.ipd.kit.edu/uploads/publikationen/ullrich16masterarbeit.pdf) - thesis.
 - [Understanding and Evolving the Rust Programming Language](https://www.ralfj.de/research/thesis.html) - formal foundations: RustBelt & Stacked Borrows.
 
@@ -306,7 +307,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 72 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 75 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 40 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 26 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 25 entries. :100:
@@ -330,7 +331,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib, second_opinion.
 - [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
-- [Mathieu Baudet](https://github.com/matbd) - smt2utils.
+- [Mathieu Baudet](https://github.com/ma2bd) - smt2utils.
 - [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - Shuttle.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - FRAT-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
@@ -372,7 +373,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal.
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, uasat-rs. 
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, Kani, plar-rs.
-- [Yusuke Matsushita](https://github.com/shiatsumat) - RustHorn.
+- [Yusuke Matsushita](https://github.com/shiatsumat) - Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy, RustHorn.
 - [mcmfb](https://github.com/mcmfb) - lambda_calc.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
