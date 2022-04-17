@@ -110,6 +110,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Creusot](https://github.com/xldenis/creusot) :star: - tool for deductive verification of Rust code.
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) :star: - static simulator for Rust programs.
+- [cwe_checker](https://github.com/fkie-cad/cwe_checker) :star: - finds vulnerable patterns in binary executables.
 - [electrolysis](https://github.com/Kha/electrolysis) :star: - tool for formally verifying Rust programs by transpiling them into the Lean 2 theorem prover.
 - [Kani](https://github.com/model-checking/kani) :star:[:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf) - bit-precise model-checker, ensures that unsafe Rust code is actually safe.
 - [Loom](https://github.com/tokio-rs/loom) [:package:](https://crates.io/crates/loom):star: - concurrency permutation testing tool for Rust.
@@ -342,11 +343,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt Library & Benchmarks, Rust verification tools (2021).
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
-- [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
+- [Andrii Dmytrenko](https://github.com/Antti) - lapjv.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com) - lambda_calculus.
 - [endeav0r](https://github.com/endeav0r) - falcon-z3.
+- [Enkelmann](https://github.com/Enkelmann) - cwe_checker.
 - [Aodhnait Étaín](https://aodhneine.github.io) - Esther.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, Lambda Term Parsing, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
 - [FireFighterDuck](https://github.com/firefighterduck) - Alice_rs, Kissat-rs.
