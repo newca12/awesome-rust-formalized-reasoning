@@ -123,6 +123,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Rust verification tools (2021)](https://rust-formal-methods.github.io/tools.html) :information_source: - list of Rust verification tools with a bias towards ‘formal methods’ tools.
 - [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021) :information_source: - list of tools.
 - [RustHorn](https://github.com/hopv/rust-horn) [:lab_coat:](https://link.springer.com/chapter/10.1007%2F978-3-030-44914-8_18) - CHC-based Automated Verification Tool for Rust.
+- [RustHornBelt Library & Benchmarks](https://github.com/xldenis/rhb-specs) [:lab_coat:](https://zenodo.org/record/6426048) - support paper in preview.
 - [Rustproof](https://github.com/Rust-Proof/rustproof) [:package:](https://crates.io/crates/rustproof):star: - compiler plugin, verification condition generator.
 - [Shuttle](https://github.com/awslabs/shuttle) [:package:](https://crates.io/crates/shuttle):star: - library for testing concurrent Rust code.
 - [Stateright](https://github.com/stateright/stateright) [:package:](https://crates.io/crates/stateright):star: - model checker for implementing distributed systems.
@@ -338,7 +339,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
 - [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
-- [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, Rust verification tools (2021).
+- [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt Library & Benchmarks, Rust verification tools (2021).
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
 - [Andrii Dmytrenko](https://uk.linkedin.com/in/andriidmytrenko) - lapjv.
