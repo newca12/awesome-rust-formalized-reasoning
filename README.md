@@ -129,6 +129,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Shuttle](https://github.com/awslabs/shuttle) [:package:](https://crates.io/crates/shuttle):star: - library for testing concurrent Rust code.
 - [Stateright](https://github.com/stateright/stateright) [:package:](https://crates.io/crates/stateright):star: - model checker for implementing distributed systems.
 - [VeriWasm](https://github.com/PLSysSec/veriwasm) [:package:](https://crates.io/crates/veriwasm):star:[:lab_coat:](http://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf) - SFI verifier of Wasm binaries.
+- [verus](https://github.com/secure-foundations/verus) :star: - verified subset of Rust for low-level systems code.
 
 #### Cryptographic
 
@@ -366,6 +367,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
 - [Ivan Ladelshchikov](https://github.com/tsionyx) - nonogrid.
+- [Andrea Lattuada](https://github.com/utaal) - verus.
 - [lcnr](https://lcnr.de) - cobalt.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper.
 - [Carl Lerche](https://github.com/carllerche) - Loom.
