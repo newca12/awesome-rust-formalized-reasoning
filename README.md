@@ -130,12 +130,14 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Stateright](https://github.com/stateright/stateright) [:package:](https://crates.io/crates/stateright):star: - model checker for implementing distributed systems.
 - [VeriWasm](https://github.com/PLSysSec/veriwasm) [:package:](https://crates.io/crates/veriwasm):star:[:lab_coat:](http://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf) - SFI verifier of Wasm binaries.
 - [verus](https://github.com/secure-foundations/verus) :star: - verified subset of Rust for low-level systems code.
+- [Xori](https://github.com/endgameinc/xori) :star: - static analysis library for PE32, 32+ and shellcode.
 
 #### Cryptographic
 
 - [Nova](https://github.com/Microsoft/Nova) [:package:](https://crates.io/crates/nova-snark):star: - high-speed recursive SNARK (a SNARK proof system.
 - [OpenZKP Stark](https://github.com/0xProject/OpenZKP/tree/master/crypto/stark) [:package:](https://crates.io/crates/zkp-stark):star: - implementation of STARK zero-knowledge-proofs.
 - [Polygon Miden](https://github.com/maticnetwork/miden) [:package:](https://crates.io/crates/miden)[:package:](https://crates.io/crates/miden-air)[:package:](https://crates.io/crates/miden-assembly)[:package:](https://crates.io/crates/miden-core)[:package:](https://crates.io/crates/miden-processor)[:package:](https://crates.io/crates/miden-verifier):star: - STARK-based virtual machine.
+- [RISC Zero](https://github.com/risc0/risc0)[:package:](https://crates.io/crates/risc0-zkp-core)[:package:](https://crates.io/crates/risc0-zkp-verify)[:package:](https://crates.io/crates/risc0-zkvm-core)[:package:](https://crates.io/crates/risc0-zkvm-serde)[:package:](https://crates.io/crates/risc0-zkvm-verify):star: -  zero-knowledge verifiable general computing platform.
 - [Spartan](https://github.com/microsoft/Spartan) [:package:](https://crates.io/crates/spartan):star: - high-speed zero-knowledge proof system.
 - [Winterfell](https://github.com/novifinancial/winterfell) [:package:](https://crates.io/crates/winter-air)[:package:](https://crates.io/crates/winter-crypto)[:package:](https://crates.io/crates/winterfell)[:package:](https://crates.io/crates/winter-fri)[:package:](https://crates.io/crates/winter-math)[:package:](https://crates.io/crates/winter-prover)[:package:](https://crates.io/crates/winter-utils)[:package:](https://crates.io/crates/winter-verifier):star: - a STARK prover and verifier for arbitrary computations.
 
@@ -310,8 +312,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 75 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 40 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 76 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 41 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 26 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 25 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 24 entries. :100:
@@ -368,11 +370,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
 - [Ivan Ladelshchikov](https://github.com/tsionyx) - nonogrid.
 - [Andrea Lattuada](https://github.com/utaal) - verus.
+- [Frank Laub](https://github.com/flaub) - RISC Zero.
 - [lcnr](https://lcnr.de) - cobalt.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper.
 - [Carl Lerche](https://github.com/carllerche) - Loom.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
+- [Michael Madden](https://github.com/mikemadden42) - Xori.
 - [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus.
 - [Victor Maia](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Symmetric Interaction Calculus.
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal.
