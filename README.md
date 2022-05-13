@@ -49,6 +49,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - Popular :star:
 - Research paper implementation :lab_coat:
 - Toy project :baby_chick:
+- Video :tv:
 - WIP :construction:
 
 ## Projects
@@ -283,6 +284,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations to learn typed first-order term rewriting systems that perform list routines.
 - [Minimal models](https://github.com/jix/minimal_models_example) - uses a SAT solver to find minimal partial assignments that are model of a CNF formula.
 - [n-queens-sat](https://github.com/erohkohl/n-queens-sat) - modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
+- [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/watch?v=Ra_Fk7JFMoo):star: - Not Coq. Simple expression transformer that is not Coq.
 - [nonogrid](https://github.com/tsionyx/nonogrid) [:package:](https://crates.io/crates/nonogrid) - lightning fast nonogram solver.
 - [rummy_to_sat ](https://github.com/neuring/rummy_to_sat) - implementation of a solver for [Rummy](https://en.wikipedia.org/wiki/Rummy).
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
@@ -417,6 +419,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Bobbin Threadbare](https://github.com/bobbinth) - Polygon Miden.
 - [Hitoshi Togasaki](https://github.com/togatoga) - screwsat.
 - [Aaron Trent](https://github.com/novacrazy) - tribool.
+- [Tsoding](https://tsoding.org) - Noq.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
 - [Pavol Vargovčík](https://github.com/p4l1ly) - z3-rust.
