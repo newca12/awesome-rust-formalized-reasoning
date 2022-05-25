@@ -284,7 +284,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations to learn typed first-order term rewriting systems that perform list routines.
 - [Minimal models](https://github.com/jix/minimal_models_example) - uses a SAT solver to find minimal partial assignments that are model of a CNF formula.
 - [n-queens-sat](https://github.com/erohkohl/n-queens-sat) - modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
-- [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/watch?v=Ra_Fk7JFMoo)[:tv:](https://www.youtube.com/watch?v=LjI8-JyR864):star: - Not Coq. Simple expression transformer that is not Coq.
+- [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/watch?v=Ra_Fk7JFMoo)[:tv:](https://www.youtube.com/watch?v=LjI8-JyR864)[:tv:](https://www.youtube.com/watch?v=Ma4hPxc107s):star: - Not Coq. Simple expression transformer that is not Coq.
 - [nonogrid](https://github.com/tsionyx/nonogrid) [:package:](https://crates.io/crates/nonogrid) - lightning fast nonogram solver.
 - [rummy_to_sat ](https://github.com/neuring/rummy_to_sat) - implementation of a solver for [Rummy](https://en.wikipedia.org/wiki/Rummy).
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
