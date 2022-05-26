@@ -249,6 +249,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [egglog](https://github.com/philzook58/egglog) :star: - using the egg library with a file format and semantics similar to datalog.
 - [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) :star: - massively parallel, optimal functional runtime.
+- [Kind2](https://github.com/Kindelia/Kind2) [:package:](https://crates.io/crates/kind2):star: - modern proof language prototype successor of [Kind-Lang](https://github.com/kindelia/kind).
 - [Last Order Logic](https://github.com/advancedresearch/last_order_logic.git) [:package:](https://crates.io/crates/last_order_logic) - experimental logical language.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util):skull::star: - became Voile.
 - [Narc](https://github.com/owo-lang/narc-rs) [:package:](https://crates.io/crates/nar):star: - dependently-typed programming language with Agda style dependent pattern matching.
@@ -370,6 +371,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
 - [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
+- [Alexey Kutepov](https://tsoding.org) - Noq.
 - [Ivan Ladelshchikov](https://github.com/tsionyx) - nonogrid.
 - [Andrea Lattuada](https://github.com/utaal) - verus.
 - [Frank Laub](https://github.com/flaub) - RISC Zero.
@@ -380,7 +382,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
 - [Michael Madden](https://github.com/mikemadden42) - Xori.
 - [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus.
-- [Victor Maia](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Symmetric Interaction Calculus.
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal.
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, uasat-rs. 
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, Kani, plar-rs.
@@ -414,12 +415,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
+- [Victor Taelin](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Kind2, Symmetric Interaction Calculus.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Fabian Thorand](https://github.com/fatho) - LogRu.
 - [Bobbin Threadbare](https://github.com/bobbinth) - Polygon Miden.
 - [Hitoshi Togasaki](https://github.com/togatoga) - screwsat.
 - [Aaron Trent](https://github.com/novacrazy) - tribool.
-- [Tsoding](https://tsoding.org) - Noq.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
 - [Pavol Vargovčík](https://github.com/p4l1ly) - z3-rust.
