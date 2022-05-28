@@ -109,6 +109,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 #### Static Analysis & Rust verification tools
 
+- [contracts](https://gitlab.com/karroffel/contracts) [:package:](https://crates.io/crates/contracts):star: - implements "[Design By Contract](https://en.wikipedia.org/wiki/Design_by_contract)" via procedural macros.
 - [Creusot](https://github.com/xldenis/creusot) :star: - tool for deductive verification of Rust code.
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) :star: - static simulator for Rust programs.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) :star: - finds vulnerable patterns in binary executables.
@@ -315,10 +316,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 76 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 79 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 41 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 27 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 26 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 25 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 24 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 8 entries. :100:
@@ -369,6 +370,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
+- [karroffel](https://gitlab.com/karroffel) - contracts.
 - [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
 - [Alexey Kutepov](https://tsoding.org) - Noq.
