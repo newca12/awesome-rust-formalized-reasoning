@@ -1,6 +1,8 @@
 ## About ##
 An exhaustive list of all Rust resources regarding automated or semi-automated formalization efforts in any area, constructive mathematics, formal algorithms, and program verification.
 
+***As of May 29, 2022, proof of computation & cryptographic stuff are considered off-topic***
+
 awesome-rust-formalized-reasoning is an EDLA project.
 
 The purpose of [edla.org](http://www.edla.org) is to promote the state of the art in various domains.
@@ -15,7 +17,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
     - [Misc](#misc)
   - [Verification](#verification)
     - [Static Analysis & Rust verification tools](#static-analysis--rust-verification-tools)
-    - [Cryptographic](#cryptographic)
     - [Misc](#misc)
   - [Libraries](#libraries)
     - [Parser](#parser)
@@ -133,15 +134,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [VeriWasm](https://github.com/PLSysSec/veriwasm) [:package:](https://crates.io/crates/veriwasm):star:[:lab_coat:](http://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf) - SFI verifier of Wasm binaries.
 - [verus](https://github.com/secure-foundations/verus) :star: - verified subset of Rust for low-level systems code.
 - [Xori](https://github.com/endgameinc/xori) :star: - static analysis library for PE32, 32+ and shellcode.
-
-#### Cryptographic
-
-- [Nova](https://github.com/Microsoft/Nova) [:package:](https://crates.io/crates/nova-snark):star: - high-speed recursive SNARK (a SNARK proof system.
-- [OpenZKP Stark](https://github.com/0xProject/OpenZKP/tree/master/crypto/stark) [:package:](https://crates.io/crates/zkp-stark):star: - implementation of STARK zero-knowledge-proofs.
-- [Polygon Miden](https://github.com/maticnetwork/miden) [:package:](https://crates.io/crates/miden)[:package:](https://crates.io/crates/miden-air)[:package:](https://crates.io/crates/miden-assembly)[:package:](https://crates.io/crates/miden-core)[:package:](https://crates.io/crates/miden-processor)[:package:](https://crates.io/crates/miden-verifier):star: - STARK-based virtual machine.
-- [RISC Zero](https://github.com/risc0/risc0)[:package:](https://crates.io/crates/risc0-zkp-core)[:package:](https://crates.io/crates/risc0-zkp-verify)[:package:](https://crates.io/crates/risc0-zkvm-core)[:package:](https://crates.io/crates/risc0-zkvm-serde)[:package:](https://crates.io/crates/risc0-zkvm-verify):star: -  zero-knowledge verifiable general computing platform.
-- [Spartan](https://github.com/microsoft/Spartan) [:package:](https://crates.io/crates/spartan):star: - high-speed zero-knowledge proof system.
-- [Winterfell](https://github.com/novifinancial/winterfell) [:package:](https://crates.io/crates/winter-air)[:package:](https://crates.io/crates/winter-crypto)[:package:](https://crates.io/crates/winterfell)[:package:](https://crates.io/crates/winter-fri)[:package:](https://crates.io/crates/winter-math)[:package:](https://crates.io/crates/winter-prover)[:package:](https://crates.io/crates/winter-utils)[:package:](https://crates.io/crates/winter-verifier):star: - a STARK prover and verifier for arbitrary computations.
 
 #### Misc
 
@@ -327,7 +319,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 6 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 6 entries. :100:
-- [stark](https://crates.io/keywords/stark) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 5 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries. :100:
@@ -337,11 +328,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
-- [ammkrn](https://twitter.com/ammkrn) - anoda, anoda_lib, second_opinion.
+- [ammkrn](https://twitter.com/ammkrn) - nanoda, nanoda_lib, second_opinion.
 - [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Mathieu Baudet](https://github.com/ma2bd) - smt2utils.
-- [Remco Bloemen](https://2π.com) - OpenZKP Stark.
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - Shuttle.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - FRAT-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
@@ -371,12 +361,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
 - [karroffel](https://gitlab.com/karroffel) - contracts.
-- [Irakliy Khaburzaniya](https://github.com/irakliyk) - Winterfell.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
 - [Alexey Kutepov](https://tsoding.org) - Noq.
 - [Ivan Ladelshchikov](https://github.com/tsionyx) - nonogrid.
 - [Andrea Lattuada](https://github.com/utaal) - verus.
-- [Frank Laub](https://github.com/flaub) - RISC Zero.
 - [lcnr](https://lcnr.de) - cobalt.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper.
 - [Carl Lerche](https://github.com/carllerche) - Loom.
@@ -411,7 +399,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Michael Salter](https://github.com/salterm) - Rustproof, rustproof-libsmt.
 - [Ryan Schroeder](https://ryan-s.net) - AbsoluteUnity, epilog.
 - [Carol Schulze](https://github.com/Ereski) - gpp-solver.
-- [Srinath Setty](https://www.microsoft.com/en-us/research/people/srinath) - Nova, Spartan.
 - [skbaek](https://github.com/skbaek) - t3p.
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, Splr notebook, sudoku_sat.
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
@@ -420,7 +407,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Victor Taelin](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Kind2, Symmetric Interaction Calculus.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Fabian Thorand](https://github.com/fatho) - LogRu.
-- [Bobbin Threadbare](https://github.com/bobbinth) - Polygon Miden.
 - [Hitoshi Togasaki](https://github.com/togatoga) - screwsat.
 - [Aaron Trent](https://github.com/novacrazy) - tribool.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
