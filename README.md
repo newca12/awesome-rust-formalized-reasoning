@@ -31,7 +31,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Resources](#resources)
   - [Books](#books)
   - [Crates keywords](#crates-keywords)
-  - [Thesis](#thesis)
+  - [Research Paper & Thesis](#research-paper--thesis)
   - [Blogs](#blogs)
   - [Community](#community)
 
@@ -293,9 +293,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Verification for Dummies: SMT and Induction](https://ocamlpro.github.io/verification_for_dummies) - broadly discusses induction as a formal verification technique.
 
-### Thesis
+### Research Paper & Thesis
 
 - [Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy](https://github.com/shiatsumat/master-thesis) - thesis.
+- [Hardware/Software Co-Assurance using the Rust Programming Language and ACL2](https://arxiv.org/abs/2205.11709v1)
 - [Simple Verification of Rust Programs via Functional Purification](https://pp.ipd.kit.edu/uploads/publikationen/ullrich16masterarbeit.pdf) - thesis.
 - [Understanding and Evolving the Rust Programming Language](https://www.ralfj.de/research/thesis.html) - formal foundations: RustBelt & Stacked Borrows.
 
@@ -357,6 +358,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Robert Grosse](https://github.com/Storyyeller) - cryptominisat-rs.
 - [Masaki Hara](https://twitter.com/qnighy) - Logic solver, RatSat.
 - [Jannis Harder](https://jix.one) - Cnfpack, Flussab CNF, Minimal models, starlit, Varisat, Varisat notebook.
+- [David S. Hardin](https://github.com/david-s-hardin) - Hardware/Software Co-Assurance using the Rust Programming Language and ACL2.
 - [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
