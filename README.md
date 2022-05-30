@@ -17,12 +17,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
     - [Misc](#misc)
   - [Verification](#verification)
     - [Static Analysis & Rust verification tools](#static-analysis--rust-verification-tools)
-    - [Misc](#misc)
+    - [Misc](#misc-1)
   - [Libraries](#libraries)
     - [Parser](#parser)
     - [Bindings](#bindings)
     - [Translator](#translator)
-    - [Misc](#misc)
+    - [Misc](#misc-2)
   - [Books code](#books-code)
   - [Programming Language](#programming-language)
   - [Kanren](#kanren)
@@ -197,6 +197,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Alice_rs](https://github.com/firefighterduck/alice_rs) [:lab_coat:](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/unroll_collapse_withproofs.pdf)[:lab_coat:](https://www21.in.tum.de/teaching/sar/SS20/8.pdf) - implementation of a decision procedure for A Decidable Fragment of Separation Logic.
 - [Avatar Hypergraph Rewriting](https://github.com/advancedresearch/avatar_hypergraph_rewriting) [:package:](https://crates.io/crates/avatar_hypergraph_rewriting) - hypergraph rewriting system with avatars for symbolic distinction.
 - [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
+- [coc](https://github.com/azdavis/coc) - the calculus of constructions.
 - [compiler](https://github.com/trivial-rs/compiler) [:package:](https://crates.io/crates/trivial-compiler):baby_chick: - trivial compiler framework for Metamath Zero binary proofs.
 - [discrimination-tree](https://github.com/MichaelRawson/discrimination-tree) [:package:](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
 - [egg](https://github.com/egraphs-good/egg) [:package:](https://crates.io/crates/egg):star: - flexible, high-performance e-graph library.
@@ -339,6 +340,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
 - [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
+- [Ariel Davis](https://azdavis.net) - coc.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt Library & Benchmarks, Rust verification tools (2021).
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
