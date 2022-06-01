@@ -95,7 +95,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Esther](https://github.com/aodhneine/esther) :construction: - simple automated proof assistant.
 - [gpp-solver](https://github.com/Ereski/gpp-solver) [:package:](https://crates.io/crates/gpp-solver) - small hybrid push-pull solver/planner that has the best of both worlds.
 - [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
-- [lapjv](https://github.com/Antti/lapjv-rust) [:package:](https://crates.io/crates/lapjv) - linear Assignmment Problem solver using Jonker-Volgenant algorithm.
 - [lickety](https://github.com/MichaelRawson/lickety) - prototype system for linear resolution with splitting.
 - [linear_solver](https://github.com/advancedresearch/linear_solver) [:package:](https://crates.io/crates/linear_solver):star: - linear solver designed to be easy to use with Rust enums.
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - logic solver.
@@ -345,7 +344,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt Library & Benchmarks, Rust verification tools (2021).
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
-- [Andrii Dmytrenko](https://github.com/Antti) - lapjv.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com) - lambda_calculus.
