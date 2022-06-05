@@ -44,7 +44,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - Book implementation :book:
 - Crate(s) :package:
 - Crates keyword fully listed :100:
-- Deleted :recycle:
+- Deleted by author :recycle:
 - Exhumated :ghost:
 - List of resources :information_source:
 - Popular :star:
@@ -105,6 +105,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs) - solver using the propositional tableaux method.
 - [qbar](https://github.com/qdeduction/qbar) [:package:](https://crates.io/crates/qbar) - experimental automated theorem verifier/prover and proof assistant.
 - [reachability_solver](https://github.com/advancedresearch/reachability_solver) [:package:](https://crates.io/crates/reachability_solver) - linear reachability solver for directional edges.
+- [relsat-rs](https://github.com/mmaroti/relsat-rs) :baby_chick: - Experiments with  provers.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
 
@@ -377,7 +378,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Michael Madden](https://github.com/mikemadden42) - Xori.
 - [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus.
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal.
-- [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, uasat-rs. 
+- [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, relsat-rs, uasat-rs.
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, Kani, plar-rs.
 - [Yusuke Matsushita](https://github.com/shiatsumat) - Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy, RustHorn.
 - [mcmfb](https://github.com/mcmfb) - lambda_calc.
