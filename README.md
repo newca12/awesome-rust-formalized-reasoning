@@ -258,6 +258,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [TIP](https://github.com/v4kst1z/TIP) :baby_chick: - imperative programming language aimed at teaching fundamental concepts of static program analysis.
 - [Untyped Concatenative Calculus](https://github.com/dawn-lang/ucc) - toy programming language and prototype for [Dawn](https://www.dawn-lang.org).
 - [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util):skull::star: - became Narc.
+- [zz](https://github.com/zetzit/zz) [:package:](https://crates.io/crates/zz):skull::star: - zymbolic verifier and tranzpiler to bare metal C.
 
 ## Kanren
 
@@ -393,7 +394,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi) - shari.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Chris Patuzzo](https://tuzz.tech) - Supermux, Supersat.
-- [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn. 
+- [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn.
+- [Arvid E. Picciani](https://github.com/aep) - zz.
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
 - [Joshua Pratt](https://blog.mimir.systems) - ArcsJs - Provable, tako.
