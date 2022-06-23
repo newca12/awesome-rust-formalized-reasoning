@@ -144,6 +144,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [ArcsJs - Provable](https://github.com/project-oak/arcsjs-provable) - set of ArcsJs focused tools for doing proofs on ArcsJs models.
 - [Bounded Registers](https://github.com/auxoncorp/bounded-registers) [:package:](https://crates.io/crates/bounded-registers):star: - high-assurance memory-mapped register interaction library.
 - [Chalk](https://github.com/rust-lang/chalk) [:package:](https://crates.io/crates/chalk-solve)[:package:](https://crates.io/crates/chalk-derive)[:package:](https://crates.io/crates/chalk-engine)[:package:](https://crates.io/crates/chalk-ir)[:package:](https://crates.io/crates/chalk-macros)[:package:](https://crates.io/crates/chalk-recursive)[:package:](https://crates.io/crates/chalk-rust-ir):star: - implements the Rust trait system, based on Prolog-ish logic rules.
+- [Charon](https://github.com/sonmarcho/charon) - interface with the rustc compiler for the purpose of program verification.
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli)[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf):diamonds: - alternative implementation of the logical framework Dedukti.
 - [Metamath-knife](https://github.com/david-a-wheeler/metamath-knife) - verify Metamath proofs.
@@ -364,6 +365,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Jannis Harder](https://jix.one) - Cnfpack, Flussab CNF, Minimal models, starlit, Varisat, Varisat notebook.
 - [David S. Hardin](https://github.com/david-s-hardin) - Hardware/Software Co-Assurance using the Rust Programming Language and ACL2.
 - [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
+- [Son HO](https://github.com/sonmarcho) - Charon.
 - [Sarek Høverstad Skotåm](https://github.com/sarsko) - CreuSAT.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
