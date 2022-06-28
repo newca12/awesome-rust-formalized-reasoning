@@ -276,6 +276,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lambda_calc](https://gitlab.com/mcmfb/lambda-calculator) [:package:](https://crates.io/crates/lambda_calc) - command-line untyped lambda calculus interpreter.
 - [lambda_calculus](https://github.com/ljedrz/lambda_calculus) [:package:](https://crates.io/crates/lambda_calculus):star: - simple, zero-dependency implementation of pure lambda calculus in safe Rust.
 - [lambda_calculus](https://github.com/thomasdziedzic/lambda_calculus) - no description.
+- [lambdacube](https://github.com/felixzhuologist/lambdacube) :construction: - implementation of the lambda cube (and other type stuff).
 - [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl) - lambda calculus parser and evaluator and a separate command line REPL.
 
 ## Unclassified
@@ -431,5 +432,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Eric Zhang](https://www.ekzhang.com) - µKanren-rs.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
+- [Felix Zhu](https://github.com/felixzhuologist) - lambdacube.
 - [Li Zhuohua](https://zhuohua.me) - MirChecker.
 - [Philip Zucker](http://www.philipzucker.com) - egglog.
