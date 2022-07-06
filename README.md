@@ -46,6 +46,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - Crates keyword fully listed :100:
 - Deleted by author :recycle:
 - Exhumated :ghost:
+- Inactive :zzz:
 - List of resources :information_source:
 - Popular :star:
 - Research paper implementation :lab_coat:
@@ -62,6 +63,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [CoP](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/cop) - reimplement automated theorem provers of the leanCoP family, such as leanCoP and nanoCoP.
 - [lazyCoP](https://github.com/MichaelRawson/lazycop) - automatic theorem prover for first-order logic with equality.
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
+- [lickety](https://github.com/MichaelRawson/lickety) - prototype system for linear resolution with splitting.
 - [meancop](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/meancop):skull: - became CoP.
 - [Serkr](https://github.com/mAarnos/Serkr) [:ghost:](https://github.com/newca12/Serkr) :star: - automated theorem prover for first order logic with equality.
 
@@ -96,7 +98,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Esther](https://github.com/aodhneine/esther) :construction: - simple automated proof assistant.
 - [gpp-solver](https://github.com/Ereski/gpp-solver) [:package:](https://crates.io/crates/gpp-solver) - small hybrid push-pull solver/planner that has the best of both worlds.
 - [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
-- [lickety](https://github.com/MichaelRawson/lickety) - prototype system for linear resolution with splitting.
 - [linear_solver](https://github.com/advancedresearch/linear_solver) [:package:](https://crates.io/crates/linear_solver):star: - linear solver designed to be easy to use with Rust enums.
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - logic solver.
 - [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - simple induction and BMC engine.
@@ -320,7 +321,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [logic](https://crates.io/keywords/logic) - 41 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 27 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 26 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 24 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 25 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 8 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 7 entries. :100:
