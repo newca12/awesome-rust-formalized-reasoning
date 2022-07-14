@@ -310,6 +310,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Blogs
 
 - [A Formal Verification of Rust's Binary Search Implementation.](https://kha.github.io) :uk:
+- [Kani Rust Verifier Blog](https://model-checking.github.io/kani-verifier-blog) :uk:
 - [Splr notebook.](https://shnarazk.github.io/tag/splr) :jp:
 - [Research notebook about improving with Rust the performance of nonclausal automated theorem provers.](https://github.com/01mf02/adam-notes) :uk::diamonds:
 - [Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs.](https://project-oak.github.io/rust-verification-tools) :uk:
