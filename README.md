@@ -120,6 +120,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) :star: - static simulator for Rust programs.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) :star: - finds vulnerable patterns in binary executables.
 - [electrolysis](https://github.com/Kha/electrolysis) :star: - tool for formally verifying Rust programs by transpiling them into the Lean 2 theorem prover.
+- [Flux](https://github.com/liquid-rust/flux) :star:[:lab_coat:](https://arxiv.org/pdf/2207.04034.pdf) - liquid types for Rust.
 - [Kani](https://github.com/model-checking/kani) :star:[:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf) - bit-precise model-checker, ensures that unsafe Rust code is actually safe.
 - [Loom](https://github.com/tokio-rs/loom) [:package:](https://crates.io/crates/loom):star: - concurrency permutation testing tool for Rust.
 - [MIRAI](https://github.com/facebookexperimental/MIRAI) [:package:](https://crates.io/crates/mirai-annotations):star: - intended to become a widely used static analysis tool for Rust.
@@ -380,6 +381,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Andrea Lattuada](https://github.com/utaal) - verus.
 - [lcnr](https://lcnr.de) - cobalt.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper.
+- [Nico Lehmann](https://github.com/nilehmann) - Flux.
 - [Carl Lerche](https://github.com/carllerche) - Loom.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
