@@ -32,6 +32,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
   - [Books](#books)
   - [Crates keywords](#crates-keywords)
   - [Research Paper & Thesis](#research-paper--thesis)
+  - [Demos](#demos)
   - [Blogs](#blogs)
   - [Community](#community)
 
@@ -308,6 +309,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Understanding and Evolving the Rust Programming Language](https://www.ralfj.de/research/thesis.html) - 2020.
 - [Simple Verification of Rust Programs via Functional Purification](https://pp.ipd.kit.edu/uploads/publikationen/ullrich16masterarbeit.pdf) - 2016.
 
+### Demos
+- [Artifact Evaluation: Kani Rust Verifier](https://github.com/avanhatt/icse22ae-kani) [:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf) - Kani Rust Model Checker artifact for ICSE 2022 Artifact Evaluation.
+- [flux-demo](https://github.com/liquid-rust/flux-demo) - small examples that demonstrate how flux works.
+
 ### Blogs
 
 - [A Formal Verification of Rust's Binary Search Implementation.](https://kha.github.io) :uk:
@@ -372,6 +377,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Son HO](https://github.com/sonmarcho) - Charon.
 - [Sarek Høverstad Skotåm](https://github.com/sarsko) - CreuSAT.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
+- [Ranjit Jhala](https://github.com/ranjitjhala) - flux-demo.
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
 - [karroffel](https://gitlab.com/karroffel) - contracts.
@@ -427,6 +433,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Aaron Trent](https://github.com/novacrazy) - tribool.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
+- [Alexa VanHattum](https://github.com/avanhatt) - Artifact Evaluation: Kani Rust Verifier (Kani).
 - [Pavol Vargovčík](https://github.com/p4l1ly) - z3-rust.
 - [Herman Venter](https://github.com/hermanventer) - MIRAI, Rust static analysis/verification reading and resources.
 - [David A. Wheeler](https://dwheeler.com) - Metamath-knife.
