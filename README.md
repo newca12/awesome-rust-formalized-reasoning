@@ -34,6 +34,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
   - [Research Paper & Thesis](#research-paper--thesis)
   - [Demos](#demos)
   - [Blogs](#blogs)
+  - [Posts](#posts)
   - [Community](#community)
 
 ---
@@ -322,6 +323,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs.](https://project-oak.github.io/rust-verification-tools) :uk:
 - [Varisat notebook.](https://jix.one/blog/rust) :uk:
 
+### Posts
+
+- [Formally Verifying Rust's Opaque Types](https://dylanj.xyz/posts/rust-coq-opaque-types)
+
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 80 entries. :100:
@@ -379,6 +384,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Ranjit Jhala](https://github.com/ranjitjhala) - flux-demo.
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
+- [Dylan R. Johnston](https://dylanj.xyz) - Formally Verifying Rust's Opaque Types.
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
 - [karroffel](https://gitlab.com/karroffel) - contracts.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
