@@ -83,6 +83,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
 - [Satire](https://github.com/Qwaz/satire) [:package:](https://crates.io/crates/satire) - educational SAT solver.
 - [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) - reimplementation of the SAT-solver described in 'SAT-MICRO: petit mais costaud!'.
+- [scrapsat](https://github.com/togatoga/scrapsat) :construction: - CDCDL SAT Solver.
 - [screwsat](https://github.com/togatoga/screwsat) [:package:](https://crates.io/crates/screwsat):star: - simple CDCL SAT Solver.
 - [slp](https://github.com/solhop/slp) [:package:](https://crates.io/crates/slp):skull: - became SolHOP.
 - [SolHOP](https://github.com/solhop/solhop) [:package:](https://crates.io/crates/solhop) - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
@@ -435,7 +436,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Victor Taelin](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Kind2, Symmetric Interaction Calculus.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Fabian Thorand](https://github.com/fatho) - LogRu.
-- [Hitoshi Togasaki](https://github.com/togatoga) - screwsat.
+- [Hitoshi Togasaki](https://github.com/togatoga) - scrapsat, screwsat.
 - [Aaron Trent](https://github.com/novacrazy) - tribool.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
