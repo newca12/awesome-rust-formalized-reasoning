@@ -259,6 +259,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) :star: - massively parallel, optimal functional runtime.
 - [Kind2](https://github.com/Kindelia/Kind2) [:package:](https://crates.io/crates/kind2):star: - modern proof language prototype successor of [Kind-Lang](https://github.com/kindelia/kind).
 - [Last Order Logic](https://github.com/advancedresearch/last_order_logic.git) [:package:](https://crates.io/crates/last_order_logic) - experimental logical language.
+- [minihl](https://github.com/firefighterduck/minihl) - formal methods playgorund for MiniHeapLang language.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util):skull::star: - became Voile.
 - [Narc](https://github.com/owo-lang/narc-rs) [:package:](https://crates.io/crates/nar):star: - dependently-typed programming language with Agda style dependent pattern matching.
 - [Pikelet](https://github.com/pikelet-lang/pikelet) [:package:](https://crates.io/crates/pikelet):star: - small, functional, dependently typed programming language.
@@ -334,14 +335,14 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 80 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 81 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 41 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 27 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 26 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 25 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 26 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 8 entries. :100:
-- [prover](https://crates.io/keywords/prover) - 7 entries. :100:
+- [prover](https://crates.io/keywords/prover) - 8 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 6 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 6 entries. :100:
@@ -374,7 +375,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Enkelmann](https://github.com/Enkelmann) - cwe_checker.
 - [Aodhnait Étaín](https://aodhneine.github.io) - Esther.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, Lambda Term Parsing, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
-- [FireFighterDuck](https://github.com/firefighterduck) - Alice_rs, Kissat-rs.
+- [FireFighterDuck](https://github.com/firefighterduck) - Alice_rs, Kissat-rs, minihl.
 - [Robin Freyler](https://robbepop.github.io) - CNF Parser, DIMACS Parser, Stevia.
 - [Galois, Inc.](http://galois.com) - crux-mir.
 - [Nathan Graule ](https://github.com/SolarLiner) - rs-logik.
