@@ -258,7 +258,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [egglog](https://github.com/philzook58/egglog) :star: - using the egg library with a file format and semantics similar to datalog.
 - [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) :star: - massively parallel, optimal functional runtime.
-- [isotope-prover-experiments](https://gitlab.com/isotope-project/isotope-prover-experiments) :construction: [:lab_coat:](https://gitlab.com/tekne/phd-proposal/-/blob/main/report.tex) - experimental dependently typed language supporting borrow checking.
+- [isotope-prover-experiments](https://gitlab.com/isotope-project/isotope-prover-experiments) :construction: [:lab_coat:](https://gitlab.com/tekne/phd-proposal/-/blob/main/report.tex) [:lab_coat:](https://gitlab.com/isotope-project/msc-thesis/-/blob/master/thesis.tex) - experimental dependently typed language supporting borrow checking.
 - [Kind2](https://github.com/Kindelia/Kind2) [:package:](https://crates.io/crates/kind2):star: - modern proof language prototype successor of [Kind-Lang](https://github.com/kindelia/kind).
 - [Last Order Logic](https://github.com/advancedresearch/last_order_logic.git) [:package:](https://crates.io/crates/last_order_logic) - experimental logical language.
 - [minihl](https://github.com/firefighterduck/minihl) - formal methods playgorund for MiniHeapLang language.
