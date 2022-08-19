@@ -28,6 +28,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
   - [Programming Language](#programming-language)
   - [Kanren](#kanren)
   - [Lambda Calculus](#lambda-calculus)
+  - [Propositional Logic](#propositional-logic)
   - [Unclassified](#unclassified)
 - [Resources](#resources)
   - [Books](#books)
@@ -112,10 +113,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - simple induction and BMC engine.
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive):star: - fast, brute force, automatic theorem prover for first order logic.
-- [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs) - solver using the propositional tableaux method.
 - [reachability_solver](https://github.com/advancedresearch/reachability_solver) [:package:](https://crates.io/crates/reachability_solver) - linear reachability solver for directional edges.
 - [relsat-rs](https://github.com/mmaroti/relsat-rs) :baby_chick: - Experiments with  provers.
-- [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
 
 ### Verification
@@ -211,7 +210,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [AbsoluteUnity](https://github.com/ray-kast/AbsoluteUnity) - think Prolog, but less capable.
 - [Alice_rs](https://github.com/firefighterduck/alice_rs) [:lab_coat:](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/unroll_collapse_withproofs.pdf)[:lab_coat:](https://www21.in.tum.de/teaching/sar/SS20/8.pdf) - implementation of a decision procedure for A Decidable Fragment of Separation Logic.
 - [Avatar Hypergraph Rewriting](https://github.com/advancedresearch/avatar_hypergraph_rewriting) [:package:](https://crates.io/crates/avatar_hypergraph_rewriting) - hypergraph rewriting system with avatars for symbolic distinction.
-- [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
 - [coc](https://github.com/azdavis/coc) - the calculus of constructions.
 - [compiler](https://github.com/trivial-rs/compiler) [:package:](https://crates.io/crates/trivial-compiler):baby_chick: - trivial compiler framework for Metamath Zero binary proofs.
 - [discrimination-tree](https://github.com/MichaelRawson/discrimination-tree) [:package:](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
@@ -231,8 +229,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [nanoda_lib](https://github.com/ammkrn/nanoda_lib) - type inference/checking functionality based on the Lean theorem prover.
 - [polytype](https://github.com/lucasem/polytype-rs) [:package:](https://crates.io/crates/polytype):star: - Hindley-Milner polymorphic typing system.
 - [program-induction](https://github.com/lucasem/program-induction) [:package:](https://crates.io/crates/programinduction):star: - library for program induction and learning representations.
-- [Prop](https://github.com/advancedresearch/prop) [:package:](https://crates.io/crates/prop) - library for theorem proving with Intuitionistic Propositional Logic.
-- [rs-logik](https://github.com/SolarLiner/rs-logik) [:ghost:](https://github.com/newca12/rs-logik) - propositional logic interpreter.
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-unify](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star: - tool for constructing finite models for first-order theories.
@@ -291,6 +287,19 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lambda_calculus](https://github.com/thomasdziedzic/lambda_calculus) - no description.
 - [lambdacube](https://github.com/felixzhuologist/lambdacube) :construction: - implementation of the lambda cube (and other type stuff).
 - [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl) - lambda calculus parser and evaluator and a separate command line REPL.
+
+## Propositional logic
+- [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
+- [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic) :baby_chick: - crate for propositional logic.
+- [logic-resolver](https://github.com/gustafla/logic-resolver) :baby_chick: - toy implementation of resolution for propositional logic.
+- [plc](https://github.com/trolleyman/plc) - propositional logic calculator.
+- [Prop](https://github.com/advancedresearch/prop) [:package:](https://crates.io/crates/prop) - library for theorem proving with Intuitionistic Propositional Logic.
+- [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs) - solver using the propositional tableaux method.
+- [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
+- [rs-logik](https://github.com/SolarLiner/rs-logik) [:ghost:](https://github.com/newca12/rs-logik) - propositional logic interpreter.
+- [rusty-logic](https://github.com/mcheatham/rusty-logic) :baby_chick: - propositional logic analysis.
+- [simple-proof-assistant](https://github.com/long-long-float/simple-proof-assistant) :baby_chick: - a proof assistant kernel for minimal propositional logic.
+- [validator](https://github.com/Maaarcocr/validator) - small utility to test a propositional logic theorem prover.
 
 ## Unclassified
 
@@ -364,6 +373,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat, Shuttle.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - FRAT-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
+- [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
 - [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
 - [Ariel Davis](https://azdavis.net) - coc.
@@ -432,6 +442,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Alastair Reid](https://alastairreid.github.io) - Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs,Rust verification tools ,Rust verification tools list.
 - [Nathan Ringo](https://remexre.xyz) - FALL.
 - [Erik Rohkohl](https://blogs.itemis.com/author/erik-rohkohl) - n-queens-sat.
+- [Marco Concetto Rudilosso](https://github.com/Maaarcocr) - validator.
 - [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
 - [Salman Saghafi](https://github.com/salmans) - Rusty Razor.
 - [Michael Salter](https://github.com/salterm) - Rustproof, rustproof-libsmt.
@@ -442,10 +453,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
-- [Victor Taelin](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Kind2, Symmetric Interaction Calculus.
+- [Victor Taelin](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Kind2, Symmetric Interaction Calculus..
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Fabian Thorand](https://github.com/fatho) - LogRu.
 - [Hitoshi Togasaki](https://github.com/togatoga) - scrapsat, screwsat.
+- [Callum Tolley](https://github.com/trolleyman) - plc
 - [Aaron Trent](https://github.com/novacrazy) - tribool.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
