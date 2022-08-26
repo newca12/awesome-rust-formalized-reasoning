@@ -43,7 +43,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ## Legend
 
-- Abandoned :skull:
+- Archived :skull:
 - Best in Class :diamonds:
 - Book implementation :book:
 - Crate(s) :package:
@@ -68,7 +68,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lazyCoP](https://github.com/MichaelRawson/lazycop) - automatic theorem prover for first-order logic with equality.
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
 - [lickety](https://github.com/MichaelRawson/lickety) - prototype system for linear resolution with splitting.
-- [meancop](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/meancop):skull: - became CoP.
+- [meancop](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/meancop):recycle: - became CoP.
 - [Serkr](https://github.com/mAarnos/Serkr) [:ghost:](https://github.com/newca12/Serkr) :star: - automated theorem prover for first order logic with equality.
 
 #### SAT Solver
@@ -87,8 +87,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) - reimplementation of the SAT-solver described in 'SAT-MICRO: petit mais costaud!'.
 - [scrapsat](https://github.com/togatoga/scrapsat) :construction: - CDCDL SAT Solver.
 - [screwsat](https://github.com/togatoga/screwsat) [:package:](https://crates.io/crates/screwsat):star: - simple CDCL SAT Solver.
-- [slp](https://github.com/solhop/slp) [:package:](https://crates.io/crates/slp):skull: - became SolHOP.
-- [SolHOP](https://github.com/solhop/solhop) [:package:](https://crates.io/crates/solhop) - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
+- [slp](https://github.com/solhop/slp) [:package:](https://crates.io/crates/slp):recycle: - became SolHOP.
+- [SolHOP](https://github.com/solhop/solhop) [:package:](https://crates.io/crates/solhop):skull: - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
 - [Splr](https://github.com/shnarazk/splr) [:package:](https://crates.io/crates/splr):diamonds::star: - modern CDCL SAT solver.
 - [starlit](https://github.com/jix/starlit) :construction: - CDCL SAT solver.
 - [Stevia](https://github.com/Robbepop/stevia) :star: - simple (unfinished) SMT solver for QF_ABV.
@@ -111,6 +111,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [linear_solver](https://github.com/advancedresearch/linear_solver) [:package:](https://crates.io/crates/linear_solver):star: - linear solver designed to be easy to use with Rust enums.
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - logic solver.
 - [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - simple induction and BMC engine.
+- [minilp](https://github.com/ztlpn/minilp) [:package:](https://crates.io/crates/minilp):star: - linear programming solver.
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive):star: - fast, brute force, automatic theorem prover for first order logic.
 - [reachability_solver](https://github.com/advancedresearch/reachability_solver) [:package:](https://crates.io/crates/reachability_solver) - linear reachability solver for directional edges.
@@ -352,6 +353,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [sat](https://crates.io/keywords/sat) - 26 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 26 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 11 entries.
 - [rewriting](https://crates.io/keywords/rewriting) - 8 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
@@ -469,6 +471,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
+- [Alexey Zatelepin](https://github.com/ztlpn) - minilp.
 - [Eric Zhang](https://www.ekzhang.com) - µKanren-rs.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
 - [Felix Zhu](https://github.com/felixzhuologist) - lambdacube.
