@@ -344,6 +344,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Posts
 
 - [Formally Verifying Rust's Opaque Types](https://dylanj.xyz/posts/rust-coq-opaque-types)
+- [Solving The Witness with Z3](https://www.techofnote.com/witness-part-1)
 
 ### Crates keywords
 
@@ -373,6 +374,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Mathieu Baudet](https://github.com/ma2bd) - smt2utils.
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat, Shuttle.
+- [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - FRAT-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
