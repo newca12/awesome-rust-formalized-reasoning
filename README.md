@@ -96,7 +96,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Varisat](https://github.com/jix/varisat)[:package:](https://crates.io/crates/varisat)[:package:](https://crates.io/crates/varisat-checker)[:package:](https://crates.io/crates/varisat-cli)[:package:](https://crates.io/crates/varisat-dimacs)[:package:](https://crates.io/crates/varisat-formula)[:package:](https://crates.io/crates/varisat-internal-macros)[:package:](https://crates.io/crates/varisat-internal-proof)[:package:](https://crates.io/crates/varisat-lrat):star: - CDCL based SAT solver.
 
 #### Proof assistant
-- [cobalt](https://github.com/lcnr/cobalt) :recycle: - a wip minimal proof assistant.
+- [cobalt](https://github.com/lcnr/cobalt) :recycle:[:ghost:](https://github.com/isgasho/cobalt) - a wip minimal proof assistant.
 - [Esther](https://github.com/aodhneine/esther) :construction: - simple automated proof assistant.
 - [LSTS](https://github.com/andrew-johnson-4/LSTS) [:package:](https://crates.io/crates/lsts):star: - proof assistant that is also a programming language.
 - [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZVE64QKPf6y_TIUwj5nKQ7):star: - Not Coq. Simple expression transformer that is not Coq.
