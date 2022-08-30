@@ -96,6 +96,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Varisat](https://github.com/jix/varisat)[:package:](https://crates.io/crates/varisat)[:package:](https://crates.io/crates/varisat-checker)[:package:](https://crates.io/crates/varisat-cli)[:package:](https://crates.io/crates/varisat-dimacs)[:package:](https://crates.io/crates/varisat-formula)[:package:](https://crates.io/crates/varisat-internal-macros)[:package:](https://crates.io/crates/varisat-internal-proof)[:package:](https://crates.io/crates/varisat-lrat):star: - CDCL based SAT solver.
 
 #### Proof assistant
+- [hakim](https://github.com/babaeee/hakim) - hacky interactive theorem prover.
 - [cobalt](https://github.com/lcnr/cobalt) :recycle:[:ghost:](https://github.com/isgasho/cobalt) - a wip minimal proof assistant.
 - [Esther](https://github.com/aodhneine/esther) :construction: - simple automated proof assistant.
 - [LSTS](https://github.com/andrew-johnson-4/LSTS) [:package:](https://crates.io/crates/lsts):star: - proof assistant that is also a programming language.
@@ -120,6 +121,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [prover(2)](https://github.com/mverleg/prover) :baby_chick: - experiment with integer relation prover.
 - [reachability_solver](https://github.com/advancedresearch/reachability_solver) [:package:](https://crates.io/crates/reachability_solver) - linear reachability solver for directional edges.
 - [relsat-rs](https://github.com/mmaroti/relsat-rs) :baby_chick: - Experiments with  provers.
+- [Sequent solver](https://github.com/Dacit/sequent_prover) :baby_chick: - simple sequent solver.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
 
 ### Verification
@@ -301,6 +303,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Prop](https://github.com/advancedresearch/prop) [:package:](https://crates.io/crates/prop) - library for theorem proving with Intuitionistic Propositional Logic.
 - [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs) - solver using the propositional tableaux method.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
+- [resolution-prover](https://github.com/arbaregni/resolution-prover) - Uses propositional resolution to prove statements and proofs on discord.
 - [rs-logik](https://github.com/SolarLiner/rs-logik) [:ghost:](https://github.com/newca12/rs-logik) - propositional logic interpreter.
 - [rusty-logic](https://github.com/mcheatham/rusty-logic) :baby_chick: - propositional logic analysis.
 - [simple-proof-assistant](https://github.com/long-long-float/simple-proof-assistant) :baby_chick: - a proof assistant kernel for minimal propositional logic.
@@ -374,6 +377,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [ammkrn](https://twitter.com/ammkrn) - nanoda, nanoda_lib, second_opinion.
+- [arbaregni](https://github.com/arbaregni) - resolution-prover.
 - [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Mathieu Baudet](https://github.com/ma2bd) - smt2utils.
@@ -384,6 +388,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
 - [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
+- [Dacit](https://github.com/Dacit) - Sequent solver.
 - [Ariel Davis](https://azdavis.net) - coc.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt Library & Benchmarks, Rust verification tools (2021).
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
@@ -414,6 +419,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
 - [Dylan R. Johnston](https://dylanj.xyz) - Formally Verifying Rust's Opaque Types.
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
+- [Hosein Kalbasi](https://github.com/HKalbasi) - akim.
 - [karroffel](https://gitlab.com/karroffel) - contracts.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
 - [Alexey Kutepov](https://tsoding.org) - Noq.
