@@ -106,6 +106,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
 - [Caso](https://github.com/advancedresearch/caso) [:package:](https://crates.io/crates/caso) - category Theory Solver for Commutative Diagrams.
+- [Cosette Prover](https://github.com/cosette-solver/cosette-prover) [:lab_coat:](https://www.vldb.org/pvldb/vol11/p1482-chu.pdf) - reimplementation of the Cosette prover in Rust.
+- [cyclegg](https://github.com/nadia-polikarpova/cyclegg) - cyclic theorem prover for equational reasoning using egraph.
 - [gpp-solver](https://github.com/Ereski/gpp-solver) [:package:](https://crates.io/crates/gpp-solver) - small hybrid push-pull solver/planner that has the best of both worlds.
 - [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
 - [linear_solver](https://github.com/advancedresearch/linear_solver) [:package:](https://crates.io/crates/linear_solver):star: - linear solver designed to be easy to use with Rust enums.
@@ -114,6 +116,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [minilp](https://github.com/ztlpn/minilp) [:package:](https://crates.io/crates/minilp):star: - linear programming solver.
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive):star: - fast, brute force, automatic theorem prover for first order logic.
+- [prover](https://github.com/varqox/prover) :skull: - first-order logic prover.
+- [prover(2)](https://github.com/mverleg/prover) :baby_chick: - experiment with integer relation prover.
 - [reachability_solver](https://github.com/advancedresearch/reachability_solver) [:package:](https://crates.io/crates/reachability_solver) - linear reachability solver for directional edges.
 - [relsat-rs](https://github.com/mmaroti/relsat-rs) :baby_chick: - Experiments with  provers.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
@@ -424,6 +428,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Michael Madden](https://github.com/mikemadden42) - Xori.
 - [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus.
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal.
+- [Krzysztof Małysa](https://github.com/varqox) - prover.
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, relsat-rs, uasat-rs.
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, Kani, plar-rs.
 - [Yusuke Matsushita](https://github.com/shiatsumat) - Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy, RustHorn.
@@ -440,6 +445,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn.
 - [Arvid E. Picciani](https://github.com/aep) - zz.
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
+- [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova) - cyclegg.
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
 - [Joshua Pratt](https://blog.mimir.systems) - ArcsJs - Provable, tako.
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, lickety, SATCoP, tptp.
@@ -468,6 +474,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Alexa VanHattum](https://github.com/avanhatt) - Artifact Evaluation: Kani Rust Verifier (Kani).
 - [Pavol Vargovčík](https://github.com/p4l1ly) - z3-rust.
 - [Herman Venter](https://github.com/hermanventer) - MIRAI, Rust static analysis/verification reading and resources.
+- [Mark Verleg](https://markv.nl) - prover(2).
+- [Shuxian Wang](https://github.com/wsx-ucb) - Cosette Prover.
 - [David A. Wheeler](https://dwheeler.com) - Metamath-knife.
 - [Max Willsey](https://www.mwillsey.com) - egg.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
