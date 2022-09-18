@@ -116,6 +116,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - simple induction and BMC engine.
 - [minilp](https://github.com/ztlpn/minilp) [:package:](https://crates.io/crates/minilp):star: - linear programming solver.
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
+- [Obvious](https://github.com/hargoniX/obvious) - simple little logic solver and calculator.
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive):star: - fast, brute force, automatic theorem prover for first order logic.
 - [prover](https://github.com/varqox/prover) :skull: - first-order logic prover.
 - [prover(2)](https://github.com/mverleg/prover) :baby_chick: - experiment with integer relation prover.
@@ -201,6 +202,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [libsmt.rs](https://github.com/sushant94/libsmt.rs) - bindings for SMTLIB2.
 - [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star: - generic library to interact with SMT-LIB 2 compliant solvers.
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):skull::star: - generic high-level API for interacting with SMT solvers.
+- [rust_z3prover](https://github.com/hrkzmnm/rust_z3prover) - use Z3 SMT solver from rust.
 - [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt) - fork of libsmt.rs.
 - [z3](https://github.com/prove-rs/z3.rs) [:package:](https://crates.io/crates/z3)[:package:](https://crates.io/crates/z3-sys):star: - high-level and low-level Rust bindings for the Z3 solver.
 - [z3-rust](https://github.com/p4l1ly/z3-rust) [:package:](https://crates.io/crates/z3_ref) - high level bindings for the Microsoft's Z3 SMT solver.
@@ -384,6 +386,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Mathieu Baudet](https://github.com/ma2bd) - smt2utils.
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat, Shuttle.
+- [Henrik Böving](https://github.com/hargoniX) - Obvious.
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
 - [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - FRAT-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
@@ -415,6 +418,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
 - [Son HO](https://github.com/sonmarcho) - Charon.
 - [Sarek Høverstad Skotåm](https://github.com/sarsko) - CreuSAT.
+- [hrkzmnm](https://github.com/hrkzmnm) - rust_z3prover.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Ranjit Jhala](https://github.com/ranjitjhala) - flux-demo.
 - [Andrew Johnson](https://github.com/andrew-johnson-4) - LSTS.
