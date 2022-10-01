@@ -124,6 +124,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [relsat-rs](https://github.com/mmaroti/relsat-rs) :baby_chick: - Experiments with  provers.
 - [Sequent solver](https://github.com/Dacit/sequent_prover) :baby_chick: - simple sequent solver.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
+- [Totsu](https://github.com/convexbrain/Totsu) [:package:](https://crates.io/crates/totsu)[:package:](https://crates.io/crates/totsu_f32cuda)[:package:](https://crates.io/crates/totsu_f64lapack)[:package:](https://crates.io/crates/totsu_core)[:package:]():star: - first-order conic solver for convex optimization problems .
 
 ### Verification
 
@@ -359,7 +360,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 81 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 88 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 41 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 27 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 26 entries. :100:
@@ -392,6 +393,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
+- [convexbrain](https://github.com/convexbrain) - Totsu.
 - [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
 - [Dacit](https://github.com/Dacit) - Sequent solver.
 - [Ariel Davis](https://azdavis.net) - coc.
