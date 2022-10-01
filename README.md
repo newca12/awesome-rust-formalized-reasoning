@@ -123,6 +123,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [relsat-rs](https://github.com/mmaroti/relsat-rs) :baby_chick: - Experiments with  provers.
 - [Sequent solver](https://github.com/Dacit/sequent_prover) :baby_chick: - simple sequent solver.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
+- [stupid-smt](https://github.com/Hoblovski/stupid-smt) :baby_chick: - SMT library. Mainly project at the verification course in THU.
 - [Totsu](https://github.com/convexbrain/Totsu) [:package:](https://crates.io/crates/totsu)[:package:](https://crates.io/crates/totsu_f32cuda)[:package:](https://crates.io/crates/totsu_f64lapack)[:package:](https://crates.io/crates/totsu_core)[:package:]():star: - first-order conic solver for convex optimization problems .
 
 ### Verification
@@ -276,6 +277,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Pikelet](https://github.com/pikelet-lang/pikelet) [:package:](https://crates.io/crates/pikelet):star: - small, functional, dependently typed programming language.
 - [proto-vulcan](https://github.com/terohuttunen/proto-vulcan) [:package:](https://crates.io/crates/proto-vulcan)[:package:](https://crates.io/crates/proto-vulcan-macros) - miniKanren-family relational logic programming language.
 - [Scryer Prolog](https://github.com/mthom/scryer-prolog) [:package:](https://crates.io/crates/scryer-prolog):star: - modern Prolog implementation.
+- [stupid-see](https://github.com/Hoblovski/stupid-see) :baby_chick: - symbolic execution engine. Mainly targeted at the verification course in THU.
 - [Symmetric Interaction Calculus](https://github.com/maiavictor/symmetric-interaction-calculus) :star: - match the optimal λ-calculus reduction algorithm perfectly.
 - [tako](https://github.com/Cypher1/tako) -  experimental programming language for ergonomic software verification.
 - [TIP](https://github.com/v4kst1z/TIP) :baby_chick: - imperative programming language aimed at teaching fundamental concepts of static program analysis.
@@ -422,6 +424,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
 - [Son HO](https://github.com/sonmarcho) - Charon.
 - [Sarek Høverstad Skotåm](https://github.com/sarsko) - CreuSAT.
+- [Hoblovski](https://github.com/Hoblovski) - stupid-see, stupid-smt.
 - [hrkzmnm](https://github.com/hrkzmnm) - rust_z3prover.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Ranjit Jhala](https://github.com/ranjitjhala) - flux-demo.
