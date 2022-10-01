@@ -80,7 +80,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [msat](https://github.com/solhop/msat) [:package:](https://crates.io/crates/msat) - MaxSAT Solver.
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin):star: - reimplementation of MiniSat.
 - [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat) - SAT Solver.
-- [rust-smt-ir](https://github.com/awslabs/rust-smt-ir) - provides an intermediate representation (IR) in Rust for SMT-LIB queries along with tools.
 - [rustsat](https://github.com/jamesbornholt/rustsat) :baby_chick: - toy Rust SAT solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
 - [Satire](https://github.com/Qwaz/satire) [:package:](https://crates.io/crates/satire) - educational SAT solver.
@@ -241,7 +240,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [polytype](https://github.com/lucasem/polytype-rs) [:package:](https://crates.io/crates/polytype):star: - Hindley-Milner polymorphic typing system.
 - [program-induction](https://github.com/lucasem/program-induction) [:package:](https://crates.io/crates/programinduction):star: - library for program induction and learning representations.
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
-- [rust-smt-strings](https://github.com/awslabs/rust-smt-strings) - [:package:](https://crates.io/crates/aws-smt-strings) - library provides support for strings as defined in the SMT-LIB theory of strings.
+- [rust-smt-strings](https://github.com/awslabs/rust-smt-strings) - [:package:](https://crates.io/crates/aws-smt-strings) - library for strings as defined in the SMT-LIB theory of strings.
 - [rust-unify](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star: - tool for constructing finite models for first-order theories.
 - [Satoxid](https://github.com/neuring/satoxid) [:package:](https://crates.io/crates/satoxid) - library to help with encoding SAT problems.
@@ -384,7 +383,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
-- [AWS Labs](https://github.com/awslabs) - rust-smt-ir, rust-smt-ir-examples, rust-smt-strings.
 - [ammkrn](https://twitter.com/ammkrn) - nanoda, nanoda_lib, second_opinion.
 - [arbaregni](https://github.com/arbaregni) - resolution-prover.
 - [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
@@ -405,7 +403,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
-- [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir.
+- [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir, rust-smt-ir-examples, rust-smt-strings.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com) - lambda_calculus.
 - [endeav0r](https://github.com/endeav0r) - falcon-z3.
 - [Enkelmann](https://github.com/Enkelmann) - cwe_checker.
