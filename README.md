@@ -214,6 +214,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [anthem](https://github.com/potassco/anthem) - translate answer set programs to first-order theorem prover language.
 - [Cnfpack](https://github.com/jix/cnfpack) [:package:](https://crates.io/crates/cnfpack) - converts between DIMACS CNF file format and the compressed binary Cnfpack format.
 - [hz-to-mm0](https://github.com/digama0/hz-to-mm0) - translator from HOL Zero / Common HOL to Metamath Zero.
+- [rust-smt-ir](https://github.com/awslabs/rust-smt-ir) [:package:](https://crates.io/crates/aws-smt-ir)[:package:](https://crates.io/crates/aws-smt-ir-derive):star: - intermediate representation (IR) in Rust for SMT-LIB queries.
 
 #### Misc
 
@@ -343,6 +344,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Demos
 - [Artifact Evaluation: Kani Rust Verifier](https://github.com/avanhatt/icse22ae-kani) [:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf) - Kani Rust Model Checker artifact for ICSE 2022 Artifact Evaluation.
 - [flux-demo](https://github.com/liquid-rust/flux-demo) - small examples that demonstrate how flux works.
+- [rust-smt-ir-examples](https://github.com/awslabs/rust-smt-ir-examples) - examples of using a rust-smt-ir, a Rust intermediate representation (IR) for SMT-LIB..
 
 ### Blogs
 
@@ -379,8 +381,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Community
 
-- [Johannes Altmanninger](https://github.com/krobelus) - rate.
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
+- [Johannes Altmanninger](https://github.com/krobelus) - rate.
+- [AWS Labs](https://github.com/awslabs) - rust-smt-ir, rust-smt-ir-examples.
 - [ammkrn](https://twitter.com/ammkrn) - nanoda, nanoda_lib, second_opinion.
 - [arbaregni](https://github.com/arbaregni) - resolution-prover.
 - [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
