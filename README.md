@@ -142,7 +142,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [MIRAI](https://github.com/facebookexperimental/MIRAI) [:package:](https://crates.io/crates/mirai-annotations):star: - intended to become a widely used static analysis tool for Rust.
 - [MirChecker](https://github.com/lizhuohua/rust-mir-checker) :star:[:lab_coat:](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/CCS2021.pdf) - simple static analysis tool.
 - [p4-analyzer](https://github.com/AzureMarker/p4-analyzer) - static analysis tool which checks P4 code for bugs.
-- [Prusti](https://github.com/viperproject/prusti-dev) :star: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
+- [Prusti](https://github.com/viperproject/prusti-dev) [:package:](https://crates.io/crates/prusti-contracts)[:package:](https://crates.io/crates/prusti-contracts-proc-macros)[:package:](https://crates.io/crates/prusti-specs)[:package:](https://crates.io/crates/prusti-std):star: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
 - [Rudra](https://github.com/sslab-gatech/Rudra) :star:[:lab_coat:](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf) - static analyzer to detect common undefined behaviors in Rust programs.
 - [Rust static analysis/verification reading and resources](https://github.com/facebookexperimental/MIRAI/blob/main/documentation/FurtherReading.md) :information_source: - for further reading.
 - [Rust verification tools](https://github.com/project-oak/rust-verification-tools) :star: - collection of tools/libraries about static and dynamic verification of Rust programs.
@@ -241,6 +241,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [polytype](https://github.com/lucasem/polytype-rs) [:package:](https://crates.io/crates/polytype):star: - Hindley-Milner polymorphic typing system.
 - [program-induction](https://github.com/lucasem/program-induction) [:package:](https://crates.io/crates/programinduction):star: - library for program induction and learning representations.
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
+- [rust-smt-strings](https://github.com/awslabs/rust-smt-strings) - [:package:](https://crates.io/crates/aws-smt-strings) - library provides support for strings as defined in the SMT-LIB theory of strings.
 - [rust-unify](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star: - tool for constructing finite models for first-order theories.
 - [Satoxid](https://github.com/neuring/satoxid) [:package:](https://crates.io/crates/satoxid) - library to help with encoding SAT problems.
@@ -363,17 +364,17 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 88 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 41 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 27 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 42 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 32 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 29 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 26 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 26 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 11 entries.
+- [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 11 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 8 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 6 entries. :100:
-- [smt-lib](https://crates.io/keywords/smt-lib) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 5 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries. :100:
@@ -383,7 +384,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
-- [AWS Labs](https://github.com/awslabs) - rust-smt-ir, rust-smt-ir-examples.
+- [AWS Labs](https://github.com/awslabs) - rust-smt-ir, rust-smt-ir-examples, rust-smt-strings.
 - [ammkrn](https://twitter.com/ammkrn) - nanoda, nanoda_lib, second_opinion.
 - [arbaregni](https://github.com/arbaregni) - resolution-prover.
 - [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
