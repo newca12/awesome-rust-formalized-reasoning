@@ -136,7 +136,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) :star: - finds vulnerable patterns in binary executables.
 - [electrolysis](https://github.com/Kha/electrolysis) :star: - tool for formally verifying Rust programs by transpiling them into the Lean 2 theorem prover.
 - [Flux](https://github.com/liquid-rust/flux) :star:[:lab_coat:](https://arxiv.org/pdf/2207.04034.pdf) - liquid types for Rust.
+- [Granite](https://github.com/Skasselbard/Granite) :star:[:lab_coat:](https://github.com/Skasselbard/Granite/blob/master/doc/MasterThesis/main.pdf) - find Deadlocks in Rust with Petri-Net Model checking.
 - [Kani](https://github.com/model-checking/kani) :star:[:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf) - bit-precise model-checker, ensures that unsafe Rust code is actually safe.
+- [lockbud](https://github.com/BurtonQin/lockbud) :star:[:lab_coat:](https://songlh.github.io/paper/rust-study.pdf) - statically detect deadlocks bugs for Rust.
 - [Loom](https://github.com/tokio-rs/loom) [:package:](https://crates.io/crates/loom):star: - concurrency permutation testing tool for Rust.
 - [matla](https://github.com/OCamlPro/matla) - a manager for TLA+ projects.
 - [MIRAI](https://github.com/facebookexperimental/MIRAI) [:package:](https://crates.io/crates/mirai-annotations):star: - intended to become a widely used static analysis tool for Rust.
@@ -453,6 +455,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Yusuke Matsushita](https://github.com/shiatsumat) - Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy, RustHorn.
 - [mbillingr](https://github.com/mbillingr) - The Little Prover, the-little-typer.
 - [mcmfb](https://github.com/mcmfb) - lambda_calc.
+- [Tom Meyer](https://github.com/Skasselbard) - Granite.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
 - [Dominic Mulligan](https://dominicpm.github.io) - Supervisionary.
@@ -468,6 +471,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova) - cyclegg.
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
 - [Joshua Pratt](https://blog.mimir.systems) - ArcsJs - Provable, tako.
+- [Boqin Qin](https://github.com/BurtonQin) - lockbud.
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, lickety, SATCoP, tptp.
 - [Alastair Reid](https://alastairreid.github.io) - Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs,Rust verification tools ,Rust verification tools list.
 - [Nathan Ringo](https://remexre.xyz) - FALL.
