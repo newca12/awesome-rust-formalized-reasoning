@@ -310,6 +310,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic) :baby_chick: - crate for propositional logic.
 - [logic-resolver](https://github.com/gustafla/logic-resolver) :baby_chick: - toy implementation of resolution for propositional logic.
 - [plc](https://github.com/trolleyman/plc) - propositional logic calculator.
+- [Plogic](https://github.com/Janko-dev/plogic) :star: - propositional logic evaluator and rule-based pattern matcher.
 - [Prop](https://github.com/advancedresearch/prop) [:package:](https://crates.io/crates/prop) - library for theorem proving with Intuitionistic Propositional Logic.
 - [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs) - solver using the propositional tableaux method.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
@@ -429,6 +430,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Hoblovski](https://github.com/Hoblovski) - stupid-see, stupid-smt.
 - [hrkzmnm](https://github.com/hrkzmnm) - rust_z3prover.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
+- [Jan](https://github.com/Janko-dev) - Plogic.
 - [Ranjit Jhala](https://github.com/ranjitjhala) - flux-demo.
 - [Andrew Johnson](https://github.com/andrew-johnson-4) - LSTS.
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
