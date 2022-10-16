@@ -183,6 +183,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [CNF Parser](https://github.com/robbepop/cnf-parser) [:package:](https://crates.io/crates/cnf-parser) - efficient and customizable parser for the .cnf file format.
 - [DIMACS Parser](https://github.com/robbepop/dimacs-parser) [:package:](https://crates.io/crates/dimacs) - utilities to parse files in DIMACS .cnf or .sat file format.
+- [Exec-SAT](https://github.com/matszpk/exec-sat) [:package:](https://crates.io/crates/exec-sat):baby_chick: - provides routines to parse SAT solver output and to execute SAT solver.
 - [Flussab CNF](https://github.com/jix/flussab) [:package:](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format.
 - [FRAT-rs](https://github.com/digama0/frat) [:lab_coat:](https://arxiv.org/pdf/2109.09665.pdf) - toolchain for processing and transforming files in the FRAT format.
 - [Lambda Term Parsing](https://github.com/01mf02/lambda-parse) - explores different parser designs for a simple lambda term grammar.
@@ -214,6 +215,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Translator
 
 - [anthem](https://github.com/potassco/anthem) - translate answer set programs to first-order theorem prover language.
+- [CNFGEN](https://github.com/matszpk/cnfgen) [:package:](https://crates.io/crates/cnfgen) - create boolean formulae from boolean expressions and integer expressions.
 - [Cnfpack](https://github.com/jix/cnfpack) [:package:](https://crates.io/crates/cnfpack) - converts between DIMACS CNF file format and the compressed binary Cnfpack format.
 - [hz-to-mm0](https://github.com/digama0/hz-to-mm0) - translator from HOL Zero / Common HOL to Metamath Zero.
 - [rust-smt-ir](https://github.com/awslabs/rust-smt-ir) [:package:](https://crates.io/crates/aws-smt-ir)[:package:](https://crates.io/crates/aws-smt-ir-derive):star: - intermediate representation (IR) in Rust for SMT-LIB queries.
@@ -368,17 +370,17 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 88 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 42 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 44 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 32 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 29 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 26 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 28 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 11 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 8 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
+- [cnf](https://crates.io/keywords/cnf) - 8 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
-- [cnf](https://crates.io/keywords/cnf) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 5 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries. :100:
@@ -489,6 +491,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
+- [Mateusz Szpakowski]() - CNFGEN, Exec-SAT.
 - [Victor Taelin](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Kind2, Symmetric Interaction Calculus..
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Fabian Thorand](https://github.com/fatho) - LogRu.
