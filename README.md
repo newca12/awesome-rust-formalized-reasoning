@@ -280,6 +280,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Narc](https://github.com/owo-lang/narc-rs) [:package:](https://crates.io/crates/nar):star: - dependently-typed programming language with Agda style dependent pattern matching.
 - [Pikelet](https://github.com/pikelet-lang/pikelet) [:package:](https://crates.io/crates/pikelet):star: - small, functional, dependently typed programming language.
 - [proto-vulcan](https://github.com/terohuttunen/proto-vulcan) [:package:](https://crates.io/crates/proto-vulcan)[:package:](https://crates.io/crates/proto-vulcan-macros) - miniKanren-family relational logic programming language.
+- [Rust pi-forall](https://github.com/sourcedennis/rust-pi-forall) [:lab_coat:](https://github.com/sweirich/pi-forall/blob/2022/doc/oplss.pdf) - partial re-implementation of pi-forall.
 - [Scryer Prolog](https://github.com/mthom/scryer-prolog) [:package:](https://crates.io/crates/scryer-prolog):star: - modern Prolog implementation.
 - [stupid-see](https://github.com/Hoblovski/stupid-see) :baby_chick: - symbolic execution engine. Mainly targeted at the verification course in THU.
 - [Symmetric Interaction Calculus](https://github.com/maiavictor/symmetric-interaction-calculus) :star: - match the optimal λ-calculus reduction algorithm perfectly.
@@ -351,7 +352,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Demos
 - [Artifact Evaluation: Kani Rust Verifier](https://github.com/avanhatt/icse22ae-kani) [:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf) - Kani Rust Model Checker artifact for ICSE 2022 Artifact Evaluation.
 - [flux-demo](https://github.com/liquid-rust/flux-demo) - small examples that demonstrate how flux works.
-- [rust-smt-ir-examples](https://github.com/awslabs/rust-smt-ir-examples) - examples of using a rust-smt-ir, a Rust intermediate representation (IR) for SMT-LIB..
+- [rust-smt-ir-examples](https://github.com/awslabs/rust-smt-ir-examples) - examples of using a rust-smt-ir, a Rust intermediate representation (IR) for SMT-LIB.
+- [aws-lambda-z3](https://github.com/sourcedennis/aws-lambda-z3) - tutorial on running Z3 on AWS Lambda, with Rust.
 
 ### Blogs
 
@@ -490,6 +492,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Narazaki Shuji](https://shnarazk.github.io) - Splr, Splr notebook, sudoku_sat.
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
+- [Dennis Sprokholt](https://dennis.life) - aws-lambda-z3, Rust pi-forall.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
 - [Mateusz Szpakowski]() - CNFGEN, Exec-SAT.
 - [Victor Taelin](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Kind2, Symmetric Interaction Calculus..
