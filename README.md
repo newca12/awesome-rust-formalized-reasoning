@@ -186,6 +186,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Exec-SAT](https://github.com/matszpk/exec-sat) [:package:](https://crates.io/crates/exec-sat):baby_chick: - provides routines to parse SAT solver output and to execute SAT solver.
 - [Flussab CNF](https://github.com/jix/flussab) [:package:](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format.
 - [FRAT-rs](https://github.com/digama0/frat) [:lab_coat:](https://arxiv.org/pdf/2109.09665.pdf) - toolchain for processing and transforming files in the FRAT format.
+- [lalrpop-lambda](https://github.com/nixpulvis/lalrpop-lambda) [:package:](https://crates.io/crates/lalrpop-lambda):star: - λ-calculus Parser (using LALRPOP).
 - [Lambda Term Parsing](https://github.com/01mf02/lambda-parse) - explores different parser designs for a simple lambda term grammar.
 - [mmb-parser](https://github.com/trivial-rs/mmb-parser) [:package:](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format.
 - [olean-rs](https://github.com/digama0/olean-rs) - parser/viewer for olean files.
@@ -302,6 +303,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [blc](https://github.com/ljedrz/blc) [:package:](https://crates.io/crates/blc) - implementation of the binary lambda calculus.
 - [Closure Calculus](https://github.com/advancedresearch/closure_calculus) [:package:](https://crates.io/crates/closure_calculus)[:lab_coat:](https://dl.acm.org/doi/abs/10.1145/3294032.3294085) - library for Barry Jay's Closure Calculus.
+- [lambash](https://github.com/nixpulvis/lambash) - λ-calculus shell.
 - [lambda_calc](https://gitlab.com/mcmfb/lambda-calculator) [:package:](https://crates.io/crates/lambda_calc) - command-line untyped lambda calculus interpreter.
 - [lambda_calculus](https://github.com/ljedrz/lambda_calculus) [:package:](https://crates.io/crates/lambda_calculus):star: - simple, zero-dependency implementation of pure lambda calculus in safe Rust.
 - [lambda_calculus](https://github.com/thomasdziedzic/lambda_calculus) - no description.
@@ -450,6 +452,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper.
 - [Nico Lehmann](https://github.com/nilehmann) - Flux.
 - [Carl Lerche](https://github.com/carllerche) - Loom.
+- [Nathan Lilienthal](https://nixpulvis.com/) - lambash, lalrpop-lambda.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
 - [Michael Madden](https://github.com/mikemadden42) - Xori.
