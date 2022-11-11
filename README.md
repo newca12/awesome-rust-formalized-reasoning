@@ -44,6 +44,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ## Legend
 
 - Archived :skull:
+- Benchmark :watch:
 - Best in Class :diamonds:
 - Book implementation :book:
 - Crate(s) :package:
@@ -65,7 +66,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Provers TPTP compliant
 
 - [CoP](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/cop) - reimplement automated theorem provers of the leanCoP family, such as leanCoP and nanoCoP.
-- [lazyCoP](https://github.com/MichaelRawson/lazycop) - automatic theorem prover for first-order logic with equality.
+- [lazyCoP](https://github.com/MichaelRawson/lazycop) [:watch:](https://www.tptp.org/CASC/J10/WWWFiles/DivisionSummary1.html) - automatic theorem prover for first-order logic with equality.
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
 - [lickety](https://github.com/MichaelRawson/lickety) - prototype system for linear resolution with splitting.
 - [meancop](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/meancop):recycle: - became CoP.
@@ -283,6 +284,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [proto-vulcan](https://github.com/terohuttunen/proto-vulcan) [:package:](https://crates.io/crates/proto-vulcan)[:package:](https://crates.io/crates/proto-vulcan-macros) - miniKanren-family relational logic programming language.
 - [Rust pi-forall](https://github.com/sourcedennis/rust-pi-forall) [:lab_coat:](https://github.com/sweirich/pi-forall/blob/2022/doc/oplss.pdf) - partial re-implementation of pi-forall.
 - [Scryer Prolog](https://github.com/mthom/scryer-prolog) [:package:](https://crates.io/crates/scryer-prolog):star: - modern Prolog implementation.
+- [SMT-language](https://github.com/DavidD12/smt-lang) [:package:](https://crates.io/crates/smt-lang) - Sat Modulo Theory Language.
 - [stupid-see](https://github.com/Hoblovski/stupid-see) :baby_chick: - symbolic execution engine. Mainly targeted at the verification course in THU.
 - [Symmetric Interaction Calculus](https://github.com/maiavictor/symmetric-interaction-calculus) :star: - match the optimal λ-calculus reduction algorithm perfectly.
 - [tako](https://github.com/Cypher1/tako) -  experimental programming language for ergonomic software verification.
@@ -303,7 +305,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [blc](https://github.com/ljedrz/blc) [:package:](https://crates.io/crates/blc) - implementation of the binary lambda calculus.
 - [Closure Calculus](https://github.com/advancedresearch/closure_calculus) [:package:](https://crates.io/crates/closure_calculus)[:lab_coat:](https://dl.acm.org/doi/abs/10.1145/3294032.3294085) - library for Barry Jay's Closure Calculus.
-- [lambash](https://github.com/nixpulvis/lambash) - λ-calculus shell.
+- [lambash](https://github.com/nixpulvis/lambash) [:package:](https://crates.io/crates/lambash) - λ-calculus shell.
 - [lambda_calc](https://gitlab.com/mcmfb/lambda-calculator) [:package:](https://crates.io/crates/lambda_calc) - command-line untyped lambda calculus interpreter.
 - [lambda_calculus](https://github.com/ljedrz/lambda_calculus) [:package:](https://crates.io/crates/lambda_calculus):star: - simple, zero-dependency implementation of pure lambda calculus in safe Rust.
 - [lambda_calculus](https://github.com/thomasdziedzic/lambda_calculus) - no description.
@@ -373,7 +375,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 88 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 89 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 44 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 32 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 29 entries. :100:
@@ -409,6 +411,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [convexbrain](https://github.com/convexbrain) - Totsu.
 - [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
 - [Dacit](https://github.com/Dacit) - Sequent solver.
+- [DavidD12](https://github.com/DavidD12) - SMT-language.
 - [Ariel Davis](https://azdavis.net) - coc.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt Library & Benchmarks, Rust verification tools (2021).
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
