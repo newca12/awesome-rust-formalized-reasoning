@@ -200,6 +200,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [bitwuzla-sys](https://github.com/fatemender/bitwuzla-sys) [:package:](https://crates.io/crates/bitwuzla-sys) - low-level bindings for the [Bitwuzla](https://bitwuzla.github.io) SMT solver.
 - [boolector-sys](https://github.com/fatemender/boolector-sys) [:package:](https://crates.io/crates/boolector-sys) - low-level bindings for the [Boolector](https://boolector.github.io) SMT solver.
 - [CaDiCaL SAT solver](https://github.com/mmaroti/cadical-rs) [:package:](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
+- [cat_solver](https://github.com/UncombedCoconut/cat_solver) [:package:](https://crates.io/crates/cat_solver) - bindings for the Kissat SAT solver.
 - [cryptominisat-rs](https://github.com/storyyeller/cryptominisat-rs) [:package:](https://crates.io/crates/cryptominisat) - bindings for [CryptoMiniSat](https://github.com/msoos/cryptominisat).
 - [falcon-z3](https://github.com/falconre/falcon-z3) [:package:](https://crates.io/crates/falcon-z3) - bindings for Z3.
 - [IPASIR](https://github.com/robbepop/ipasir-rs) [:package:](https://crates.io/crates/ipasir) - FFI bindings for the IPASIR incremental SAT solver interface.
@@ -375,20 +376,20 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 89 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 44 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 32 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 90 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 46 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 33 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 30 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 29 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 28 entries. :100:
-- [satisfiability](https://crates.io/keywords/satisfiability) - 23 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 24 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 11 entries. :100:
+- [cnf](https://crates.io/keywords/cnf) - 9 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 8 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
-- [cnf](https://crates.io/keywords/cnf) - 8 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
-- [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 5 entries. :100:
+- [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries. :100:
 - [dimacs](https://crates.io/keywords/dimacs) - 5 entries. :100:
 
@@ -401,6 +402,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Mathieu Baudet](https://github.com/ma2bd) - smt2utils.
+- [Justin Blanchard](https://github.com/UncombedCoconut) - cat_solver.
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat, Shuttle.
 - [Henrik Böving](https://github.com/hargoniX) - Obvious.
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
