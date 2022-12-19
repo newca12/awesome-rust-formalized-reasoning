@@ -335,6 +335,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Minimal models](https://github.com/jix/minimal_models_example) - uses a SAT solver to find minimal partial assignments that are model of a CNF formula.
 - [n-queens-sat](https://github.com/erohkohl/n-queens-sat) - modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
 - [nonogrid](https://github.com/tsionyx/nonogrid) [:package:](https://crates.io/crates/nonogrid) - lightning fast nonogram solver.
+- [peano](https://github.com/gpoesia/peano) [:lab_coat:](https://arxiv.org/abs/2211.15864) - An environment for learning formal mathematical reasoning from scratch.
 - [rummy_to_sat ](https://github.com/neuring/rummy_to_sat) - implementation of a solver for [Rummy](https://en.wikipedia.org/wiki/Rummy).
 - [rust-z3-practice](https://github.com/salmans/rust-z3-practice) - solving a number of SAT problems using Z3.
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
@@ -483,6 +484,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn.
 - [Arvid E. Picciani](https://github.com/aep) - zz.
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
+- [Gabriel Poesia](https://github.com/gpoesia) - peano.
 - [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova) - cyclegg.
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
 - [Joshua Pratt](https://blog.mimir.systems) - ArcsJs - Provable, tako.
