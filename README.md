@@ -374,6 +374,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Posts
 
+- [An adventure with optimization, Rust and Z3](https://ochagavia.nl/blog/an-adventure-with-optimization-rust-and-z3)
 - [Formally Verifying Rust's Opaque Types](https://dylanj.xyz/posts/rust-coq-opaque-types)
 - [Solving The Witness with Z3](https://www.techofnote.com/witness-part-1)
 
@@ -480,6 +481,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
 - [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Caso, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi) - shari.
+- [Adolfo Ochagavía](https://ochagavia.nl) - An adventure with optimization, Rust and Z3.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Chris Patuzzo](https://tuzz.tech) - Supermux, Supersat.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn.
