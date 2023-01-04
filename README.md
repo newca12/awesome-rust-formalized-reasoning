@@ -292,6 +292,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [tako](https://github.com/Cypher1/tako) -  experimental programming language for ergonomic software verification.
 - [TIP](https://github.com/v4kst1z/TIP) :baby_chick: - imperative programming language aimed at teaching fundamental concepts of static program analysis.
 - [Untyped Concatenative Calculus](https://github.com/dawn-lang/ucc) - toy programming language and prototype for [Dawn](https://www.dawn-lang.org).
+- [Untyped Multistack Concatenative Calculus](https://github.com/dawn-lang/umcc) - toy programming language and prototype for [Dawn](https://www.dawn-lang.org).
 - [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util):skull::star: - became Narc.
 - [zz](https://github.com/zetzit/zz) [:package:](https://crates.io/crates/zz):skull::star: - zymbolic verifier and tranzpiler to bare metal C.
 
@@ -465,7 +466,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
 - [Michael Madden](https://github.com/mikemadden42) - Xori.
-- [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus.
+- [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus, Untyped Multistack Concatenative Calculus.
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal.
 - [Krzysztof Małysa](https://github.com/varqox) - prover.
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, relsat-rs, uasat-rs.
