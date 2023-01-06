@@ -233,17 +233,16 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [compiler](https://github.com/trivial-rs/compiler) [:package:](https://crates.io/crates/trivial-compiler):baby_chick: - trivial compiler framework for Metamath Zero binary proofs.
 - [discrimination-tree](https://github.com/MichaelRawson/discrimination-tree) [:package:](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
 - [egg](https://github.com/egraphs-good/egg) [:package:](https://crates.io/crates/egg):star: - flexible, high-performance e-graph library.
-- [epilog](https://github.com/ray-kast/epilog) [:package:](https://crates.io/crates/epilog) - collection of Prolog-like tools for inference logic.
-- [FALL](https://github.com/remexre/fall) [:package:](https://crates.io/crates/fall) - easily embeddable, futures-friendly logic engine.
-- [Fathom](https://github.com/yeslogic/fathom) [:package:](https://crates.io/crates/fathom):star: - declarative data definition language for formally specifying binary data formats.
-- [foliage](https://github.com/potassco/foliage) [:package:](https://crates.io/crates/foliage) - first-order logic with integer arithmetics.
+- [epilog](https://github.com/ray-kast/epilog) [:package:](https://crates.io/crates/epilog):zzz: - collection of Prolog-like tools for inference logic.
+- [FALL](https://github.com/remexre/fall) [:package:](https://crates.io/crates/fall):zzz: - easily embeddable, futures-friendly logic engine.
+- [foliage](https://github.com/potassco/foliage) [:package:](https://crates.io/crates/foliage):zzz: - first-order logic with integer arithmetics.
 - [Joker Calculus](https://github.com/advancedresearch/joker_calculus.git) [:package:](https://crates.io/crates/joker_calculus) -  implementation of Joker Calculus in Rust.
-- [Kravanenn](https://github.com/ppedrot/kravanenn) :star: - set of tools for Coq.
+- [Kravanenn](https://github.com/ppedrot/kravanenn) :star::zzz: - set of tools for Coq.
 - [LogRu](https://github.com/fatho/logru) [:package:](https://crates.io/crates/logru) - small, embeddable and fast interpreter for a subset of Prolog.
 - [mm0-rs](https://github.com/digama0/mm0/tree/master/mm0-rs) [:package:](https://crates.io/crates/mm0b_parser)[:package:](https://crates.io/crates/mm0_deepsize)[:package:](https://crates.io/crates/mm0_util):star:[:lab_coat:](https://digama0.github.io/mm0/thesis-slides.pdf)[:lab_coat:](https://digama0.github.io/mm0/thesis.pdf) - MM0/MM1 server and utilities.
 - [mmb-binutils](https://github.com/trivial-rs/mmb-binutils) - utility tools for Metamath Zero binary proof files.
-- [mmb-types](https://crates.io/crates/mmb-types) - library containing the definitions of the opcodes in the Metamath Zero binary proof files.
-- [moniker](https://github.com/brendanzab/moniker) [:package:](https://crates.io/crates/moniker)[:package:](https://crates.io/crates/moniker-derive):star: - automagical variable binding library. 
+- [mmb-types](https://github.com/trivial-rs/mmb-types) [:package:](https://crates.io/crates/mmb-types) - library containing the definitions of the opcodes in the Metamath Zero binary proof files.
+- [moniker](https://github.com/brendanzab/moniker) [:package:](https://crates.io/crates/moniker)[:package:](https://crates.io/crates/moniker-derive):star::zzz: - automagical variable binding library.
 - [nanoda](https://github.com/ammkrn/nanoda) :skull::star: - became nanoda-lib.
 - [nanoda_lib](https://github.com/ammkrn/nanoda_lib) - type inference/checking functionality based on the Lean theorem prover.
 - [polytype](https://github.com/lucasem/polytype-rs) [:package:](https://crates.io/crates/polytype):star: - Hindley-Milner polymorphic typing system.
@@ -253,11 +252,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rust-unify](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star: - tool for constructing finite models for first-order theories.
 - [Satoxid](https://github.com/neuring/satoxid) [:package:](https://crates.io/crates/satoxid) - library to help with encoding SAT problems.
-- [smt2utils](https://github.com/facebookincubator/smt2utils) [:package:](https://crates.io/crates/smt2parser)[:package:](https://crates.io/crates/smt2patch)[:package:](https://crates.io/crates/smt2proxy)[:package:](https://crates.io/crates/z3tracer) - libraries and tools for the SMT-LIB-2 standard.
-- [term-rewriting-rs](https://github.com/joshrule/term-rewriting-rs) [:package:](https://crates.io/crates/term_rewriting) :star: - representing, parsing, and computing with first-order term rewriting systems.
+- [smt2utils](https://github.com/facebookincubator/smt2utils) [:package:](https://crates.io/crates/smt2parser)[:package:](https://crates.io/crates/smt2patch)[:package:](https://crates.io/crates/smt2proxy)[:package:](https://crates.io/crates/z3tracer):skull: - libraries and tools for the SMT-LIB-2 standard.
+- [term-rewriting-rs](https://github.com/joshrule/term-rewriting-rs) [:package:](https://crates.io/crates/term_rewriting) :star::zzz: - representing, parsing, and computing with first-order term rewriting systems.
 - [tribool](https://github.com/novacrazy/rust-tribool) [:package:](https://crates.io/crates/tribool) - three-valued logic.
 - [The Trivial Metamath Zero kernel](https://github.com/trivial-rs/kernel) [:package:](https://crates.io/crates/trivial-kernel) - Metamath Zero kernel for Trivial.
-- [Whisper](https://github.com/sdleffler/whisper) :star: - logic Programming DSL.
+- [Whisper](https://github.com/sdleffler/whisper) :star::zzz: - logic Programming DSL.
 
 ## Books code
 
@@ -275,6 +274,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ## Programming Language
 
 - [egglog](https://github.com/philzook58/egglog) :star: - using the egg library with a file format and semantics similar to datalog.
+- [Fathom](https://github.com/yeslogic/fathom) [:package:](https://crates.io/crates/fathom):star::construction: - declarative data definition language for formally specifying binary data formats.
 - [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) :star: - massively parallel, optimal functional runtime.
 - [isotope-prover-experiments](https://gitlab.com/tekne/isotope-prover-experiments) :skull: [:lab_coat:](https://gitlab.com/tekne/phd-proposal/-/blob/main/report.tex) [:lab_coat:](https://gitlab.com/isotope-project/msc-thesis/-/blob/master/thesis.tex) - experimental dependently typed language supporting borrow checking.
 - [Kind](https://github.com/Kindelia/Kind) [:package:](https://crates.io/crates/kind2):star::fire: - next-gen functional language and proof assistant.
@@ -288,7 +288,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Scryer Prolog](https://github.com/mthom/scryer-prolog) [:package:](https://crates.io/crates/scryer-prolog):star: - modern Prolog implementation.
 - [SMT-language](https://github.com/DavidD12/smt-lang) [:package:](https://crates.io/crates/smt-lang) - Sat Modulo Theory Language.
 - [stupid-see](https://github.com/Hoblovski/stupid-see) :baby_chick: - symbolic execution engine. Mainly targeted at the verification course in THU.
-- [Symmetric Interaction Calculus](https://github.com/maiavictor/symmetric-interaction-calculus) :star: - match the optimal λ-calculus reduction algorithm perfectly.
+- [Symmetric Interaction Calculus](https://github.com/maiavictor/symmetric-interaction-calculus) :star::skull: - optimal λ-calculus reduction. Followed devlopment now in Kind project.
 - [tako](https://github.com/Cypher1/tako) -  experimental programming language for ergonomic software verification.
 - [TIP](https://github.com/v4kst1z/TIP) :baby_chick: - imperative programming language aimed at teaching fundamental concepts of static program analysis.
 - [Untyped Concatenative Calculus](https://github.com/dawn-lang/ucc) - toy programming language and prototype for [Dawn](https://www.dawn-lang.org).
