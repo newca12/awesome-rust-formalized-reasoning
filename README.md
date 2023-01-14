@@ -319,10 +319,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
 - [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic) :baby_chick: - crate for propositional logic.
 - [logic-resolver](https://github.com/gustafla/logic-resolver) :baby_chick: - toy implementation of resolution for propositional logic.
+- [mini-prop](https://github.com/emilHof/mini-prop) [:package:](https://crates.io/crates/mini-prop) - CLI tool for parsing and processing LaTex formatted propositional statements.
 - [plc](https://github.com/trolleyman/plc) - propositional logic calculator.
 - [Plogic](https://github.com/Janko-dev/plogic) :star: - propositional logic evaluator and rule-based pattern matcher.
 - [Prop](https://github.com/advancedresearch/prop) [:package:](https://crates.io/crates/prop) - library for theorem proving with Intuitionistic Propositional Logic.
 - [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs) - solver using the propositional tableaux method.
+- [prop_tune](https://github.com/emilHof/prop_tune) [:package:](https://crates.io/crates/prop_tune)[:package:](https://crates.io/crates/prop_tune_core)[:package:](https://crates.io/crates/prop_tune_macro) - library for working with Logical Propositions.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
 - [resolution-prover](https://github.com/arbaregni/resolution-prover) - Uses propositional resolution to prove statements and proofs on discord.
 - [rs-logik](https://github.com/SolarLiner/rs-logik) [:ghost:](https://github.com/newca12/rs-logik) - propositional logic interpreter.
@@ -382,10 +384,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 90 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 46 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 47 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 33 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 31 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 30 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 29 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 24 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 11 entries. :100:
@@ -393,7 +395,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rewriting](https://crates.io/keywords/rewriting) - 8 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
-- [z3](https://crates.io/keywords/z3) - 5 entries. :100:
+- [z3](https://crates.io/keywords/z3) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries. :100:
 - [dimacs](https://crates.io/keywords/dimacs) - 5 entries. :100:
@@ -444,6 +446,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Son HO](https://github.com/sonmarcho) - Charon.
 - [Sarek Høverstad Skotåm](https://github.com/sarsko) - CreuSAT.
 - [Hoblovski](https://github.com/Hoblovski) - stupid-see, stupid-smt.
+- [Emil Hofstetter](https://emilhofstetter.dev) - mini-prop, prop_tune.
 - [hrkzmnm](https://github.com/hrkzmnm) - rust_z3prover.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Jan](https://github.com/Janko-dev) - Plogic.
@@ -480,8 +483,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Dominic Mulligan](https://dominicpm.github.io) - Supervisionary.
 - [Jon Nadal](https://github.com/jonnadal) - Stateright.
 - [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
-- [Sven Nilsen](https://twitter.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Caso, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
-- [Yuichi Nishiwaki](http://hagi.is.s.u-tokyo.ac.jp/~yuichi) - shari.
+- [Sven Nilsen](https://github.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Caso, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
+- [Yuichi Nishiwaki](https://github.com/nyuichi) - shari.
 - [Adolfo Ochagavía](https://ochagavia.nl) - An adventure with optimization, Rust and Z3.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Chris Patuzzo](https://tuzz.tech) - Supermux, Supersat.
