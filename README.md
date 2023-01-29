@@ -384,7 +384,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 90 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 47 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 48 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 33 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 31 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 30 entries. :100:
@@ -413,7 +413,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat, Shuttle.
 - [Henrik Böving](https://github.com/hargoniX) - Obvious.
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
-- [Mario Carneiro](https://www.cmu.edu/dietrich/philosophy/people/phd/mario-carneiro.html) - FRAT-rs, hz-to-mm0, mm0-rs, olean-rs, smetamath.
+- [Mario Carneiro](https://github.com/digama0) - FRAT-rs, hz-to-mm0, mm0-rs, olean-rs.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
@@ -485,6 +485,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
 - [Sven Nilsen](https://github.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Caso, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Yuichi Nishiwaki](https://github.com/nyuichi) - shari.
+- [Stefan O'Rear](https://github.com/sorear) - smetamath.
 - [Adolfo Ochagavía](https://ochagavia.nl) - An adventure with optimization, Rust and Z3.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Chris Patuzzo](https://tuzz.tech) - Supermux, Supersat.
