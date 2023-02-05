@@ -228,10 +228,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [AbsoluteUnity](https://github.com/ray-kast/AbsoluteUnity) :zzz: - think Prolog, but less capable.
 - [Alice_rs](https://github.com/firefighterduck/alice_rs) [:lab_coat:](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/unroll_collapse_withproofs.pdf)[:lab_coat:](https://www21.in.tum.de/teaching/sar/SS20/8.pdf):zzz: - implementation of a decision procedure for A Decidable Fragment of Separation Logic.
+- [auto](https://github.com/elliottt/auto) [:lab_coat:](https://www.jstor.org/stable/2275431) - decision procedure for intuitionistic logic.
 - [Avatar Hypergraph Rewriting](https://github.com/advancedresearch/avatar_hypergraph_rewriting) [:package:](https://crates.io/crates/avatar_hypergraph_rewriting) - hypergraph rewriting system with avatars for symbolic distinction.
 - [coc](https://github.com/azdavis/coc) - the calculus of constructions.
 - [compiler](https://github.com/trivial-rs/compiler) [:package:](https://crates.io/crates/trivial-compiler):baby_chick: - trivial compiler framework for Metamath Zero binary proofs.
 - [discrimination-tree](https://github.com/MichaelRawson/discrimination-tree) [:package:](https://crates.io/crates/discrimination-tree) - discrimination tree term indexing.
+- [easy-smt](https://github.com/elliottt/easy-smt) [:package:](https://crates.io/crates/easy-smt):star: - easy SMT solver interaction (Inspired by the [simple-smt haskell](https://hackage.haskell.org/package/simple-smt) package.).
 - [egg](https://github.com/egraphs-good/egg) [:package:](https://crates.io/crates/egg):star: - flexible, high-performance e-graph library.
 - [epilog](https://github.com/ray-kast/epilog) [:package:](https://crates.io/crates/epilog):zzz: - collection of Prolog-like tools for inference logic.
 - [FALL](https://github.com/remexre/fall) [:package:](https://crates.io/crates/fall):zzz: - easily embeddable, futures-friendly logic engine.
@@ -385,7 +387,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [solver](https://crates.io/keywords/solver) - 90 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 48 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 33 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 34 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 31 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 30 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 24 entries. :100:
@@ -428,6 +430,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir, rust-smt-ir-examples, rust-smt-strings.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com) - lambda_calculus.
+- [Trevor Elliott](https://github.com/elliottt) - auto, easy-smt.
 - [endeav0r](https://github.com/endeav0r) - falcon-z3.
 - [Enkelmann](https://github.com/Enkelmann) - cwe_checker.
 - [Aodhnait Étaín](https://aodhneine.github.io) - Esther.
@@ -475,7 +478,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, relsat-rs, uasat-rs.
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, Kani, plar-rs.
 - [Yusuke Matsushita](https://github.com/shiatsumat) - Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy, RustHorn.
-- [mbillingr](https://github.com/mbillingr) - The Little Prover, the-little-typer.
+- [mbillingr](https://github.com/mbillingr) - miniKANREN, The Little Prover, the-little-typer.
 - [mcmfb](https://github.com/mcmfb) - lambda_calc.
 - [Tom Meyer](https://github.com/Skasselbard) - Granite.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
