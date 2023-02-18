@@ -249,6 +249,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [nanoda_lib](https://github.com/ammkrn/nanoda_lib) - type inference/checking functionality based on the Lean theorem prover.
 - [polytype](https://github.com/lucasem/polytype-rs) [:package:](https://crates.io/crates/polytype):star: - Hindley-Milner polymorphic typing system.
 - [program-induction](https://github.com/lucasem/program-induction) [:package:](https://crates.io/crates/programinduction):star: - library for program induction and learning representations.
+- [ruler](https://github.com/uwplse/ruler) :diamonds::star:[:lab_coat:](https://dl.acm.org/doi/10.1145/3485496) - rewrite rule inference using equality saturation.
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-smt-strings](https://github.com/awslabs/rust-smt-strings) - [:package:](https://crates.io/crates/aws-smt-strings) - library for strings as defined in the SMT-LIB theory of strings.
 - [rust-unify](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
@@ -485,6 +486,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
 - [Dominic Mulligan](https://dominicpm.github.io) - Supervisionary.
 - [Jon Nadal](https://github.com/jonnadal) - Stateright.
+- [Chandrakana Nandi](https://github.com/chandrakananandi) - Ruler.
 - [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
 - [Sven Nilsen](https://github.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Caso, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Yuichi Nishiwaki](https://github.com/nyuichi) - shari.
