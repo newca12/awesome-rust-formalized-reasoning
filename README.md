@@ -192,6 +192,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Lambda Term Parsing](https://github.com/01mf02/lambda-parse) - explores different parser designs for a simple lambda term grammar.
 - [mmb-parser](https://github.com/trivial-rs/mmb-parser) [:package:](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format.
 - [olean-rs](https://github.com/digama0/olean-rs) :zzz: - parser/viewer for olean files.
+- [RustLogic](https://github.com/Rose1917/rustlogic) [:package:](https://crates.io/crates/rustlogic-march1917) - parsing and handling simple logical expressings.
 - [smt2](https://github.com/regular-pv/smt2) [:package:](https://crates.io/crates/smt2) - SMT-LIB 2 parsing library.
 - [tptp](https://github.com/MichaelRawson/tptp) [:package:](https://crates.io/crates/tptp):diamonds: - parse the TPTP format.
 
@@ -219,6 +220,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Translator
 
 - [anthem](https://github.com/potassco/anthem) :zzz: - translate answer set programs to first-order theorem prover language.
+- [bool2dimacs](https://github.com/Rose1917/bool2dimacs) [:package:](https://crates.io/crates/bool2cnf) - transfer boolean expression to dimacs directly.
 - [CNFGEN](https://github.com/matszpk/cnfgen) [:package:](https://crates.io/crates/cnfgen) - create boolean formulae from boolean expressions and integer expressions.
 - [Cnfpack](https://github.com/jix/cnfpack) [:package:](https://crates.io/crates/cnfpack) - converts between DIMACS CNF file format and the compressed binary Cnfpack format.
 - [hz-to-mm0](https://github.com/digama0/hz-to-mm0) - translator from HOL Zero / Common HOL to Metamath Zero.
@@ -238,8 +240,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [epilog](https://github.com/ray-kast/epilog) [:package:](https://crates.io/crates/epilog):zzz: - collection of Prolog-like tools for inference logic.
 - [FALL](https://github.com/remexre/fall) [:package:](https://crates.io/crates/fall):zzz: - easily embeddable, futures-friendly logic engine.
 - [foliage](https://github.com/potassco/foliage) [:package:](https://crates.io/crates/foliage):zzz: - first-order logic with integer arithmetics.
+- [fuzzylogic](https://github.com/weirdsmiley/fuzzylogic) [:package:](https://crates.io/crates/fuzzylogic) - provides operations and inference for fuzzy set theory.
 - [Joker Calculus](https://github.com/advancedresearch/joker_calculus.git) [:package:](https://crates.io/crates/joker_calculus) -  implementation of Joker Calculus in Rust.
 - [Kravanenn](https://github.com/ppedrot/kravanenn) :star::zzz: - set of tools for Coq.
+- [logic-lang](https://github.com/logic-lang/logic) [:package:](https://crates.io/crates/logic-lang) - structural logic based on equivalence graphs.
 - [LogRu](https://github.com/fatho/logru) [:package:](https://crates.io/crates/logru) - small, embeddable and fast interpreter for a subset of Prolog.
 - [mm0-rs](https://github.com/digama0/mm0/tree/master/mm0-rs) [:package:](https://crates.io/crates/mm0b_parser)[:package:](https://crates.io/crates/mm0_deepsize)[:package:](https://crates.io/crates/mm0_util):star:[:lab_coat:](https://digama0.github.io/mm0/thesis-slides.pdf)[:lab_coat:](https://digama0.github.io/mm0/thesis.pdf) - MM0/MM1 server and utilities.
 - [mmb-binutils](https://github.com/trivial-rs/mmb-binutils) - utility tools for Metamath Zero binary proof files.
@@ -386,8 +390,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 90 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 48 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 92 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 52 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 34 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 31 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 30 entries. :100:
@@ -395,7 +399,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 11 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 9 entries. :100:
-- [rewriting](https://crates.io/keywords/rewriting) - 8 entries. :100:
+- [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 6 entries. :100:
@@ -437,6 +441,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Aodhnait Étaín](https://aodhneine.github.io) - Esther.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, Lambda Term Parsing, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
 - [FireFighterDuck](https://github.com/firefighterduck) - Alice_rs, Kissat-rs, minihl.
+- [Hugo Frezat](https://github.com/hrkz) - logic-lang.
 - [Robin Freyler](https://robbepop.github.io) - CNF Parser, DIMACS Parser, Stevia.
 - [Galois, Inc.](http://galois.com) - crux-mir.
 - [Jad Ghalayini](https://gitlab.com/tekne) - isotope-prover-experiments, lean-sys.
@@ -476,6 +481,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus, Untyped Multistack Concatenative Calculus.
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal.
 - [Krzysztof Małysa](https://github.com/varqox) - prover.
+- [Manas](https://github.com/weirdsmiley) - fuzzylogic.
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, relsat-rs, uasat-rs.
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, Kani, plar-rs.
 - [Yusuke Matsushita](https://github.com/shiatsumat) - Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy, RustHorn.
@@ -536,6 +542,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Max Willsey](https://www.mwillsey.com) - egg.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
+- [Ren Yanjie](https://github.com/Rose1917) - bool2dimacs, RustLogic.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Alexey Zatelepin](https://github.com/ztlpn) - minilp.
 - [Eric Zhang](https://www.ekzhang.com) - µKanren-rs.
