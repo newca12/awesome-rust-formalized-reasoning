@@ -79,6 +79,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [CreuSAT](https://github.com/sarsko/CreuSAT) :star: - formally verified SAT solver verified with Creusot.
 - [Debug-SAT](https://github.com/advancedresearch/debug_sat) [:package:](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
 - [dpll-sat](https://github.com/snsinfu/dpll-sat) - naïve SAT solver implementing the classic DPLL algorithm.
+- [lutrix](https://github.com/arata-nvm/lutrix) - SAT/SMT Solver.
 - [msat](https://github.com/solhop/msat) [:package:](https://crates.io/crates/msat):skull: - MaxSAT Solver.
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin):star::zzz: - reimplementation of MiniSat.
 - [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat):skull: - SAT Solver.
@@ -412,6 +413,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
 - [ammkrn](https://twitter.com/ammkrn) - nanoda, nanoda_lib, second_opinion.
+- [Arata](https://github.com/arata-nvm) - lutrix.
 - [arbaregni](https://github.com/arbaregni) - resolution-prover.
 - [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
