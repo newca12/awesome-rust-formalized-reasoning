@@ -171,6 +171,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli)[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf):diamonds: - alternative implementation of the logical framework Dedukti.
 - [Metamath-knife](https://github.com/david-a-wheeler/metamath-knife) - verify Metamath proofs.
+- [Mizar proof checker](https://github.com/digama0/mizar-rs) :star::construction: - Alternative [Mizar](http://mizar.org) proof checker.
 - [pocket_prover-set](https://github.com/advancedresearch/pocket_prover-set) [:package:](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check):diamonds: - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
 - [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc) - checker for the LFSC proof language.
@@ -225,6 +226,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [CNFGEN](https://github.com/matszpk/cnfgen) [:package:](https://crates.io/crates/cnfgen) - create boolean formulae from boolean expressions and integer expressions.
 - [Cnfpack](https://github.com/jix/cnfpack) [:package:](https://crates.io/crates/cnfpack) - converts between DIMACS CNF file format and the compressed binary Cnfpack format.
 - [hz-to-mm0](https://github.com/digama0/hz-to-mm0) - translator from HOL Zero / Common HOL to Metamath Zero.
+- [Metamath hammer](https://github.com/digama0/mm-hammer) - tool for automatically proving Metamath theorems using ATPs.
 - [rust-smt-ir](https://github.com/awslabs/rust-smt-ir) [:package:](https://crates.io/crates/aws-smt-ir)[:package:](https://crates.io/crates/aws-smt-ir-derive):star: - intermediate representation (IR) in Rust for SMT-LIB queries.
 
 #### Misc
@@ -422,7 +424,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat, Shuttle.
 - [Henrik Böving](https://github.com/hargoniX) - Obvious.
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
-- [Mario Carneiro](https://github.com/digama0) - FRAT-rs, hz-to-mm0, mm0-rs, olean-rs.
+- [Mario Carneiro](https://github.com/digama0) - FRAT-rs, hz-to-mm0, Metamath hammer, Mizar proof checker, mm0-rs, olean-rs.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
