@@ -71,7 +71,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
 - [lickety](https://github.com/MichaelRawson/lickety) - prototype system for linear resolution with splitting.
 - [meancop](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/meancop):recycle: - became CoP.
-- [Serkr](https://github.com/mAarnos/Serkr) [:ghost:](https://github.com/newca12/Serkr) :star: - automated theorem prover for first order logic with equality.
+- [Serkr](https://github.com/mAarnos/Serkr) :star:[:ghost:](https://github.com/newca12/Serkr) - automated theorem prover for first order logic with equality.
 
 #### SAT Solver
 
@@ -212,7 +212,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lean-sys](https://gitlab.com/tekne/lean-sys) [:package:](https://crates.io/crates/lean-sys) - bindings to Lean 4's C API.
 - [libsmt.rs](https://github.com/sushant94/libsmt.rs) :zzz: - bindings for SMTLIB2.
 - [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star: - generic library to interact with SMT-LIB 2 compliant solvers.
-- [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):skull::star: - generic high-level API for interacting with SMT solvers.
+- [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):star::skull: - generic high-level API for interacting with SMT solvers.
 - [rust_z3prover](https://github.com/hrkzmnm/rust_z3prover) :zzz: - use Z3 SMT solver from rust.
 - [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt):zzz: - fork of libsmt.rs.
 - [z3](https://github.com/prove-rs/z3.rs) [:package:](https://crates.io/crates/z3)[:package:](https://crates.io/crates/z3-sys):star::fire: - high-level and low-level Rust bindings for the Z3 solver.
@@ -252,7 +252,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [mmb-binutils](https://github.com/trivial-rs/mmb-binutils) - utility tools for Metamath Zero binary proof files.
 - [mmb-types](https://github.com/trivial-rs/mmb-types) [:package:](https://crates.io/crates/mmb-types) - library containing the definitions of the opcodes in the Metamath Zero binary proof files.
 - [moniker](https://github.com/brendanzab/moniker) [:package:](https://crates.io/crates/moniker)[:package:](https://crates.io/crates/moniker-derive):star::zzz: - automagical variable binding library.
-- [nanoda](https://github.com/ammkrn/nanoda) :skull::star: - became nanoda-lib.
+- [nanoda](https://github.com/ammkrn/nanoda) :star::skull: - became nanoda-lib.
 - [nanoda_lib](https://github.com/ammkrn/nanoda_lib) - type inference/checking functionality based on the Lean theorem prover.
 - [polytype](https://github.com/lucasem/polytype-rs) [:package:](https://crates.io/crates/polytype):star: - Hindley-Milner polymorphic typing system.
 - [program-induction](https://github.com/lucasem/program-induction) [:package:](https://crates.io/crates/programinduction):star: - library for program induction and learning representations.
@@ -272,25 +272,25 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 *There is [numerous](https://github.com/search?l=Rust&q=tapl&type=Repositories) implementations of TAPL [:book:](https://www.cis.upenn.edu/~bcpierce/tapl), we keep only the most popular and keep an eye on implementations that worth attention.*
 
-- [logic-rs](https://github.com/ixjf/logic-rs) [:book:](https://ruccs.rutgers.edu/lepore-meaning-and-argument/lepore-about-the-book):skull::star: - parser of relational predicate logic & truth tree solver
+- [logic-rs](https://github.com/ixjf/logic-rs) [:book:](https://ruccs.rutgers.edu/lepore-meaning-and-argument/lepore-about-the-book):star::skull: - parser of relational predicate logic & truth tree solver
 - [plar-rs](https://github.com/nikomatsakis/plar-rs) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp)[:ghost:](https://github.com/newca12/plar-rs) - exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
-- [tapl](https://github.com/v4kst1z/tapl) - implementation of TAPL.
-- [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star: - another collection of implementations of TAPL.
+- [tapl](https://github.com/v4kst1z/tapl) :zzz: - implementation of TAPL.
+- [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star::zzz: - another collection of implementations of TAPL.
 - [The Little Prover](https://github.com/mbillingr/the-little-prover) [:book:](https://mitpress.mit.edu/9780262330572/the-little-prover) - transpiled J-Bob assistant & GUI frontend.
 - [the-little-typer](https://github.com/mbillingr/the-little-typer) [:book:](https://mitpress.mit.edu/9780262536431/the-little-typer) - a Rust take on D.Friedman's book.
 - [tnt](https://github.com/SymmetricChaos/tnt) [:book:](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)[:package:](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher & Bach.
-- [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) :star: - Exercises from Benjamin Pierce's TAPL textbook + extras!
+- [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) :star::zzz: - Exercises from Benjamin Pierce's TAPL textbook + extras!
 
 ## Programming Language
 
 - [egglog](https://github.com/philzook58/egglog) :star: - using the egg library with a file format and semantics similar to datalog.
 - [Fathom](https://github.com/yeslogic/fathom) [:package:](https://crates.io/crates/fathom):star::construction: - declarative data definition language for formally specifying binary data formats.
 - [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) :star: - massively parallel, optimal functional runtime.
-- [isotope-prover-experiments](https://gitlab.com/tekne/isotope-prover-experiments) :skull: [:lab_coat:](https://gitlab.com/tekne/phd-proposal/-/blob/main/report.tex) [:lab_coat:](https://gitlab.com/isotope-project/msc-thesis/-/blob/master/thesis.tex) - experimental dependently typed language supporting borrow checking.
+- [isotope-prover-experiments](https://gitlab.com/tekne/isotope-prover-experiments) [:lab_coat:](https://gitlab.com/tekne/phd-proposal/-/blob/main/report.tex)[:lab_coat:](https://gitlab.com/isotope-project/msc-thesis/-/blob/master/thesis.tex):skull: - experimental dependently typed language supporting borrow checking.
 - [Kind](https://github.com/Kindelia/Kind) [:package:](https://crates.io/crates/kind2):star::fire: - next-gen functional language and proof assistant.
 - [Last Order Logic](https://github.com/advancedresearch/last_order_logic.git) [:package:](https://crates.io/crates/last_order_logic) - experimental logical language.
 - [minihl](https://github.com/firefighterduck/minihl) - formal methods playgorund for MiniHeapLang language.
-- [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util):skull::star: - became Voile.
+- [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util):star::skull: - became Voile.
 - [Narc](https://github.com/owo-lang/narc-rs) [:package:](https://crates.io/crates/nar):star::zzz: - dependently-typed programming language with Agda style dependent pattern matching.
 - [Pikelet](https://github.com/pikelet-lang/pikelet) [:package:](https://crates.io/crates/pikelet):star: - small, functional, dependently typed programming language.
 - [proto-vulcan](https://github.com/terohuttunen/proto-vulcan) [:package:](https://crates.io/crates/proto-vulcan)[:package:](https://crates.io/crates/proto-vulcan-macros) - miniKanren-family relational logic programming language.
@@ -303,8 +303,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [TIP](https://github.com/v4kst1z/TIP) :baby_chick: - imperative programming language aimed at teaching fundamental concepts of static program analysis.
 - [Untyped Concatenative Calculus](https://github.com/dawn-lang/ucc) - toy programming language and prototype for [Dawn](https://www.dawn-lang.org).
 - [Untyped Multistack Concatenative Calculus](https://github.com/dawn-lang/umcc) - toy programming language and prototype for [Dawn](https://www.dawn-lang.org).
-- [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util):skull::star: - became Narc.
-- [zz](https://github.com/zetzit/zz) [:package:](https://crates.io/crates/zz):skull::star: - zymbolic verifier and tranzpiler to bare metal C.
+- [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util):star::skull: - became Narc.
+- [zz](https://github.com/zetzit/zz) [:package:](https://crates.io/crates/zz):star::skull: - zymbolic verifier and tranzpiler to bare metal C.
 
 ## Kanren
 
@@ -327,35 +327,35 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ## Propositional logic
 - [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
-- [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic) :baby_chick: - crate for propositional logic.
-- [logic-resolver](https://github.com/gustafla/logic-resolver) :baby_chick: - toy implementation of resolution for propositional logic.
+- [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic) :baby_chick::zzz: - crate for propositional logic.
+- [logic-resolver](https://github.com/gustafla/logic-resolver) :baby_chick::zzz: - toy implementation of resolution for propositional logic.
 - [mini-prop](https://github.com/emilHof/mini-prop) [:package:](https://crates.io/crates/mini-prop) - CLI tool for parsing and processing LaTex formatted propositional statements.
-- [plc](https://github.com/trolleyman/plc) - propositional logic calculator.
+- [plc](https://github.com/trolleyman/plc) :zzz: - propositional logic calculator.
 - [Plogic](https://github.com/Janko-dev/plogic) :star: - propositional logic evaluator and rule-based pattern matcher.
-- [Prop](https://github.com/advancedresearch/prop) [:package:](https://crates.io/crates/prop) - library for theorem proving with Intuitionistic Propositional Logic.
-- [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs) - solver using the propositional tableaux method.
+- [Prop](https://github.com/advancedresearch/prop) [:package:](https://crates.io/crates/prop):star: - library for theorem proving with Intuitionistic Propositional Logic.
+- [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs) :zzz: - solver using the propositional tableaux method.
 - [prop_tune](https://github.com/emilHof/prop_tune) [:package:](https://crates.io/crates/prop_tune)[:package:](https://crates.io/crates/prop_tune_core)[:package:](https://crates.io/crates/prop_tune_macro) - library for working with Logical Propositions.
-- [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) - resolution prover library for propositional logic.
-- [resolution-prover](https://github.com/arbaregni/resolution-prover) - Uses propositional resolution to prove statements and proofs on discord.
+- [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) :zzz: - resolution prover library for propositional logic.
+- [resolution-prover](https://github.com/arbaregni/resolution-prover) :zzz: - Uses propositional resolution to prove statements and proofs on discord.
 - [rs-logik](https://github.com/SolarLiner/rs-logik) [:ghost:](https://github.com/newca12/rs-logik) - propositional logic interpreter.
-- [rusty-logic](https://github.com/mcheatham/rusty-logic) :baby_chick: - propositional logic analysis.
-- [simple-proof-assistant](https://github.com/long-long-float/simple-proof-assistant) :baby_chick: - a proof assistant kernel for minimal propositional logic.
-- [validator](https://github.com/Maaarcocr/validator) - small utility to test a propositional logic theorem prover.
+- [rusty-logic](https://github.com/mcheatham/rusty-logic) :baby_chick::zzz: - propositional logic analysis.
+- [simple-proof-assistant](https://github.com/long-long-float/simple-proof-assistant) :baby_chick::zzz: - a proof assistant kernel for minimal propositional logic.
+- [validator](https://github.com/Maaarcocr/validator) :zzz: - small utility to test a propositional logic theorem prover.
 
 ## Unclassified
 
-- [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) - simulations to learn formal systems as typed first-order term rewriting systems.
-- [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) - simulations to learn typed first-order term rewriting systems that perform list routines.
-- [Minimal models](https://github.com/jix/minimal_models_example) - uses a SAT solver to find minimal partial assignments that are model of a CNF formula.
-- [n-queens-sat](https://github.com/erohkohl/n-queens-sat) - modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
+- [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) :zzz: - simulations to learn formal systems as typed first-order term rewriting systems.
+- [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) :zzz: - simulations to learn typed first-order term rewriting systems that perform list routines.
+- [Minimal models](https://github.com/jix/minimal_models_example) :zzz: - uses a SAT solver to find minimal partial assignments that are model of a CNF formula.
+- [n-queens-sat](https://github.com/erohkohl/n-queens-sat) :zzz: - modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
 - [nonogrid](https://github.com/tsionyx/nonogrid) [:package:](https://crates.io/crates/nonogrid) - lightning fast nonogram solver.
 - [peano](https://github.com/gpoesia/peano) [:lab_coat:](https://arxiv.org/abs/2211.15864) - An environment for learning formal mathematical reasoning from scratch.
 - [rummy_to_sat ](https://github.com/neuring/rummy_to_sat) - implementation of a solver for [Rummy](https://en.wikipedia.org/wiki/Rummy).
-- [rust-z3-practice](https://github.com/salmans/rust-z3-practice) - solving a number of SAT problems using Z3.
+- [rust-z3-practice](https://github.com/salmans/rust-z3-practice) :zzz: - solving a number of SAT problems using Z3.
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
-- [Supermux](https://github.com/tuzz/supermux) - reduction of the superpermutation problem to Quantified Boolean Formula.
-- [Supersat](https://github.com/tuzz/supersat) - attempt to find superpermutations by reducing the problem to SAT.
-- [tarpit-rs](https://github.com/sdleffler/tarpit-rs) :star: - type-level implementation of Smallfuck in Rust. Turing-completeness proof for Rust's type system.
+- [Supermux](https://github.com/tuzz/supermux) :zzz: - reduction of the superpermutation problem to Quantified Boolean Formula.
+- [Supersat](https://github.com/tuzz/supersat) :zzz: - attempt to find superpermutations by reducing the problem to SAT.
+- [tarpit-rs](https://github.com/sdleffler/tarpit-rs) :star::zzz: - type-level implementation of Smallfuck in Rust. Turing-completeness proof for Rust's type system.
 
 ## Resources
 
