@@ -101,7 +101,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [hakim](https://github.com/babaeee/hakim) - hacky interactive theorem prover.
 - [cobalt](https://github.com/lcnr/cobalt) :recycle:[:ghost:](https://github.com/isgasho/cobalt) - a wip minimal proof assistant.
 - [Esther](https://github.com/aodhneine/esther) :construction: - simple automated proof assistant.
-- [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) :diamonds::star:[:lab_coat:](https://arxiv.org/abs/1812.10586)[:lab_coat:](https://arxiv.org/abs/1902.03831):fire: - implementation of homotopy.io proof assistant for finitely-presented globular n-categories.
+- [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) :diamonds::star:[:lab_coat:](https://arxiv.org/abs/1812.10586)[:lab_coat:](https://arxiv.org/abs/1902.03831):fire: - implementation of homotopy.io proof assistant.
 - [LSTS](https://github.com/andrew-johnson-4/LSTS) [:package:](https://crates.io/crates/lsts):star::fire: - proof assistant that is also a programming language.
 - [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZVE64QKPf6y_TIUwj5nKQ7):star: - Not Coq. Simple expression transformer that is not Coq.
 - [Poi](https://github.com/advancedresearch/poi) [:package:](https://crates.io/crates/poi):star: - pragmatic point-free theorem prover assistant.
@@ -125,6 +125,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [prover(2)](https://github.com/mverleg/prover) :baby_chick::zzz: - experiment with integer relation prover.
 - [reachability_solver](https://github.com/advancedresearch/reachability_solver) [:package:](https://crates.io/crates/reachability_solver) - linear reachability solver for directional edges.
 - [relsat-rs](https://github.com/mmaroti/relsat-rs) :baby_chick: - Experiments with  provers.
+- [sequentprover](https://github.com/astrobeastie/sequentprover) :baby_chick: - proof search algorithm for boolean formulae.
 - [Sequent solver](https://github.com/Dacit/sequent_prover) :baby_chick::zzz: - simple sequent solver.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
 - [stupid-smt](https://github.com/Hoblovski/stupid-smt) :baby_chick::zzz: - SMT library. Mainly project at the verification course in THU.
@@ -395,14 +396,14 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 93 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 51 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 54 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 34 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 31 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 32 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 30 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 24 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 11 entries. :100:
-- [cnf](https://crates.io/keywords/cnf) - 9 entries. :100:
+- [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
@@ -418,6 +419,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [ammkrn](https://twitter.com/ammkrn) - nanoda, nanoda_lib, second_opinion.
 - [Arata](https://github.com/arata-nvm) - lutrix.
 - [arbaregni](https://github.com/arbaregni) - resolution-prover.
+- [astrobeastie](https://github.com/astrobeastie) - sequentprover.
 - [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Mathieu Baudet](https://github.com/ma2bd) - smt2utils.
