@@ -95,7 +95,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [starlit](https://github.com/jix/starlit) :construction: - CDCL SAT solver.
 - [Stevia](https://github.com/Robbepop/stevia) :star::zzz: - simple (unfinished) SMT solver for QF_ABV.
 - [UASAT-RS](https://github.com/mmaroti/uasat-rs) - SAT solver based calculator for discrete mathematics and universal algebra.
-- [Varisat](https://github.com/jix/varisat)[:package:](https://crates.io/crates/varisat)[:package:](https://crates.io/crates/varisat-checker)[:package:](https://crates.io/crates/varisat-cli)[:package:](https://crates.io/crates/varisat-dimacs)[:package:](https://crates.io/crates/varisat-formula)[:package:](https://crates.io/crates/varisat-internal-macros)[:package:](https://crates.io/crates/varisat-internal-proof)[:package:](https://crates.io/crates/varisat-lrat):star::zzz: - CDCL based SAT solver.
+- [Varisat](https://github.com/jix/varisat)[:package:](https://crates.io/crates/varisat)[:package:](https://crates.io/crates/varisat-checker)[:package:](https://crates.io/crates/varisat-cli)[:package:](https://crates.io/crates/varisat-dimacs)[:package:](https://crates.io/crates/varisat-formula)[:package:](https://crates.io/crates/varisat-internal-macros)[:package:](https://crates.io/crates/varisat-internal-proof)[:package:](https://crates.io/crates/varisat-lrat):star: - CDCL based SAT solver.
 
 #### Proof assistant
 - [hakim](https://github.com/babaeee/hakim) - hacky interactive theorem prover.
@@ -249,6 +249,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Joker Calculus](https://github.com/advancedresearch/joker_calculus.git) [:package:](https://crates.io/crates/joker_calculus) -  implementation of Joker Calculus in Rust.
 - [Kravanenn](https://github.com/ppedrot/kravanenn) :star::zzz: - set of tools for Coq.
 - [logic-lang](https://github.com/logic-lang/logic) [:package:](https://crates.io/crates/logic-lang) - structural logic based on equivalence graphs.
+- [logical_solver](https://github.com/antoKeinanen/logical_solver-rs) [:package:](https://crates.io/crates/logical_solver) :baby_chick: -  library for solving and parsing logical equations.
 - [LogRu](https://github.com/fatho/logru) [:package:](https://crates.io/crates/logru) - small, embeddable and fast interpreter for a subset of Prolog.
 - [mm0-rs](https://github.com/digama0/mm0/tree/master/mm0-rs) [:package:](https://crates.io/crates/mm0b_parser)[:package:](https://crates.io/crates/mm0_deepsize)[:package:](https://crates.io/crates/mm0_util):star:[:lab_coat:](https://digama0.github.io/mm0/thesis-slides.pdf)[:lab_coat:](https://digama0.github.io/mm0/thesis.pdf) - MM0/MM1 server and utilities.
 - [mmb-binutils](https://github.com/trivial-rs/mmb-binutils) - utility tools for Metamath Zero binary proof files.
@@ -286,6 +287,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ## Programming Language
 
 - [egglog](https://github.com/philzook58/egglog) :star: - using the egg library with a file format and semantics similar to datalog.
+- []
 - [Fathom](https://github.com/yeslogic/fathom) [:package:](https://crates.io/crates/fathom):star::construction: - declarative data definition language for formally specifying binary data formats.
 - [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) :star: - massively parallel, optimal functional runtime.
 - [isotope-prover-experiments](https://gitlab.com/tekne/isotope-prover-experiments) [:lab_coat:](https://gitlab.com/tekne/phd-proposal/-/blob/main/report.tex)[:lab_coat:](https://gitlab.com/isotope-project/msc-thesis/-/blob/master/thesis.tex):skull: - experimental dependently typed language supporting borrow checking.
@@ -312,20 +314,20 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Canrun](https://github.com/tgecho/canrun_rs) [:package:](https://crates.io/crates/canrun):star: - logic programming library inspired by the *Kanren family of language DSLs.
 - [miniKANREN](https://github.com/mbillingr/miniKANREN) [:package:](https://crates.io/crates/mini-kanren) - miniKANREN as a DSL.
-- [rslogic](https://github.com/kulibali/rslogic) [:package:](https://crates.io/crates/rslogic):star: - logic programming framework for Rust inspired by µKanren.
-- [rust-kanren](https://github.com/wartmanm/rust-kanren) :star: - loose interpretation of miniKanren and cKanren.
+- [rslogic](https://github.com/kulibali/rslogic) [:package:](https://crates.io/crates/rslogic):star::zzz: - logic programming framework for Rust inspired by µKanren.
+- [rust-kanren](https://github.com/wartmanm/rust-kanren) :star::zzz: - loose interpretation of miniKanren and cKanren.
 - [µKanren-rs](https://github.com/ekzhang/ukanren-rs) [:package:](https://crates.io/crates/ukanren):star: - implementation of µKanren.
 
 ## Lambda Calculus
 
-- [blc](https://github.com/ljedrz/blc) [:package:](https://crates.io/crates/blc) - implementation of the binary lambda calculus.
+- [blc](https://github.com/ljedrz/blc) [:package:](https://crates.io/crates/blc):zzz: - implementation of the binary lambda calculus.
 - [Closure Calculus](https://github.com/advancedresearch/closure_calculus) [:package:](https://crates.io/crates/closure_calculus)[:lab_coat:](https://dl.acm.org/doi/abs/10.1145/3294032.3294085) - library for Barry Jay's Closure Calculus.
-- [lambash](https://github.com/nixpulvis/lambash) [:package:](https://crates.io/crates/lambash) - λ-calculus shell.
-- [lambda_calc](https://gitlab.com/mcmfb/lambda-calculator) [:package:](https://crates.io/crates/lambda_calc) - command-line untyped lambda calculus interpreter.
+- [lambash](https://github.com/nixpulvis/lambash) [:package:](https://crates.io/crates/lambash):zzz: - λ-calculus shell.
+- [lambda_calc](https://gitlab.com/mcmfb/lambda-calculator) [:package:](https://crates.io/crates/lambda_calc):recycle: - command-line untyped lambda calculus interpreter.
 - [lambda_calculus](https://github.com/ljedrz/lambda_calculus) [:package:](https://crates.io/crates/lambda_calculus):star: - simple, zero-dependency implementation of pure lambda calculus in safe Rust.
-- [lambda_calculus](https://github.com/thomasdziedzic/lambda_calculus) - no description.
-- [lambdacube](https://github.com/felixzhuologist/lambdacube) :construction: - implementation of the lambda cube (and other type stuff).
-- [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl) - lambda calculus parser and evaluator and a separate command line REPL.
+- [lambda_calculus](https://github.com/thomasdziedzic/lambda_calculus) - lambda calculus with antlr grammar.
+- [lambdacube](https://github.com/felixzhuologist/lambdacube) :construction::zzz: - implementation of the lambda cube (and other type stuff).
+- [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl):zzz: - lambda calculus parser and evaluator and a separate command line REPL.
 
 ## Propositional logic
 - [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
@@ -348,6 +350,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) :zzz: - simulations to learn formal systems as typed first-order term rewriting systems.
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) :zzz: - to learn typed first-order term rewriting systems that perform list routines.
+- [logical_tui](https://github.com/antoKeinanen/logical_tui) :baby_chick: - tui for  [logical_solver](https://github.com/antoKeinanen/logical_solver-rs).
 - [Minimal models](https://github.com/jix/minimal_models_example) :zzz: - uses a SAT solver to find minimal partial assignments that are model of a CNF formula.
 - [n-queens-sat](https://github.com/erohkohl/n-queens-sat) :zzz: - modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
 - [nonogrid](https://github.com/tsionyx/nonogrid) [:package:](https://crates.io/crates/nonogrid) - lightning fast nonogram solver.
@@ -395,10 +398,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 93 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 94 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 54 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 34 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 32 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 34 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 30 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 24 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
@@ -473,6 +476,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
 - [Hosein Kalbasi](https://github.com/HKalbasi) - akim.
 - [karroffel](https://gitlab.com/karroffel) - contracts.
+- [Anto Keinänen](https://github.com/antoKeinanen) - logical_solver, logical_tui.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
 - [Alexey Kutepov](https://tsoding.org) - Noq.
 - [Ivan Ladelshchikov](https://github.com/tsionyx) - nonogrid.
