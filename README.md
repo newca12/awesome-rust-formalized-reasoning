@@ -140,10 +140,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) :star: - static simulator for Rust programs.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) :star: - finds vulnerable patterns in binary executables.
 - [electrolysis](https://github.com/Kha/electrolysis) :star::zzz: - tool for formally verifying Rust programs by transpiling them into the Lean 2 theorem prover.
-- [Flux](https://github.com/liquid-rust/flux) :star:[:lab_coat:](https://arxiv.org/pdf/2207.04034.pdf):fire: - liquid types for Rust.
+- [Flux](https://github.com/flux-rs/flux) :star:[:lab_coat:](https://arxiv.org/pdf/2207.04034.pdf):fire: - refinement type checker for Rust.
 - [Granite](https://github.com/Skasselbard/Granite) :star:[:lab_coat:](https://github.com/Skasselbard/Granite/blob/master/doc/MasterThesis/main.pdf):zzz: - find Deadlocks in Rust with Petri-Net Model checking.
 - [Kani](https://github.com/model-checking/kani) :star:[:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf):fire: - bit-precise model-checker, ensures that unsafe Rust code is actually safe.
+- [Liquid Rust](https://github.com/fan-tom/liquid-rust) :star: - implement Liquid Types type checker.
 - [lockbud](https://github.com/BurtonQin/lockbud) :star:[:lab_coat:](https://songlh.github.io/paper/rust-study.pdf) - statically detect deadlocks bugs for Rust.
+- [Logically Qualified Data Types](liquid-types) - implementation of liquid types on an implicitly-typed variant of ML.
 - [Loom](https://github.com/tokio-rs/loom) [:package:](https://crates.io/crates/loom):star: - concurrency permutation testing tool for Rust.
 - [matla](https://github.com/OCamlPro/matla) - a manager for TLA+ projects.
 - [MIRAI](https://github.com/facebookexperimental/MIRAI) [:package:](https://crates.io/crates/mirai-annotations):star: - intended to become a widely used static analysis tool for Rust.
@@ -296,6 +298,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [minihl](https://github.com/firefighterduck/minihl) - formal methods playgorund for MiniHeapLang language.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util):star::skull: - became Voile.
 - [Narc](https://github.com/owo-lang/narc-rs) [:package:](https://crates.io/crates/nar):star::zzz: - dependently-typed programming language with Agda style dependent pattern matching.
+- [Pika](https://github.com/tolziplohu/pika) :star::construction: - small, performance-oriented, dependently typed ML with algebraic effects and unboxed types..
 - [Pikelet](https://github.com/pikelet-lang/pikelet) [:package:](https://crates.io/crates/pikelet):star: - small, functional, dependently typed programming language.
 - [proto-vulcan](https://github.com/terohuttunen/proto-vulcan) [:package:](https://crates.io/crates/proto-vulcan)[:package:](https://crates.io/crates/proto-vulcan-macros) - miniKanren-family relational logic programming language.
 - [Rust pi-forall](https://github.com/sourcedennis/rust-pi-forall) [:lab_coat:](https://github.com/sweirich/pi-forall/blob/2022/doc/oplss.pdf) - partial re-implementation of pi-forall.
@@ -377,7 +380,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Demos
 - [Artifact Evaluation: Kani Rust Verifier](https://github.com/avanhatt/icse22ae-kani) [:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf) - Kani Rust Model Checker artifact for ICSE 2022 Artifact Evaluation.
-- [flux-demo](https://github.com/liquid-rust/flux-demo) - small examples that demonstrate how flux works.
+- [flux-demo](https://github.com/flux-rs/flux-demo) - small examples that demonstrate how flux works.
 - [rust-smt-ir-examples](https://github.com/awslabs/rust-smt-ir-examples) - examples of using a rust-smt-ir, a Rust intermediate representation (IR) for SMT-LIB.
 - [aws-lambda-z3](https://github.com/sourcedennis/aws-lambda-z3) - tutorial on running Z3 on AWS Lambda, with Rust.
 
@@ -441,6 +444,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Ariel Davis](https://azdavis.net) - coc.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt Library & Benchmarks, Rust verification tools (2021).
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
+- [Sylvie Dirkswager](https://github.com/tolziplohu) - Pika.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir, rust-smt-ir-examples, rust-smt-strings.
@@ -454,6 +458,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Hugo Frezat](https://github.com/hrkz) - logic-lang.
 - [Robin Freyler](https://robbepop.github.io) - CNF Parser, DIMACS Parser, Stevia.
 - [Galois, Inc.](http://galois.com) - crux-mir.
+- [Alexey Gerasimov](https://github.com/fan-tom) - Liquid Rust.
 - [Jad Ghalayini](https://gitlab.com/tekne) - isotope-prover-experiments, lean-sys.
 - [Nathan Graule ](https://github.com/SolarLiner) - rs-logik.
 - [Brandon H. Gomes](https://github.com/bhgomes) - qbar.
@@ -517,6 +522,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Gabriel Poesia](https://github.com/gpoesia) - peano.
 - [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova) - cyclegg.
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
+- [Bobby Powers](https://github.com/bpowers) - Logically Qualified Data Types.
 - [Joshua Pratt](https://blog.mimir.systems) - ArcsJs - Provable, tako.
 - [Boqin Qin](https://github.com/BurtonQin) - lockbud.
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, lickety, SATCoP, tptp.
