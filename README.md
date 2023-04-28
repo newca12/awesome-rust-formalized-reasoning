@@ -105,6 +105,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [LSTS](https://github.com/andrew-johnson-4/LSTS) [:package:](https://crates.io/crates/lsts):star::fire: - proof assistant that is also a programming language.
 - [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZVE64QKPf6y_TIUwj5nKQ7):star: - Not Coq. Simple expression transformer that is not Coq.
 - [Poi](https://github.com/advancedresearch/poi) [:package:](https://crates.io/crates/poi):star: - pragmatic point-free theorem prover assistant.
+- [Proost](https://gitlab.crans.org/loutr/proost) :star: - simple proof assistant.
 - [qbar](https://github.com/qdeduction/qbar) [:package:](https://crates.io/crates/qbar) - experimental automated theorem verifier/prover and proof assistant.
 #### Misc
 
@@ -158,7 +159,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Rust verification tools (2021)](https://rust-formal-methods.github.io/tools.html) :information_source: - list of Rust verification tools with a bias towards ‘formal methods’ tools.
 - [Rust verification tools list](https://alastairreid.github.io/automatic-rust-verification-tools-2021) :information_source: - list of tools.
 - [RustHorn](https://github.com/hopv/rust-horn) :star:[:lab_coat:](https://link.springer.com/chapter/10.1007%2F978-3-030-44914-8_18) - CHC-based Automated Verification Tool for Rust.
-- [RustHornBelt Library & Benchmarks](https://github.com/xldenis/rhb-specs) [:lab_coat:](https://zenodo.org/record/6426048) - support paper in preview.
+- [RustHornBelt Library & Benchmarks](https://github.com/xldenis/rhb-specs) [:lab_coat:](https://zenodo.org/record/6426048) - evaluation libraries and benchmarks for the RustHornBelt PLDI paper.
 - [Rustproof](https://github.com/Rust-Proof/rustproof) [:package:](https://crates.io/crates/rustproof):star::zzz: - compiler plugin, verification condition generator.
 - [Shuttle](https://github.com/awslabs/shuttle) [:package:](https://crates.io/crates/shuttle):star: - library for testing concurrent Rust code.
 - [Stateright](https://github.com/stateright/stateright) [:package:](https://crates.io/crates/stateright):star: - model checker for implementing distributed systems.
@@ -373,6 +374,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Research Paper & Thesis
 
+- [Specifying and Verifying Higher-order Rust Iterators](https://hal.science/hal-03827702v2/document) - 2023.
+- [RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code](https://www.lri.fr/~xldenis/paper/rusthornbelt.pdf) - 2022.
 - [Hardware/Software Co-Assurance using the Rust Programming Language and ACL2](https://arxiv.org/abs/2205.11709v1) - 2022.
 - [Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy](https://github.com/shiatsumat/master-thesis) - 2021.
 - [Understanding and Evolving the Rust Programming Language](https://www.ralfj.de/research/thesis.html) - 2020.
@@ -442,7 +445,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Dacit](https://github.com/Dacit) - Sequent solver.
 - [DavidD12](https://github.com/DavidD12) - SMT-language.
 - [Ariel Davis](https://azdavis.net) - coc.
-- [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt Library & Benchmarks, Rust verification tools (2021).
+- [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code, RustHornBelt Library & Benchmarks, Rust verification tools (2021), Specifying and Verifying Higher-order Rust Iterators.
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Sylvie Dirkswager](https://github.com/tolziplohu) - Pika.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
@@ -541,7 +544,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
 - [Dennis Sprokholt](https://dennis.life) - aws-lambda-z3, Rust pi-forall.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
-- [Mateusz Szpakowski]() - CNFGEN, Exec-SAT.
+- [Mateusz Szpakowski](https://github.com/matszpk) - CNFGEN, Exec-SAT.
+- [Lucas Tabary-Maujean](https://github.com/loutr) - Proost.
 - [Victor Taelin](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Kind2, Symmetric Interaction Calculus..
 - [Calin Tataru](https://github.com/calintat) - homotopy-rs.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
