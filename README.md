@@ -197,6 +197,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [FRAT-rs](https://github.com/digama0/frat) [:lab_coat:](https://arxiv.org/pdf/2109.09665.pdf) - toolchain for processing and transforming files in the FRAT format.
 - [lalrpop-lambda](https://github.com/nixpulvis/lalrpop-lambda) [:package:](https://crates.io/crates/lalrpop-lambda):star::zzz: - λ-calculus Parser (using LALRPOP).
 - [Lambda Term Parsing](https://github.com/01mf02/lambda-parse) - explores different parser designs for a simple lambda term grammar.
+- [logic-form](https://github.com/gipsyh/logic-form) [:package:](https://crates.io/crates/logic-form):baby_chick: - library for representing Cube, Clause, CNF and DNF.
 - [mmb-parser](https://github.com/trivial-rs/mmb-parser) [:package:](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format.
 - [olean-rs](https://github.com/digama0/olean-rs) :zzz: - parser/viewer for olean files.
 - [RustLogic](https://github.com/Rose1917/rustlogic) [:package:](https://crates.io/crates/rustlogic-march1917) - parsing and handling simple logical expressings.
@@ -352,6 +353,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ## Unclassified
 
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) :zzz: - simulations to learn formal systems as typed first-order term rewriting systems.
+- [Junglefowl](https://github.com/wrsturgeon/junglefowl) [:package:](https://crates.io/crates/junglefowl)[:package:](https://crates.io/crates/junglefowl-macros) - runs Peano arithmetic on Rust types, verified at compile time..
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) :zzz: - to learn typed first-order term rewriting systems that perform list routines.
 - [logical_tui](https://github.com/antoKeinanen/logical_tui) :baby_chick: - tui for  [logical_solver](https://github.com/antoKeinanen/logical_solver-rs).
 - [Minimal models](https://github.com/jix/minimal_models_example) :zzz: - uses a SAT solver to find minimal partial assignments that are model of a CNF formula.
@@ -404,8 +406,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 94 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 54 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 34 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 60 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 35 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 34 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 30 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 24 entries. :100:
@@ -542,6 +544,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
 - [Dennis Sprokholt](https://dennis.life) - aws-lambda-z3, Rust pi-forall.
+- [Will Sturgeon](https://github.com/wrsturgeon) - Junglefowl.
+- [Yuheng Su](https://github.com/gipsyh) - logic-form.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
 - [Mateusz Szpakowski](https://github.com/matszpk) - CNFGEN, Exec-SAT.
 - [Lucas Tabary-Maujean](https://github.com/loutr) - Proost.
