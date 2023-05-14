@@ -176,6 +176,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli):diamonds:[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
 - [Metamath-knife](https://github.com/david-a-wheeler/metamath-knife) - verify Metamath proofs.
+- [Mist](https://github.com/oeb25/mist) - userfriendly verification frontend language.
 - [Mizar proof checker](https://github.com/digama0/mizar-rs) :star::construction: - Alternative [Mizar](http://mizar.org) proof checker.
 - [pocket_prover-set](https://github.com/advancedresearch/pocket_prover-set) [:package:](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check):diamonds: - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
@@ -221,6 +222,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):star::skull: - generic high-level API for interacting with SMT solvers.
 - [rust_z3prover](https://github.com/hrkzmnm/rust_z3prover) :zzz: - use Z3 SMT solver from rust.
 - [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt):zzz: - fork of libsmt.rs.
+- [vipers](https://github.com/oeb25/vipers) - crates for interacting with the Viper verification infrastructure.
 - [z3](https://github.com/prove-rs/z3.rs) [:package:](https://crates.io/crates/z3)[:package:](https://crates.io/crates/z3-sys):star::fire: - high-level and low-level Rust bindings for the Z3 solver.
 - [z3-rust](https://github.com/p4l1ly/z3-rust) [:package:](https://crates.io/crates/z3_ref) :zzz: - high level bindings for the Microsoft's Z3 SMT solver.
 - [Z3D](https://github.com/alex-chew/z3d-rs) [:package:](https://crates.io/crates/z3d):zzz: - Z3 DSL interface.
@@ -392,6 +394,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [A Formal Verification of Rust's Binary Search Implementation.](https://kha.github.io) :uk:
 - [Kani Rust Verifier Blog](https://model-checking.github.io/kani-verifier-blog) :uk:
+- [Mist Blog](https://mist.bvng.dk) :uk:
 - [Splr notebook.](https://shnarazk.github.io/tag/splr) :jp:
 - [Research notebook about improving with Rust the performance of nonclausal automated theorem provers.](https://github.com/01mf02/adam-notes) :uk::diamonds:
 - [Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs.](https://project-oak.github.io/rust-verification-tools) :uk:
@@ -436,6 +439,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Justin Blanchard](https://github.com/UncombedCoconut) - cat_solver.
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat, Shuttle.
 - [Henrik Böving](https://github.com/hargoniX) - Obvious.
+- [Oliver Bøving](https://github.com/oeb25) - Mist, vipers.
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
 - [Mario Carneiro](https://github.com/digama0) - FRAT-rs, hz-to-mm0, Metamath hammer, Mizar proof checker, mm0-rs, olean-rs.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
