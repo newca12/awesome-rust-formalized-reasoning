@@ -183,7 +183,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc) - checker for the LFSC proof language.
 - [second_opinion](https://github.com/ammkrn/second_opinion) - verifier for Metamath Zero proof files.
 - [smetamath](https://github.com/sorear/smetamath-rs) [:package:](https://crates.io/crates/smetamath) :star::zzz: - parallel and incremental verifier for Metamath databases.
-- [Supervisionary](https://github.com/veracruz-project/supervisionary) [:lab_coat:](https://dominicpm.github.io/publications/mulligan-supervisionary-2022.pdf) - experimental proof-checking system for Gordon's higher-order logic.
+- [Supervisionary](https://github.com/DominicPM/supervisionary) [:lab_coat:](https://dominicpm.github.io/publications/mulligan-supervisionary-2022.pdf) - experimental proof-checking system for Gordon's higher-order logic.
 - [t3p](https://github.com/skbaek/tesc/tree/master/t3p-rs) - optimized TESC (Theory-Extensible Sequent Calculus) verifier.
 - [Verifier](https://github.com/trivial-rs/verifier) [:package:](https://crates.io/crates/trivial-verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
 
@@ -409,7 +409,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 94 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 60 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 63 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 35 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 34 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 30 entries. :100:
