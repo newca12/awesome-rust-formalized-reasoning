@@ -128,6 +128,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [relsat-rs](https://github.com/mmaroti/relsat-rs) :baby_chick: - Experiments with  provers.
 - [sequentprover](https://github.com/astrobeastie/sequentprover) :baby_chick: - proof search algorithm for boolean formulae.
 - [Sequent solver](https://github.com/Dacit/sequent_prover) :baby_chick::zzz: - simple sequent solver.
+- [SAT-bench](https://github.com/shnarazk/SAT-bench) - benchmark suit for SAT solvers.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
 - [stupid-smt](https://github.com/Hoblovski/stupid-smt) :baby_chick::zzz: - SMT library. Mainly project at the verification course in THU.
 - [Totsu](https://github.com/convexbrain/Totsu) [:package:](https://crates.io/crates/totsu)[:package:](https://crates.io/crates/totsu_f32cuda)[:package:](https://crates.io/crates/totsu_f64lapack)[:package:](https://crates.io/crates/totsu_core)[:package:]():star: - first-order conic solver for convex optimization problems .
@@ -544,7 +545,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Ryan Schroeder](https://ryan-s.net) - AbsoluteUnity, epilog.
 - [Carol Schulze](https://github.com/Ereski) - gpp-solver.
 - [skbaek](https://github.com/skbaek) - t3p.
-- [Narazaki Shuji](https://shnarazk.github.io) - Splr, Splr notebook, sudoku_sat.
+- [Narazaki Shuji](https://shnarazk.github.io) - SAT-bench, Splr, Splr notebook, sudoku_sat.
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
 - [Dennis Sprokholt](https://dennis.life) - aws-lambda-z3, Rust pi-forall.
