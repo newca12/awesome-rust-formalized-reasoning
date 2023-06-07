@@ -80,6 +80,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Debug-SAT](https://github.com/advancedresearch/debug_sat) [:package:](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
 - [dpll-sat](https://github.com/snsinfu/dpll-sat) - naïve SAT solver implementing the classic DPLL algorithm.
 - [lutrix](https://github.com/arata-nvm/lutrix) - SAT/SMT Solver.
+- [minisat-rust](https://github.com/mishun/minisat-rust) :star::zzz: - experimental minisat SAT solver.
 - [msat](https://github.com/solhop/msat) [:package:](https://crates.io/crates/msat):skull: - MaxSAT Solver.
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin):star::zzz: - reimplementation of MiniSat.
 - [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat):skull: - SAT Solver.
@@ -400,7 +401,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Splr notebook.](https://shnarazk.github.io/tag/splr) :jp:
 - [Research notebook about improving with Rust the performance of nonclausal automated theorem provers.](https://github.com/01mf02/adam-notes) :uk::diamonds:
 - [Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs.](https://project-oak.github.io/rust-verification-tools) :uk:
-- [Varisat notebook.](https://jix.one/blog/rust) :uk:
+- [Varisat notebook.](https://jix.one/blog/sat) :uk::diamonds:
 
 ### Posts
 
@@ -514,6 +515,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [mbillingr](https://github.com/mbillingr) - miniKANREN, The Little Prover, the-little-typer.
 - [mcmfb](https://github.com/mcmfb) - lambda_calc.
 - [Tom Meyer](https://github.com/Skasselbard) - Granite.
+- [Alexander Mishunin](https://github.com/mishun) - minisat-rust.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
 - [Dominic Mulligan](https://dominicpm.github.io) - Supervisionary.
