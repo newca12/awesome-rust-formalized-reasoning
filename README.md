@@ -79,15 +79,18 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [CreuSAT](https://github.com/sarsko/CreuSAT) :star: - formally verified SAT solver verified with Creusot.
 - [Debug-SAT](https://github.com/advancedresearch/debug_sat) [:package:](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
 - [dpll-sat](https://github.com/snsinfu/dpll-sat) - naïve SAT solver implementing the classic DPLL algorithm.
+- [DRSAT](https://github.com/danielschemmel/drsat) - Daniel's Rusty SAT solver.
 - [lutrix](https://github.com/arata-nvm/lutrix) - SAT/SMT Solver.
 - [minisat-rust](https://github.com/mishun/minisat-rust) :star::zzz: - experimental minisat SAT solver.
 - [msat](https://github.com/solhop/msat) [:package:](https://crates.io/crates/msat):skull: - MaxSAT Solver.
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin):star::zzz: - reimplementation of MiniSat.
 - [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat):skull: - SAT Solver.
+- [rust-sat](https://github.com/michaelbeaumont/rust-sat) :zzz: - SAT solver that accepts input in the DIMACS CNF file format.
 - [rustsat](https://github.com/jamesbornholt/rustsat) :baby_chick: - toy Rust SAT solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
 - [Satire](https://github.com/Qwaz/satire) [:package:](https://crates.io/crates/satire) - educational SAT solver.
 - [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) [:lab_coat:](https://hal.inria.fr/inria-00202831/en) - reimplementation of the SAT-solver described in 'SAT-MICRO: petit mais costaud!'.
+- [SAT solver]() :baby_chick::zzz: - SAT solver.
 - [scrapsat](https://github.com/togatoga/scrapsat) :construction: - CDCDL SAT Solver.
 - [screwsat](https://github.com/togatoga/screwsat) [:package:](https://crates.io/crates/screwsat):star: - simple CDCL SAT Solver.
 - [slp](https://github.com/solhop/slp) [:package:](https://crates.io/crates/slp):recycle: - became SolHOP.
@@ -439,6 +442,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Mathieu Baudet](https://github.com/ma2bd) - smt2utils.
+- [Mike Beaumont](https://github.com/michaelbeaumont) - rust-sat.
 - [Justin Blanchard](https://github.com/UncombedCoconut) - cat_solver.
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat, Shuttle.
 - [Henrik Böving](https://github.com/hargoniX) - Obvious.
@@ -545,8 +549,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
 - [Salman Saghafi](https://github.com/salmans) - rust-z3-practice, Rusty Razor.
 - [Michael Salter](https://github.com/salterm) - Rustproof, rustproof-libsmt.
+- [Daniel Schemmel](https://daniel.schemmel.net) - DRSAT.
 - [Ryan Schroeder](https://ryan-s.net) - AbsoluteUnity, epilog.
 - [Carol Schulze](https://github.com/Ereski) - gpp-solver.
+- [shinkwhek](https://github.com/shinkwhek) - SAT solver.
 - [skbaek](https://github.com/skbaek) - t3p.
 - [Narazaki Shuji](https://shnarazk.github.io) - SAT-bench, Splr, Splr notebook, sudoku_sat.
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
