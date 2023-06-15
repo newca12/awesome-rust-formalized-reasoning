@@ -408,9 +408,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Posts
 
-- [An adventure with optimization, Rust and Z3](https://ochagavia.nl/blog/an-adventure-with-optimization-rust-and-z3)
-- [Formally Verifying Rust's Opaque Types](https://dylanj.xyz/posts/rust-coq-opaque-types)
-- [Solving The Witness with Z3](https://www.techofnote.com/witness-part-1)
+- [Check AI-Generated Code Perfectly and Automatically](https://medium.com/@carlmkadie/check-ai-generated-code-perfectly-and-automatically-d5b61acff741) - 2023.
+- [Solving The Witness with Z3](https://www.techofnote.com/witness-part-1) - 2022
+- [Formally Verifying Rust's Opaque Types](https://dylanj.xyz/posts/rust-coq-opaque-types) - 2022.
+- [An adventure with optimization, Rust and Z3](https://ochagavia.nl/blog/an-adventure-with-optimization-rust-and-z3) - 2019.
 
 ### Crates keywords
 
@@ -494,6 +495,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
 - [Dylan R. Johnston](https://dylanj.xyz) - Formally Verifying Rust's Opaque Types.
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
+- [Carl Kadie](https://github.com/CarlKCarlK) - Check AI-Generated Code Perfectly and Automatically.
 - [Hosein Kalbasi](https://github.com/HKalbasi) - akim.
 - [karroffel](https://gitlab.com/karroffel) - contracts.
 - [Anto Keinänen](https://github.com/antoKeinanen) - logical_solver, logical_tui.
