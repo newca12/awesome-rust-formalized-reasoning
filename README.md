@@ -178,6 +178,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [ArcsJs - Provable](https://github.com/project-oak/arcsjs-provable) - set of ArcsJs focused tools for doing proofs on ArcsJs models.
 - [Bounded Registers](https://github.com/auxoncorp/bounded-registers) [:package:](https://crates.io/crates/bounded-registers):star: - high-assurance memory-mapped register interaction library.
 - [Chalk](https://github.com/rust-lang/chalk) [:package:](https://crates.io/crates/chalk-solve)[:package:](https://crates.io/crates/chalk-derive)[:package:](https://crates.io/crates/chalk-engine)[:package:](https://crates.io/crates/chalk-ir)[:package:](https://crates.io/crates/chalk-macros)[:package:](https://crates.io/crates/chalk-recursive)[:package:](https://crates.io/crates/chalk-rust-ir):star::fire: - implements the Rust trait system, based on Prolog-ish logic rules.
+- [ceetle](https://github.com/AzeezDa/ceetle) [:package:](https://crates.io/crates/ceetle)[:package:](https://crates.io/crates/ceetle_macros) - library for defining models in Computational Tree Logic and verifying their semantics.
 - [Charon](https://github.com/sonmarcho/charon) - interface with the rustc compiler for the purpose of program verification.
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli):diamonds:[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
@@ -415,8 +416,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 94 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 63 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 96 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 65 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 35 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 34 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 30 entries. :100:
@@ -456,6 +457,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [convexbrain](https://github.com/convexbrain) - Totsu.
 - [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
 - [Dacit](https://github.com/Dacit) - Sequent solver.
+- [Azeez Daoud](https://azeezda.github.io/portfolio) - ceetle.
 - [DavidD12](https://github.com/DavidD12) - SMT-language.
 - [Ariel Davis](https://azdavis.net) - coc.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code, RustHornBelt Library & Benchmarks, Rust verification tools (2021), Specifying and Verifying Higher-order Rust Iterators.
