@@ -51,6 +51,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - Crate(s) :package:
 - Crates keyword fully listed :100:
 - Deleted by author :recycle:
+- Educational project :mortar_board:
 - Exhumated :ghost:
 - Inactive :zzz:
 - List of resources :information_source:
@@ -90,6 +91,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rustsat](https://github.com/jamesbornholt/rustsat) :baby_chick: - toy Rust SAT solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
 - [Satire](https://github.com/Qwaz/satire) [:package:](https://crates.io/crates/satire) - educational SAT solver.
+- [satyrs](https://github.com/jayelm/satyrs) :mortar_board::zzz: - DPLL SAT solver.
 - [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) [:lab_coat:](https://hal.inria.fr/inria-00202831/en) - reimplementation of the SAT-solver described in 'SAT-MICRO: petit mais costaud!'.
 - [SAT solver]() :baby_chick::zzz: - SAT solver.
 - [scrapsat](https://github.com/togatoga/scrapsat) :construction: - CDCDL SAT Solver.
@@ -134,6 +136,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [sequentprover](https://github.com/astrobeastie/sequentprover) :baby_chick: - proof search algorithm for boolean formulae.
 - [Sequent solver](https://github.com/Dacit/sequent_prover) :baby_chick::zzz: - simple sequent solver.
 - [SAT-bench](https://github.com/shnarazk/SAT-bench) - benchmark suit for SAT solvers.
+- [SAT solver ANalyser](https://github.com/SAT-solver-ANalyzer/SATAn) :construction: - toolbox for analyzing performance and runtime characteristics of SAT solvers.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
 - [stupid-smt](https://github.com/Hoblovski/stupid-smt) :baby_chick::zzz: - SMT library. Mainly project at the verification course in THU.
 - [Totsu](https://github.com/convexbrain/Totsu) [:package:](https://crates.io/crates/totsu)[:package:](https://crates.io/crates/totsu_f32cuda)[:package:](https://crates.io/crates/totsu_f64lapack)[:package:](https://crates.io/crates/totsu_core)[:package:]():star: - first-order conic solver for convex optimization problems .
@@ -456,6 +459,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
+- [Cobalt](https://cobalt.rocks/) - SAT solver ANalyser.
 - [convexbrain](https://github.com/convexbrain) - Totsu.
 - [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
 - [Dacit](https://github.com/Dacit) - Sequent solver.
@@ -528,6 +532,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Alexander Mishunin](https://github.com/mishun) - minisat-rust.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
+- [Jesse Mu](https://github.com/jayelm) - satyrs.
 - [Dominic Mulligan](https://dominicpm.github.io) - Supervisionary.
 - [Jon Nadal](https://github.com/jonnadal) - Stateright.
 - [Chandrakana Nandi](https://github.com/chandrakananandi) - Ruler.
