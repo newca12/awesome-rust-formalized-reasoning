@@ -345,6 +345,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lambda_calculus](https://github.com/thomasdziedzic/lambda_calculus) - lambda calculus with antlr grammar.
 - [lambdacube](https://github.com/felixzhuologist/lambdacube) :construction::zzz: - implementation of the lambda cube (and other type stuff).
 - [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl):zzz: - lambda calculus parser and evaluator and a separate command line REPL.
+- [RLCI](https://github.com/orsinium-labs/rlci) :star: - Overly-documented Lambda Calculus Interpreter.
 
 ## Propositional logic
 - [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
@@ -587,6 +588,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Pavol Vargovčík](https://github.com/p4l1ly) - z3-rust.
 - [Herman Venter](https://github.com/hermanventer) - MIRAI, Rust static analysis/verification reading and resources.
 - [Mark Verleg](https://markv.nl) - prover(2).
+- [Nikita Voronov](https://orsinium.dev) - RLCI.
 - [Shuxian Wang](https://github.com/wsx-ucb) - Cosette Prover.
 - [David A. Wheeler](https://dwheeler.com) - Metamath-knife.
 - [Max Willsey](https://www.mwillsey.com) - egg.
