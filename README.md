@@ -174,7 +174,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Shuttle](https://github.com/awslabs/shuttle) [:package:](https://crates.io/crates/shuttle):star: - library for testing concurrent Rust code.
 - [Stateright](https://github.com/stateright/stateright) [:package:](https://crates.io/crates/stateright):star: - model checker for implementing distributed systems.
 - [VeriWasm](https://github.com/PLSysSec/veriwasm) [:package:](https://crates.io/crates/veriwasm):star:[:lab_coat:](http://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf) - SFI verifier of Wasm binaries.
-- [verus](https://github.com/secure-foundations/verus) :star::fire:[:lab_coat:](https://arxiv.org/abs/2303.05491) - verified subset of Rust for low-level systems code.
+- [verus](https://github.com/secure-foundations/verus) :star::fire:[:tv:](https://www.youtube.com/watch?v=ZZTk-zS4ZCY)[:lab_coat:](https://arxiv.org/abs/2303.05491) - verified subset of Rust for low-level systems code.
 - [Xori](https://github.com/endgameinc/xori) :star::zzz: - static analysis library for PE32, 32+ and shellcode.
 
 #### Misc
@@ -422,7 +422,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 96 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 65 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 64 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 35 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 34 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 30 entries. :100:
