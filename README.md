@@ -165,7 +165,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [p4-analyzer](https://github.com/AzureMarker/p4-analyzer) - static analysis tool which checks P4 code for bugs.
 - [Prusti](https://github.com/viperproject/prusti-dev) [:package:](https://crates.io/crates/prusti-contracts)[:package:](https://crates.io/crates/prusti-contracts-proc-macros)[:package:](https://crates.io/crates/prusti-specs)[:package:](https://crates.io/crates/prusti-std):star::fire: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
 - [Rudra](https://github.com/sslab-gatech/Rudra) :star:[:lab_coat:](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf) - static analyzer to detect common undefined behaviors in Rust programs.
-- [Rust Software Verification Benchmarks](https://github.com/alastairreid/rust-benchmarks) :zzz: - collection of Rust verification benchmarks and the accompanying verifier crate.
+- [Rust Software Verification Benchmarks](https://github.com/alastairreid/rust-benchmarks) :zzz: - collection of Rust verification benchmarks with their verifier crates.
 - [Rust static analysis/verification reading and resources](https://github.com/facebookexperimental/MIRAI/blob/main/documentation/FurtherReading.md) :information_source: - for further reading.
 - [Rust verification tools](https://github.com/project-oak/rust-verification-tools) :star: - collection of tools/libraries about static and dynamic verification of Rust programs.
 - [Rust verification tools (2021)](https://rust-formal-methods.github.io/tools.html) :information_source: - list of Rust verification tools with a bias towards ‘formal methods’ tools.
@@ -283,7 +283,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-smt-strings](https://github.com/awslabs/rust-smt-strings) - [:package:](https://crates.io/crates/aws-smt-strings) - library for strings as defined in the SMT-LIB theory of strings.
 - [rust-unify](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
-- [rustsat(2)](https://github.com/chrjabs/rustsat) [:package:](https://crates.io/crates/rustsat) - provide implementations of elements commonly used in the development on software in the area of SAT.
+- [rustsat(2)](https://github.com/chrjabs/rustsat) [:package:](https://crates.io/crates/rustsat) - provide implementations of elements commonly used in satisfiability solving software.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star: - tool for constructing finite models for first-order theories.
 - [Satoxid](https://github.com/neuring/satoxid) [:package:](https://crates.io/crates/satoxid) - library to help with encoding SAT problems.
 - [smt2utils](https://github.com/facebookincubator/smt2utils) [:package:](https://crates.io/crates/smt2parser)[:package:](https://crates.io/crates/smt2patch)[:package:](https://crates.io/crates/smt2proxy)[:package:](https://crates.io/crates/z3tracer):skull: - libraries and tools for the SMT-LIB-2 standard.
@@ -371,6 +371,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ## Unclassified
 
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) :zzz: - simulations to learn formal systems as typed first-order term rewriting systems.
+- [inf402](https://github.com/edgarogh/inf402) - SAT-solver-based takuzu solver.
 - [Junglefowl](https://github.com/wrsturgeon/junglefowl) [:package:](https://crates.io/crates/junglefowl)[:package:](https://crates.io/crates/junglefowl-macros) - runs Peano arithmetic on Rust types, verified at compile time..
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) :zzz: - to learn typed first-order term rewriting systems that perform list routines.
 - [logical_tui](https://github.com/antoKeinanen/logical_tui) :baby_chick: - tui for  [logical_solver](https://github.com/antoKeinanen/logical_solver-rs).
@@ -547,6 +548,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Yuichi Nishiwaki](https://github.com/nyuichi) - shari.
 - [Stefan O'Rear](https://github.com/sorear) - smetamath.
 - [Adolfo Ochagavía](https://ochagavia.nl) - An adventure with optimization, Rust and Z3.
+- [Edgar Onghena](https://edgar.bzh/) - inf402.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Chris Patuzzo](https://tuzz.tech) - Supermux, Supersat.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn.
