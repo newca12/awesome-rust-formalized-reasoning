@@ -89,6 +89,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [RsBDD](https://github.com/timbeurskens/rsbdd) - Reduced-order Binary Decision Diagram (RoBDD) SAT solver.
 - [rust-sat](https://github.com/michaelbeaumont/rust-sat) :zzz: - SAT solver that accepts input in the DIMACS CNF file format.
 - [rustsat](https://github.com/jamesbornholt/rustsat) :baby_chick: - toy Rust SAT solver.
+- [sat](https://github.com/KomaEc/sat) - simple CDCL sat solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
 - [Satire](https://github.com/Qwaz/satire) [:package:](https://crates.io/crates/satire) - educational SAT solver.
 - [satyrs](https://github.com/jayelm/satyrs) :mortar_board::zzz: - DPLL SAT solver.
@@ -424,12 +425,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 96 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 66 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 97 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 67 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 36 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 35 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 34 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 31 entries. :100:
-- [satisfiability](https://crates.io/keywords/satisfiability) - 24 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 32 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 25 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 11 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
@@ -501,7 +502,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Emil Hofstetter](https://emilhofstetter.dev) - mini-prop, prop_tune.
 - [hrkzmnm](https://github.com/hrkzmnm) - rust_z3prover.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
-- [Christoph Jabs](https://github.com/chrjabs) - Scuttle, maxpre-rs, rustsat.
+- [Christoph Jabs](https://github.com/chrjabs) - Scuttle, maxpre-rs, rustsat(2).
 - [Jan](https://github.com/Janko-dev) - Plogic.
 - [Ranjit Jhala](https://github.com/ranjitjhala) - flux-demo.
 - [Andrew Johnson](https://github.com/andrew-johnson-4) - LSTS.
@@ -602,6 +603,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Alexey Zatelepin](https://github.com/ztlpn) - minilp.
 - [Eric Zhang](https://www.ekzhang.com) - µKanren-rs.
+- [Hanliang Zhang](https://github.com/KomaEc) - sat.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
 - [Felix Zhu](https://github.com/felixzhuologist) - lambdacube.
 - [Li Zhuohua](https://zhuohua.me) - MirChecker.
