@@ -129,6 +129,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - simple induction and BMC engine.
 - [minilp](https://github.com/ztlpn/minilp) [:package:](https://crates.io/crates/minilp):star::skull: - linear programming solver.
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
+- [nnoq](https://github.com/pro465/nnoq) - simple theorem prover (nay, verifier) based on functional expression rewriting.
 - [Obvious](https://github.com/hargoniX/obvious) :zzz: - simple little logic solver and calculator.
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive):star: - fast, brute force, automatic theorem prover for first order logic.
 - [prover](https://github.com/varqox/prover) :skull: - first-order logic prover.
@@ -343,6 +344,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [blc](https://github.com/ljedrz/blc) [:package:](https://crates.io/crates/blc):zzz: - implementation of the binary lambda calculus.
 - [Closure Calculus](https://github.com/advancedresearch/closure_calculus) [:package:](https://crates.io/crates/closure_calculus)[:lab_coat:](https://dl.acm.org/doi/abs/10.1145/3294032.3294085) - library for Barry Jay's Closure Calculus.
+- [lam](https://github.com/pro465/lam) - lambda calculus evaluator.
 - [lambash](https://github.com/nixpulvis/lambash) [:package:](https://crates.io/crates/lambash):zzz: - λ-calculus shell.
 - [lambda_calc](https://gitlab.com/mcmfb/lambda-calculator) [:package:](https://crates.io/crates/lambda_calc):recycle: - command-line untyped lambda calculus interpreter.
 - [lambda_calculus](https://github.com/ljedrz/lambda_calculus) [:package:](https://crates.io/crates/lambda_calculus):star: - simple, zero-dependency implementation of pure lambda calculus in safe Rust.
@@ -427,7 +429,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 97 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 67 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 68 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 36 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 35 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 32 entries. :100:
@@ -537,6 +539,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [mcmfb](https://github.com/mcmfb) - lambda_calc.
 - [Tom Meyer](https://github.com/Skasselbard) - Granite.
 - [Alexander Mishunin](https://github.com/mishun) - minisat-rust.
+- [Proloy Mishra](https://github.com/pro465) - lam, nnoq.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
 - [Jesse Mu](https://github.com/jayelm) - satyrs.
