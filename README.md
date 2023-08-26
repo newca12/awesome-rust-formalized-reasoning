@@ -238,6 +238,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rust_z3prover](https://github.com/hrkzmnm/rust_z3prover) :zzz: - use Z3 SMT solver from rust.
 - [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt):zzz: - fork of libsmt.rs.
 - [vipers](https://github.com/oeb25/vipers) - crates for interacting with the Viper verification infrastructure.
+- [Yices2](https://github.com/novafacing/yices2-rs) [:package:](https://crates.io/crates/yices2)[:package:](https://crates.io/crates/yices2-sys) - low and high-level bindings to the [Yices2](https://yices.csl.sri.com/) SMT solver.
 - [z3](https://github.com/prove-rs/z3.rs) [:package:](https://crates.io/crates/z3)[:package:](https://crates.io/crates/z3-sys):star::fire: - high-level and low-level Rust bindings for the Z3 solver.
 - [z3-rust](https://github.com/p4l1ly/z3-rust) [:package:](https://crates.io/crates/z3_ref) :zzz: - high level bindings for the Microsoft's Z3 SMT solver.
 - [Z3D](https://github.com/alex-chew/z3d-rs) [:package:](https://crates.io/crates/z3d):zzz: - Z3 DSL interface.
@@ -429,9 +430,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 97 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 68 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 69 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 36 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 35 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 37 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 32 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 25 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
@@ -498,6 +499,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Masaki Hara](https://twitter.com/qnighy) - Logic solver, RatSat.
 - [Jannis Harder](https://jix.one) - Cnfpack, Flussab CNF, Minimal models, starlit, Varisat, Varisat notebook.
 - [David S. Hardin](https://github.com/david-s-hardin) - Hardware/Software Co-Assurance using the Rust Programming Language and ACL2.
+- [Rowan Hart](https://github.com/novafacing) - Yices2.
 - [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
 - [Son HO](https://github.com/sonmarcho) - Charon.
 - [Sarek Høverstad Skotåm](https://github.com/sarsko) - CreuSAT.
