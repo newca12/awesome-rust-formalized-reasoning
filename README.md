@@ -77,6 +77,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### SAT Solver
 
 - [BatSat](https://github.com/c-cube/batsat) [:package:](https://crates.io/crates/batsat):star: - solver forked from ratsat, a reimplementation of MiniSat.
+- [Colombini-SAT](https://github.com/Lorenzinco23/colombiniSAT) - simple 3-SAT solver.
 - [CreuSAT](https://github.com/sarsko/CreuSAT) :star: - formally verified SAT solver verified with Creusot.
 - [Debug-SAT](https://github.com/advancedresearch/debug_sat) [:package:](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
 - [dpll-sat](https://github.com/snsinfu/dpll-sat) - naïve SAT solver implementing the classic DPLL algorithm.
@@ -155,10 +156,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [electrolysis](https://github.com/Kha/electrolysis) :star::zzz: - tool for formally verifying Rust programs by transpiling them into the Lean 2 theorem prover.
 - [Flux](https://github.com/flux-rs/flux) [:tv:](https://www.youtube.com/watch?v=k-izcFCHN2o):star:[:lab_coat:](https://arxiv.org/pdf/2207.04034.pdf):fire: - refinement type checker for Rust.
 - [Granite](https://github.com/Skasselbard/Granite) :star:[:lab_coat:](https://github.com/Skasselbard/Granite/blob/master/doc/MasterThesis/main.pdf):zzz: - find Deadlocks in Rust with Petri-Net Model checking.
-- [Kani](https://github.com/model-checking/kani) :star:[:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf):fire: - bit-precise model-checker, ensures that unsafe Rust code is actually safe.
-- [Liquid Rust](https://github.com/fan-tom/liquid-rust) :star: - implement Liquid Types type checker.
+- [Kani](https://github.com/model-checking/kani) [:package:](https://crates.io/crates/kani-verifier):star:[:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf):fire: - bit-precise model-checker, ensures that unsafe Rust code is actually safe.
+- [Liquid Rust](https://github.com/fan-tom/liquid-rust) :star::zzz: - implement Liquid Types type checker.
 - [lockbud](https://github.com/BurtonQin/lockbud) :star:[:lab_coat:](https://songlh.github.io/paper/rust-study.pdf) - statically detect deadlocks bugs for Rust.
-- [Logically Qualified Data Types](liquid-types) - implementation of liquid types on an implicitly-typed variant of ML.
+- [Logically Qualified Data Types](https://github.com/bpowers/liquid-types) - implementation of liquid types on an implicitly-typed variant of ML.
 - [Loom](https://github.com/tokio-rs/loom) [:package:](https://crates.io/crates/loom):star: - concurrency permutation testing tool for Rust.
 - [matla](https://github.com/OCamlPro/matla) - a manager for TLA+ projects.
 - [MIRAI](https://github.com/facebookexperimental/MIRAI) [:package:](https://crates.io/crates/mirai-annotations):star: - intended to become a widely used static analysis tool for Rust.
@@ -469,6 +470,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
 - [Cobalt](https://cobalt.rocks/) - SAT solver ANalyser.
+- [Lorenzo Colombini](https://github.com/Lorenzinco23) - Colombini-SAT.
 - [convexbrain](https://github.com/convexbrain) - Totsu.
 - [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
 - [Dacit](https://github.com/Dacit) - Sequent solver.
