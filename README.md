@@ -347,11 +347,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [blc](https://github.com/ljedrz/blc) [:package:](https://crates.io/crates/blc):zzz: - implementation of the binary lambda calculus.
 - [Closure Calculus](https://github.com/advancedresearch/closure_calculus) [:package:](https://crates.io/crates/closure_calculus)[:lab_coat:](https://dl.acm.org/doi/abs/10.1145/3294032.3294085) - library for Barry Jay's Closure Calculus.
 - [lam](https://github.com/pro465/lam) - lambda calculus evaluator.
+- [Lamb](https://github.com/Carnagion/lamb) [:package:](https://crates.io/crates/lamb):mortar_board: - implementation of the pure untyped lambda calculus in modern, safe Rust.
 - [lambash](https://github.com/nixpulvis/lambash) [:package:](https://crates.io/crates/lambash):zzz: - λ-calculus shell.
 - [lambda_calc](https://gitlab.com/mcmfb/lambda-calculator) [:package:](https://crates.io/crates/lambda_calc):recycle: - command-line untyped lambda calculus interpreter.
 - [lambda_calculus](https://github.com/ljedrz/lambda_calculus) [:package:](https://crates.io/crates/lambda_calculus):star: - simple, zero-dependency implementation of pure lambda calculus in safe Rust.
 - [lambda_calculus](https://github.com/thomasdziedzic/lambda_calculus) - lambda calculus with antlr grammar.
 - [lambdacube](https://github.com/felixzhuologist/lambdacube) :construction::zzz: - implementation of the lambda cube (and other type stuff).
+- [Lambdascript](https://github.com/chuckcscccl/lambdascript) - educational tool illustrating beta reduction of untyped lamba terms.
 - [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl):zzz: - lambda calculus parser and evaluator and a separate command line REPL.
 - [RLCI](https://github.com/orsinium-labs/rlci) :star: - Overly-documented Lambda Calculus Interpreter.
 
@@ -528,11 +530,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper.
 - [Nico Lehmann](https://github.com/nilehmann) - Flux.
 - [Carl Lerche](https://github.com/carllerche) - Loom.
+- [Chuck Liang](https://github.com/chuckcscccl) - Lambdascript.
 - [Nathan Lilienthal](https://nixpulvis.com/) - lambash, lalrpop-lambda.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
 - [Michael Madden](https://github.com/mikemadden42) - Xori.
 - [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus, Untyped Multistack Concatenative Calculus.
+- [Indraneel Mahendrakumar](https://github.com/Carnagion) - Lamb.
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal.
 - [Krzysztof Małysa](https://github.com/varqox) - prover.
 - [Manas](https://github.com/weirdsmiley) - fuzzylogic.
