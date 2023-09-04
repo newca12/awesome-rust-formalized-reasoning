@@ -143,6 +143,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SAT solver ANalyser](https://github.com/SAT-solver-ANalyzer/SATAn) :construction: - toolbox for analyzing performance and runtime characteristics of SAT solvers.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
 - [stupid-smt](https://github.com/Hoblovski/stupid-smt) :baby_chick::zzz: - SMT library. Mainly project at the verification course in THU.
+- [theorem-prover-rs](https://github.com/boitsov14/theorem-prover-rs) :construction: - rewrite of [theorem-prover-kt](https://github.com/boitsov14/theorem-prover-kt) a sequent-style automated theorem prover.
 - [Totsu](https://github.com/convexbrain/Totsu) [:package:](https://crates.io/crates/totsu)[:package:](https://crates.io/crates/totsu_f32cuda)[:package:](https://crates.io/crates/totsu_f64lapack)[:package:](https://crates.io/crates/totsu_core)[:package:]():star: - first-order conic solver for convex optimization problems .
 
 ### Verification
@@ -463,6 +464,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mike Beaumont](https://github.com/michaelbeaumont) - rust-sat.
 - [Tim Beurskens](https://timbeurskens.github.io) - RsBDD.
 - [Justin Blanchard](https://github.com/UncombedCoconut) - cat_solver.
+- [boitsov14](https://github.com/boitsov14) - theorem-prover-rs.
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat, Shuttle.
 - [Henrik Böving](https://github.com/hargoniX) - Obvious.
 - [Oliver Bøving](https://github.com/oeb25) - Mist, vipers.
