@@ -98,7 +98,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SAT solver]() :baby_chick::zzz: - SAT solver.
 - [scrapsat](https://github.com/togatoga/scrapsat) :construction: - CDCDL SAT Solver.
 - [screwsat](https://github.com/togatoga/screwsat) [:package:](https://crates.io/crates/screwsat):star: - simple CDCL SAT Solver.
-- [Scuttle](https://github.com/chrjabs/scuttle) [:package:](https://crates.io/crates/scuttle) - multi-objective MaxSAT solver based on the rustsat library and the CaDiCaL SAT solver..
+- [Scuttle](https://github.com/chrjabs/scuttle) [:package:](https://crates.io/crates/scuttle)[:package:](https://crates.io/crates/scuttle-proc) - multi-objective MaxSAT solver based on the rustsat library and the CaDiCaL SAT solver.
 - [slp](https://github.com/solhop/slp) [:package:](https://crates.io/crates/slp):recycle: - became SolHOP.
 - [SolHOP](https://github.com/solhop/solhop) [:package:](https://crates.io/crates/solhop):skull: - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
 - [Splr](https://github.com/shnarazk/splr) [:package:](https://crates.io/crates/splr):diamonds::star: - modern CDCL SAT solver.
@@ -137,13 +137,14 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [prover(2)](https://github.com/mverleg/prover) :baby_chick::zzz: - experiment with integer relation prover.
 - [reachability_solver](https://github.com/advancedresearch/reachability_solver) [:package:](https://crates.io/crates/reachability_solver) - linear reachability solver for directional edges.
 - [relsat-rs](https://github.com/mmaroti/relsat-rs) :baby_chick: - Experiments with  provers.
+- [SAT-bench](https://github.com/shnarazk/SAT-bench) - benchmark suit for SAT solvers.
+- [sat_lab](https://github.com/arenaudineau/sat_lab) :baby_chick::construction: - framework for manipulating SAT problems.
+- [SAT solver ANalyser](https://github.com/SAT-solver-ANalyzer/SATAn) :construction: - toolbox for analyzing performance and runtime characteristics of SAT solvers.
 - [sequentprover](https://github.com/astrobeastie/sequentprover) :baby_chick: - proof search algorithm for boolean formulae.
 - [Sequent solver](https://github.com/Dacit/sequent_prover) :baby_chick::zzz: - simple sequent solver.
-- [SAT-bench](https://github.com/shnarazk/SAT-bench) - benchmark suit for SAT solvers.
-- [SAT solver ANalyser](https://github.com/SAT-solver-ANalyzer/SATAn) :construction: - toolbox for analyzing performance and runtime characteristics of SAT solvers.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
 - [stupid-smt](https://github.com/Hoblovski/stupid-smt) :baby_chick::zzz: - SMT library. Mainly project at the verification course in THU.
-- [Tensor Theorem Prover](https://github.com/chanind/tensor-theorem-prover) - first-order logic theorem prover supporting unification with approximate vector similarity.
+- [Tensor Theorem Prover](https://github.com/chanind/tensor-theorem-prover) - first-order logic theorem prover (support unification with approximate vector similarity).
 - [theorem-prover-rs](https://github.com/boitsov14/theorem-prover-rs) :construction: - rewrite of [theorem-prover-kt](https://github.com/boitsov14/theorem-prover-kt) a sequent-style automated theorem prover.
 - [Totsu](https://github.com/convexbrain/Totsu) [:package:](https://crates.io/crates/totsu)[:package:](https://crates.io/crates/totsu_f32cuda)[:package:](https://crates.io/crates/totsu_f64lapack)[:package:](https://crates.io/crates/totsu_core)[:package:]():star: - first-order conic solver for convex optimization problems .
 
@@ -288,7 +289,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-smt-strings](https://github.com/awslabs/rust-smt-strings) - [:package:](https://crates.io/crates/aws-smt-strings) - library for strings as defined in the SMT-LIB theory of strings.
 - [rust-unify](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
-- [rustsat(2)](https://github.com/chrjabs/rustsat) [:package:](https://crates.io/crates/rustsat) - provide implementations of elements commonly used in satisfiability solving software.
+- [rustsat(2)](https://github.com/chrjabs/rustsat) [:package:](https://crates.io/crates/rustsat)[:package:](https://crates.io/crates/rustsat-cadical)[:package:](https://crates.io/crates/rustsat-glucose)[:package:](https://crates.io/crates/rustsat-kissat)[:package:](https://crates.io/crates/rustsat-minisat)[:package:](https://crates.io/crates/rustsat-tools) - provide implementations of elements commonly used in satisfiability solving software.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star: - tool for constructing finite models for first-order theories.
 - [Satoxid](https://github.com/neuring/satoxid) [:package:](https://crates.io/crates/satoxid) - library to help with encoding SAT problems.
 - [smt2utils](https://github.com/facebookincubator/smt2utils) [:package:](https://crates.io/crates/smt2parser)[:package:](https://crates.io/crates/smt2patch)[:package:](https://crates.io/crates/smt2proxy)[:package:](https://crates.io/crates/z3tracer):skull: - libraries and tools for the SMT-LIB-2 standard.
@@ -435,12 +436,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 97 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 69 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 36 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 99 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 70 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 37 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 37 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 32 entries. :100:
-- [satisfiability](https://crates.io/keywords/satisfiability) - 25 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 33 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 11 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
@@ -578,6 +579,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Boqin Qin](https://github.com/BurtonQin) - lockbud.
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, lickety, SATCoP, tptp.
 - [Alastair Reid](https://alastairreid.github.io) - Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs, Rust Software Verification Benchmarks, Rust verification tools, Rust verification tools list.
+- [Adrien Renaudineau](https://github.com/arenaudineau) - sat_lab.
 - [Nathan Ringo](https://remexre.xyz) - FALL.
 - [Erik Rohkohl](https://blogs.itemis.com/author/erik-rohkohl) - n-queens-sat.
 - [Marco Concetto Rudilosso](https://github.com/Maaarcocr) - validator.
