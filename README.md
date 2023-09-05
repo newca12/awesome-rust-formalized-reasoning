@@ -143,6 +143,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SAT solver ANalyser](https://github.com/SAT-solver-ANalyzer/SATAn) :construction: - toolbox for analyzing performance and runtime characteristics of SAT solvers.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
 - [stupid-smt](https://github.com/Hoblovski/stupid-smt) :baby_chick::zzz: - SMT library. Mainly project at the verification course in THU.
+- [Tensor Theorem Prover](https://github.com/chanind/tensor-theorem-prover) - first-order logic theorem prover supporting unification with approximate vector similarity.
 - [theorem-prover-rs](https://github.com/boitsov14/theorem-prover-rs) :construction: - rewrite of [theorem-prover-kt](https://github.com/boitsov14/theorem-prover-kt) a sequent-style automated theorem prover.
 - [Totsu](https://github.com/convexbrain/Totsu) [:package:](https://crates.io/crates/totsu)[:package:](https://crates.io/crates/totsu_f32cuda)[:package:](https://crates.io/crates/totsu_f64lapack)[:package:](https://crates.io/crates/totsu_core)[:package:]():star: - first-order conic solver for convex optimization problems .
 
@@ -371,6 +372,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) :zzz: - resolution prover library for propositional logic.
 - [resolution-prover](https://github.com/arbaregni/resolution-prover) :zzz: - Uses propositional resolution to prove statements and proofs on discord.
 - [rs-logik](https://github.com/SolarLiner/rs-logik) [:ghost:](https://github.com/newca12/rs-logik) - propositional logic interpreter.
+- [rust-proplogic-toylang](https://github.com/SnO2WMaN/rust-proplogic-toylang) :baby_chick: - toy language for Propositional Logic.
 - [rusty-logic](https://github.com/mcheatham/rusty-logic) :baby_chick::zzz: - propositional logic analysis.
 - [simple-proof-assistant](https://github.com/long-long-float/simple-proof-assistant) :baby_chick::zzz: - a proof assistant kernel for minimal propositional logic.
 - [validator](https://github.com/Maaarcocr/validator) :zzz: - small utility to test a propositional logic theorem prover.
@@ -471,6 +473,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
 - [Mario Carneiro](https://github.com/digama0) - FRAT-rs, hz-to-mm0, Metamath hammer, Mizar proof checker, mm0-rs, olean-rs.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
+- [David Chanin](https://github.com/chanind) - Tensor Theorem Prover.
 - [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
 - [Cobalt](https://cobalt.rocks/) - SAT solver ANalyser.
@@ -587,6 +590,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [shinkwhek](https://github.com/shinkwhek) - SAT solver.
 - [skbaek](https://github.com/skbaek) - t3p.
 - [Narazaki Shuji](https://shnarazk.github.io) - SAT-bench, Splr, Splr notebook, sudoku_sat.
+- [SnO₂WMaN](https://github.com/SnO2WMaN) - rust-proplogic-toylang.
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
 - [Dennis Sprokholt](https://dennis.life) - aws-lambda-z3, Rust pi-forall.
