@@ -241,6 +241,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):star::skull: - generic high-level API for interacting with SMT solvers.
 - [rust_z3prover](https://github.com/hrkzmnm/rust_z3prover) :zzz: - use Z3 SMT solver from rust.
 - [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt):zzz: - fork of libsmt.rs.
+- [SAT Nexus](https://github.com/Lipen/sat-nexus) - interfaces and wrappers for SAT solvers.
 - [vipers](https://github.com/oeb25/vipers) - crates for interacting with the Viper verification infrastructure.
 - [Yices2](https://github.com/novafacing/yices2-rs) [:package:](https://crates.io/crates/yices2)[:package:](https://crates.io/crates/yices2-sys) - low and high-level bindings to the [Yices2](https://yices.csl.sri.com/) SMT solver.
 - [z3](https://github.com/prove-rs/z3.rs) [:package:](https://crates.io/crates/z3)[:package:](https://crates.io/crates/z3-sys):star::fire: - high-level and low-level Rust bindings for the Z3 solver.
@@ -477,6 +478,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [David Chanin](https://github.com/chanind) - Tensor Theorem Prover.
 - [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
+- [Konstantin Chukharev](https://github.com/Lipen) - SAT Nexus.
 - [Cobalt](https://cobalt.rocks/) - SAT solver ANalyser.
 - [Lorenzo Colombini](https://github.com/Lorenzinco23) - Colombini-SAT.
 - [convexbrain](https://github.com/convexbrain) - Totsu.
