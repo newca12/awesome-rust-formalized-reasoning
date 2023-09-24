@@ -192,7 +192,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Chalk](https://github.com/rust-lang/chalk) [:package:](https://crates.io/crates/chalk-solve)[:package:](https://crates.io/crates/chalk-derive)[:package:](https://crates.io/crates/chalk-engine)[:package:](https://crates.io/crates/chalk-ir)[:package:](https://crates.io/crates/chalk-macros)[:package:](https://crates.io/crates/chalk-recursive)[:package:](https://crates.io/crates/chalk-rust-ir):star::fire: - implements the Rust trait system, based on Prolog-ish logic rules.
 - [Charon](https://github.com/sonmarcho/charon) - interface with the rustc compiler for the purpose of program verification.
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
-- [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli):diamonds:[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
+- [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli):star::diamonds:[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
 - [Metamath-knife](https://github.com/david-a-wheeler/metamath-knife) - verify Metamath proofs.
 - [Mist](https://github.com/oeb25/mist) - userfriendly verification frontend language.
 - [Mizar proof checker](https://github.com/digama0/mizar-rs) :star::construction: - Alternative [Mizar](http://mizar.org) proof checker.
@@ -200,9 +200,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check):diamonds: - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
 - [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc) - checker for the LFSC proof language.
 - [second_opinion](https://github.com/ammkrn/second_opinion) - verifier for Metamath Zero proof files.
-- [smetamath](https://github.com/sorear/smetamath-rs) [:package:](https://crates.io/crates/smetamath) :star::zzz: - parallel and incremental verifier for Metamath databases.
+- [smetamath](https://github.com/sorear/smetamath-rs) [:package:](https://crates.io/crates/smetamath):star::zzz: - parallel and incremental verifier for Metamath databases.
 - [Supervisionary](https://github.com/DominicPM/supervisionary) [:lab_coat:](https://dominicpm.github.io/publications/mulligan-supervisionary-2022.pdf) - experimental proof-checking system for Gordon's higher-order logic.
 - [t3p](https://github.com/skbaek/tesc/tree/master/t3p-rs) - optimized TESC (Theory-Extensible Sequent Calculus) verifier.
+- [Temporal Verifier](https://github.com/vmware-research/temporal-verifier) :star: - framework for temporal verification based on first-order linear-time temporal logic.
+- [verifiable-controllers](https://github.com/vmware-research/verifiable-controllers) :star: - framework to build practical, formally verified, cluster management controllers.
 - [Verifier](https://github.com/trivial-rs/verifier) [:package:](https://crates.io/crates/trivial-verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
 
 ### Libraries
@@ -440,7 +442,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 102 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 70 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 72 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 37 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 37 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 33 entries. :100:
@@ -476,6 +478,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Oliver Bøving](https://github.com/oeb25) - Mist, vipers.
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
 - [Mario Carneiro](https://github.com/digama0) - FRAT-rs, hz-to-mm0, Metamath hammer, Mizar proof checker, mm0-rs, olean-rs.
+- [Tej Chajed](https://github.com/tchajed) - Temporal Verifier.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [David Chanin](https://github.com/chanind) - Tensor Theorem Prover.
 - [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
@@ -552,6 +555,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Krzysztof Małysa](https://github.com/varqox) - prover.
 - [Manas](https://github.com/weirdsmiley) - fuzzylogic.
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, relsat-rs, uasat-rs.
+- [marshtompsxd](https://github.com/marshtompsxd) - verifiable-controllers.
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, Kani, plar-rs.
 - [Yusuke Matsushita](https://github.com/shiatsumat) - Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy, RustHorn.
 - [mbillingr](https://github.com/mbillingr) - miniKANREN, The Little Prover, the-little-typer.
