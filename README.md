@@ -99,7 +99,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [scrapsat](https://github.com/togatoga/scrapsat) :construction: - CDCDL SAT Solver.
 - [screwsat](https://github.com/togatoga/screwsat) [:package:](https://crates.io/crates/screwsat):star: - simple CDCL SAT Solver.
 - [Scuttle](https://github.com/chrjabs/scuttle) [:package:](https://crates.io/crates/scuttle)[:package:](https://crates.io/crates/scuttle-proc) - multi-objective MaxSAT solver based on the rustsat library and the CaDiCaL SAT solver.
-- [slp](https://github.com/solhop/slp) [:package:](https://crates.io/crates/slp):recycle: - became SolHOP.
+- [~~slp~~](https://github.com/solhop/slp) [:package:](https://crates.io/crates/slp):recycle: - became SolHOP.
 - [SolHOP](https://github.com/solhop/solhop) [:package:](https://crates.io/crates/solhop):skull: - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
 - [Splr](https://github.com/shnarazk/splr) [:package:](https://crates.io/crates/splr):diamonds::star: - modern CDCL SAT solver.
 - [starlit](https://github.com/jix/starlit) :construction: - CDCL SAT solver.
@@ -109,13 +109,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 #### Proof assistant
 - [hakim](https://github.com/babaeee/hakim) - hacky interactive theorem prover.
-- [cobalt](https://github.com/lcnr/cobalt) :recycle:[:ghost:](https://github.com/isgasho/cobalt) - a wip minimal proof assistant.
+- [~~cobalt~~](https://github.com/lcnr/cobalt) :recycle:[:ghost:](https://github.com/isgasho/cobalt) - a wip minimal proof assistant.
 - [Esther](https://github.com/aodhneine/esther) :construction: - simple automated proof assistant.
 - [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) :diamonds::star:[:lab_coat:](https://arxiv.org/abs/1812.10586)[:lab_coat:](https://arxiv.org/abs/1902.03831):fire: - implementation of homotopy.io proof assistant.
 - [LSTS](https://github.com/andrew-johnson-4/LSTS) [:package:](https://crates.io/crates/lsts):star::fire: - proof assistant that is also a programming language.
 - [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZVE64QKPf6y_TIUwj5nKQ7):star: - Not Coq. Simple expression transformer that is not Coq.
 - [Poi](https://github.com/advancedresearch/poi) [:package:](https://crates.io/crates/poi):star: - pragmatic point-free theorem prover assistant.
-- [Proost](https://gitlab.crans.org/loutr/proost) :star: - simple proof assistant.
+- [Proost](https://gitlab.crans.org/loutr/proost) - simple proof assistant.
 - [qbar](https://github.com/qdeduction/qbar) [:package:](https://crates.io/crates/qbar) - experimental automated theorem verifier/prover and proof assistant.
 #### Misc
 
@@ -236,6 +236,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Kissat-rs](https://github.com/firefighterduck/kissat-rs) [:package:](https://crates.io/crates/kissat) - bindings for the Kissat SAT solver.
 - [lean-sys](https://gitlab.com/tekne/lean-sys) [:package:](https://crates.io/crates/lean-sys) - bindings to Lean 4's C API.
 - [libsmt.rs](https://github.com/sushant94/libsmt.rs) :zzz: - bindings for SMTLIB2.
+- [logicng-open-wbo-sys](https://github.com/booleworks/logicng-rs) [:package:](https://crates.io/crates/logicng-open-wbo-sys) - low-level LogicNG bindings for the MaxSAT solver [Open-WBO](https://github.com/sat-group/open-wbo).
 - [maxpre-rs](https://github.com/chrjabs/maxpre-rs) [:package:](https://crates.io/crates/maxpre) - bindings for the (multi-objective) MaxSAT preprocessor MaxPre.
 - [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star: - generic library to interact with SMT-LIB 2 compliant solvers.
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):star::skull: - generic high-level API for interacting with SMT solvers.
@@ -277,6 +278,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Kravanenn](https://github.com/ppedrot/kravanenn) :star::zzz: - set of tools for Coq.
 - [logic-lang](https://github.com/logic-lang/logic) [:package:](https://crates.io/crates/logic-lang) - structural logic based on equivalence graphs.
 - [logical_solver](https://github.com/antoKeinanen/logical_solver-rs) [:package:](https://crates.io/crates/logical_solver) :baby_chick: -  library for solving and parsing logical equations.
+- [LogicNG](https://github.com/booleworks/logicng-rs) [:package:](https://crates.io/crates/logicng) - library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
 - [LogRu](https://github.com/fatho/logru) [:package:](https://crates.io/crates/logru) - small, embeddable and fast interpreter for a subset of Prolog.
 - [mm0-rs](https://github.com/digama0/mm0/tree/master/mm0-rs) [:package:](https://crates.io/crates/mm0b_parser)[:package:](https://crates.io/crates/mm0_deepsize)[:package:](https://crates.io/crates/mm0_util):star:[:lab_coat:](https://digama0.github.io/mm0/thesis-slides.pdf)[:lab_coat:](https://digama0.github.io/mm0/thesis.pdf) - MM0/MM1 server and utilities.
 - [mmb-binutils](https://github.com/trivial-rs/mmb-binutils) - utility tools for Metamath Zero binary proof files.
@@ -289,7 +291,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [ruler](https://github.com/uwplse/ruler) :diamonds::star:[:lab_coat:](https://dl.acm.org/doi/10.1145/3485496) - rewrite rule inference using equality saturation.
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-smt-strings](https://github.com/awslabs/rust-smt-strings) - [:package:](https://crates.io/crates/aws-smt-strings) - library for strings as defined in the SMT-LIB theory of strings.
-- [rust-unify](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
+- [~~rust-unify~~](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
 - [rustsat(2)](https://github.com/chrjabs/rustsat) [:package:](https://crates.io/crates/rustsat)[:package:](https://crates.io/crates/rustsat-cadical)[:package:](https://crates.io/crates/rustsat-glucose)[:package:](https://crates.io/crates/rustsat-kissat)[:package:](https://crates.io/crates/rustsat-minisat)[:package:](https://crates.io/crates/rustsat-tools) - provide implementations of elements commonly used in satisfiability solving software.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star: - tool for constructing finite models for first-order theories.
 - [Satoxid](https://github.com/neuring/satoxid) [:package:](https://crates.io/crates/satoxid) - library to help with encoding SAT problems.
@@ -304,7 +306,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 *There is [numerous](https://github.com/search?l=Rust&q=tapl&type=Repositories) implementations of TAPL [:book:](https://www.cis.upenn.edu/~bcpierce/tapl), we keep only the most popular and keep an eye on implementations that worth attention.*
 
 - [logic-rs](https://github.com/ixjf/logic-rs) [:book:](https://ruccs.rutgers.edu/lepore-meaning-and-argument/lepore-about-the-book):star::skull: - parser of relational predicate logic & truth tree solver
-- [plar-rs](https://github.com/nikomatsakis/plar-rs) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp)[:ghost:](https://github.com/newca12/plar-rs) - exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
+- [plar-rs](https://github.com/nikomatsakis/plar-rs) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp):zzz:[:ghost:](https://github.com/newca12/plar-rs) - exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
 - [tapl](https://github.com/v4kst1z/tapl) :zzz: - implementation of TAPL.
 - [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star::zzz: - another collection of implementations of TAPL.
 - [The Little Prover](https://github.com/mbillingr/the-little-prover) [:book:](https://mitpress.mit.edu/9780262330572/the-little-prover) - transpiled J-Bob assistant & GUI frontend.
@@ -335,7 +337,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [TIP](https://github.com/v4kst1z/TIP) :baby_chick: - imperative programming language aimed at teaching fundamental concepts of static program analysis.
 - [Untyped Concatenative Calculus](https://github.com/dawn-lang/ucc) - toy programming language and prototype for [Dawn](https://www.dawn-lang.org).
 - [Untyped Multistack Concatenative Calculus](https://github.com/dawn-lang/umcc) - toy programming language and prototype for [Dawn](https://www.dawn-lang.org).
-- [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util):star::skull: - became Narc.
+- [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util):star::zzz: - became Narc.
 - [zz](https://github.com/zetzit/zz) [:package:](https://crates.io/crates/zz):star::skull: - zymbolic verifier and tranzpiler to bare metal C.
 
 ## Kanren
@@ -353,7 +355,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lam](https://github.com/pro465/lam) - lambda calculus evaluator.
 - [Lamb](https://github.com/Carnagion/lamb) [:package:](https://crates.io/crates/lamb):mortar_board: - implementation of the pure untyped lambda calculus in modern, safe Rust.
 - [lambash](https://github.com/nixpulvis/lambash) [:package:](https://crates.io/crates/lambash):zzz: - λ-calculus shell.
-- [lambda_calc](https://gitlab.com/mcmfb/lambda-calculator) [:package:](https://crates.io/crates/lambda_calc):recycle: - command-line untyped lambda calculus interpreter.
+- [~~lambda_calc~~](https://gitlab.com/mcmfb/lambda-calculator) [:package:](https://crates.io/crates/lambda_calc):recycle: - command-line untyped lambda calculus interpreter.
 - [lambda_calculus](https://github.com/ljedrz/lambda_calculus) [:package:](https://crates.io/crates/lambda_calculus):star: - simple, zero-dependency implementation of pure lambda calculus in safe Rust.
 - [lambda_calculus](https://github.com/thomasdziedzic/lambda_calculus) - lambda calculus with antlr grammar.
 - [lambdacube](https://github.com/felixzhuologist/lambdacube) :construction::zzz: - implementation of the lambda cube (and other type stuff).
@@ -362,7 +364,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [RLCI](https://github.com/orsinium-labs/rlci) :star: - Overly-documented Lambda Calculus Interpreter.
 
 ## Propositional logic
-- [Chevre](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
+- [~~Chevre~~](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
 - [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic) :baby_chick::zzz: - crate for propositional logic.
 - [logic-resolver](https://github.com/gustafla/logic-resolver) :baby_chick::zzz: - toy implementation of resolution for propositional logic.
 - [mini-prop](https://github.com/emilHof/mini-prop) [:package:](https://crates.io/crates/mini-prop) - CLI tool for parsing and processing LaTex formatted propositional statements.
@@ -437,7 +439,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 99 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 102 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 70 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 37 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 37 entries. :100:
@@ -525,6 +527,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Andrew Johnson](https://github.com/andrew-johnson-4) - LSTS.
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
 - [Dylan R. Johnston](https://dylanj.xyz) - Formally Verifying Rust's Opaque Types.
+- [Matthias Jugan](https://github.com/Apfelbeet) - LogicNG, logicng-open-wbo-sys.
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
 - [Carl Kadie](https://github.com/CarlKCarlK) - Check AI-Generated Code Perfectly and Automatically.
 - [Hosein Kalbasi](https://github.com/HKalbasi) - akim.
