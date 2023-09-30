@@ -120,6 +120,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Misc
 
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
+- [autosat](https://github.com/petersn/autosat-rs) [:package:](https://crates.io/crates/autosat):baby_chick: - automatic conversion of functions to CNF for SAT solving.
 - [Caso](https://github.com/advancedresearch/caso) [:package:](https://crates.io/crates/caso) - category Theory Solver for Commutative Diagrams.
 - [Cosette Prover](https://github.com/cosette-solver/cosette-prover) :star:[:lab_coat:](https://www.vldb.org/pvldb/vol11/p1482-chu.pdf) - reimplementation of the Cosette prover in Rust.
 - [cyclegg](https://github.com/nadia-polikarpova/cyclegg) - cyclic theorem prover for equational reasoning using egraph.
@@ -288,9 +289,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [moniker](https://github.com/brendanzab/moniker) [:package:](https://crates.io/crates/moniker)[:package:](https://crates.io/crates/moniker-derive):star::zzz: - automagical variable binding library.
 - [nanoda](https://github.com/ammkrn/nanoda) :star::skull: - became nanoda-lib.
 - [nanoda_lib](https://github.com/ammkrn/nanoda_lib) - type inference/checking functionality based on the Lean theorem prover.
+- [nnf](https://github.com/night-crawler/nnf) [:package:](https://crates.io/crates/nnf) - Negation Normal Form manipulation library.
 - [polytype](https://github.com/lucasem/polytype-rs) [:package:](https://crates.io/crates/polytype):star: - Hindley-Milner polymorphic typing system.
 - [program-induction](https://github.com/lucasem/program-induction) [:package:](https://crates.io/crates/programinduction):star: - library for program induction and learning representations.
 - [ruler](https://github.com/uwplse/ruler) :diamonds::star:[:lab_coat:](https://dl.acm.org/doi/10.1145/3485496) - rewrite rule inference using equality saturation.
+- [Rust First Order Logic](https://github.com/BenRogersNewsome/First-Order-Logic) [:package:](https://crates.io/crates/first_order_logic) - implementation of the syntax of First Order Logic with self-consistent logical assertions.
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-smt-strings](https://github.com/awslabs/rust-smt-strings) - [:package:](https://crates.io/crates/aws-smt-strings) - library for strings as defined in the SMT-LIB theory of strings.
 - [~~rust-unify~~](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
@@ -441,14 +444,14 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 102 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 103 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 72 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 38 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 37 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 37 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 33 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 11 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
@@ -534,6 +537,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
 - [Carl Kadie](https://github.com/CarlKCarlK) - Check AI-Generated Code Perfectly and Automatically.
 - [Hosein Kalbasi](https://github.com/HKalbasi) - akim.
+- [Igor Kalichevski](https://github.com/night-crawler) - nnf.
 - [karroffel](https://gitlab.com/karroffel) - contracts.
 - [Anto Keinänen](https://github.com/antoKeinanen) - logical_solver, logical_tui.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
@@ -585,11 +589,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
 - [Bobby Powers](https://github.com/bpowers) - Logically Qualified Data Types.
 - [Joshua Pratt](https://blog.mimir.systems) - ArcsJs - Provable, tako.
+- [petersn](https://github.com/petersn) - autosat.
 - [Boqin Qin](https://github.com/BurtonQin) - lockbud.
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, lickety, SATCoP, tptp.
 - [Alastair Reid](https://alastairreid.github.io) - Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs, Rust Software Verification Benchmarks, Rust verification tools, Rust verification tools list.
 - [Adrien Renaudineau](https://github.com/arenaudineau) - sat_lab.
 - [Nathan Ringo](https://remexre.xyz) - FALL.
+- [Benjamin Rogers-Newsome](https://github.com/BenRogersNewsome) - Rust First Order Logic.
 - [Erik Rohkohl](https://blogs.itemis.com/author/erik-rohkohl) - n-queens-sat.
 - [Marco Concetto Rudilosso](https://github.com/Maaarcocr) - validator.
 - [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
