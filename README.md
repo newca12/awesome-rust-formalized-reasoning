@@ -86,6 +86,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [minisat-rust](https://github.com/mishun/minisat-rust) :star::zzz: - experimental minisat SAT solver.
 - [msat](https://github.com/solhop/msat) [:package:](https://crates.io/crates/msat):skull: - MaxSAT Solver.
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin):star::zzz: - reimplementation of MiniSat.
+- [Resolvo](https://github.com/mamba-org/resolvo) [:package:](https://crates.io/crates/resolvo):star: - fast package resolver (CDCL based SAT solving).
 - [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat):skull: - SAT Solver.
 - [RsBDD](https://github.com/timbeurskens/rsbdd) - Reduced-order Binary Decision Diagram (RoBDD) SAT solver.
 - [rust-sat](https://github.com/michaelbeaumont/rust-sat) :zzz: - SAT solver that accepts input in the DIMACS CNF file format.
@@ -637,6 +638,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
 - [Ren Yanjie](https://github.com/Rose1917) - bool2dimacs, RustLogic.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
+- [Bas Zalmstra](https://github.com/baszalmstra) - Resolvo.
 - [Alexey Zatelepin](https://github.com/ztlpn) - minilp.
 - [Eric Zhang](https://www.ekzhang.com) - µKanren-rs.
 - [Hanliang Zhang](https://github.com/KomaEc) - sat.
