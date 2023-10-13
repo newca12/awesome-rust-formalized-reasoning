@@ -221,6 +221,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lalrpop-lambda](https://github.com/nixpulvis/lalrpop-lambda) [:package:](https://crates.io/crates/lalrpop-lambda):star::zzz: - λ-calculus Parser (using LALRPOP).
 - [Lambda Term Parsing](https://github.com/01mf02/lambda-parse) - explores different parser designs for a simple lambda term grammar.
 - [logic-form](https://github.com/gipsyh/logic-form) [:package:](https://crates.io/crates/logic-form):baby_chick: - library for representing Cube, Clause, CNF and DNF.
+- [logic-parser](https://github.com/paoloose/discrete-mathematics/tree/main/assignments/week1/logic-parser) [:package:](https://crates.io/crates/logic-parser):mortar_board: - library for lexing, parsing and visualizing logical expressions.
 - [mmb-parser](https://github.com/trivial-rs/mmb-parser) [:package:](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format.
 - [olean-rs](https://github.com/digama0/olean-rs) :zzz: - parser/viewer for olean files.
 - [RustLogic](https://github.com/Rose1917/rustlogic) [:package:](https://crates.io/crates/rustlogic-march1917) - parsing and handling simple logical expressings.
@@ -445,8 +446,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 103 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 72 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 104 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 74 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 38 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 37 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 33 entries. :100:
@@ -509,6 +510,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Aodhnait Étaín](https://aodhneine.github.io) - Esther.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, Lambda Term Parsing, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
 - [FireFighterDuck](https://github.com/firefighterduck) - Alice_rs, Kissat-rs, minihl.
+- [Paolo Flores](https://www.paoloose.site) - logic-parser.
 - [Hugo Frezat](https://github.com/hrkz) - logic-lang.
 - [Robin Freyler](https://robbepop.github.io) - CNF Parser, DIMACS Parser, Stevia.
 - [Galois, Inc.](http://galois.com) - crux-mir.
