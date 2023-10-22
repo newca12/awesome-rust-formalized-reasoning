@@ -323,6 +323,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ## Programming Language
 
+- [beta](https://github.com/ReubenHillyard/beta) :construction: - dependently-typed programming language, aiming to support a cubical interpretation of univalence..
 - [egglog](https://github.com/philzook58/egglog) :star: - using the egg library with a file format and semantics similar to datalog.
 - [Fathom](https://github.com/yeslogic/fathom) [:package:](https://crates.io/crates/fathom):star::construction: - declarative data definition language for formally specifying binary data formats.
 - [High-order Virtual Machine (HVM)](https://github.com/HigherOrderCO/HVM) :star: - massively parallel, optimal functional runtime.
@@ -372,6 +373,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ## Propositional logic
 - [~~Chevre~~](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
+- [implies](https://github.com/armaan-rashid/implies) [:package:](https://crates.io/crates/implies) - storing logical formulas as parse trees and performing complex operations on them.
 - [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic) :baby_chick::zzz: - crate for propositional logic.
 - [logic-resolver](https://github.com/gustafla/logic-resolver) :baby_chick::zzz: - toy implementation of resolution for propositional logic.
 - [mini-prop](https://github.com/emilHof/mini-prop) [:package:](https://crates.io/crates/mini-prop) - CLI tool for parsing and processing LaTex formatted propositional statements.
@@ -447,7 +449,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 104 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 74 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 75 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 38 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 37 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 33 entries. :100:
@@ -524,6 +526,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [David S. Hardin](https://github.com/david-s-hardin) - Hardware/Software Co-Assurance using the Rust Programming Language and ACL2.
 - [Rowan Hart](https://github.com/novafacing) - Yices2.
 - [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
+- [Reuben Hillyard](https://github.com/ReubenHillyard) - beta.
 - [Son HO](https://github.com/sonmarcho) - Charon.
 - [Sarek Høverstad Skotåm](https://github.com/sarsko) - CreuSAT.
 - [Hoblovski](https://github.com/Hoblovski) - stupid-see, stupid-smt.
@@ -594,6 +597,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Joshua Pratt](https://blog.mimir.systems) - ArcsJs - Provable, tako.
 - [petersn](https://github.com/petersn) - autosat.
 - [Boqin Qin](https://github.com/BurtonQin) - lockbud.
+- [Armaan Rashid](https://github.com/armaan-rashid) - implies.
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, lickety, SATCoP, tptp.
 - [Alastair Reid](https://alastairreid.github.io) - Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs, Rust Software Verification Benchmarks, Rust verification tools, Rust verification tools list.
 - [Adrien Renaudineau](https://github.com/arenaudineau) - sat_lab.
