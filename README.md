@@ -90,13 +90,14 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat):skull: - SAT Solver.
 - [RsBDD](https://github.com/timbeurskens/rsbdd) - Reduced-order Binary Decision Diagram (RoBDD) SAT solver.
 - [rust-sat](https://github.com/michaelbeaumont/rust-sat) :zzz: - SAT solver that accepts input in the DIMACS CNF file format.
-- [rustsat](https://github.com/jamesbornholt/rustsat) :baby_chick: - toy Rust SAT solver.
+- [rustsat](https://github.com/jamesbornholt/rustsat) :baby_chick: - toy SAT solver.
 - [sat](https://github.com/KomaEc/sat) - simple CDCL sat solver.
+- [SAT solver](https://github.com/shinkwhek/SATsolver) :baby_chick::zzz: - SAT solver.
+- [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) [:lab_coat:](https://hal.inria.fr/inria-00202831/en) - reimplementation of the SAT-solver described in 'SAT-MICRO: petit mais costaud!'.
+- [sat-solver](https://github.com/RobertObkircher/sat-solver) - simple CDCL SAT solver based on the lecture 185.A93 Formal Methods in CS at TU Wien.
 - [SATCoP](https://github.com/MichaelRawson/satcop) - theorem prover for first-order logic based on connection tableau and SAT solving.
 - [Satire](https://github.com/Qwaz/satire) [:package:](https://crates.io/crates/satire) - educational SAT solver.
 - [satyrs](https://github.com/jayelm/satyrs) :mortar_board::zzz: - DPLL SAT solver.
-- [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) [:lab_coat:](https://hal.inria.fr/inria-00202831/en) - reimplementation of the SAT-solver described in 'SAT-MICRO: petit mais costaud!'.
-- [SAT solver]() :baby_chick::zzz: - SAT solver.
 - [scrapsat](https://github.com/togatoga/scrapsat) :construction: - CDCDL SAT Solver.
 - [screwsat](https://github.com/togatoga/screwsat) [:package:](https://crates.io/crates/screwsat):star: - simple CDCL SAT Solver.
 - [Scuttle](https://github.com/chrjabs/scuttle) [:package:](https://crates.io/crates/scuttle)[:package:](https://crates.io/crates/scuttle-proc) - multi-objective MaxSAT solver based on the rustsat library and the CaDiCaL SAT solver.
@@ -448,14 +449,14 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 104 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 105 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 75 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 38 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 37 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 33 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 13 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
@@ -583,6 +584,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Sven Nilsen](https://github.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Caso, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Yuichi Nishiwaki](https://github.com/nyuichi) - shari.
 - [Stefan O'Rear](https://github.com/sorear) - smetamath.
+- [Robert Obkircher](https://github.com/RobertObkircher) - sat-solver.
 - [Adolfo Ochagavía](https://ochagavia.nl) - An adventure with optimization, Rust and Z3.
 - [Edgar Onghena](https://edgar.bzh/) - inf402.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
