@@ -443,8 +443,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Posts
 
+- [How Open Source Projects are Using Kani to Write Better Software in Rust](https://aws.amazon.com/fr/blogs/opensource/how-open-source-projects-are-using-kani-to-write-better-software-in-rust) - 2023.
 - [Check AI-Generated Code Perfectly and Automatically](https://medium.com/@carlmkadie/check-ai-generated-code-perfectly-and-automatically-d5b61acff741) - 2023.
-- [Solving The Witness with Z3](https://www.techofnote.com/witness-part-1) - 2022
+- [Solving The Witness with Z3](https://www.techofnote.com/witness-part-1) - 2022.
 - [Formally Verifying Rust's Opaque Types](https://dylanj.xyz/posts/rust-coq-opaque-types) - 2022.
 - [An adventure with optimization, Rust and Z3](https://ochagavia.nl/blog/an-adventure-with-optimization-rust-and-z3) - 2019.
 
@@ -548,6 +549,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Igor Kalichevski](https://github.com/night-crawler) - nnf.
 - [karroffel](https://gitlab.com/karroffel) - contracts.
 - [Anto Keinänen](https://github.com/antoKeinanen) - logical_solver, logical_tui.
+- [Rahul Kumar](https://github.com/rahulku) - How Open Source Projects are Using Kani to Write Better Software in Rust.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
 - [Alexey Kutepov](https://tsoding.org) - Noq.
 - [Ivan Ladelshchikov](https://github.com/tsionyx) - nonogrid.
