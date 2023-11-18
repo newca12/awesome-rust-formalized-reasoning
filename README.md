@@ -418,6 +418,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Research Paper & Thesis
 
+- [Verification of a Rust Implementation of Knuth's Dancing Links using ACL2](https://arxiv.org/abs/2311.08862v1) - 2023.
 - [Specifying and Verifying Higher-order Rust Iterators](https://hal.science/hal-03827702v2/document) - 2023.
 - [RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code](https://www.lri.fr/~xldenis/paper/rusthornbelt.pdf) - 2022.
 - [Hardware/Software Co-Assurance using the Rust Programming Language and ACL2](https://arxiv.org/abs/2205.11709v1) - 2022.
@@ -451,13 +452,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 105 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 107 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 75 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 38 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 37 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 33 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 35 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 13 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 14 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
@@ -526,7 +527,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Robert Grosse](https://github.com/Storyyeller) - cryptominisat-rs.
 - [Masaki Hara](https://twitter.com/qnighy) - Logic solver, RatSat.
 - [Jannis Harder](https://jix.one) - Cnfpack, Flussab CNF, Minimal models, starlit, Varisat, Varisat notebook.
-- [David S. Hardin](https://github.com/david-s-hardin) - Hardware/Software Co-Assurance using the Rust Programming Language and ACL2.
+- [David S. Hardin](https://github.com/david-s-hardin) - Hardware/Software Co-Assurance using the Rust Programming Language and ACL2, Verification of a Rust Implementation of Knuth's Dancing Links using ACL2.
 - [Rowan Hart](https://github.com/novafacing) - Yices2.
 - [Timothée Haudebourg](https://github.com/timothee-haudebourg) - smt2.
 - [Reuben Hillyard](https://github.com/ReubenHillyard) - beta.
