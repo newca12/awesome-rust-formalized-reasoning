@@ -191,6 +191,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [ArcsJs - Provable](https://github.com/project-oak/arcsjs-provable) - set of ArcsJs focused tools for doing proofs on ArcsJs models.
 - [Bounded Registers](https://github.com/auxoncorp/bounded-registers) [:package:](https://crates.io/crates/bounded-registers):star: - high-assurance memory-mapped register interaction library.
+- [Carcara](https://github.com/ufmg-smite/carcara) :star: - proof checker and elaborator for SMT proofs in the [Alethe format](https://verit.gitlabpages.uliege.be/alethe/specification.pdf).
 - [ceetle](https://github.com/AzeezDa/ceetle) [:package:](https://crates.io/crates/ceetle)[:package:](https://crates.io/crates/ceetle_macros) - library for defining models in Computational Tree Logic and verifying their semantics.
 - [Chalk](https://github.com/rust-lang/chalk) [:package:](https://crates.io/crates/chalk-solve)[:package:](https://crates.io/crates/chalk-derive)[:package:](https://crates.io/crates/chalk-engine)[:package:](https://crates.io/crates/chalk-ir)[:package:](https://crates.io/crates/chalk-macros)[:package:](https://crates.io/crates/chalk-recursive)[:package:](https://crates.io/crates/chalk-rust-ir):star: - implements the Rust trait system, based on Prolog-ish logic rules.
 - [Charon](https://github.com/sonmarcho/charon) - interface with the rustc compiler for the purpose of program verification.
@@ -474,6 +475,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
 - [ammkrn](https://twitter.com/ammkrn) - nanoda, nanoda_lib, second_opinion.
+- [Bruno Andreotti](https://github.com/bpandreotti) - Carcara.
 - [Arata](https://github.com/arata-nvm) - lutrix.
 - [arbaregni](https://github.com/arbaregni) - resolution-prover.
 - [astrobeastie](https://github.com/astrobeastie) - sequentprover.
