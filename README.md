@@ -245,11 +245,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [libsmt.rs](https://github.com/sushant94/libsmt.rs) :zzz: - bindings for SMTLIB2.
 - [logicng-open-wbo-sys](https://github.com/booleworks/logicng-rs) [:package:](https://crates.io/crates/logicng-open-wbo-sys) - low-level LogicNG bindings for the MaxSAT solver [Open-WBO](https://github.com/sat-group/open-wbo).
 - [maxpre-rs](https://github.com/chrjabs/maxpre-rs) [:package:](https://crates.io/crates/maxpre) - bindings for the (multi-objective) MaxSAT preprocessor MaxPre.
+- [pblib-rs](https://github.com/crillab/pblib-rs) [:package:](https://crates.io/crates/pblib-rs) - safe bindings for [pblib](https://github.com/master-keying/pblib).
 - [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star: - generic library to interact with SMT-LIB 2 compliant solvers.
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):star::skull: - generic high-level API for interacting with SMT solvers.
 - [rust_z3prover](https://github.com/hrkzmnm/rust_z3prover) :zzz: - use Z3 SMT solver from rust.
 - [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt):zzz: - fork of libsmt.rs.
 - [SAT Nexus](https://github.com/Lipen/sat-nexus) - interfaces and wrappers for SAT solvers.
+- [smt_sb-rs](https://github.com/DavidD12/smt_sb-rs) [:package:](https://crates.io/crates/smt_sb-rs) - Z3 SMT Simple Binding.
 - [smtlib](https://github.com/oeb25/smtlib-rs) [:package:](https://crates.io/crates/smtlib)[:package:](https://crates.io/crates/smtlib-lowlevel)[:package:](https://crates.io/crates/smtlib-build-util) - high-level API for interacting with SMT solvers.
 - [vipers](https://github.com/oeb25/vipers) - crates for interacting with the Viper verification infrastructure.
 - [Yices2](https://github.com/novafacing/yices2-rs) [:package:](https://crates.io/crates/yices2)[:package:](https://crates.io/crates/yices2-sys) - low and high-level bindings to the [Yices2](https://yices.csl.sri.com/) SMT solver.
@@ -453,11 +455,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 107 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 109 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 75 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 38 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 40 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 37 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 35 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 36 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 14 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
@@ -466,8 +468,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 6 entries. :100:
+- [dependent-types](https://crates.io/keywords/dependent-types) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
-- [dependent-types](https://crates.io/keywords/dependent-types) - 5 entries. :100:
 - [dimacs](https://crates.io/keywords/dimacs) - 5 entries. :100:
 
 ### Community
@@ -503,7 +505,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
 - [Dacit](https://github.com/Dacit) - Sequent solver.
 - [Azeez Daoud](https://azeezda.github.io/portfolio) - ceetle.
-- [DavidD12](https://github.com/DavidD12) - SMT-language.
+- [DavidD12](https://github.com/DavidD12) - SMT-language, smt_sb-rs.
 - [Ariel Davis](https://azdavis.net) - coc.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code, RustHornBelt Library & Benchmarks, Rust verification tools (2021), Specifying and Verifying Higher-order Rust Iterators.
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
@@ -564,6 +566,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Chuck Liang](https://github.com/chuckcscccl) - Lambdascript.
 - [Nathan Lilienthal](https://nixpulvis.com/) - lambash, lalrpop-lambda.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
+- [Emmanuel Lonca](https://github.com/elonca) - pblib-rs.
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
 - [Michael Madden](https://github.com/mikemadden42) - Xori.
 - [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus, Untyped Multistack Concatenative Calculus.
