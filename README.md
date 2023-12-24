@@ -374,6 +374,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lambdacube](https://github.com/felixzhuologist/lambdacube) :construction::zzz: - implementation of the lambda cube (and other type stuff).
 - [Lambdascript](https://github.com/chuckcscccl/lambdascript) - educational tool illustrating beta reduction of untyped lamba terms.
 - [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl):zzz: - lambda calculus parser and evaluator and a separate command line REPL.
+- [Pun Calculus](https://github.com/andrew-johnson-4/PunCalculus) [:package:](https://crates.io/crates/punc) - variant of Typed Lambda Calculus with generalized variable punning (ad-hoc polymorphism).
 - [RLCI](https://github.com/orsinium-labs/rlci) :star: - Overly-documented Lambda Calculus Interpreter.
 
 ## Propositional logic
@@ -455,7 +456,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 109 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 110 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 75 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 40 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 37 entries. :100:
@@ -544,7 +545,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Christoph Jabs](https://github.com/chrjabs) - Scuttle, maxpre-rs, rustsat(2).
 - [Jan](https://github.com/Janko-dev) - Plogic.
 - [Ranjit Jhala](https://github.com/ranjitjhala) - flux-demo.
-- [Andrew Johnson](https://github.com/andrew-johnson-4) - LSTS.
+- [Andrew Johnson](https://github.com/andrew-johnson-4) - LSTS, Pun Calculus.
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
 - [Dylan R. Johnston](https://dylanj.xyz) - Formally Verifying Rust's Opaque Types.
 - [Matthias Jugan](https://github.com/Apfelbeet) - LogicNG, logicng-open-wbo-sys.
