@@ -224,7 +224,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Lambda Term Parsing](https://github.com/01mf02/lambda-parse) - explores different parser designs for a simple lambda term grammar.
 - [logic-form](https://github.com/gipsyh/logic-form) [:package:](https://crates.io/crates/logic-form):baby_chick: - library for representing Cube, Clause, CNF and DNF.
 - [logic-parser](https://github.com/paoloose/discrete-mathematics/tree/main/assignments/week1/logic-parser) [:package:](https://crates.io/crates/logic-parser):mortar_board: - library for lexing, parsing and visualizing logical expressions.
+- [lp_parser_rs](https://github.com/dandxy89/lp_parser_rs) [:package:](https://crates.io/crates/lp_parser_rs) - LP file parser.
 - [mmb-parser](https://github.com/trivial-rs/mmb-parser) [:package:](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format.
+- [mps](https://github.com/integrated-reasoning/mps) [:package:](https://crates.io/crates/mps) - fast MPS parser.
 - [olean-rs](https://github.com/digama0/olean-rs) :zzz: - parser/viewer for olean files.
 - [RustLogic](https://github.com/Rose1917/rustlogic) [:package:](https://crates.io/crates/rustlogic-march1917) - parsing and handling simple logical expressings.
 - [smt2](https://github.com/regular-pv/smt2) [:package:](https://crates.io/crates/smt2) - SMT-LIB 2 parsing library.
@@ -456,13 +458,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 110 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 75 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 112 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 79 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 40 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 37 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 38 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 36 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 14 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 15 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
@@ -503,8 +505,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Cobalt](https://cobalt.rocks/) - SAT solver ANalyser.
 - [Lorenzo Colombini](https://github.com/Lorenzinco23) - Colombini-SAT.
 - [convexbrain](https://github.com/convexbrain) - Totsu.
+- [David Cox](https://github.com/david-r-cox) - mps.
 - [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
 - [Dacit](https://github.com/Dacit) - Sequent solver.
+- [dandxy89](https://github.com/dandxy89) - lp_parser_rs.
 - [Azeez Daoud](https://azeezda.github.io/portfolio) - ceetle.
 - [DavidD12](https://github.com/DavidD12) - SMT-language, smt_sb-rs.
 - [Ariel Davis](https://azdavis.net) - coc.
