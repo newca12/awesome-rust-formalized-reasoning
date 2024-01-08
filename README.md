@@ -241,6 +241,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [cat_solver](https://github.com/UncombedCoconut/cat_solver) [:package:](https://crates.io/crates/cat_solver) - bindings for the Kissat SAT solver.
 - [cryptominisat-rs](https://github.com/storyyeller/cryptominisat-rs) [:package:](https://crates.io/crates/cryptominisat) :zzz: - bindings for [CryptoMiniSat](https://github.com/msoos/cryptominisat).
 - [falcon-z3](https://github.com/falconre/falcon-z3) [:package:](https://crates.io/crates/falcon-z3) - bindings for Z3.
+- [highs](https://github.com/rust-or/highs) [:package:](https://crates.io/crates/highs) - safe rust bindings for the [HiGHS](https://highs.dev) linear programming solver.
 - [IPASIR](https://github.com/robbepop/ipasir-rs) [:package:](https://crates.io/crates/ipasir):zzz: - FFI bindings for the IPASIR incremental SAT solver interface.
 - [Kissat-rs](https://github.com/firefighterduck/kissat-rs) [:package:](https://crates.io/crates/kissat) - bindings for the Kissat SAT solver.
 - [lean-sys](https://gitlab.com/tekne/lean-sys) [:package:](https://crates.io/crates/lean-sys) - bindings to Lean 4's C API.
@@ -571,6 +572,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Chuck Liang](https://github.com/chuckcscccl) - Lambdascript.
 - [Nathan Lilienthal](https://nixpulvis.com/) - lambash, lalrpop-lambda.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
+- [Ophir LOJKINE](https://github.com/lovasoa) - highs.
 - [Emmanuel Lonca](https://github.com/elonca) - pblib-rs.
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
 - [Michael Madden](https://github.com/mikemadden42) - Xori.
