@@ -148,6 +148,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
 - [stupid-smt](https://github.com/Hoblovski/stupid-smt) :baby_chick::zzz: - SMT library. Mainly project at the verification course in THU.
 - [Tensor Theorem Prover](https://github.com/chanind/tensor-theorem-prover) - first-order logic theorem prover (support unification with approximate vector similarity).
+- [theorem-prover](https://github.com/jchenche/theorem-prover) - implementation of a theorem prover for first-order logic.
 - [theorem-prover-rs](https://github.com/boitsov14/theorem-prover-rs) :construction: - rewrite of [theorem-prover-kt](https://github.com/boitsov14/theorem-prover-kt) a sequent-style automated theorem prover.
 - [Totsu](https://github.com/convexbrain/Totsu) [:package:](https://crates.io/crates/totsu)[:package:](https://crates.io/crates/totsu_f32cuda)[:package:](https://crates.io/crates/totsu_f64lapack)[:package:](https://crates.io/crates/totsu_core)[:package:]():star: - first-order conic solver for convex optimization problems .
 
@@ -502,6 +503,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [David Chanin](https://github.com/chanind) - Tensor Theorem Prover.
 - [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
+- [Jimmy Chen Chen](https://github.com/jchenche) - theorem-prover.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
 - [Konstantin Chukharev](https://github.com/Lipen) - SAT Nexus.
 - [Cobalt](https://cobalt.rocks/) - SAT solver ANalyser.
