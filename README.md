@@ -130,7 +130,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [gpp-solver](https://github.com/Ereski/gpp-solver) [:package:](https://crates.io/crates/gpp-solver) - small hybrid push-pull solver/planner that has the best of both worlds.
 - [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
 - [linear_solver](https://github.com/advancedresearch/linear_solver) [:package:](https://crates.io/crates/linear_solver):star: - linear solver designed to be easy to use with Rust enums.
-- [Logic solver](https://github.com/qnighy/logic-solver-rs) :star: - logic solver.
+- [Logic solver](https://github.com/qnighy/logic-solver-rs) :star::zzz: - logic solver.
 - [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - simple induction and BMC engine.
 - [minilp](https://github.com/ztlpn/minilp) [:package:](https://crates.io/crates/minilp):star::skull: - linear programming solver.
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
@@ -156,6 +156,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 #### Static Analysis & Rust verification tools
 
+- [coq-of-rust](https://github.com/formal-land/coq-of-rust) :star: - formal verification for Rust.
 - [contracts](https://gitlab.com/karroffel/contracts) [:package:](https://crates.io/crates/contracts):star: - implements "[Design By Contract](https://en.wikipedia.org/wiki/Design_by_contract)" via procedural macros.
 - [Creusot](https://github.com/xldenis/creusot) :star::fire: - tool for deductive verification of Rust code.
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) :star: - static simulator for Rust programs.
@@ -222,6 +223,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Flussab CNF](https://github.com/jix/flussab) [:package:](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format.
 - [FRAT-rs](https://github.com/digama0/frat) [:lab_coat:](https://arxiv.org/pdf/2109.09665.pdf) - toolchain for processing and transforming files in the FRAT format.
 - [lalrpop-lambda](https://github.com/nixpulvis/lalrpop-lambda) [:package:](https://crates.io/crates/lalrpop-lambda):star::zzz: - λ-calculus Parser (using LALRPOP).
+- [Lambda Calculus Parser](https://github.com/notJoon/lambda) - λ-calculus parser.
 - [Lambda Term Parsing](https://github.com/01mf02/lambda-parse) - explores different parser designs for a simple lambda term grammar.
 - [logic-form](https://github.com/gipsyh/logic-form) [:package:](https://crates.io/crates/logic-form):baby_chick: - library for representing Cube, Clause, CNF and DNF.
 - [logic-parser](https://github.com/paoloose/discrete-mathematics/tree/main/assignments/week1/logic-parser) [:package:](https://crates.io/crates/logic-parser):mortar_board: - library for lexing, parsing and visualizing logical expressions.
@@ -381,6 +383,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl):zzz: - lambda calculus parser and evaluator and a separate command line REPL.
 - [Pun Calculus](https://github.com/andrew-johnson-4/PunCalculus) [:package:](https://crates.io/crates/punc) - variant of Typed Lambda Calculus with generalized variable punning (ad-hoc polymorphism).
 - [RLCI](https://github.com/orsinium-labs/rlci) :star: - Overly-documented Lambda Calculus Interpreter.
+- [type-theory](https://github.com/segeljakt/type-theory) :star: - typed λ-calculus.
 
 ## Propositional logic
 - [~~Chevre~~](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
@@ -393,6 +396,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Prop](https://github.com/advancedresearch/prop) [:package:](https://crates.io/crates/prop):star: - library for theorem proving with Intuitionistic Propositional Logic.
 - [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs) :zzz: - solver using the propositional tableaux method.
 - [prop_tune](https://github.com/emilHof/prop_tune) [:package:](https://crates.io/crates/prop_tune)[:package:](https://crates.io/crates/prop_tune_core)[:package:](https://crates.io/crates/prop_tune_macro) - library for working with Logical Propositions.
+- [raa_tt](https://github.com/jsinger67/raa_tt) [:package:](https://crates.io/crates/raa_tt) - prover for sentences of propositional calculus.
 - [Resolution Prover](https://github.com/ExcaliburZero/resolution-prover) :zzz: - resolution prover library for propositional logic.
 - [resolution-prover](https://github.com/arbaregni/resolution-prover) :zzz: - Uses propositional resolution to prove statements and proofs on discord.
 - [rs-logik](https://github.com/SolarLiner/rs-logik) [:ghost:](https://github.com/newca12/rs-logik) - propositional logic interpreter.
@@ -444,6 +448,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Blogs
 
 - [A Formal Verification of Rust's Binary Search Implementation.](https://kha.github.io) :uk:
+- [Formal Land](https://formal.land/blog) :uk:
 - [Kani Rust Verifier Blog](https://model-checking.github.io/kani-verifier-blog) :uk:
 - [Mist Blog](https://mist.bvng.dk) :uk:
 - [Splr notebook.](https://shnarazk.github.io/tags/#splr) :jp:
@@ -461,7 +466,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 112 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 113 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 79 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 40 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 38 entries. :100:
@@ -497,6 +502,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat, Shuttle.
 - [Henrik Böving](https://github.com/hargoniX) - Obvious.
 - [Oliver Bøving](https://github.com/oeb25) - Mist, smtlib, vipers.
+- [Lee ByeongJun](https://github.com/notJoon) - Lambda Calculus Parser.
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
 - [Mario Carneiro](https://github.com/digama0) - FRAT-rs, hz-to-mm0, Metamath hammer, Mizar proof checker, mm0-rs, olean-rs.
 - [Tej Chajed](https://github.com/tchajed) - Temporal Verifier.
@@ -506,6 +512,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Jimmy Chen Chen](https://github.com/jchenche) - theorem-prover.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
 - [Konstantin Chukharev](https://github.com/Lipen) - SAT Nexus.
+- [Guillaume Claret](https://github.com/clarus) - coq-of-rust, Formal Land.
 - [Cobalt](https://cobalt.rocks/) - SAT solver ANalyser.
 - [Lorenzo Colombini](https://github.com/Lorenzinco23) - Colombini-SAT.
 - [convexbrain](https://github.com/convexbrain) - Totsu.
@@ -633,9 +640,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Daniel Schemmel](https://daniel.schemmel.net) - DRSAT.
 - [Ryan Schroeder](https://ryan-s.net) - AbsoluteUnity, epilog.
 - [Carol Schulze](https://github.com/Ereski) - gpp-solver.
+- [Klas Segeljakt](https://github.com/segeljakt) - type-theory.
 - [shinkwhek](https://github.com/shinkwhek) - SAT solver.
 - [skbaek](https://github.com/skbaek) - t3p.
 - [Narazaki Shuji](https://shnarazk.github.io) - SAT-bench, Splr, Splr notebook, sudoku_sat.
+- [Jörg Singer](https://github.com/jsinger67) - raa_tt.
 - [SnO₂WMaN](https://github.com/SnO2WMaN) - rust-proplogic-toylang.
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
