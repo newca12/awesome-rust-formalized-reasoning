@@ -73,7 +73,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lickety](https://github.com/MichaelRawson/lickety) - prototype system for linear resolution with splitting.
 - [meancop](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/meancop):recycle: - became CoP.
 - [Serkr](https://github.com/mAarnos/Serkr) :star:[:ghost:](https://github.com/newca12/Serkr) - automated theorem prover for first order logic with equality.
-- [theorem-prover-rs](https://github.com/boitsov14/theorem-prover-rs) :construction: - rewrite of [theorem-prover-kt](https://github.com/boitsov14/theorem-prover-kt) a sequent-style automated theorem prover.
+- [theorem-prover-rs](https://github.com/boitsov14/theorem-prover-rs) - rewrite of [theorem-prover-kt](https://github.com/boitsov14/theorem-prover-kt) a sequent-style automated theorem prover.
 
 #### SAT Solver
 
@@ -135,6 +135,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [minilp](https://github.com/ztlpn/minilp) [:package:](https://crates.io/crates/minilp):star::skull: - linear programming solver.
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
 - [nnoq](https://github.com/pro465/nnoq) - simple theorem prover (nay, verifier) based on functional expression rewriting.
+- [nyaya](https://github.com/pro465/nyaya) - proof language based on [sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus) and [Metamath](https://us.metamath.org).
 - [Obvious](https://github.com/hargoniX/obvious) :zzz: - simple little logic solver and calculator.
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive):star: - fast, brute force, automatic theorem prover for first order logic.
 - [prover](https://github.com/varqox/prover) :skull: - first-order logic prover.
@@ -203,7 +204,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mist](https://github.com/oeb25/mist) - userfriendly verification frontend language.
 - [Mizar proof checker](https://github.com/digama0/mizar-rs) :star::construction: - Alternative [Mizar](http://mizar.org) proof checker.
 - [pocket_prover-set](https://github.com/advancedresearch/pocket_prover-set) [:package:](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
-- [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check):diamonds: - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
+- [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check):diamonds:[:lab_coat:](https://github.com/krobelus/rate-experiments/blob/master/thesis.pdf) - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
 - [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc) - checker for the LFSC proof language.
 - [second_opinion](https://github.com/ammkrn/second_opinion) - verifier for Metamath Zero proof files.
 - [smetamath](https://github.com/sorear/smetamath-rs) [:package:](https://crates.io/crates/smetamath):star::zzz: - parallel and incremental verifier for Metamath databases.
@@ -211,7 +212,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [t3p](https://github.com/skbaek/tesc/tree/master/t3p-rs) - optimized TESC (Theory-Extensible Sequent Calculus) verifier.
 - [Temporal Verifier](https://github.com/vmware-research/temporal-verifier) :star: - framework for temporal verification based on first-order linear-time temporal logic.
 - [verifiable-controllers](https://github.com/vmware-research/verifiable-controllers) :star: - framework to build practical, formally verified, cluster management controllers.
-- [Verifier](https://github.com/trivial-rs/verifier) [:package:](https://crates.io/crates/trivial-verifier) - Trivial proof verifier - an interface to the Metamath Zero kernel.
+- [Verifier](https://github.com/trivial-rs/verifier) [:package:](https://crates.io/crates/trivial-verifier):zzz: - Trivial proof verifier - an interface to the Metamath Zero kernel.
 
 ### Libraries
 
@@ -324,7 +325,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 *There is [numerous](https://github.com/search?l=Rust&q=tapl&type=Repositories) implementations of TAPL [:book:](https://www.cis.upenn.edu/~bcpierce/tapl), we keep only the most popular and keep an eye on implementations that worth attention.*
 
-- [logic-rs](https://github.com/ixjf/logic-rs) [:book:](https://ruccs.rutgers.edu/lepore-meaning-and-argument/lepore-about-the-book):star::skull: - parser of relational predicate logic & truth tree solver
+- [logic-rs](https://github.com/ixjf/logic-rs) [:book:](https://ruccs.rutgers.edu/lepore-meaning-and-argument/lepore-about-the-book):star::zzz: - parser of relational predicate logic & truth tree solver
 - [plar-rs](https://github.com/nikomatsakis/plar-rs) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp):zzz:[:ghost:](https://github.com/newca12/plar-rs) - exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
 - [tapl](https://github.com/v4kst1z/tapl) :zzz: - implementation of TAPL.
 - [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star::zzz: - another collection of implementations of TAPL.
@@ -600,7 +601,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [mcmfb](https://github.com/mcmfb) - lambda_calc.
 - [Tom Meyer](https://github.com/Skasselbard) - Granite.
 - [Alexander Mishunin](https://github.com/mishun) - minisat-rust.
-- [Proloy Mishra](https://github.com/pro465) - lam, nnoq.
+- [Proloy Mishra](https://github.com/pro465) - lam, nnoq, nyaya.
 - [Bruce Mitchener](https://github.com/waywardmonkeys) - z3.
 - [Lucas Morales](https://lucasem.com) - polytype, program-induction.
 - [Jesse Mu](https://github.com/jayelm) - satyrs.
