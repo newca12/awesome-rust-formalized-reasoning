@@ -113,13 +113,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Proof assistant
 - [hakim](https://github.com/babaeee/hakim) - hacky interactive theorem prover.
 - [~~cobalt~~](https://github.com/lcnr/cobalt) :recycle:[:ghost:](https://github.com/isgasho/cobalt) - a wip minimal proof assistant.
-- [Esther](https://github.com/aodhneine/esther) :construction: - simple automated proof assistant.
+- [Esther](https://github.com/aodhneine/esther) :zzz: - simple automated proof assistant.
 - [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) :diamonds::star:[:lab_coat:](https://arxiv.org/abs/1812.10586)[:lab_coat:](https://arxiv.org/abs/1902.03831):fire: - implementation of homotopy.io proof assistant.
 - [LSTS](https://github.com/andrew-johnson-4/LSTS) [:package:](https://crates.io/crates/lsts):star: - proof assistant that is also a programming language.
 - [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZVE64QKPf6y_TIUwj5nKQ7):star: - Not Coq. Simple expression transformer that is not Coq.
 - [Poi](https://github.com/advancedresearch/poi) [:package:](https://crates.io/crates/poi):star: - pragmatic point-free theorem prover assistant.
 - [Proost](https://gitlab.crans.org/loutr/proost) - simple proof assistant.
-- [qbar](https://github.com/qdeduction/qbar) [:package:](https://crates.io/crates/qbar) - experimental automated theorem verifier/prover and proof assistant.
+- [qbar](https://github.com/qdeduction/qbar) [:package:](https://crates.io/crates/qbar):zzz: - experimental automated theorem verifier/prover and proof assistant.
 #### Misc
 
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
@@ -314,8 +314,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [~~rust-unify~~](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
 - [rustsat(2)](https://github.com/chrjabs/rustsat) [:package:](https://crates.io/crates/rustsat)[:package:](https://crates.io/crates/rustsat-cadical)[:package:](https://crates.io/crates/rustsat-glucose)[:package:](https://crates.io/crates/rustsat-kissat)[:package:](https://crates.io/crates/rustsat-minisat)[:package:](https://crates.io/crates/rustsat-tools) - provide implementations of elements commonly used in satisfiability solving software.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star: - tool for constructing finite models for first-order theories.
+- [sat_toasty_helper](https://github.com/Nathan-Fenner/sat_toasty_helper) [:package:](https://crates.io/crates/sat_toasty_helper) - convenient way to write and solve SAT constraints.
 - [Satoxid](https://github.com/neuring/satoxid) [:package:](https://crates.io/crates/satoxid) - library to help with encoding SAT problems.
 - [smt2utils](https://github.com/facebookincubator/smt2utils) [:package:](https://crates.io/crates/smt2parser)[:package:](https://crates.io/crates/smt2patch)[:package:](https://crates.io/crates/smt2proxy)[:package:](https://crates.io/crates/z3tracer):skull: - libraries and tools for the SMT-LIB-2 standard.
+- [smtlib-syntax](https://github.com/keks/smtlib-rs) [:package:](https://crates.io/crates/smtlib-syntax) - types mirroring the syntactic elements from the SMT-LIB 2.6 spec. Meant for code generation, not parsing.
 - [term-rewriting-rs](https://github.com/joshrule/term-rewriting-rs) [:package:](https://crates.io/crates/term_rewriting) :star::zzz: - representing, parsing, and computing with first-order term rewriting systems.
 - [tribool](https://github.com/novacrazy/rust-tribool) [:package:](https://crates.io/crates/tribool) - three-valued logic.
 - [The Trivial Metamath Zero kernel](https://github.com/trivial-rs/kernel) [:package:](https://crates.io/crates/trivial-kernel) - Metamath Zero kernel for Trivial.
@@ -408,6 +410,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ## Unclassified
 
+- [Croissant](https://github.com/super7ramp/croissant) - crossword solver backed by various SAT solvers.
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) :zzz: - simulations to learn formal systems as typed first-order term rewriting systems.
 - [inf402](https://github.com/edgarogh/inf402) - SAT-solver-based takuzu solver.
 - [Junglefowl](https://github.com/wrsturgeon/junglefowl) [:package:](https://crates.io/crates/junglefowl)[:package:](https://crates.io/crates/junglefowl-macros) - runs Peano arithmetic on Rust types, verified at compile time..
@@ -423,6 +426,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Supermux](https://github.com/tuzz/supermux) :zzz: - reduction of the superpermutation problem to Quantified Boolean Formula.
 - [Supersat](https://github.com/tuzz/supersat) :zzz: - attempt to find superpermutations by reducing the problem to SAT.
 - [tarpit-rs](https://github.com/sdleffler/tarpit-rs) :star::zzz: - type-level implementation of Smallfuck. Turing-completeness proof for Rust's type system.
+- [VeriFactory](https://github.com/alegnani/verifactory) :star: - verifier for [Factorio blueprints](https://factorioprints.com).
 
 ## Resources
 
@@ -467,11 +471,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 113 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 114 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 79 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 40 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 41 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 38 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 36 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 37 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 15 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
@@ -497,6 +501,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Mathieu Baudet](https://github.com/ma2bd) - smt2utils.
 - [Mike Beaumont](https://github.com/michaelbeaumont) - rust-sat.
+- [Antoine Belvire](https://github.com/super7ramp) - Croissant.
 - [Tim Beurskens](https://timbeurskens.github.io) - RsBDD.
 - [Justin Blanchard](https://github.com/UncombedCoconut) - cat_solver.
 - [boitsov14](https://github.com/boitsov14) - theorem-prover-rs.
@@ -536,6 +541,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Enkelmann](https://github.com/Enkelmann) - cwe_checker.
 - [Aodhnait Étaín](https://aodhneine.github.io) - Esther.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, Lambda Term Parsing, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
+- [Nathan Fenner](https://github.com/Nathan-Fenner) - sat_toasty_helper.
 - [FireFighterDuck](https://github.com/firefighterduck) - Alice_rs, Kissat-rs, minihl.
 - [Paolo Flores](https://www.paoloose.site) - logic-parser.
 - [Hugo Frezat](https://github.com/hrkz) - logic-lang.
@@ -578,6 +584,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Andrea Lattuada](https://github.com/utaal) - verus.
 - [lcnr](https://lcnr.de) - cobalt.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper.
+- [Alessandro Legnani](https://github.com/alegnani) - VeriFactory.
 - [Nico Lehmann](https://github.com/nilehmann) - Flux.
 - [Carl Lerche](https://github.com/carllerche) - Loom.
 - [Chuck Liang](https://github.com/chuckcscccl) - Lambdascript.
@@ -673,6 +680,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [David A. Wheeler](https://dwheeler.com) - Metamath-knife.
 - [Max Willsey](https://www.mwillsey.com) - egg, egglog.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
+- [Jan Winkelmann](https://github.com/keks) - smtlib-syntax.
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
 - [Ren Yanjie](https://github.com/Rose1917) - bool2dimacs, RustLogic.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
