@@ -111,6 +111,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Varisat](https://github.com/jix/varisat)[:package:](https://crates.io/crates/varisat)[:package:](https://crates.io/crates/varisat-checker)[:package:](https://crates.io/crates/varisat-cli)[:package:](https://crates.io/crates/varisat-dimacs)[:package:](https://crates.io/crates/varisat-formula)[:package:](https://crates.io/crates/varisat-internal-macros)[:package:](https://crates.io/crates/varisat-internal-proof)[:package:](https://crates.io/crates/varisat-lrat):star: - CDCL based SAT solver.
 
 #### Proof assistant
+
 - [hakim](https://github.com/babaeee/hakim) - hacky interactive theorem prover.
 - [~~cobalt~~](https://github.com/lcnr/cobalt) :recycle:[:ghost:](https://github.com/isgasho/cobalt) - a wip minimal proof assistant.
 - [Esther](https://github.com/aodhneine/esther) :zzz: - simple automated proof assistant.
@@ -120,6 +121,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Poi](https://github.com/advancedresearch/poi) [:package:](https://crates.io/crates/poi):star: - pragmatic point-free theorem prover assistant.
 - [Proost](https://gitlab.crans.org/loutr/proost) - simple proof assistant.
 - [qbar](https://github.com/qdeduction/qbar) [:package:](https://crates.io/crates/qbar):zzz: - experimental automated theorem verifier/prover and proof assistant.
+
 #### Misc
 
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
@@ -389,6 +391,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [type-theory](https://github.com/segeljakt/type-theory) :star: - typed λ-calculus.
 
 ## Propositional logic
+
 - [~~Chevre~~](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
 - [implies](https://github.com/armaan-rashid/implies) [:package:](https://crates.io/crates/implies) - storing logical formulas as parse trees and performing complex operations on them.
 - [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic) :baby_chick::zzz: - crate for propositional logic.
@@ -420,6 +423,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [n-queens-sat](https://github.com/erohkohl/n-queens-sat) :zzz: - modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
 - [nonogrid](https://github.com/tsionyx/nonogrid) [:package:](https://crates.io/crates/nonogrid) - lightning fast nonogram solver.
 - [peano](https://github.com/gpoesia/peano) [:lab_coat:](https://arxiv.org/abs/2211.15864) - An environment for learning formal mathematical reasoning from scratch.
+- [Relog](https://github.com/andrew-johnson-4/InPlace) - implementation of several strongly-normalizing string rewriting systems.
 - [rummy_to_sat ](https://github.com/neuring/rummy_to_sat) - implementation of a solver for [Rummy](https://en.wikipedia.org/wiki/Rummy).
 - [rust-z3-practice](https://github.com/salmans/rust-z3-practice) :zzz: - solving a number of SAT problems using Z3.
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
@@ -445,6 +449,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Simple Verification of Rust Programs via Functional Purification](https://pp.ipd.kit.edu/uploads/publikationen/ullrich16masterarbeit.pdf) - 2016.
 
 ### Demos
+
 - [Artifact Evaluation: Kani Rust Verifier](https://github.com/avanhatt/icse22ae-kani) [:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf) - Kani Rust Model Checker artifact for ICSE 2022 Artifact Evaluation.
 - [flux-demo](https://github.com/flux-rs/flux-demo) - small examples that demonstrate how flux works.
 - [rust-smt-ir-examples](https://github.com/awslabs/rust-smt-ir-examples) - examples of using a rust-smt-ir, a Rust intermediate representation (IR) for SMT-LIB.
@@ -471,7 +476,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 115 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 116 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 79 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 41 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 38 entries. :100:
@@ -567,7 +572,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Christoph Jabs](https://github.com/chrjabs) - Scuttle, maxpre-rs, rustsat(2).
 - [Jan](https://github.com/Janko-dev) - Plogic.
 - [Ranjit Jhala](https://github.com/ranjitjhala) - flux-demo.
-- [Andrew Johnson](https://github.com/andrew-johnson-4) - LSTS, Pun Calculus.
+- [Andrew Johnson](https://github.com/andrew-johnson-4) - LSTS, Pun Calculus, Relog.
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
 - [Dylan R. Johnston](https://dylanj.xyz) - Formally Verifying Rust's Opaque Types.
 - [Matthias Jugan](https://github.com/Apfelbeet) - LogicNG, logicng-open-wbo-sys.
