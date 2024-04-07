@@ -127,7 +127,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
 - [autosat](https://github.com/petersn/autosat-rs) [:package:](https://crates.io/crates/autosat):baby_chick: - automatic conversion of functions to CNF for SAT solving.
 - [Caso](https://github.com/advancedresearch/caso) [:package:](https://crates.io/crates/caso) - category Theory Solver for Commutative Diagrams.
-- [Cosette Prover](https://github.com/cosette-solver/cosette-prover) :star:[:lab_coat:](https://www.vldb.org/pvldb/vol11/p1482-chu.pdf) - reimplementation of the Cosette prover in Rust.
 - [cyclegg](https://github.com/nadia-polikarpova/cyclegg) - cyclic theorem prover for equational reasoning using egraph.
 - [gpp-solver](https://github.com/Ereski/gpp-solver) [:package:](https://crates.io/crates/gpp-solver) - small hybrid push-pull solver/planner that has the best of both worlds.
 - [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
@@ -142,6 +141,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive):star: - fast, brute force, automatic theorem prover for first order logic.
 - [prover](https://github.com/varqox/prover) :skull: - first-order logic prover.
 - [prover(2)](https://github.com/mverleg/prover) :baby_chick::zzz: - experiment with integer relation prover.
+- [QED Prover](https://github.com/qed-solver/prover) :star:[:lab_coat:](https://www.vldb.org/pvldb/vol11/p1482-chu.pdf) - reimplementation of the Cosette prover in Rust.
 - [reachability_solver](https://github.com/advancedresearch/reachability_solver) [:package:](https://crates.io/crates/reachability_solver) - linear reachability solver for directional edges.
 - [relsat-rs](https://github.com/mmaroti/relsat-rs) :baby_chick: - Experiments with  provers.
 - [SAT-bench](https://github.com/shnarazk/SAT-bench) - benchmark suit for SAT solvers.
@@ -681,7 +681,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Herman Venter](https://github.com/hermanventer) - MIRAI, Rust static analysis/verification reading and resources.
 - [Mark Verleg](https://markv.nl) - prover(2).
 - [Nikita Voronov](https://orsinium.dev) - RLCI.
-- [Shuxian Wang](https://github.com/wsx-ucb) - Cosette Prover.
+- [Shuxian Wang](https://github.com/wsx-ucb) - QED Prover.
 - [David A. Wheeler](https://dwheeler.com) - Metamath-knife.
 - [Max Willsey](https://www.mwillsey.com) - egg, egglog.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
