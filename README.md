@@ -202,7 +202,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Charon](https://github.com/sonmarcho/charon) - interface with the rustc compiler for the purpose of program verification.
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli):star::diamonds:[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
-- [Metamath-knife](https://github.com/david-a-wheeler/metamath-knife) - verify Metamath proofs.
+- [Metamath-knife](https://github.com/metamath/metamath-knife) [:package:](https://crates.io/crates/metamath-rs):star:  - verify Metamath proofs.
 - [Mist](https://github.com/oeb25/mist) - userfriendly verification frontend language.
 - [Mizar proof checker](https://github.com/digama0/mizar-rs) :star::construction: - Alternative [Mizar](http://mizar.org) proof checker.
 - [pocket_prover-set](https://github.com/advancedresearch/pocket_prover-set) [:package:](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
@@ -477,7 +477,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 116 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 79 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 82 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 41 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 38 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 37 entries. :100:
@@ -515,7 +515,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Oliver Bøving](https://github.com/oeb25) - Mist, smtlib, vipers.
 - [Lee ByeongJun](https://github.com/notJoon) - Lambda Calculus Parser.
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
-- [Mario Carneiro](https://github.com/digama0) - FRAT-rs, hz-to-mm0, Metamath hammer, Mizar proof checker, mm0-rs, olean-rs.
+- [Mario Carneiro](https://github.com/digama0) - FRAT-rs, hz-to-mm0, Metamath hammer, Metamath-knife, Mizar proof checker, mm0-rs, olean-rs.
 - [Tej Chajed](https://github.com/tchajed) - Temporal Verifier.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [David Chanin](https://github.com/chanind) - Tensor Theorem Prover.
@@ -682,7 +682,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mark Verleg](https://markv.nl) - prover(2).
 - [Nikita Voronov](https://orsinium.dev) - RLCI.
 - [Shuxian Wang](https://github.com/wsx-ucb) - QED Prover.
-- [David A. Wheeler](https://dwheeler.com) - Metamath-knife.
 - [Max Willsey](https://www.mwillsey.com) - egg, egglog.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Jan Winkelmann](https://github.com/keks) - smtlib-syntax.
