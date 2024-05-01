@@ -14,6 +14,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
   - [Provers & Solvers](#provers-and-solvers)
     - [Provers TPTP compliant](#provers-tptp-compliant)
     - [SAT Solver](#sat-solver)
+    - [Solver MPS compliant](#solver-mps-compliant)
     - [Proof assistant](#proof-assistant)
     - [Misc](#misc)
   - [Verification](#verification)
@@ -133,6 +134,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [autosat](https://github.com/petersn/autosat-rs) [:package:](https://crates.io/crates/autosat):baby_chick: - automatic conversion of functions to CNF for SAT solving.
 - [Caso](https://github.com/advancedresearch/caso) [:package:](https://crates.io/crates/caso) - category Theory Solver for Commutative Diagrams.
 - [cyclegg](https://github.com/nadia-polikarpova/cyclegg) - cyclic theorem prover for equational reasoning using egraph.
+- [good_lp](https://github.com/rust-or/good_lp) :star: - Mixed Integer Linear Programming modeler using external solvers.
 - [gpp-solver](https://github.com/Ereski/gpp-solver) [:package:](https://crates.io/crates/gpp-solver) - small hybrid push-pull solver/planner that has the best of both worlds.
 - [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
 - [linear_solver](https://github.com/advancedresearch/linear_solver) [:package:](https://crates.io/crates/linear_solver):star: - linear solver designed to be easy to use with Rust enums.
@@ -249,22 +251,28 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [boolector-sys](https://github.com/fatemender/boolector-sys) [:package:](https://crates.io/crates/boolector-sys) - low-level bindings for the [Boolector](https://boolector.github.io) SMT solver.
 - [cadical-rs](https://github.com/mmaroti/cadical-rs) [:package:](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
 - [cat_solver](https://github.com/UncombedCoconut/cat_solver) [:package:](https://crates.io/crates/cat_solver) - bindings for the Kissat SAT solver.
+- [cplex-rs](https://github.com/mbiggio/cplex-rs) [:package:](https://crates.io/crates/cplex-rs)[:package:](https://crates.io/crates/cplex-rs-sys) - safe rust bindings for [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer).
 - [cryptominisat-rs](https://github.com/storyyeller/cryptominisat-rs) [:package:](https://crates.io/crates/cryptominisat) :zzz: - bindings for [CryptoMiniSat](https://github.com/msoos/cryptominisat).
 - [falcon-z3](https://github.com/falconre/falcon-z3) [:package:](https://crates.io/crates/falcon-z3) - bindings for Z3.
 - [highs](https://github.com/rust-or/highs) [:package:](https://crates.io/crates/highs) - safe rust bindings for the [HiGHS](https://highs.dev) linear programming solver.
+- [highs-sys](https://github.com/rust-or/highs-sys) [:package:](https://crates.io/crates/highs-sys) - bindings for the [HiGHS](https://highs.dev) linear programming solver.
 - [IPASIR](https://github.com/robbepop/ipasir-rs) [:package:](https://crates.io/crates/ipasir):zzz: - FFI bindings for the IPASIR incremental SAT solver interface.
 - [isabelle-client](https://github.com/lotzk/rust-isabelle-client) [:package:](https://crates.io/crates/isabelle-client) - client to interact with an [Isabelle](https://isabelle.in.tum.de) server.
 - [Kissat-rs](https://github.com/firefighterduck/kissat-rs) [:package:](https://crates.io/crates/kissat) - bindings for the Kissat SAT solver.
 - [lean-sys](https://gitlab.com/tekne/lean-sys) [:package:](https://crates.io/crates/lean-sys) - bindings to Lean 4's C API.
 - [libsmt.rs](https://github.com/sushant94/libsmt.rs) :zzz: - bindings for SMTLIB2.
 - [logicng-open-wbo-sys](https://github.com/booleworks/logicng-rs) [:package:](https://crates.io/crates/logicng-open-wbo-sys) - low-level LogicNG bindings for the MaxSAT solver [Open-WBO](https://github.com/sat-group/open-wbo).
+- [lpsolve](https://docs.rs/crate/lpsolve/latest/source) [:package:](https://crates.io/crates/lpsolve)[:package:](https://crates.io/crates/lpsolve-sys):zzz: - high-level [lpsolve](https://sourceforge.net/projects/lpsolve) wrapper.
 - [maxpre-rs](https://github.com/chrjabs/maxpre-rs) [:package:](https://crates.io/crates/maxpre) - bindings for the (multi-objective) MaxSAT preprocessor MaxPre.
 - [pblib-rs](https://github.com/crillab/pblib-rs) [:package:](https://crates.io/crates/pblib-rs) - safe bindings for [pblib](https://github.com/master-keying/pblib).
+- [rplex](https://github.com/emallson/rplex) :zzz: - bindings for [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer).
 - [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star: - generic library to interact with SMT-LIB 2 compliant solvers.
+- [russcip](https://github.com/scipopt/russcip) [:package:](https://crates.io/crates/russcip):star: - safe Rust interface for [SCIP](https://www.scipopt.org).
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):star::skull: - generic high-level API for interacting with SMT solvers.
 - [rust_z3prover](https://github.com/hrkzmnm/rust_z3prover) :zzz: - use Z3 SMT solver from rust.
 - [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt):zzz: - fork of libsmt.rs.
 - [SAT Nexus](https://github.com/Lipen/sat-nexus) - interfaces and wrappers for SAT solvers.
+- [scip-sys](https://github.com/scipopt/scip-sys) [:package:](https://crates.io/crates/scip-sys) - raw rust bindings to [SCIP](https://www.scipopt.org).
 - [smt_sb-rs](https://github.com/DavidD12/smt_sb-rs) [:package:](https://crates.io/crates/smt_sb-rs) - Z3 SMT Simple Binding.
 - [smtlib](https://github.com/oeb25/smtlib-rs) [:package:](https://crates.io/crates/smtlib)[:package:](https://crates.io/crates/smtlib-lowlevel)[:package:](https://crates.io/crates/smtlib-build-util) - high-level API for interacting with SMT solvers.
 - [vipers](https://github.com/oeb25/vipers) - crates for interacting with the Viper verification infrastructure.
@@ -513,6 +521,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mike Beaumont](https://github.com/michaelbeaumont) - rust-sat.
 - [Antoine Belvire](https://github.com/super7ramp) - Croissant.
 - [Tim Beurskens](https://timbeurskens.github.io) - RsBDD.
+- [Matteo Biggio](https://github.com/mbiggio) - cplex-rs.
 - [Justin Blanchard](https://github.com/UncombedCoconut) - cat_solver.
 - [boitsov14](https://github.com/boitsov14) - theorem-prover-rs.
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat, Shuttle.
@@ -560,6 +569,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Galois, Inc.](http://galois.com) - crux-mir.
 - [Alexey Gerasimov](https://github.com/fan-tom) - Liquid Rust.
 - [Jad Ghalayini](https://gitlab.com/tekne) - isotope-prover-experiments, lean-sys.
+- [Mohammed Ghannam](https://github.com/mmghannam) - russcip, scip-sys.
 - [Nathan Graule ](https://github.com/SolarLiner) - rs-logik.
 - [Brandon H. Gomes](https://github.com/bhgomes) - qbar.
 - [Robert Grosse](https://github.com/Storyyeller) - cryptominisat-rs.
@@ -601,7 +611,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Chuck Liang](https://github.com/chuckcscccl) - Lambdascript.
 - [Nathan Lilienthal](https://nixpulvis.com/) - lambash, lalrpop-lambda.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
-- [Ophir LOJKINE](https://github.com/lovasoa) - highs.
+- [Ophir LOJKINE](https://github.com/lovasoa) - highs, highs-sys, good_lp.
 - [Emmanuel Lonca](https://github.com/elonca) - pblib-rs.
 - [Kevin Lotz](https://github.com/lotzk) - isabelle-client.
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
@@ -649,6 +659,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, lickety, SATCoP, tptp.
 - [Alastair Reid](https://alastairreid.github.io) - Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs, Rust Software Verification Benchmarks, Rust verification tools, Rust verification tools list.
 - [Adrien Renaudineau](https://github.com/arenaudineau) - sat_lab.
+- [Corey Richardson](https://github.com/emberian) - lpsolve.
 - [Nathan Ringo](https://remexre.xyz) - FALL.
 - [Benjamin Rogers-Newsome](https://github.com/BenRogersNewsome) - Rust First Order Logic.
 - [Erik Rohkohl](https://blogs.itemis.com/author/erik-rohkohl) - n-queens-sat.
@@ -664,6 +675,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [skbaek](https://github.com/skbaek) - t3p.
 - [Narazaki Shuji](https://shnarazk.github.io) - SAT-bench, Splr, Splr notebook, sudoku_sat.
 - [Jörg Singer](https://github.com/jsinger67) - raa_tt.
+- [J David Smith](https://github.com/emallson) - rplex.
 - [SnO₂WMaN](https://github.com/SnO2WMaN) - rust-proplogic-toylang.
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
