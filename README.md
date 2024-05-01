@@ -110,6 +110,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [UASAT-RS](https://github.com/mmaroti/uasat-rs) - SAT solver based calculator for discrete mathematics and universal algebra.
 - [Varisat](https://github.com/jix/varisat)[:package:](https://crates.io/crates/varisat)[:package:](https://crates.io/crates/varisat-checker)[:package:](https://crates.io/crates/varisat-cli)[:package:](https://crates.io/crates/varisat-dimacs)[:package:](https://crates.io/crates/varisat-formula)[:package:](https://crates.io/crates/varisat-internal-macros)[:package:](https://crates.io/crates/varisat-internal-proof)[:package:](https://crates.io/crates/varisat-lrat):star: - CDCL based SAT solver.
 
+#### Solver MPS compliant
+
+- [ellp](https://github.com/kehlert/ellp) [:package:](https://crates.io/crates/ellp):construction: - linear programming library that provides primal and dual simplex solvers.
+- [minilp](https://github.com/ztlpn/minilp) [:package:](https://crates.io/crates/minilp):star::skull: - linear programming solver.
+
 #### Proof assistant
 
 - [hakim](https://github.com/babaeee/hakim) - hacky interactive theorem prover.
@@ -133,7 +138,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [linear_solver](https://github.com/advancedresearch/linear_solver) [:package:](https://crates.io/crates/linear_solver):star: - linear solver designed to be easy to use with Rust enums.
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star::zzz: - logic solver.
 - [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - simple induction and BMC engine.
-- [minilp](https://github.com/ztlpn/minilp) [:package:](https://crates.io/crates/minilp):star::skull: - linear programming solver.
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
 - [nnoq](https://github.com/pro465/nnoq) - simple theorem prover (nay, verifier) based on functional expression rewriting.
 - [nyaya](https://github.com/pro465/nyaya) - proof language based on [sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus) and [Metamath](https://us.metamath.org).
@@ -477,12 +481,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 116 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 82 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 83 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 41 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 38 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 37 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 15 entries. :100:
+- [proving](https://crates.io/keywords/proving) - 13 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
@@ -541,6 +546,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir, rust-smt-ir-examples, rust-smt-strings.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com) - lambda_calculus.
+- [Kurt Ehlert](https://github.com/kehlert) - ellp.
 - [Trevor Elliott](https://github.com/elliottt) - auto, easy-smt.
 - [endeav0r](https://github.com/endeav0r) - falcon-z3.
 - [Enkelmann](https://github.com/Enkelmann) - cwe_checker.
