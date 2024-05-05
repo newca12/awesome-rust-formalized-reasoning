@@ -480,6 +480,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Posts
 
+- [Cracking the Cryptic (with Z3 and Rust)](https://hugopeters.me/posts/21) - 2024
 - [How Open Source Projects are Using Kani to Write Better Software in Rust](https://aws.amazon.com/fr/blogs/opensource/how-open-source-projects-are-using-kani-to-write-better-software-in-rust) - 2023.
 - [Check AI-Generated Code Perfectly and Automatically](https://medium.com/@carlmkadie/check-ai-generated-code-perfectly-and-automatically-d5b61acff741) - 2023.
 - [Solving The Witness with Z3](https://www.techofnote.com/witness-part-1) - 2022.
@@ -646,6 +647,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Chris Patuzzo](https://tuzz.tech) - Supermux, Supersat.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn.
+- [Hugo Peters](https://github.com/HugoPeters1024) - Cracking the Cryptic (with Z3 and Rust).
 - [Arvid E. Picciani](https://github.com/aep) - zz.
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
 - [Gabriel Poesia](https://github.com/gpoesia) - peano.
