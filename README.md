@@ -92,7 +92,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat):skull: - SAT Solver.
 - [RsBDD](https://github.com/timbeurskens/rsbdd) - Reduced-order Binary Decision Diagram (RoBDD) SAT solver.
 - [rust-sat](https://github.com/michaelbeaumont/rust-sat) :zzz: - SAT solver that accepts input in the DIMACS CNF file format.
-- [rustsat](https://github.com/jamesbornholt/rustsat) :baby_chick: - toy SAT solver.
+- [rustsat(2)](https://github.com/jamesbornholt/rustsat) :baby_chick: - toy SAT solver.
 - [sat](https://github.com/KomaEc/sat) - simple CDCL sat solver.
 - [SAT solver](https://github.com/shinkwhek/SATsolver) :baby_chick::zzz: - SAT solver.
 - [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) [:lab_coat:](https://hal.inria.fr/inria-00202831/en) - reimplementation of the SAT-solver described in 'SAT-MICRO: petit mais costaud!'.
@@ -326,7 +326,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-smt-strings](https://github.com/awslabs/rust-smt-strings) - [:package:](https://crates.io/crates/aws-smt-strings) - library for strings as defined in the SMT-LIB theory of strings.
 - [~~rust-unify~~](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
-- [rustsat(2)](https://github.com/chrjabs/rustsat) [:package:](https://crates.io/crates/rustsat)[:package:](https://crates.io/crates/rustsat-cadical)[:package:](https://crates.io/crates/rustsat-glucose)[:package:](https://crates.io/crates/rustsat-kissat)[:package:](https://crates.io/crates/rustsat-minisat)[:package:](https://crates.io/crates/rustsat-tools) - provide elements commonly used in satisfiability solving software.
+- [rustsat](https://github.com/chrjabs/rustsat) [:package:](https://crates.io/crates/rustsat)[:package:](https://crates.io/crates/rustsat-cadical)[:package:](https://crates.io/crates/rustsat-glucose)[:package:](https://crates.io/crates/rustsat-ipasir)[:package:](https://crates.io/crates/rustsat-kissat)[:package:](https://crates.io/crates/rustsat-minisat)[:package:](https://crates.io/crates/rustsat-tools) - provide elements commonly used in satisfiability solving software.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star::zzz: - tool for constructing finite models for first-order theories.
 - [sat_toasty_helper](https://github.com/Nathan-Fenner/sat_toasty_helper) [:package:](https://crates.io/crates/sat_toasty_helper) - convenient way to write and solve SAT constraints.
 - [Satoxid](https://github.com/neuring/satoxid) [:package:](https://crates.io/crates/satoxid) - library to help with encoding SAT problems.
@@ -492,7 +492,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [solver](https://crates.io/keywords/solver) - 116 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 83 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 41 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 38 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 40 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 37 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 15 entries. :100:
@@ -501,6 +501,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
+- [sat-solver](https://crates.io/keywords/sat-solver) - 7 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 6 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 6 entries. :100:
@@ -525,7 +526,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Matteo Biggio](https://github.com/mbiggio) - cplex-rs.
 - [Justin Blanchard](https://github.com/UncombedCoconut) - cat_solver.
 - [boitsov14](https://github.com/boitsov14) - theorem-prover-rs.
-- [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat, Shuttle.
+- [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat(2), Shuttle.
 - [Henrik Böving](https://github.com/hargoniX) - Obvious.
 - [Oliver Bøving](https://github.com/oeb25) - Mist, smtlib, vipers.
 - [Lee ByeongJun](https://github.com/notJoon) - Lambda Calculus Parser.
@@ -586,7 +587,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Emil Hofstetter](https://emilhofstetter.dev) - mini-prop, prop_tune.
 - [hrkzmnm](https://github.com/hrkzmnm) - rust_z3prover.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
-- [Christoph Jabs](https://github.com/chrjabs) - Scuttle, maxpre-rs, rustsat(2).
+- [Christoph Jabs](https://github.com/chrjabs) - Scuttle, maxpre-rs, rustsat.
 - [Jan](https://github.com/Janko-dev) - Plogic.
 - [Ranjit Jhala](https://github.com/ranjitjhala) - flux-demo.
 - [Andrew Johnson](https://github.com/andrew-johnson-4) - LSTS, Pun Calculus, Relog.
