@@ -480,6 +480,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Posts
 
+- [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html) :diamonds: - 2024
 - [Cracking the Cryptic (with Z3 and Rust)](https://hugopeters.me/posts/21) - 2024
 - [How Open Source Projects are Using Kani to Write Better Software in Rust](https://aws.amazon.com/fr/blogs/opensource/how-open-source-projects-are-using-kani-to-write-better-software-in-rust) - 2023.
 - [Check AI-Generated Code Perfectly and Automatically](https://medium.com/@carlmkadie/check-ai-generated-code-perfectly-and-automatically-d5b61acff741) - 2023.
@@ -584,6 +585,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Son HO](https://github.com/sonmarcho) - Charon.
 - [Sarek Høverstad Skotåm](https://github.com/sarsko) - CreuSAT.
 - [Hoblovski](https://github.com/Hoblovski) - stupid-see, stupid-smt.
+- [Graydon Hoare](https://github.com/graydon) - Some notes on Rust, mutable aliasing and formal verification.
 - [Emil Hofstetter](https://emilhofstetter.dev) - mini-prop, prop_tune.
 - [hrkzmnm](https://github.com/hrkzmnm) - rust_z3prover.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
