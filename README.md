@@ -452,6 +452,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Research Paper & Thesis
 
+- [A hybrid approach to semi-automated Rust verification](https://arxiv.org/pdf/2403.15122) - 2024.
 - [Verification of a Rust Implementation of Knuth's Dancing Links using ACL2](https://arxiv.org/abs/2311.08862v1) - 2023.
 - [Specifying and Verifying Higher-order Rust Iterators](https://hal.science/hal-03827702v2/document) - 2023.
 - [RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code](https://www.lri.fr/~xldenis/paper/rusthornbelt.pdf) - 2022.
@@ -551,7 +552,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Azeez Daoud](https://azeezda.github.io/portfolio) - ceetle.
 - [DavidD12](https://github.com/DavidD12) - SMT-language, smt_sb-rs.
 - [Ariel Davis](https://azdavis.net) - coc.
-- [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code, RustHornBelt Library & Benchmarks, Rust verification tools (2021), Specifying and Verifying Higher-order Rust Iterators.
+- [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code, RustHornBelt Library & Benchmarks, Rust verification tools (2021), Specifying and Verifying Higher-order Rust Iterators (2023), A hybrid approach to semi-automated Rust verification (2024).
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Sylvie Dirkswager](https://github.com/tolziplohu) - Pika.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
