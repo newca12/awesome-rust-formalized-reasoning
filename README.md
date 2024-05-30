@@ -397,6 +397,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lambda_calculus](https://github.com/ljedrz/lambda_calculus) [:package:](https://crates.io/crates/lambda_calculus):star: - simple, zero-dependency implementation of pure lambda calculus in safe Rust.
 - [lambda_calculus](https://github.com/thomasdziedzic/lambda_calculus) :zzz: - lambda calculus with antlr grammar.
 - [lambdacube](https://github.com/felixzhuologist/lambdacube) :construction::zzz: - implementation of the lambda cube (and other type stuff).
+- [Lambda Shell](https://github.com/jzbor/lash) [:package:](https://crates.io/crates/lash) - simple REPL shell for untyped lambda expressions.
 - [Lambdascript](https://github.com/chuckcscccl/lambdascript) - educational tool illustrating beta reduction of untyped lamba terms.
 - [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl):zzz: - lambda calculus parser and evaluator and a separate command line REPL.
 - [Pun Calculus](https://github.com/andrew-johnson-4/PunCalculus) [:package:](https://crates.io/crates/punc) - variant of Typed Lambda Calculus with generalized variable punning (ad-hoc polymorphism).
@@ -599,6 +600,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Dylan R. Johnston](https://dylanj.xyz) - Formally Verifying Rust's Opaque Types.
 - [Matthias Jugan](https://github.com/Apfelbeet) - LogicNG, logicng-open-wbo-sys.
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
+- [jzbor](https://github.com/jzbor) - Lambda Shell.
 - [Carl Kadie](https://github.com/CarlKCarlK) - Check AI-Generated Code Perfectly and Automatically.
 - [Hosein Kalbasi](https://github.com/HKalbasi) - akim.
 - [Igor Kalichevski](https://github.com/night-crawler) - nnf.
