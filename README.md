@@ -132,6 +132,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
 - [autosat](https://github.com/petersn/autosat-rs) [:package:](https://crates.io/crates/autosat):baby_chick: - automatic conversion of functions to CNF for SAT solving.
+- [bootfrost](https://github.com/snigavik/bootfrost) - automated theorem proving program for first-order formulas with extensions.
 - [Caso](https://github.com/advancedresearch/caso) [:package:](https://crates.io/crates/caso) - category Theory Solver for Commutative Diagrams.
 - [cyclegg](https://github.com/nadia-polikarpova/cyclegg) - cyclic theorem prover for equational reasoning using egraph.
 - [good_lp](https://github.com/rust-or/good_lp) :star: - Mixed Integer Linear Programming modeler using external solvers.
@@ -493,8 +494,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [solver](https://crates.io/keywords/solver) - 116 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 83 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 41 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 40 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 42 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 41 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 37 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 15 entries. :100:
@@ -607,6 +608,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
 - [Alexey Kutepov](https://tsoding.org) - Noq.
 - [Ivan Ladelshchikov](https://github.com/tsionyx) - nonogrid.
+- [Aleksandr Larionov](https://github.com/snigavik) - bootfrost.
 - [Andrea Lattuada](https://github.com/utaal) - verus.
 - [lcnr](https://lcnr.de) - cobalt.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper.
