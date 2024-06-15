@@ -483,6 +483,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Posts
 
+- [Visions of the future: formal verification in Rust](https://xav.io/blog/rust-formal-verification) - 2024
 - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html) :diamonds: - 2024
 - [Cracking the Cryptic (with Z3 and Rust)](https://hugopeters.me/posts/21) - 2024
 - [How Open Source Projects are Using Kani to Write Better Software in Rust](https://aws.amazon.com/fr/blogs/opensource/how-open-source-projects-are-using-kani-to-write-better-software-in-rust) - 2023.
@@ -493,8 +494,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 116 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 83 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 117 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 84 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 42 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 41 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 37 entries. :100:
@@ -554,7 +555,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Azeez Daoud](https://azeezda.github.io/portfolio) - ceetle.
 - [DavidD12](https://github.com/DavidD12) - SMT-language, smt_sb-rs.
 - [Ariel Davis](https://azdavis.net) - coc.
-- [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code, RustHornBelt Library & Benchmarks, Rust verification tools (2021), Specifying and Verifying Higher-order Rust Iterators (2023), A hybrid approach to semi-automated Rust verification (2024).
+- [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code, RustHornBelt Library & Benchmarks, Rust verification tools (2021), Specifying and Verifying Higher-order Rust Iterators (2023), A hybrid approach to semi-automated Rust verification (2024), Visions of the future: formal verification in Rust.
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Sylvie Dirkswager](https://github.com/tolziplohu) - Pika.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
