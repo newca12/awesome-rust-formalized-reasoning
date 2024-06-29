@@ -228,6 +228,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Parser
 
 - [CNF Parser](https://github.com/robbepop/cnf-parser) [:package:](https://crates.io/crates/cnf-parser):zzz: - efficient and customizable parser for the .cnf file format.
+- [coq-rs](https://github.com/digama0/coq-rs) - this program can parse Coq .vo files.
 - [DIMACS Parser](https://github.com/robbepop/dimacs-parser) [:package:](https://crates.io/crates/dimacs) - utilities to parse files in DIMACS .cnf or .sat file format.
 - [Exec-SAT](https://github.com/matszpk/exec-sat) [:package:](https://crates.io/crates/exec-sat):baby_chick: - provides routines to parse SAT solver output and to execute SAT solver.
 - [Flussab CNF](https://github.com/jix/flussab) [:package:](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format.
@@ -536,7 +537,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Oliver Bøving](https://github.com/oeb25) - Mist, smtlib, vipers.
 - [Lee ByeongJun](https://github.com/notJoon) - Lambda Calculus Parser.
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
-- [Mario Carneiro](https://github.com/digama0) - FRAT-rs, hz-to-mm0, Metamath hammer, Metamath-knife, Mizar proof checker, mm0-rs, olean-rs.
+- [Mario Carneiro](https://github.com/digama0) - coq-rs, FRAT-rs, hz-to-mm0, Metamath hammer, Metamath-knife, Mizar proof checker, mm0-rs, olean-rs.
 - [Tej Chajed](https://github.com/tchajed) - Temporal Verifier.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [David Chanin](https://github.com/chanind) - Tensor Theorem Prover.
