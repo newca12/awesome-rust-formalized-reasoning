@@ -439,6 +439,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [nonogrid](https://github.com/tsionyx/nonogrid) [:package:](https://crates.io/crates/nonogrid) - lightning fast nonogram solver.
 - [peano](https://github.com/gpoesia/peano) [:lab_coat:](https://arxiv.org/abs/2211.15864) - An environment for learning formal mathematical reasoning from scratch.
 - [Relog](https://github.com/andrew-johnson-4/InPlace) - implementation of several strongly-normalizing string rewriting systems.
+- [roq](https://github.com/wgoodall01/roq) [:package:](https://crates.io/crates/roq)[:package:](https://crates.io/crates/roq_derive) - proc-macro Coq code generation and proof automation.
 - [rummy_to_sat ](https://github.com/neuring/rummy_to_sat) - implementation of a solver for [Rummy](https://en.wikipedia.org/wiki/Rummy).
 - [rust-z3-practice](https://github.com/salmans/rust-z3-practice) :zzz: - solving a number of SAT problems using Z3.
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
@@ -580,6 +581,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mohammed Ghannam](https://github.com/mmghannam) - russcip, scip-sys.
 - [Nathan Graule ](https://github.com/SolarLiner) - rs-logik.
 - [Brandon H. Gomes](https://github.com/bhgomes) - qbar.
+- [William Goodall](https://github.com/wgoodall01) - roq.
 - [Robert Grosse](https://github.com/Storyyeller) - cryptominisat-rs.
 - [Masaki Hara](https://twitter.com/qnighy) - Logic solver, RatSat.
 - [Jannis Harder](https://jix.one) - Cnfpack, Flussab CNF, Minimal models, starlit, Varisat, Varisat notebook.
