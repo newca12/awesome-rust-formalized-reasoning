@@ -409,12 +409,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [~~Chevre~~](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
 - [implies](https://github.com/armaan-rashid/implies) [:package:](https://crates.io/crates/implies) - storing logical formulas as parse trees and performing complex operations on them.
-- [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic) :baby_chick::zzz: - crate for propositional logic.
+- [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic):baby_chick::zzz: - crate for propositional logic.
 - [logic-resolver](https://github.com/gustafla/logic-resolver) :baby_chick::zzz: - toy implementation of resolution for propositional logic.
 - [mini-prop](https://github.com/emilHof/mini-prop) [:package:](https://crates.io/crates/mini-prop) - CLI tool for parsing and processing LaTex formatted propositional statements.
 - [plc](https://github.com/trolleyman/plc) :zzz: - propositional logic calculator.
 - [Plogic](https://github.com/Janko-dev/plogic) :star: - propositional logic evaluator and rule-based pattern matcher.
 - [Prop](https://github.com/advancedresearch/prop) [:package:](https://crates.io/crates/prop):star: - library for theorem proving with Intuitionistic Propositional Logic.
+- [Propositional Logic](https://github.com/PawelJastrzebski/propositional) [:package:](https://crates.io/crates/propositional):mortar_board: - propositional Logic Library .
 - [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs) :zzz: - solver using the propositional tableaux method.
 - [prop_tune](https://github.com/emilHof/prop_tune) [:package:](https://crates.io/crates/prop_tune)[:package:](https://crates.io/crates/prop_tune_core)[:package:](https://crates.io/crates/prop_tune_macro) - library for working with Logical Propositions.
 - [raa_tt](https://github.com/jsinger67/raa_tt) [:package:](https://crates.io/crates/raa_tt) - prover for sentences of propositional calculus.
@@ -496,10 +497,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 117 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 84 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 119 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 85 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 44 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 42 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 41 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 37 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 15 entries. :100:
@@ -598,6 +599,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Christoph Jabs](https://github.com/chrjabs) - Scuttle, maxpre-rs, rustsat.
 - [Jan](https://github.com/Janko-dev) - Plogic.
+- [Paweł Jastrzebski](https://github.com/PawelJastrzebski) - Propositional Logic.
 - [Ranjit Jhala](https://github.com/ranjitjhala) - flux-demo.
 - [Andrew Johnson](https://github.com/andrew-johnson-4) - LSTS, Pun Calculus, Relog.
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
