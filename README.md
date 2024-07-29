@@ -233,7 +233,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Exec-SAT](https://github.com/matszpk/exec-sat) [:package:](https://crates.io/crates/exec-sat):baby_chick: - provides routines to parse SAT solver output and to execute SAT solver.
 - [Flussab CNF](https://github.com/jix/flussab) [:package:](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format.
 - [FRAT-rs](https://github.com/digama0/frat) [:lab_coat:](https://arxiv.org/pdf/2109.09665.pdf) - toolchain for processing and transforming files in the FRAT format.
-- [lalrpop-lambda](https://github.com/nixpulvis/lalrpop-lambda) [:package:](https://crates.io/crates/lalrpop-lambda):star::zzz: - λ-calculus Parser (using LALRPOP).
 - [Lambda Calculus Parser](https://github.com/notJoon/lambda) - λ-calculus parser.
 - [Lambda Term Parsing](https://github.com/01mf02/lambda-parse) - explores different parser designs for a simple lambda term grammar.
 - [logic-form](https://github.com/gipsyh/logic-form) [:package:](https://crates.io/crates/logic-form):baby_chick: - library for representing Cube, Clause, CNF and DNF.
@@ -401,6 +400,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Lambda Shell](https://github.com/jzbor/lash) [:package:](https://crates.io/crates/lash) - simple REPL shell for untyped lambda expressions.
 - [Lambdascript](https://github.com/chuckcscccl/lambdascript) - educational tool illustrating beta reduction of untyped lamba terms.
 - [Lamcal](https://github.com/haraldmaida/lamcal) [:package:](https://crates.io/crates/lamcal)[:package:](https://crates.io/crates/lamcal-repl):zzz: - lambda calculus parser and evaluator and a separate command line REPL.
+- [lalrpop-lambda](https://github.com/nixpulvis/lalrpop-lambda) [:package:](https://crates.io/crates/lalrpop-lambda):star: - λ-calculus grammar/interpretor written using LALRPOP and `λ!`.
 - [Pun Calculus](https://github.com/andrew-johnson-4/PunCalculus) [:package:](https://crates.io/crates/punc) - variant of Typed Lambda Calculus with generalized variable punning (ad-hoc polymorphism).
 - [RLCI](https://github.com/orsinium-labs/rlci) :star: - Overly-documented Lambda Calculus Interpreter.
 - [type-theory](https://github.com/segeljakt/type-theory) :star: - typed λ-calculus.
