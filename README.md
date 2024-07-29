@@ -252,6 +252,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [boolector-sys](https://github.com/fatemender/boolector-sys) [:package:](https://crates.io/crates/boolector-sys) - low-level bindings for the [Boolector](https://boolector.github.io) SMT solver.
 - [cadical-rs](https://github.com/mmaroti/cadical-rs) [:package:](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
 - [cat_solver](https://github.com/UncombedCoconut/cat_solver) [:package:](https://crates.io/crates/cat_solver) - bindings for the Kissat SAT solver.
+- [clingo-rs](https://github.com/potassco/clingo-rs) [:package:](https://crates.io/crates/clingo)[:package:](https://crates.io/crates/clingo-derive)[:package:](https://crates.io/crates/clingo-sys) :star: - idiomatic bindings to the [clingo](https://github.com/potassco/clingo) library.
 - [cplex-rs](https://github.com/mbiggio/cplex-rs) [:package:](https://crates.io/crates/cplex-rs)[:package:](https://crates.io/crates/cplex-rs-sys) - safe rust bindings for [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer).
 - [cryptominisat-rs](https://github.com/storyyeller/cryptominisat-rs) [:package:](https://crates.io/crates/cryptominisat) :zzz: - bindings for [CryptoMiniSat](https://github.com/msoos/cryptominisat).
 - [falcon-z3](https://github.com/falconre/falcon-z3) [:package:](https://crates.io/crates/falcon-z3) - bindings for Z3.
@@ -653,6 +654,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Chandrakana Nandi](https://github.com/chandrakananandi) - Ruler.
 - [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
 - [Sven Nilsen](https://github.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Caso, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
+- [Sven Thiele](https://github.com/sthiele) - clingo-rs.
 - [Yuichi Nishiwaki](https://github.com/nyuichi) - shari.
 - [Stefan O'Rear](https://github.com/sorear) - smetamath.
 - [Robert Obkircher](https://github.com/RobertObkircher) - sat-solver.
