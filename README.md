@@ -121,9 +121,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [hakim](https://github.com/babaeee/hakim) - hacky interactive theorem prover.
 - [~~cobalt~~](https://github.com/lcnr/cobalt) :recycle:[:ghost:](https://github.com/isgasho/cobalt) - a wip minimal proof assistant.
 - [Esther](https://github.com/aodhneine/esther) :zzz: - simple automated proof assistant.
-- [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) :diamonds::star:[:lab_coat:](https://arxiv.org/abs/1812.10586)[:lab_coat:](https://arxiv.org/abs/1902.03831):fire: - implementation of homotopy.io proof assistant.
+- [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) [:lab_coat:](https://arxiv.org/abs/1812.10586)[:lab_coat:](https://arxiv.org/abs/1902.03831):diamonds::star: - implementation of homotopy.io proof assistant.
 - [LSTS](https://github.com/andrew-johnson-4/LSTS) [:package:](https://crates.io/crates/lsts):star: - proof assistant that is also a programming language.
 - [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZVE64QKPf6y_TIUwj5nKQ7):star: - Not Coq. Simple expression transformer that is not Coq.
+- [peano](https://github.com/gpoesia/peano) [:lab_coat:](https://arxiv.org/abs/2407.00695)[:lab_coat:](https://arxiv.org/abs/2211.15864):diamonds::star: - An environment for learning formal mathematical reasoning from scratch.
 - [Poi](https://github.com/advancedresearch/poi) [:package:](https://crates.io/crates/poi):star: - pragmatic point-free theorem prover assistant.
 - [Proost](https://gitlab.crans.org/loutr/proost) - simple proof assistant.
 - [qbar](https://github.com/qdeduction/qbar) [:package:](https://crates.io/crates/qbar):zzz: - experimental automated theorem verifier/prover and proof assistant.
@@ -439,7 +440,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Minimal models](https://github.com/jix/minimal_models_example) :zzz: - uses a SAT solver to find minimal partial assignments that are model of a CNF formula.
 - [n-queens-sat](https://github.com/erohkohl/n-queens-sat) :zzz: - modelling n-queens problem as conjunctive normal form and solving it with DPLL algorithm.
 - [nonogrid](https://github.com/tsionyx/nonogrid) [:package:](https://crates.io/crates/nonogrid) - lightning fast nonogram solver.
-- [peano](https://github.com/gpoesia/peano) [:lab_coat:](https://arxiv.org/abs/2211.15864) - An environment for learning formal mathematical reasoning from scratch.
 - [Relog](https://github.com/andrew-johnson-4/InPlace) - implementation of several strongly-normalizing string rewriting systems.
 - [roq](https://github.com/wgoodall01/roq) [:package:](https://crates.io/crates/roq)[:package:](https://crates.io/crates/roq_derive) - proc-macro Coq code generation and proof automation.
 - [rummy_to_sat ](https://github.com/neuring/rummy_to_sat) - implementation of a solver for [Rummy](https://en.wikipedia.org/wiki/Rummy).
@@ -498,7 +498,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 119 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 122 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 85 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 44 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 42 entries. :100:
