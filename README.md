@@ -78,8 +78,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 #### SAT Solver
 
+- [backdoor-solver](https://github.com/Lipen/backdoor-solver) - backdoor-based SAT solver.
 - [BatSat](https://github.com/c-cube/batsat) [:package:](https://crates.io/crates/batsat):star: - solver forked from ratsat, a reimplementation of MiniSat.
-- [Colombini-SAT](https://github.com/Lorenzinco23/colombiniSAT) - simple 3-SAT solver.
+- [Colombini-SAT](https://github.com/Lorenzinco/colombiniSAT) - simple 3-SAT solver.
 - [CreuSAT](https://github.com/sarsko/CreuSAT) :star: - formally verified SAT solver verified with Creusot.
 - [Debug-SAT](https://github.com/advancedresearch/debug_sat) [:package:](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
 - [dpll-sat](https://github.com/snsinfu/dpll-sat) :zzz: - naïve SAT solver implementing the classic DPLL algorithm.
@@ -215,7 +216,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mizar proof checker](https://github.com/digama0/mizar-rs) :star::construction: - Alternative [Mizar](http://mizar.org) proof checker.
 - [pocket_prover-set](https://github.com/advancedresearch/pocket_prover-set) [:package:](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check):diamonds:[:lab_coat:](https://github.com/krobelus/rate-experiments/blob/master/thesis.pdf) - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
-- [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc) - checker for the LFSC proof language.
+- [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc):zzz: - checker for the LFSC proof language.
 - [second_opinion](https://github.com/ammkrn/second_opinion) - verifier for Metamath Zero proof files.
 - [smetamath](https://github.com/sorear/smetamath-rs) [:package:](https://crates.io/crates/smetamath):star::zzz: - parallel and incremental verifier for Metamath databases.
 - [Supervisionary](https://github.com/DominicPM/supervisionary) [:lab_coat:](https://dominicpm.github.io/publications/mulligan-supervisionary-2022.pdf) - experimental proof-checking system for Gordon's higher-order logic.
@@ -548,10 +549,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
 - [Jimmy Chen Chen](https://github.com/jchenche) - theorem-prover.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
-- [Konstantin Chukharev](https://github.com/Lipen) - SAT Nexus.
+- [Konstantin Chukharev](https://github.com/Lipen) - SAT Nexus, backdoor-solver.
 - [Guillaume Claret](https://github.com/clarus) - coq-of-rust, Formal Land.
 - [Cobalt](https://cobalt.rocks/) - SAT solver ANalyser.
-- [Lorenzo Colombini](https://github.com/Lorenzinco23) - Colombini-SAT.
+- [Lorenzo Colombini](https://github.com/Lorenzinco) - Colombini-SAT.
 - [convexbrain](https://github.com/convexbrain) - Totsu.
 - [David Cox](https://github.com/david-r-cox) - mps.
 - [Simon Cruanes](https://simon.cedeela.fr) - BatSat.
