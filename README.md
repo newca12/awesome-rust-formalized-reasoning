@@ -73,6 +73,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
 - [lickety](https://github.com/MichaelRawson/lickety) - prototype system for linear resolution with splitting.
 - [meancop](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/meancop):recycle: - became CoP.
+- [res-rs](https://github.com/philzook58/res-rs) :construction: - first bits for first-order logic prover.
 - [Serkr](https://github.com/mAarnos/Serkr) :star:[:ghost:](https://github.com/newca12/Serkr) - automated theorem prover for first order logic with equality.
 - [theorem-prover-rs](https://github.com/boitsov14/theorem-prover-rs) - rewrite of [theorem-prover-kt](https://github.com/boitsov14/theorem-prover-kt) a sequent-style automated theorem prover.
 
@@ -502,7 +503,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [solver](https://crates.io/keywords/solver) - 122 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 86 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 44 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 45 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 43 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 37 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
@@ -734,3 +735,4 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
 - [Felix Zhu](https://github.com/felixzhuologist) - lambdacube.
 - [Li Zhuohua](https://zhuohua.me) - MirChecker.
+- [Philip Zucker](https://github.com/philzook58) - res-rs.
