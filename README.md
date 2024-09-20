@@ -236,6 +236,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Exec-SAT](https://github.com/matszpk/exec-sat) [:package:](https://crates.io/crates/exec-sat):baby_chick: - provides routines to parse SAT solver output and to execute SAT solver.
 - [Flussab CNF](https://github.com/jix/flussab) [:package:](https://crates.io/crates/flussab-cnf) - parsing and writing of the DIMACS CNF file format.
 - [FRAT-rs](https://github.com/digama0/frat) [:lab_coat:](https://arxiv.org/pdf/2109.09665.pdf) - toolchain for processing and transforming files in the FRAT format.
+- [isabelle export tool](https://github.com/digama0/isabelle-rs) - parser for isabelle database files.
 - [Lambda Calculus Parser](https://github.com/notJoon/lambda) - λ-calculus parser.
 - [Lambda Term Parsing](https://github.com/01mf02/lambda-parse) - explores different parser designs for a simple lambda term grammar.
 - [logic-form](https://github.com/gipsyh/logic-form) [:package:](https://crates.io/crates/logic-form):baby_chick: - library for representing Cube, Clause, CNF and DNF.
@@ -543,7 +544,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Oliver Bøving](https://github.com/oeb25) - Mist, smtlib, vipers.
 - [Lee ByeongJun](https://github.com/notJoon) - Lambda Calculus Parser.
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
-- [Mario Carneiro](https://github.com/digama0) - coq-rs, FRAT-rs, hz-to-mm0, Metamath hammer, Metamath-knife, Mizar proof checker, mm0-rs, olean-rs.
+- [Mario Carneiro](https://github.com/digama0) - coq-rs, FRAT-rs, hz-to-mm0, isabelle export tool, Metamath hammer, Metamath-knife, Mizar proof checker, mm0-rs, olean-rs.
 - [Tej Chajed](https://github.com/tchajed) - Temporal Verifier.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [David Chanin](https://github.com/chanind) - Tensor Theorem Prover.
