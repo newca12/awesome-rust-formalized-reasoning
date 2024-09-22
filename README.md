@@ -220,7 +220,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc):zzz: - checker for the LFSC proof language.
 - [second_opinion](https://github.com/ammkrn/second_opinion) - verifier for Metamath Zero proof files.
 - [smetamath](https://github.com/sorear/smetamath-rs) [:package:](https://crates.io/crates/smetamath):star::zzz: - parallel and incremental verifier for Metamath databases.
-- [Supervisionary](https://github.com/DominicPM/supervisionary) [:lab_coat:](https://dominicpm.github.io/publications/mulligan-supervisionary-2022.pdf) - experimental proof-checking system for Gordon's higher-order logic.
+- [Supervisionary](https://github.com/DominicPM/supervisionary) [:tv:](https://www.youtube.com/watch?v=4iOTl-XowAo)[:lab_coat:](https://dominicpm.github.io/publications/mulligan-supervisionary-2022.pdf) - experimental proof-checking system for Gordon's higher-order logic.
 - [t3p](https://github.com/skbaek/tesc/tree/master/t3p-rs) - optimized TESC (Theory-Extensible Sequent Calculus) verifier.
 - [Temporal Verifier](https://github.com/vmware-research/temporal-verifier) :star: - framework for temporal verification based on first-order linear-time temporal logic.
 - [verifiable-controllers](https://github.com/vmware-research/verifiable-controllers) :star: - framework to build practical, formally verified, cluster management controllers.
