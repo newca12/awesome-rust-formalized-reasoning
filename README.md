@@ -137,7 +137,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [autosat](https://github.com/petersn/autosat-rs) [:package:](https://crates.io/crates/autosat):baby_chick: - automatic conversion of functions to CNF for SAT solving.
 - [bootfrost](https://github.com/snigavik/bootfrost) - automated theorem proving program for first-order formulas with extensions.
 - [Caso](https://github.com/advancedresearch/caso) [:package:](https://crates.io/crates/caso) - category Theory Solver for Commutative Diagrams.
-- [cyclegg](https://github.com/nadia-polikarpova/cyclegg) - cyclic theorem prover for equational reasoning using egraph.
+- [cyclegg](https://github.com/nadia-polikarpova/cyclegg):star: - cyclic theorem prover for equational reasoning using egraph.
 - [good_lp](https://github.com/rust-or/good_lp) :star: - Mixed Integer Linear Programming modeler using external solvers.
 - [gpp-solver](https://github.com/Ereski/gpp-solver) [:package:](https://crates.io/crates/gpp-solver) - small hybrid push-pull solver/planner that has the best of both worlds.
 - [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
@@ -187,6 +187,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [MirChecker](https://github.com/lizhuohua/rust-mir-checker) :star:[:lab_coat:](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/CCS2021.pdf) - simple static analysis tool.
 - [p4-analyzer](https://github.com/AzureMarker/p4-analyzer) - static analysis tool which checks P4 code for bugs.
 - [Prusti](https://github.com/viperproject/prusti-dev) [:package:](https://crates.io/crates/prusti-contracts)[:package:](https://crates.io/crates/prusti-contracts-proc-macros)[:package:](https://crates.io/crates/prusti-specs)[:package:](https://crates.io/crates/prusti-std):star::fire: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
+- [RefinedRust](https://gitlab.mpi-sws.org/lgaeher/refinedrust-dev) [:lab_coat:](https://dl.acm.org/doi/10.1145/3656422) - type system for high-assurance verification of Rust Programs.
 - [Rudra](https://github.com/sslab-gatech/Rudra) :star:[:lab_coat:](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf) - static analyzer to detect common undefined behaviors in Rust programs.
 - [Rust Software Verification Benchmarks](https://github.com/alastairreid/rust-benchmarks) :zzz: - collection of Rust verification benchmarks with their verifier crates.
 - [Rust static analysis/verification reading and resources](https://github.com/facebookexperimental/MIRAI/blob/main/documentation/FurtherReading.md) :information_source: - for further reading.
@@ -209,7 +210,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Carcara](https://github.com/ufmg-smite/carcara) :star: - proof checker and elaborator for SMT proofs in the [Alethe format](https://verit.gitlabpages.uliege.be/alethe/specification.pdf).
 - [ceetle](https://github.com/AzeezDa/ceetle) [:package:](https://crates.io/crates/ceetle)[:package:](https://crates.io/crates/ceetle_macros) - library for defining models in Computational Tree Logic and verifying their semantics.
 - [Chalk](https://github.com/rust-lang/chalk) [:package:](https://crates.io/crates/chalk-solve)[:package:](https://crates.io/crates/chalk-derive)[:package:](https://crates.io/crates/chalk-engine)[:package:](https://crates.io/crates/chalk-ir)[:package:](https://crates.io/crates/chalk-macros)[:package:](https://crates.io/crates/chalk-recursive)[:package:](https://crates.io/crates/chalk-rust-ir):star: - implements the Rust trait system, based on Prolog-ish logic rules.
-- [Charon](https://github.com/sonmarcho/charon) - interface with the rustc compiler for the purpose of program verification.
+- [Charon](https://github.com/sonmarcho/charon) :star::fire: - interface with the rustc compiler for the purpose of program verification.
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli):star::diamonds:[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
 - [Metamath-knife](https://github.com/metamath/metamath-knife) [:package:](https://crates.io/crates/metamath-rs):star:  - verify Metamath proofs.
@@ -274,6 +275,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [pblib-rs](https://github.com/crillab/pblib-rs) [:package:](https://crates.io/crates/pblib-rs) - safe bindings for [pblib](https://github.com/master-keying/pblib).
 - [rplex](https://github.com/emallson/rplex) :zzz: - bindings for [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer).
 - [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star: - generic library to interact with SMT-LIB 2 compliant solvers.
+- [rssat](https://github.com/francisol/rssat) [:package:](https://crates.io/crates/rssat) - provides Rust bindings for multiple popular SAT solvers.
 - [russcip](https://github.com/scipopt/russcip) [:package:](https://crates.io/crates/russcip):star: - safe Rust interface for [SCIP](https://www.scipopt.org).
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):star::skull: - generic high-level API for interacting with SMT solvers.
 - [rust_z3prover](https://github.com/hrkzmnm/rust_z3prover) :zzz: - use Z3 SMT solver from rust.
@@ -502,11 +504,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 122 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 123 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 86 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 45 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 46 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 43 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 37 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 38 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 15 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 13 entries. :100:
@@ -581,6 +583,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Paolo Flores](https://www.paoloose.site) - logic-parser.
 - [Hugo Frezat](https://github.com/hrkz) - logic-lang.
 - [Robin Freyler](https://robbepop.github.io) - CNF Parser, DIMACS Parser, Stevia.
+- [Lennard Gäher](https://gitlab.mpi-sws.org/lgaeher) - RefinedRust.
 - [Galois, Inc.](http://galois.com) - crux-mir.
 - [Alexey Gerasimov](https://github.com/fan-tom) - Liquid Rust.
 - [Jad Ghalayini](https://gitlab.com/tekne) - isotope-prover-experiments, lean-sys.
@@ -734,6 +737,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Eric Zhang](https://www.ekzhang.com) - µKanren-rs.
 - [Hanliang Zhang](https://github.com/KomaEc) - sat.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
+- [Xie Zhongtao](https://github.com/francisol) - rssat.
 - [Felix Zhu](https://github.com/felixzhuologist) - lambdacube.
 - [Li Zhuohua](https://zhuohua.me) - MirChecker.
 - [Philip Zucker](https://github.com/philzook58) - res-rs.
