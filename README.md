@@ -117,6 +117,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Solver MPS compliant
 
 - [ellp](https://github.com/kehlert/ellp) [:package:](https://crates.io/crates/ellp):construction: - linear programming library that provides primal and dual simplex solvers.
+- [microlp](https://github.com/Specy/microlp) [:package:](https://crates.io/crates/microlp) - linear programming solver (fork of [minilp](https://github.com/ztlpn/minilp)).
 - [minilp](https://github.com/ztlpn/minilp) [:package:](https://crates.io/crates/minilp):star::skull: - linear programming solver.
 
 #### Proof assistant
@@ -375,6 +376,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Pika](https://github.com/tolziplohu/pika) :star::construction: - small, performance-oriented, dependently typed ML with algebraic effects and unboxed types..
 - [Pikelet](https://github.com/pikelet-lang/pikelet) [:package:](https://crates.io/crates/pikelet):star::zzz: - small, functional, dependently typed programming language.
 - [proto-vulcan](https://github.com/terohuttunen/proto-vulcan) [:package:](https://crates.io/crates/proto-vulcan)[:package:](https://crates.io/crates/proto-vulcan-macros) - miniKanren-family relational logic programming language.
+- [rooc](https://github.com/Specy/rooc) :mortar_board::star: - a language for compiling formal mathematical models into static models.
 - [Rust pi-forall](https://github.com/sourcedennis/rust-pi-forall) [:lab_coat:](https://github.com/sweirich/pi-forall/blob/2022/doc/oplss.pdf) - partial re-implementation of pi-forall.
 - [Scryer Prolog](https://github.com/mthom/scryer-prolog) [:package:](https://crates.io/crates/scryer-prolog):star: - modern Prolog implementation.
 - [SMT-language](https://github.com/DavidD12/smt-lang) [:package:](https://crates.io/crates/smt-lang) - Sat Modulo Theory Language.
@@ -506,12 +508,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 123 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 86 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 87 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 48 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 43 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 38 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 15 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 16 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 13 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
@@ -706,6 +708,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SnO₂WMaN](https://github.com/SnO2WMaN) - rust-proplogic-toylang.
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
+- [Specy](https://github.com/Specy) - microlp, rooc.
 - [Dennis Sprokholt](https://dennis.life) - aws-lambda-z3, Rust pi-forall.
 - [Will Sturgeon](https://github.com/wrsturgeon) - Junglefowl.
 - [Yuheng Su](https://github.com/gipsyh) - logic-form.
