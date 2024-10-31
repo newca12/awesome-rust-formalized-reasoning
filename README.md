@@ -174,7 +174,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [coq-of-rust](https://github.com/formal-land/coq-of-rust) :star: - formal verification for Rust.
 - [contracts](https://gitlab.com/karroffel/contracts) [:package:](https://crates.io/crates/contracts):star: - implements "[Design By Contract](https://en.wikipedia.org/wiki/Design_by_contract)" via procedural macros.
 - [Creusot](https://github.com/xldenis/creusot) :star::fire: - tool for deductive verification of Rust code.
-- [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) :star: - static simulator for Rust programs.
+- [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) :star:[:lab_coat:](https://arxiv.org/abs/2410.18280) - static simulator for Rust programs.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) :star: - finds vulnerable patterns in binary executables.
 - [electrolysis](https://github.com/Kha/electrolysis) :star::zzz: - tool for formally verifying Rust programs by transpiling them into the Lean 2 theorem prover.
 - [Flux](https://github.com/flux-rs/flux) [:tv:](https://www.youtube.com/watch?v=k-izcFCHN2o):star:[:lab_coat:](https://arxiv.org/pdf/2207.04034.pdf):fire: - refinement type checker for Rust.
