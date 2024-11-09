@@ -169,8 +169,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Verification
 
-#### Static Analysis & Rust verification tools
+#### Static Analysis & Rust verification tools/framework
 
+- [Charon](https://github.com/sonmarcho/charon) :star:[:lab_coat:](https://arxiv.org/abs/2410.18042):fire: - interface with the rustc compiler for the purpose of program verification.
 - [coq-of-rust](https://github.com/formal-land/coq-of-rust) :star: - formal verification for Rust.
 - [contracts](https://gitlab.com/karroffel/contracts) [:package:](https://crates.io/crates/contracts):star: - implements "[Design By Contract](https://en.wikipedia.org/wiki/Design_by_contract)" via procedural macros.
 - [Creusot](https://github.com/xldenis/creusot) :star::fire: - tool for deductive verification of Rust code.
@@ -212,7 +213,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Carcara](https://github.com/ufmg-smite/carcara) :star: - proof checker and elaborator for SMT proofs in the [Alethe format](https://verit.gitlabpages.uliege.be/alethe/specification.pdf).
 - [ceetle](https://github.com/AzeezDa/ceetle) [:package:](https://crates.io/crates/ceetle)[:package:](https://crates.io/crates/ceetle_macros) - library for defining models in Computational Tree Logic and verifying their semantics.
 - [Chalk](https://github.com/rust-lang/chalk) [:package:](https://crates.io/crates/chalk-solve)[:package:](https://crates.io/crates/chalk-derive)[:package:](https://crates.io/crates/chalk-engine)[:package:](https://crates.io/crates/chalk-ir)[:package:](https://crates.io/crates/chalk-macros)[:package:](https://crates.io/crates/chalk-recursive)[:package:](https://crates.io/crates/chalk-rust-ir):star: - implements the Rust trait system, based on Prolog-ish logic rules.
-- [Charon](https://github.com/sonmarcho/charon) :star::fire: - interface with the rustc compiler for the purpose of program verification.
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli):star::diamonds:[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
 - [Metamath-knife](https://github.com/metamath/metamath-knife) [:package:](https://crates.io/crates/metamath-rs):star:  - verify Metamath proofs.
@@ -507,13 +507,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 123 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 124 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 87 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 48 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 43 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 38 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 16 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 17 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 13 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
