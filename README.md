@@ -56,8 +56,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - Exhumated :ghost:
 - Inactive :zzz:
 - List of resources :information_source:
+- Paper with code :factory:
 - Popular :star:
-- Research paper implementation :lab_coat:
+- Research paper :lab_coat:
 - Toy project :baby_chick:
 - Video :tv:
 - WIP :construction:
@@ -106,6 +107,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [scrapsat](https://github.com/togatoga/scrapsat) :zzz: - CDCDL SAT Solver.
 - [screwsat](https://github.com/togatoga/screwsat) [:package:](https://crates.io/crates/screwsat):star: - simple CDCL SAT Solver.
 - [Scuttle](https://github.com/chrjabs/scuttle) [:package:](https://crates.io/crates/scuttle)[:package:](https://crates.io/crates/scuttle-proc) - multi-objective MaxSAT solver based on the rustsat library and the CaDiCaL SAT solver.
+- [simple-sat](https://github.com/sidorov-ks/simple-sat) - one of the SAT solvers of all time.
 - [~~slp~~](https://github.com/solhop/slp) [:package:](https://crates.io/crates/slp):recycle: - became SolHOP.
 - [SolHOP](https://github.com/solhop/solhop) [:package:](https://crates.io/crates/solhop):skull: - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
 - [Splr](https://github.com/shnarazk/splr) [:package:](https://crates.io/crates/splr):diamonds::star: - modern CDCL SAT solver.
@@ -467,6 +469,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Research Paper & Thesis
 
+- [How to discover short, shorter, and the shortest proofs of unsatisfiability](https://arxiv.org/pdf/2411.07955)[:factory:](https://zenodo.org/records/14051922) - 2024
 - [A hybrid approach to semi-automated Rust verification](https://arxiv.org/pdf/2403.15122) - 2024.
 - [Verification of a Rust Implementation of Knuth's Dancing Links using ACL2](https://arxiv.org/abs/2311.08862v1) - 2023.
 - [Specifying and Verifying Higher-order Rust Iterators](https://hal.science/hal-03827702v2/document) - 2023.
@@ -703,6 +706,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [shinkwhek](https://github.com/shinkwhek) - SAT solver.
 - [skbaek](https://github.com/skbaek) - t3p.
 - [Narazaki Shuji](https://shnarazk.github.io) - SAT-bench, Splr, Splr notebook, sudoku_sat.
+- [Konstantin Sidorov](https://github.com/sidorov-ks) - How to discover short, shorter, and the shortest proofs of unsatisfiability, simple-stat.
 - [Jörg Singer](https://github.com/jsinger67) - raa_tt.
 - [J David Smith](https://github.com/emallson) - rplex.
 - [SnO₂WMaN](https://github.com/SnO2WMaN) - rust-proplogic-toylang.
