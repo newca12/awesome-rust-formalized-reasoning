@@ -101,6 +101,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SAT Solver(2)](https://github.com/NVictor2004/SATSolver) :baby_chick: - simple SAT solver.
 - [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) [:lab_coat:](https://hal.inria.fr/inria-00202831/en) - reimplementation of the SAT-solver described in 'SAT-MICRO: petit mais costaud!'.
 - [sat-solver](https://github.com/RobertObkircher/sat-solver) - simple CDCL SAT solver based on the lecture 185.A93 Formal Methods in CS at TU Wien.
+- [SAT-Solver](https://github.com/FWuermse/SAT-Solver) - DPLL and CDCL Solver.
 - [SATCoP](https://github.com/MichaelRawson/satcop) :zzz: - theorem prover for first-order logic based on connection tableau and SAT solving.
 - [Satire](https://github.com/Qwaz/satire) [:package:](https://crates.io/crates/satire):zzz: - educational SAT solver.
 - [satyrs](https://github.com/jayelm/satyrs) :mortar_board::zzz: - DPLL SAT solver.
@@ -444,6 +445,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Croissant](https://github.com/super7ramp/croissant) - crossword solver backed by various SAT solvers.
 - [formal-systems-learning-rs](https://github.com/joshrule/formal-systems-learning-rs) :zzz: - simulations to learn formal systems as typed first-order term rewriting systems.
+- [Hashi - Bridges Puzzle](https://github.com/NoelHuibers/Hashiwokakero) - Hashi Puzzle (aka Bridges) solver.
 - [inf402](https://github.com/edgarogh/inf402) - SAT-solver-based takuzu solver.
 - [Junglefowl](https://github.com/wrsturgeon/junglefowl) [:package:](https://crates.io/crates/junglefowl)[:package:](https://crates.io/crates/junglefowl-macros) - runs Peano arithmetic on Rust types, verified at compile time..
 - [list-routine-learning-rs](https://github.com/joshrule/list-routine-learning-rs) :zzz: - to learn typed first-order term rewriting systems that perform list routines.
@@ -611,6 +613,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Emil Hofstetter](https://emilhofstetter.dev) - mini-prop, prop_tune.
 - [hrkzmnm](https://github.com/hrkzmnm) - rust_z3prover.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
+- [Noel Huibers](https://github.com/NoelHuibers) - Hashi - Bridges Puzzle.
 - [Christoph Jabs](https://github.com/chrjabs) - Scuttle, maxpre-rs, rustsat.
 - [Jan](https://github.com/Janko-dev) - Plogic.
 - [Paweł Jastrzebski](https://github.com/PawelJastrzebski) - Propositional Logic.
@@ -738,6 +741,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Max Willsey](https://www.mwillsey.com) - egg, egglog.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Jan Winkelmann](https://github.com/keks) - smtlib-syntax.
+- [Florian Würmseer](https://github.com/FWuermse) - SAT-Solver.
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
 - [Ren Yanjie](https://github.com/Rose1917) - bool2dimacs, RustLogic.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
