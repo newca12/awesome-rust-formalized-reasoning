@@ -213,7 +213,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [ArcsJs - Provable](https://github.com/project-oak/arcsjs-provable) - set of ArcsJs focused tools for doing proofs on ArcsJs models.
 - [Bounded Registers](https://github.com/auxoncorp/bounded-registers) [:package:](https://crates.io/crates/bounded-registers):star: - high-assurance memory-mapped register interaction library.
-- [Carcara](https://github.com/ufmg-smite/carcara) :star: - proof checker and elaborator for SMT proofs in the [Alethe format](https://verit.gitlabpages.uliege.be/alethe/specification.pdf).
+- [Carcara](https://github.com/ufmg-smite/carcara) :star:[:lab_coat:](https://team.inria.fr/veridis/files/2023/05/carcara.pdf) - proof checker and elaborator for SMT proofs in the [Alethe format](https://verit.gitlabpages.uliege.be/alethe/specification.pdf).
 - [ceetle](https://github.com/AzeezDa/ceetle) [:package:](https://crates.io/crates/ceetle)[:package:](https://crates.io/crates/ceetle_macros) - library for defining models in Computational Tree Logic and verifying their semantics.
 - [Chalk](https://github.com/rust-lang/chalk) [:package:](https://crates.io/crates/chalk-solve)[:package:](https://crates.io/crates/chalk-derive)[:package:](https://crates.io/crates/chalk-engine)[:package:](https://crates.io/crates/chalk-ir)[:package:](https://crates.io/crates/chalk-macros)[:package:](https://crates.io/crates/chalk-recursive)[:package:](https://crates.io/crates/chalk-rust-ir):star: - implements the Rust trait system, based on Prolog-ish logic rules.
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
