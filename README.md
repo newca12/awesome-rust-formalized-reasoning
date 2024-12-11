@@ -132,7 +132,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) [:lab_coat:](https://arxiv.org/abs/1812.10586)[:lab_coat:](https://arxiv.org/abs/1902.03831):diamonds::star: - implementation of homotopy.io proof assistant.
 - [LSTS](https://github.com/andrew-johnson-4/LSTS) [:package:](https://crates.io/crates/lsts):star: - proof assistant that is also a programming language.
 - [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZVE64QKPf6y_TIUwj5nKQ7):star: - Not Coq. Simple expression transformer that is not Coq.
-- [peano](https://github.com/gpoesia/peano) [:lab_coat:](https://arxiv.org/abs/2407.00695)[:lab_coat:](https://arxiv.org/abs/2211.15864):diamonds::star: - An environment for learning formal mathematical reasoning from scratch.
+- [minimo](https://github.com/gpoesia/minimo) [:lab_coat:](https://arxiv.org/abs/2407.00695)[:lab_coat:](https://arxiv.org/abs/2211.15864):diamonds::star: - An environment for learning formal mathematical reasoning from scratch.
 - [Poi](https://github.com/advancedresearch/poi) [:package:](https://crates.io/crates/poi):star: - pragmatic point-free theorem prover assistant.
 - [Proost](https://gitlab.crans.org/loutr/proost) - simple proof assistant.
 - [qbar](https://github.com/qdeduction/qbar) [:package:](https://crates.io/crates/qbar):zzz: - experimental automated theorem verifier/prover and proof assistant.
@@ -686,7 +686,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Hugo Peters](https://github.com/HugoPeters1024) - Cracking the Cryptic (with Z3 and Rust).
 - [Arvid E. Picciani](https://github.com/aep) - zz.
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
-- [Gabriel Poesia](https://github.com/gpoesia) - peano.
+- [Gabriel Poesia](https://github.com/gpoesia) - minimo.
 - [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova) - cyclegg.
 - [Christian Poveda](https://github.com/pvdrz) - Chevre.
 - [Bobby Powers](https://github.com/bpowers) - Logically Qualified Data Types.
