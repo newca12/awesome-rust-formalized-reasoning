@@ -88,6 +88,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [dpll-sat](https://github.com/snsinfu/dpll-sat) :zzz: - naïve SAT solver implementing the classic DPLL algorithm.
 - [DRSAT](https://github.com/danielschemmel/drsat) - Daniel's Rusty SAT solver.
 - [lutrix](https://github.com/arata-nvm/lutrix) :zzz: - SAT/SMT Solver.
+- [m2cSMT](https://gitlab.com/pierre.carbonnelle/m2csmt) [:package:](https://crates.io/crates/m2csmt) - solver of non-linear (in)equations encoded in a subset of the SMT-Lib format.
 - [microsat](https://github.com/RobScheidegger/microsat) [:package:](https://crates.io/crates/microsat) - tiny DPLL SAT-solver.
 - [minisat-rust](https://github.com/mishun/minisat-rust) :star::zzz: - experimental minisat SAT solver.
 - [msat](https://github.com/solhop/msat) [:package:](https://crates.io/crates/msat):skull: - MaxSAT Solver.
@@ -131,8 +132,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Esther](https://github.com/aodhneine/esther) :zzz: - simple automated proof assistant.
 - [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) [:lab_coat:](https://arxiv.org/abs/1812.10586)[:lab_coat:](https://arxiv.org/abs/1902.03831):diamonds::star: - implementation of homotopy.io proof assistant.
 - [LSTS](https://github.com/andrew-johnson-4/LSTS) [:package:](https://crates.io/crates/lsts):star: - proof assistant that is also a programming language.
-- [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZVE64QKPf6y_TIUwj5nKQ7):star: - Not Coq. Simple expression transformer that is not Coq.
 - [minimo](https://github.com/gpoesia/minimo) [:lab_coat:](https://arxiv.org/abs/2407.00695)[:lab_coat:](https://arxiv.org/abs/2211.15864):diamonds::star: - An environment for learning formal mathematical reasoning from scratch.
+- [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZVE64QKPf6y_TIUwj5nKQ7):star: - Not Coq. Simple expression transformer that is not Coq.
 - [Poi](https://github.com/advancedresearch/poi) [:package:](https://crates.io/crates/poi):star: - pragmatic point-free theorem prover assistant.
 - [Proost](https://gitlab.crans.org/loutr/proost) - simple proof assistant.
 - [qbar](https://github.com/qdeduction/qbar) [:package:](https://crates.io/crates/qbar):zzz: - experimental automated theorem verifier/prover and proof assistant.
@@ -195,6 +196,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [p4-analyzer](https://github.com/AzureMarker/p4-analyzer) - static analysis tool which checks P4 code for bugs.
 - [Prusti](https://github.com/viperproject/prusti-dev) [:package:](https://crates.io/crates/prusti-contracts)[:package:](https://crates.io/crates/prusti-contracts-proc-macros)[:package:](https://crates.io/crates/prusti-specs)[:package:](https://crates.io/crates/prusti-std):star::fire: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
 - [RefinedRust](https://gitlab.mpi-sws.org/lgaeher/refinedrust-dev) [:lab_coat:](https://dl.acm.org/doi/10.1145/3656422) - type system for high-assurance verification of Rust Programs.
+- [rIC3 Hardware Model Checker](https://github.com/gipsyh/rIC3) [:package:](https://crates.io/crates/rIC3)[:watch:](https://hwmcc.github.io/2024):star: - high-performance implementation of the IC3/PDR algorithm.
 - [Rudra](https://github.com/sslab-gatech/Rudra) :star:[:lab_coat:](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf) - static analyzer to detect common undefined behaviors in Rust programs.
 - [Rust Software Verification Benchmarks](https://github.com/alastairreid/rust-benchmarks) :zzz: - collection of Rust verification benchmarks with their verifier crates.
 - [Rust static analysis/verification reading and resources](https://github.com/facebookexperimental/MIRAI/blob/main/documentation/FurtherReading.md) :information_source: - for further reading.
@@ -263,6 +265,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [bitwuzla-sys](https://github.com/fatemender/bitwuzla-sys) [:package:](https://crates.io/crates/bitwuzla-sys) - low-level bindings for the [Bitwuzla](https://bitwuzla.github.io) SMT solver.
 - [boolector-sys](https://github.com/fatemender/boolector-sys) [:package:](https://crates.io/crates/boolector-sys) - low-level bindings for the [Boolector](https://boolector.github.io) SMT solver.
 - [cadical-rs](https://github.com/mmaroti/cadical-rs) [:package:](https://crates.io/crates/cadical) - bindings for the CaDiCaL SAT solver.
+- [cadical-sys](https://github.com/sirandreww/cadical-sys) [:package:](https://crates.io/crates/cadical-sys) - almost complete safe and unsafe bindings for the CaDiCal SAT solver.
 - [cat_solver](https://github.com/UncombedCoconut/cat_solver) [:package:](https://crates.io/crates/cat_solver) - bindings for the Kissat SAT solver.
 - [clingo-rs](https://github.com/potassco/clingo-rs) [:package:](https://crates.io/crates/clingo)[:package:](https://crates.io/crates/clingo-derive)[:package:](https://crates.io/crates/clingo-sys):star: - idiomatic bindings to the [clingo](https://github.com/potassco/clingo) library.
 - [cplex-rs](https://github.com/mbiggio/cplex-rs) [:package:](https://crates.io/crates/cplex-rs)[:package:](https://crates.io/crates/cplex-rs-sys) - safe rust bindings for [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer).
@@ -515,12 +518,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 126 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 87 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 48 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 43 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 38 entries. :100:
-- [satisfiability](https://crates.io/keywords/satisfiability) - 26 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 127 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 89 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 49 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 44 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 41 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 27 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 17 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 13 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
@@ -557,6 +560,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Oliver Bøving](https://github.com/oeb25) - Mist, smtlib, vipers.
 - [Lee ByeongJun](https://github.com/notJoon) - Lambda Calculus Parser.
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
+- [Pierre Carbonnelle](https://gitlab.com/pierre.carbonnelle) - m2cSMT.
 - [Mario Carneiro](https://github.com/digama0) - coq-rs, FRAT-rs, hz-to-mm0, isabelle export tool, Metamath hammer, Metamath-knife, Mizar proof checker, mm0-rs, olean-rs.
 - [Tej Chajed](https://github.com/tchajed) - Temporal Verifier.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
@@ -650,6 +654,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Ophir LOJKINE](https://github.com/lovasoa) - highs, highs-sys, good_lp.
 - [Emmanuel Lonca](https://github.com/elonca) - Decdnnf-rs, Ipasir-loading, pblib-rs.
 - [Kevin Lotz](https://github.com/lotzk) - isabelle-client.
+- [Andrew Luka](https://github.com/sirandreww) - cadical-sys.
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
 - [Michael Madden](https://github.com/mikemadden42) - Xori.
 - [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus, Untyped Multistack Concatenative Calculus.
@@ -722,7 +727,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Specy](https://github.com/Specy) - microlp, rooc.
 - [Dennis Sprokholt](https://dennis.life) - aws-lambda-z3, Rust pi-forall.
 - [Will Sturgeon](https://github.com/wrsturgeon) - Junglefowl.
-- [Yuheng Su](https://github.com/gipsyh) - logic-form.
+- [Yuheng Su](https://github.com/gipsyh) - logic-form, rIC3 Hardware Model Checker.
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
 - [Mateusz Szpakowski](https://github.com/matszpk) - CNFGEN, Exec-SAT.
 - [Lucas Tabary-Maujean](https://github.com/loutr) - Proost.
