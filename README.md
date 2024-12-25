@@ -195,6 +195,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [MirChecker](https://github.com/lizhuohua/rust-mir-checker) :star:[:lab_coat:](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/CCS2021.pdf) - simple static analysis tool.
 - [p4-analyzer](https://github.com/AzureMarker/p4-analyzer) - static analysis tool which checks P4 code for bugs.
 - [Prusti](https://github.com/viperproject/prusti-dev) [:package:](https://crates.io/crates/prusti-contracts)[:package:](https://crates.io/crates/prusti-contracts-proc-macros)[:package:](https://crates.io/crates/prusti-specs)[:package:](https://crates.io/crates/prusti-std):star::fire: - prototype verifier for Rust, built upon the the Viper verification infrastructure.
+- [r2u2_core](https://github.com/R2U2/r2u2/tree/rust-develop) [:package:](https://crates.io/crates/r2u2_core)[:lab_coat:](https://zenodo.org/records/7889284) - Realizable, Reconfigurable, Unobtrusive Unit (R2U2) stream-based runtime verification.
 - [RefinedRust](https://gitlab.mpi-sws.org/lgaeher/refinedrust-dev) [:lab_coat:](https://dl.acm.org/doi/10.1145/3656422) - type system for high-assurance verification of Rust Programs.
 - [rIC3 Hardware Model Checker](https://github.com/gipsyh/rIC3) [:package:](https://crates.io/crates/rIC3)[:watch:](https://hwmcc.github.io/2024):star: - high-performance implementation of the IC3/PDR algorithm.
 - [Rudra](https://github.com/sslab-gatech/Rudra) :star:[:lab_coat:](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf) - static analyzer to detect common undefined behaviors in Rust programs.
@@ -519,8 +520,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 127 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 89 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 49 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 88 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 50 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 44 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 41 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 27 entries. :100:
@@ -529,8 +530,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
+- [sat-solver](https://crates.io/keywords/sat-solver) - 9 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
-- [sat-solver](https://crates.io/keywords/sat-solver) - 8 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 6 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 6 entries. :100:
@@ -546,6 +547,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Arata](https://github.com/arata-nvm) - lutrix.
 - [arbaregni](https://github.com/arbaregni) - resolution-prover.
 - [astrobeastie](https://github.com/astrobeastie) - sequentprover.
+- [Alexis Aurandt](https://github.com/aaurandt) - r2u2_core.
 - [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
 - [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
 - [Mathieu Baudet](https://github.com/ma2bd) - smt2utils.
