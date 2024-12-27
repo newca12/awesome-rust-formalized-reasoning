@@ -1,4 +1,4 @@
-## About ##
+## About
 An exhaustive list of all Rust resources regarding automated or semi-automated formalization efforts in any area, constructive mathematics, formal algorithms, and program verification.
 
 ***As of May 29, 2022, proof of computation & cryptographic stuff are considered off-topic.***
@@ -142,6 +142,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Avalog](https://github.com/advancedresearch/avalog) [:package:](https://crates.io/crates/avalog):star: - experimental implementation of Avatar Logic with a Prolog-like syntax.
 - [autosat](https://github.com/petersn/autosat-rs) [:package:](https://crates.io/crates/autosat):baby_chick: - automatic conversion of functions to CNF for SAT solving.
+- [Axiom Profiler 2.0](https://github.com/viperproject/axiom-profiler-2) [:lab_coat:](https://www.cs.ubc.ca/~alexsumm/papers/BeckerMuellerSummers19.pdf):star: - profiler for exploring and visualizing SMT solver quantifier instantiations.
 - [bootfrost](https://github.com/snigavik/bootfrost) - automated theorem proving program for first-order formulas with extensions.
 - [Caso](https://github.com/advancedresearch/caso) [:package:](https://crates.io/crates/caso) - category Theory Solver for Commutative Diagrams.
 - [cyclegg](https://github.com/nadia-polikarpova/cyclegg):star: - cyclic theorem prover for equational reasoning using egraph.
@@ -632,6 +633,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Dylan R. Johnston](https://dylanj.xyz) - Formally Verifying Rust's Opaque Types.
 - [Matthias Jugan](https://github.com/Apfelbeet) - LogicNG, logicng-open-wbo-sys.
 - [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
+- [Oskari Jyrkinen](https://github.com/oskari1) - Axiom Profiler 2.0.
 - [jzbor](https://github.com/jzbor) - Lambda Shell.
 - [Carl Kadie](https://github.com/CarlKCarlK) - Check AI-Generated Code Perfectly and Automatically.
 - [Hosein Kalbasi](https://github.com/HKalbasi) - akim.
