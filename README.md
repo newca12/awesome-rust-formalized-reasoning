@@ -367,11 +367,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [logic-rs](https://github.com/ixjf/logic-rs) [:book:](https://ruccs.rutgers.edu/lepore-meaning-and-argument/lepore-about-the-book):star::zzz: - parser of relational predicate logic & truth tree solver
 - [plar-rs](https://github.com/nikomatsakis/plar-rs) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp):zzz:[:ghost:](https://github.com/newca12/plar-rs) - exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
 - [tapl](https://github.com/v4kst1z/tapl) :zzz: - implementation of TAPL.
-- [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star::zzz: - another collection of implementations of TAPL.
+- [TAPL Implementations](https://github.com/ps-tuebingen/TAPL) - collection of implementations of TAPL (Chap 3-7,9,11,13-14,19,22).
+- [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star::zzz: - collection of implementations of TAPL (Chap 3-10,17,25).
 - [The Little Prover](https://github.com/mbillingr/the-little-prover) [:book:](https://mitpress.mit.edu/9780262330572/the-little-prover) - transpiled J-Bob assistant & GUI frontend.
 - [the-little-typer](https://github.com/mbillingr/the-little-typer) [:book:](https://mitpress.mit.edu/9780262536431/the-little-typer) - a Rust take on D.Friedman's book.
 - [tnt](https://github.com/SymmetricChaos/tnt) [:book:](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)[:package:](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher & Bach.
-- [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) :star::zzz: - Exercises from Benjamin Pierce's TAPL textbook + extras!
+- [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) :star::zzz: - Exercises from Benjamin Pierce's TAPL textbook + extras! (Chap 5-7,9-10)
 
 ## Programming Language
 
@@ -379,7 +380,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [egglog](https://github.com/egraphs-good/egglog) [:package:](https://crates.io/crates/egglog):star:[:lab_coat:](https://arxiv.org/abs/2304.04332) - language that combines the benefits of equality saturation and datalog.
 - [Fathom](https://github.com/yeslogic/fathom) [:package:](https://crates.io/crates/fathom):star::construction: - declarative data definition language for formally specifying binary data formats.
 - [High-order Virtual Machine (HVM)](https://github.com/HigherOrderCO/HVM) :star: - massively parallel, optimal functional runtime.
-- [Interaction Calculus](https://github.com/VictorTaelin/Interaction-Calculus) [:package:](https://crates.io/crates/interaction-calculus):star: - programming language that matches the optimal λ-calculus reduction algorithm perfectly.
+- [Interaction Calculus](https://github.com/VictorTaelin/Interaction-Calculus) [:package:](https://crates.io/crates/interaction-calculus):star: - programming language (fit the optimal λ-calculus reduction algorithm perfectly).
 - [isotope-prover-experiments](https://gitlab.com/tekne/isotope-prover-experiments) [:lab_coat:](https://gitlab.com/tekne/phd-proposal/-/blob/main/report.tex)[:lab_coat:](https://gitlab.com/isotope-project/msc-thesis/-/blob/master/thesis.tex):skull: - experimental dependently typed language supporting borrow checking.
 - [Kind](https://github.com/HigherOrderCO/Kind) [:package:](https://crates.io/crates/kind2):star: - next-gen functional language and proof assistant.
 - [Last Order Logic](https://github.com/advancedresearch/last_order_logic.git) [:package:](https://crates.io/crates/last_order_logic) - experimental logical language.
@@ -395,7 +396,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SMT-language](https://github.com/DavidD12/smt-lang) [:package:](https://crates.io/crates/smt-lang) - Sat Modulo Theory Language.
 - [stupid-see](https://github.com/Hoblovski/stupid-see) :baby_chick::zzz: - symbolic execution engine. Mainly targeted at the verification course in THU.
 - [tako](https://github.com/Cypher1/tako) -  experimental programming language for ergonomic software verification.
-- [TIP](https://github.com/v4kst1z/TIP) :baby_chick::zzz: - imperative programming language aimed at teaching fundamental concepts of static program analysis.
+- [TIP](https://github.com/v4kst1z/TIP) :baby_chick::zzz: - programming language aimed at teaching fundamental concepts of static program analysis.
 - [Untyped Concatenative Calculus](https://github.com/dawn-lang/ucc) :zzz: - toy programming language and prototype for [Dawn](https://www.dawn-lang.org).
 - [Untyped Multistack Concatenative Calculus](https://github.com/dawn-lang/umcc) - toy programming language and prototype for [Dawn](https://www.dawn-lang.org).
 - [Voile](https://github.com/owo-lang/voile-rs) [:package:](https://crates.io/crates/voile)[:package:](https://crates.io/crates/voile-util):star::zzz: - became Narc.
@@ -667,6 +668,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal.
 - [Krzysztof Małysa](https://github.com/varqox) - prover.
 - [Manas](https://github.com/weirdsmiley) - fuzzylogic.
+- [MarcoTz](https://github.com/MarcoTz) - TAPL Implementations.
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, relsat-rs, uasat-rs.
 - [marshtompsxd](https://github.com/marshtompsxd) - verifiable-controllers.
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, Kani, plar-rs.
