@@ -223,12 +223,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Chalk](https://github.com/rust-lang/chalk) [:package:](https://crates.io/crates/chalk-solve)[:package:](https://crates.io/crates/chalk-derive)[:package:](https://crates.io/crates/chalk-engine)[:package:](https://crates.io/crates/chalk-ir)[:package:](https://crates.io/crates/chalk-macros)[:package:](https://crates.io/crates/chalk-recursive)[:package:](https://crates.io/crates/chalk-rust-ir):star: - implements the Rust trait system, based on Prolog-ish logic rules.
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli):star::diamonds:[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
-- [Metamath-knife](https://github.com/metamath/metamath-knife) [:package:](https://crates.io/crates/metamath-rs):star:  - verify Metamath proofs.
+- [Metamath-knife](https://github.com/metamath/metamath-knife) [:package:](https://crates.io/crates/metamath-rs):star: - verify Metamath proofs.
 - [Mist](https://github.com/oeb25/mist) - userfriendly verification frontend language.
 - [Mizar proof checker](https://github.com/digama0/mizar-rs) :star::construction: - Alternative [Mizar](http://mizar.org) proof checker.
 - [pocket_prover-set](https://github.com/advancedresearch/pocket_prover-set) [:package:](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check):diamonds:[:lab_coat:](https://github.com/krobelus/rate-experiments/blob/master/thesis.pdf) - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
 - [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc):zzz: - checker for the LFSC proof language.
+- [rust-metamath](https://github.com/jzw2/rust-metamath) :zzz: - Metamath verifier.
 - [second_opinion](https://github.com/ammkrn/second_opinion) - verifier for Metamath Zero proof files.
 - [smetamath](https://github.com/sorear/smetamath-rs) [:package:](https://crates.io/crates/smetamath):star::zzz: - parallel and incremental verifier for Metamath databases.
 - [Supervisionary](https://github.com/DominicPM/supervisionary) [:tv:](https://www.youtube.com/watch?v=4iOTl-XowAo)[:lab_coat:](https://dominicpm.github.io/publications/mulligan-supervisionary-2022.pdf) - experimental proof-checking system for Gordon's higher-order logic.
@@ -378,6 +379,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [egglog](https://github.com/egraphs-good/egglog) [:package:](https://crates.io/crates/egglog):star:[:lab_coat:](https://arxiv.org/abs/2304.04332) - language that combines the benefits of equality saturation and datalog.
 - [Fathom](https://github.com/yeslogic/fathom) [:package:](https://crates.io/crates/fathom):star::construction: - declarative data definition language for formally specifying binary data formats.
 - [High-order Virtual Machine (HVM)](https://github.com/HigherOrderCO/HVM) :star: - massively parallel, optimal functional runtime.
+- [Interaction Calculus](https://github.com/VictorTaelin/Interaction-Calculus) [:package:](https://crates.io/crates/interaction-calculus):star: - programming language that matches the optimal λ-calculus reduction algorithm perfectly.
 - [isotope-prover-experiments](https://gitlab.com/tekne/isotope-prover-experiments) [:lab_coat:](https://gitlab.com/tekne/phd-proposal/-/blob/main/report.tex)[:lab_coat:](https://gitlab.com/isotope-project/msc-thesis/-/blob/master/thesis.tex):skull: - experimental dependently typed language supporting borrow checking.
 - [Kind](https://github.com/HigherOrderCO/Kind) [:package:](https://crates.io/crates/kind2):star: - next-gen functional language and proof assistant.
 - [Last Order Logic](https://github.com/advancedresearch/last_order_logic.git) [:package:](https://crates.io/crates/last_order_logic) - experimental logical language.
@@ -392,7 +394,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Scryer Prolog](https://github.com/mthom/scryer-prolog) [:package:](https://crates.io/crates/scryer-prolog):star: - modern Prolog implementation.
 - [SMT-language](https://github.com/DavidD12/smt-lang) [:package:](https://crates.io/crates/smt-lang) - Sat Modulo Theory Language.
 - [stupid-see](https://github.com/Hoblovski/stupid-see) :baby_chick::zzz: - symbolic execution engine. Mainly targeted at the verification course in THU.
-- [Symmetric Interaction Calculus](https://github.com/maiavictor/symmetric-interaction-calculus) :star::skull: - optimal λ-calculus reduction. Followed devlopment now in Kind project.
 - [tako](https://github.com/Cypher1/tako) -  experimental programming language for ergonomic software verification.
 - [TIP](https://github.com/v4kst1z/TIP) :baby_chick::zzz: - imperative programming language aimed at teaching fundamental concepts of static program analysis.
 - [Untyped Concatenative Calculus](https://github.com/dawn-lang/ucc) :zzz: - toy programming language and prototype for [Dawn](https://www.dawn-lang.org).
@@ -735,7 +736,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SymmetricChaos](https://github.com/SymmetricChaos) - tnt.
 - [Mateusz Szpakowski](https://github.com/matszpk) - CNFGEN, Exec-SAT.
 - [Lucas Tabary-Maujean](https://github.com/loutr) - Proost.
-- [Victor Taelin](https://medium.com/@maiavictor) - High-order Virtual Machine (HVM), Kind2, Symmetric Interaction Calculus..
+- [Victor Taelin](https://github.com/VictorTaelin) - High-order Virtual Machine (HVM), Kind2, Interaction Calculus.
 - [Calin Tataru](https://github.com/calintat) - homotopy-rs.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Fabian Thorand](https://github.com/fatho) - LogRu.
@@ -750,6 +751,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mark Verleg](https://markv.nl) - prover(2).
 - [Nathaniel Victor](https://github.com/NVictor2004) - SAT Solver(2).
 - [Nikita Voronov](https://orsinium.dev) - RLCI.
+- [John Wang](https://github.com/jzw2) - rust-metamath.
 - [Shuxian Wang](https://github.com/wsx-ucb) - QED Prover.
 - [Max Willsey](https://www.mwillsey.com) - egg, egglog.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
