@@ -61,6 +61,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - Research paper :lab_coat:
 - Toy project :baby_chick:
 - Video :tv:
+- Web demo :eyes:
 - WIP :construction:
 
 ## Projects
@@ -149,6 +150,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [good_lp](https://github.com/rust-or/good_lp) :star: - Mixed Integer Linear Programming modeler using external solvers.
 - [gpp-solver](https://github.com/Ereski/gpp-solver) [:package:](https://crates.io/crates/gpp-solver) - small hybrid push-pull solver/planner that has the best of both worlds.
 - [hoice](https://github.com/hopv/hoice) :star: - ICE-based Constrained Horn Clause (CHC) solver.
+- [INCL Automated Theorem Prover](https://github.com/andob/INCL-automated-theorem-prover) [:book:](https://www.cambridge.org/core/books/an-introduction-to-nonclassical-logic/61AD69C1D1B88006588B26C37F3A788E)[:eyes:](https://andob.io/incl) - multi logic theorem prover based on Graham Priests 2008 book.
 - [linear_solver](https://github.com/advancedresearch/linear_solver) [:package:](https://crates.io/crates/linear_solver):star: - linear solver designed to be easy to use with Rust enums.
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star::zzz: - logic solver.
 - [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - simple induction and BMC engine.
@@ -372,7 +374,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [The Little Prover](https://github.com/mbillingr/the-little-prover) [:book:](https://mitpress.mit.edu/9780262330572/the-little-prover) - transpiled J-Bob assistant & GUI frontend.
 - [the-little-typer](https://github.com/mbillingr/the-little-typer) [:book:](https://mitpress.mit.edu/9780262536431/the-little-typer) - a Rust take on D.Friedman's book.
 - [tnt](https://github.com/SymmetricChaos/tnt) [:book:](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)[:package:](https://crates.io/crates/tnt) - implementation of Hofstader's "Typographical Number Theory" from the book Gödel, Escher & Bach.
-- [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) :star::zzz: - Exercises from Benjamin Pierce's TAPL textbook + extras! (Chap 5-7,9-10)
+- [types-and-programming-languages](https://github.com/lazear/types-and-programming-languages) :star::zzz: - Exercises from TAPL textbook + extras! (Chap 5-7,9-10)
 
 ## Programming Language
 
@@ -589,6 +591,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Sylvie Dirkswager](https://github.com/tolziplohu) - Pika.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
+- [Andrei Dobrescu](https://github.com/andob) - INCL Automated Theorem Prover.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir, rust-smt-ir-examples, rust-smt-strings.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com) - lambda_calculus.
