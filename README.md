@@ -93,6 +93,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [microsat](https://github.com/RobScheidegger/microsat) [:package:](https://crates.io/crates/microsat) - tiny DPLL SAT-solver.
 - [minisat-rust](https://github.com/mishun/minisat-rust) :star::zzz: - experimental minisat SAT solver.
 - [msat](https://github.com/solhop/msat) [:package:](https://crates.io/crates/msat):skull: - MaxSAT Solver.
+- [otter_sat](https://github.com/teeaychem/otter_sat) [:package:](https://crates.io/crates/otter_sat) - CDCL SAT solver written for skill and research.
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin):star::zzz: - reimplementation of MiniSat.
 - [Resolvo](https://github.com/mamba-org/resolvo) [:package:](https://crates.io/crates/resolvo):star: - fast package resolver (CDCL based SAT solving).
 - [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat):skull: - SAT Solver.
@@ -275,6 +276,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [clingo-rs](https://github.com/potassco/clingo-rs) [:package:](https://crates.io/crates/clingo)[:package:](https://crates.io/crates/clingo-derive)[:package:](https://crates.io/crates/clingo-sys):star: - idiomatic bindings to the [clingo](https://github.com/potassco/clingo) library.
 - [cplex-rs](https://github.com/mbiggio/cplex-rs) [:package:](https://crates.io/crates/cplex-rs)[:package:](https://crates.io/crates/cplex-rs-sys) - safe rust bindings for [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer).
 - [cryptominisat-rs](https://github.com/storyyeller/cryptominisat-rs) [:package:](https://crates.io/crates/cryptominisat):zzz: - bindings for [CryptoMiniSat](https://github.com/msoos/cryptominisat).
+- [EasyZ3](https://github.com/PatrickTheElder/easyz3) [:package:](https://crates.io/crates/easyz3) - simplified API to get started with the z3 SAT solver.
 - [falcon-z3](https://github.com/falconre/falcon-z3) [:package:](https://crates.io/crates/falcon-z3) - bindings for Z3.
 - [highs](https://github.com/rust-or/highs) [:package:](https://crates.io/crates/highs) - safe rust bindings for the [HiGHS](https://highs.dev) linear programming solver.
 - [highs-sys](https://github.com/rust-or/highs-sys) [:package:](https://crates.io/crates/highs-sys) - bindings for the [HiGHS](https://highs.dev) linear programming solver.
@@ -289,7 +291,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [maxpre-rs](https://github.com/chrjabs/maxpre-rs) [:package:](https://crates.io/crates/maxpre) - bindings for the (multi-objective) MaxSAT preprocessor MaxPre.
 - [pblib-rs](https://github.com/crillab/pblib-rs) [:package:](https://crates.io/crates/pblib-rs) - safe bindings for [pblib](https://github.com/master-keying/pblib).
 - [rplex](https://github.com/emallson/rplex) :zzz: - bindings for [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer).
-- [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star: - generic library to interact with SMT-LIB 2 compliant solvers.
+- [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star::zzz: - generic library to interact with SMT-LIB 2 compliant solvers.
 - [rssat](https://github.com/francisol/rssat) [:package:](https://crates.io/crates/rssat) - provides Rust bindings for multiple popular SAT solvers.
 - [russcip](https://github.com/scipopt/russcip) [:package:](https://crates.io/crates/russcip):star: - safe Rust interface for [SCIP](https://www.scipopt.org).
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):star::skull: - generic high-level API for interacting with SMT solvers.
@@ -473,6 +475,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Supermux](https://github.com/tuzz/supermux) :zzz: - reduction of the superpermutation problem to Quantified Boolean Formula.
 - [Supersat](https://github.com/tuzz/supersat) :zzz: - attempt to find superpermutations by reducing the problem to SAT.
 - [tarpit-rs](https://github.com/sdleffler/tarpit-rs) :star::zzz: - type-level implementation of Smallfuck. Turing-completeness proof for Rust's type system.
+- [Type System Chess](https://github.com/Dragon-Hatcher/type-system-chess) :star: - chess implemented entirely in the Rust type system.
 - [VeriFactory](https://github.com/alegnani/verifactory) :star: - verifier for [Factorio blueprints](https://factorioprints.com).
 
 ## Resources
@@ -524,12 +527,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 127 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 88 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 50 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 126 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 89 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 52 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 44 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 41 entries. :100:
-- [satisfiability](https://crates.io/keywords/satisfiability) - 27 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 28 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 17 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 13 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
@@ -537,8 +540,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [sat-solver](https://crates.io/keywords/sat-solver) - 9 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
+- [z3](https://crates.io/keywords/z3) - 7 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
-- [z3](https://crates.io/keywords/z3) - 6 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
 - [dimacs](https://crates.io/keywords/dimacs) - 5 entries. :100:
@@ -592,6 +595,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Sylvie Dirkswager](https://github.com/tolziplohu) - Pika.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
 - [Andrei Dobrescu](https://github.com/andob) - INCL Automated Theorem Prover.
+- [Dragon-Hatcher](https://github.com/Dragon-Hatcher) - Type System Chess.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir, rust-smt-ir-examples, rust-smt-strings.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com) - lambda_calculus.
@@ -696,6 +700,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Adolfo Ochagavía](https://ochagavia.nl) - An adventure with optimization, Rust and Z3.
 - [Edgar Onghena](https://edgar.bzh/) - inf402.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
+- [PatrickTheElder](https://github.com/PatrickTheElder) - EasyZ3.
 - [Chris Patuzzo](https://tuzz.tech) - Supermux, Supersat.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn.
 - [Hugo Peters](https://github.com/HugoPeters1024) - Cracking the Cryptic (with Z3 and Rust).
@@ -734,6 +739,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SnO₂WMaN](https://github.com/SnO2WMaN) - rust-proplogic-toylang.
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
+- [Ben Sparkes](https://github.com/teeaychem) - otter_sat.
 - [Specy](https://github.com/Specy) - microlp, rooc.
 - [Dennis Sprokholt](https://dennis.life) - aws-lambda-z3, Rust pi-forall.
 - [Will Sturgeon](https://github.com/wrsturgeon) - Junglefowl.
