@@ -471,6 +471,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [roq](https://github.com/wgoodall01/roq) [:package:](https://crates.io/crates/roq)[:package:](https://crates.io/crates/roq_derive) - proc-macro Coq code generation and proof automation.
 - [rummy_to_sat ](https://github.com/neuring/rummy_to_sat) - implementation of a solver for [Rummy](https://en.wikipedia.org/wiki/Rummy).
 - [rust-z3-practice](https://github.com/salmans/rust-z3-practice) :zzz: - solving a number of SAT problems using Z3.
+- [Satisfaction](https://github.com/tchaumeny/satisfaction) [:lab_coat:](https://www.phys.ens.psl.eu/~cocco/Articles/a14.pdf) - investigate phase transitions in k-SAT problems.
 - [sudoku_sat](https://github.com/shnarazk/sudoku_sat) - solve Sudoku variants with SAT solvers.
 - [Supermux](https://github.com/tuzz/supermux) :zzz: - reduction of the superpermutation problem to Quantified Boolean Formula.
 - [Supersat](https://github.com/tuzz/supersat) :zzz: - attempt to find superpermutations by reducing the problem to SAT.
@@ -527,14 +528,14 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 126 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 125 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 89 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 52 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 53 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 44 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 41 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 28 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 17 entries. :100:
-- [proving](https://crates.io/keywords/proving) - 13 entries. :100:
+- [proving](https://crates.io/keywords/proving) - 15 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
@@ -575,7 +576,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Tej Chajed](https://github.com/tchajed) - Temporal Verifier.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [David Chanin](https://github.com/chanind) - Tensor Theorem Prover.
-- [Michelle Cheatham](https://github.com/mcheatham) -  rusty-logic.
+- [Michelle Cheatham](https://github.com/mcheatham) - rusty-logic.
+- [Thomas Chaumeny](https://github.com/tchaumeny) - Satisfaction.
 - [Jimmy Chen Chen](https://github.com/jchenche) - theorem-prover.
 - [Alex Chew](https://github.com/alex-chew) - Z3D.
 - [Konstantin Chukharev](https://github.com/Lipen) - SAT Nexus, backdoor-solver.
