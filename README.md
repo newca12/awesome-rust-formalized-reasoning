@@ -297,6 +297,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [russcip](https://github.com/scipopt/russcip) [:package:](https://crates.io/crates/russcip):star: - safe Rust interface for [SCIP](https://www.scipopt.org).
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):star::skull: - generic high-level API for interacting with SMT solvers.
 - [rust_z3prover](https://github.com/hrkzmnm/rust_z3prover) :zzz: - use Z3 SMT solver from rust.
+- [Rustplex](https://github.com/mohsenpakzad/rustplex) [:package:](https://crates.io/crates/rustplex) - a linear programming solver based on the Simplex algorithm.
 - [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt):zzz: - fork of libsmt.rs.
 - [SAT Nexus](https://github.com/Lipen/sat-nexus) - interfaces and wrappers for SAT solvers.
 - [scip-sys](https://github.com/scipopt/scip-sys) [:package:](https://crates.io/crates/scip-sys) - raw rust bindings to [SCIP](https://www.scipopt.org).
@@ -530,16 +531,16 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 125 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 89 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 86 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 53 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 44 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 41 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 28 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 17 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 18 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 15 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
-- [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
+- [rewriting](https://crates.io/keywords/rewriting) - 10 entries. :100:
 - [sat-solver](https://crates.io/keywords/sat-solver) - 9 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 7 entries. :100:
@@ -703,6 +704,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Adolfo Ochagavía](https://ochagavia.nl) - An adventure with optimization, Rust and Z3.
 - [Edgar Onghena](https://edgar.bzh/) - inf402.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
+- [Mohsen Pakzad](https://github.com/mohsenpakzad) - Rustplex.
 - [PatrickTheElder](https://github.com/PatrickTheElder) - EasyZ3.
 - [Chris Patuzzo](https://tuzz.tech) - Supermux, Supersat.
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn.
