@@ -165,6 +165,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [QED Prover](https://github.com/qed-solver/prover) :star:[:lab_coat:](https://www.vldb.org/pvldb/vol11/p1482-chu.pdf) - reimplementation of the Cosette prover in Rust.
 - [reachability_solver](https://github.com/advancedresearch/reachability_solver) [:package:](https://crates.io/crates/reachability_solver) - linear reachability solver for directional edges.
 - [relsat-rs](https://github.com/mmaroti/relsat-rs) :baby_chick: - Experiments with  provers.
+- [Rustplex](https://github.com/mohsenpakzad/rustplex) [:package:](https://crates.io/crates/rustplex) - a linear programming solver based on the Simplex algorithm.
 - [SAT-bench](https://github.com/shnarazk/SAT-bench) - benchmark suit for SAT solvers.
 - [sat_lab](https://github.com/arenaudineau/sat_lab) :baby_chick::construction: - framework for manipulating SAT problems.
 - [SAT solver ANalyser](https://github.com/SAT-solver-ANalyzer/SATAn) :construction: - toolbox for analyzing performance and runtime characteristics of SAT solvers.
@@ -297,7 +298,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [russcip](https://github.com/scipopt/russcip) [:package:](https://crates.io/crates/russcip):star: - safe Rust interface for [SCIP](https://www.scipopt.org).
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):star::skull: - generic high-level API for interacting with SMT solvers.
 - [rust_z3prover](https://github.com/hrkzmnm/rust_z3prover) :zzz: - use Z3 SMT solver from rust.
-- [Rustplex](https://github.com/mohsenpakzad/rustplex) [:package:](https://crates.io/crates/rustplex) - a linear programming solver based on the Simplex algorithm.
 - [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt):zzz: - fork of libsmt.rs.
 - [SAT Nexus](https://github.com/Lipen/sat-nexus) - interfaces and wrappers for SAT solvers.
 - [scip-sys](https://github.com/scipopt/scip-sys) [:package:](https://crates.io/crates/scip-sys) - raw rust bindings to [SCIP](https://www.scipopt.org).
