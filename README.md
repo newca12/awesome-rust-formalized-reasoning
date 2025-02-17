@@ -215,6 +215,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Rustproof](https://github.com/Rust-Proof/rustproof) [:package:](https://crates.io/crates/rustproof):star::zzz: - compiler plugin, verification condition generator.
 - [Shuttle](https://github.com/awslabs/shuttle) [:package:](https://crates.io/crates/shuttle):star: - library for testing concurrent Rust code.
 - [Stateright](https://github.com/stateright/stateright) [:package:](https://crates.io/crates/stateright):star: - model checker for implementing distributed systems.
+- [VeriFast](https://github.com/verifast/verifast) :star: - research prototype tool for modular formal verification of C, Rust and Java programs.
 - [VeriWasm](https://github.com/PLSysSec/veriwasm) [:package:](https://crates.io/crates/veriwasm):star:[:lab_coat:](http://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf) - SFI verifier of Wasm binaries.
 - [verus](https://github.com/secure-foundations/verus) :star::fire:[:tv:](https://www.youtube.com/watch?v=ZZTk-zS4ZCY)[:lab_coat:](https://arxiv.org/abs/2303.05491) - verified subset of Rust for low-level systems code.
 - [Xori](https://github.com/endgameinc/xori) :star::zzz: - static analysis library for PE32, 32+ and shellcode.
@@ -638,6 +639,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Noel Huibers](https://github.com/NoelHuibers) - Hashi - Bridges Puzzle.
 - [Christoph Jabs](https://github.com/chrjabs) - Scuttle, maxpre-rs, rustsat.
+- [Bart Jacobs](https://github.com/btj) - VeriFast.
 - [Jan](https://github.com/Janko-dev) - Plogic.
 - [Paweł Jastrzebski](https://github.com/PawelJastrzebski) - Propositional Logic.
 - [Ranjit Jhala](https://github.com/ranjitjhala) - flux-demo.
