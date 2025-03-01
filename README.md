@@ -218,6 +218,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [VeriFast](https://github.com/verifast/verifast) :star: - research prototype tool for modular formal verification of C, Rust and Java programs.
 - [VeriWasm](https://github.com/PLSysSec/veriwasm) [:package:](https://crates.io/crates/veriwasm):star:[:lab_coat:](http://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf) - SFI verifier of Wasm binaries.
 - [verus](https://github.com/secure-foundations/verus) :star::fire:[:tv:](https://www.youtube.com/watch?v=ZZTk-zS4ZCY)[:lab_coat:](https://arxiv.org/abs/2303.05491) - verified subset of Rust for low-level systems code.
+- [vostd](https://github.com/asterinas/vostd) - formal verification of Asterinas OSTD with Verus.
 - [Xori](https://github.com/endgameinc/xori) :star::zzz: - static analysis library for PE32, 32+ and shellcode.
 
 #### Misc
@@ -769,6 +770,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mark Verleg](https://markv.nl) - prover(2).
 - [Nathaniel Victor](https://github.com/NVictor2004) - SAT Solver(2).
 - [Nikita Voronov](https://orsinium.dev) - RLCI.
+- [Xinyi Wan](https://github.com/rikosellic) - vostd.
 - [John Wang](https://github.com/jzw2) - rust-metamath.
 - [Shuxian Wang](https://github.com/wsx-ucb) - QED Prover.
 - [Max Willsey](https://www.mwillsey.com) - egg, egglog.
