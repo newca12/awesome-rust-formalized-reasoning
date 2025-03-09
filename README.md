@@ -73,7 +73,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [CoP](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/cop) - reimplement automated theorem provers of the leanCoP family, such as leanCoP and nanoCoP.
 - [lazyCoP](https://github.com/MichaelRawson/lazycop) [:watch:](https://www.tptp.org/CASC/J10/WWWFiles/DivisionSummary1.html):zzz: - automatic theorem prover for first-order logic with equality.
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
-- [lickety](https://github.com/MichaelRawson/lickety) - prototype system for linear resolution with splitting.
+- [lickety](https://github.com/MichaelRawson/lickety)   :zzz: - prototype system for linear resolution with splitting.
 - [meancop](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/meancop):recycle: - became CoP.
 - [res-rs](https://github.com/philzook58/res-rs) :construction: - first bits for first-order logic prover.
 - [Serkr](https://github.com/mAarnos/Serkr) :star:[:ghost:](https://github.com/newca12/Serkr) - automated theorem prover for first order logic with equality.
@@ -85,7 +85,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [BatSat](https://github.com/c-cube/batsat) [:package:](https://crates.io/crates/batsat):star: - solver forked from ratsat, a reimplementation of MiniSat.
 - [Colombini-SAT](https://github.com/Lorenzinco/colombiniSAT) - simple 3-SAT solver.
 - [CreuSAT](https://github.com/sarsko/CreuSAT) :star: - formally verified SAT solver verified with Creusot.
-- [Debug-SAT](https://github.com/advancedresearch/debug_sat) [:package:](https://crates.io/crates/debug_sat) - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
+- [Debug-SAT](https://github.com/advancedresearch/debug_sat) [:package:](https://crates.io/crates/debug_sat):zzz: - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
 - [dpll-sat](https://github.com/snsinfu/dpll-sat) :zzz: - naïve SAT solver implementing the classic DPLL algorithm.
 - [DRSAT](https://github.com/danielschemmel/drsat) - Daniel's Rusty SAT solver.
 - [lutrix](https://github.com/arata-nvm/lutrix) :zzz: - SAT/SMT Solver.
@@ -98,8 +98,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Resolvo](https://github.com/mamba-org/resolvo) [:package:](https://crates.io/crates/resolvo):star: - fast package resolver (CDCL based SAT solving).
 - [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat):skull: - SAT Solver.
 - [RsBDD](https://github.com/timbeurskens/rsbdd) - Reduced-order Binary Decision Diagram (RoBDD) SAT solver.
-- [rust-sat](https://github.com/michaelbeaumont/rust-sat) :zzz: - SAT solver that accepts input in the DIMACS CNF file format.
-- [rustsat(2)](https://github.com/jamesbornholt/rustsat) :baby_chick: - toy SAT solver.
+- [rust-sat](https://github.com/michaelbeaumont/rust-sat) - SAT solver that accepts input in the DIMACS CNF file format.
+- [rustsat(2)](https://github.com/jamesbornholt/rustsat) :baby_chick::zzz: - toy SAT solver.
 - [sat](https://github.com/KomaEc/sat) - simple CDCL sat solver.
 - [SAT solver](https://github.com/shinkwhek/SATsolver) :baby_chick::zzz: - SAT solver.
 - [SAT Solver(2)](https://github.com/NVictor2004/SATSolver) :baby_chick: - simple SAT solver.
@@ -447,7 +447,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [plc](https://github.com/trolleyman/plc) :zzz: - propositional logic calculator.
 - [Plogic](https://github.com/Janko-dev/plogic) :star: - propositional logic evaluator and rule-based pattern matcher.
 - [Prop](https://github.com/advancedresearch/prop) [:package:](https://crates.io/crates/prop):star: - library for theorem proving with Intuitionistic Propositional Logic.
-- [Propositional Logic](https://github.com/PawelJastrzebski/propositional) [:package:](https://crates.io/crates/propositional):mortar_board: - propositional Logic Library .
+- [Propositional Logic](https://github.com/PawelJastrzebski/propositional) [:package:](https://crates.io/crates/propositional):mortar_board: - propositional Logic Library.
+- [Propositional logic evaluator](https://github.com/KhaledHosseini/propositional-logic) [:package:](https://crates.io/crates/boolean-logic) - propositional logic evaluatorv (truth tables for propositional expressions).
 - [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs):zzz: - solver using the propositional tableaux method.
 - [prop_tune](https://github.com/emilHof/prop_tune) [:package:](https://crates.io/crates/prop_tune)[:package:](https://crates.io/crates/prop_tune_core)[:package:](https://crates.io/crates/prop_tune_macro) - library for working with Logical Propositions.
 - [raa_tt](https://github.com/jsinger67/raa_tt) [:package:](https://crates.io/crates/raa_tt) - prover for sentences of propositional calculus.
@@ -532,17 +533,17 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 125 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 127 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 86 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 53 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 44 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 41 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 28 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 18 entries. :100:
-- [proving](https://crates.io/keywords/proving) - 15 entries. :100:
+- [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
-- [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
-- [rewriting](https://crates.io/keywords/rewriting) - 10 entries. :100:
+- [cnf](https://crates.io/keywords/cnf) - 9 entries. :100:
+- [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [sat-solver](https://crates.io/keywords/sat-solver) - 9 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 8 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 7 entries. :100:
@@ -636,6 +637,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Hoblovski](https://github.com/Hoblovski) - stupid-see, stupid-smt.
 - [Graydon Hoare](https://github.com/graydon) - Some notes on Rust, mutable aliasing and formal verification.
 - [Emil Hofstetter](https://emilhofstetter.dev) - mini-prop, prop_tune.
+- [Khaled Hosseini](https://github.com/KhaledHosseini) - Propositional logic evaluator.
 - [hrkzmnm](https://github.com/hrkzmnm) - rust_z3prover.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Noel Huibers](https://github.com/NoelHuibers) - Hashi - Bridges Puzzle.
