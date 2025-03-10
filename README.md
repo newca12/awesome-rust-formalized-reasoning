@@ -395,6 +395,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [minihl](https://github.com/firefighterduck/minihl) - formal methods playgorund for MiniHeapLang language.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util):star::skull: - became Voile.
 - [Narc](https://github.com/owo-lang/narc-rs) [:package:](https://crates.io/crates/nar):star::zzz: - dependently-typed programming language with Agda style dependent pattern matching.
+- [norem-lang](https://github.com/AntonPing/norem-lang) - pure functional programming language with automatic verification and effect system.
 - [Pika](https://github.com/tolziplohu/pika) :star::construction: - small, performance-oriented, dependently typed ML with algebraic effects and unboxed types..
 - [Pikelet](https://github.com/pikelet-lang/pikelet) [:package:](https://crates.io/crates/pikelet):star::zzz: - small, functional, dependently typed programming language.
 - [proto-vulcan](https://github.com/terohuttunen/proto-vulcan) [:package:](https://crates.io/crates/proto-vulcan)[:package:](https://crates.io/crates/proto-vulcan-macros) - miniKanren-family relational logic programming language.
@@ -448,7 +449,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Plogic](https://github.com/Janko-dev/plogic) :star: - propositional logic evaluator and rule-based pattern matcher.
 - [Prop](https://github.com/advancedresearch/prop) [:package:](https://crates.io/crates/prop):star: - library for theorem proving with Intuitionistic Propositional Logic.
 - [Propositional Logic](https://github.com/PawelJastrzebski/propositional) [:package:](https://crates.io/crates/propositional):mortar_board: - propositional Logic Library.
-- [Propositional logic evaluator](https://github.com/KhaledHosseini/propositional-logic) [:package:](https://crates.io/crates/boolean-logic) - propositional logic evaluatorv (truth tables for propositional expressions).
+- [Propositional logic evaluator](https://github.com/KhaledHosseini/propositional-logic) [:package:](https://crates.io/crates/boolean-logic) - propositional logic evaluator (truth tables for propositional expressions).
 - [Propositional Tableaux Solver](https://github.com/jieyouxu/propositional-tableau-solver-rs) [:package:](https://crates.io/crates/propositional-tableau-solver-rs):zzz: - solver using the propositional tableaux method.
 - [prop_tune](https://github.com/emilHof/prop_tune) [:package:](https://crates.io/crates/prop_tune)[:package:](https://crates.io/crates/prop_tune_core)[:package:](https://crates.io/crates/prop_tune_macro) - library for working with Logical Propositions.
 - [raa_tt](https://github.com/jsinger67/raa_tt) [:package:](https://crates.io/crates/raa_tt) - prover for sentences of propositional calculus.
@@ -715,6 +716,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Pierre-Marie Pédrot](https://www.pédrot.fr) - Kravanenn.
 - [Hugo Peters](https://github.com/HugoPeters1024) - Cracking the Cryptic (with Z3 and Rust).
 - [Arvid E. Picciani](https://github.com/aep) - zz.
+- [Anton Ping](https://github.com/AntonPing) - norem-lang.
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
 - [Gabriel Poesia](https://github.com/gpoesia) - minimo.
 - [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova) - cyclegg.
