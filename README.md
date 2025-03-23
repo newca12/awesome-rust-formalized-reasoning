@@ -172,6 +172,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [sequentprover](https://github.com/astrobeastie/sequentprover) :baby_chick: - proof search algorithm for boolean formulae.
 - [Sequent solver](https://github.com/Dacit/sequent_prover) :baby_chick::zzz: - simple sequent solver.
 - [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
+- [SMTSCOPE](https://github.com/viperproject/smt-scope) - [:package:](https://crates.io/crates/smt-scope):star: - automatically analyses and visualises SMT solver execution traces.
 - [stupid-smt](https://github.com/Hoblovski/stupid-smt) :baby_chick::zzz: - SMT library. Mainly project at the verification course in THU.
 - [Tensor Theorem Prover](https://github.com/chanind/tensor-theorem-prover) - first-order logic theorem prover (support unification with approximate vector similarity).
 - [theorem-prover](https://github.com/jchenche/theorem-prover) - implementation of a theorem prover for first-order logic.
@@ -534,24 +535,24 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 127 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 86 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 53 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 44 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 128 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 104 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 64 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 45 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 41 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 28 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 18 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
-- [cnf](https://crates.io/keywords/cnf) - 9 entries. :100:
+- [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
+- [prover](https://crates.io/keywords/prover) - 8 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [sat-solver](https://crates.io/keywords/sat-solver) - 9 entries. :100:
-- [prover](https://crates.io/keywords/prover) - 8 entries. :100:
-- [z3](https://crates.io/keywords/z3) - 7 entries. :100:
+- [z3](https://crates.io/keywords/z3) - 8 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 6 entries. :100:
+- [dimacs](https://crates.io/keywords/dimacs) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
-- [dimacs](https://crates.io/keywords/dimacs) - 5 entries. :100:
 
 ### Community
 
@@ -614,6 +615,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Aodhnait Étaín](https://aodhneine.github.io) - Esther.
 - [Michael Färber](http://cl-informatik.uibk.ac.at/users/mfaerber) - CoP, Kontroli, Lambda Term Parsing, meancop, research notebook about improving with Rust the performance of nonclausal automated theorem provers.
 - [Nathan Fenner](https://github.com/Nathan-Fenner) - sat_toasty_helper.
+- [Jonáš Fiala](https://github.com/JonasAlaif) - SMTSCOPE.
 - [FireFighterDuck](https://github.com/firefighterduck) - Alice_rs, Kissat-rs, minihl.
 - [Paolo Flores](https://www.paoloose.site) - logic-parser.
 - [Hugo Frezat](https://github.com/hrkz) - logic-lang.
