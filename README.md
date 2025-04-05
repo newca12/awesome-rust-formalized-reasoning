@@ -358,7 +358,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-smt-strings](https://github.com/awslabs/rust-smt-strings) [:package:](https://crates.io/crates/aws-smt-strings) - library for strings as defined in the SMT-LIB theory of strings.
 - [~~rust-unify~~](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
-- [rustsat](https://github.com/chrjabs/rustsat) [:package:](https://crates.io/crates/rustsat)[:package:](https://crates.io/crates/rustsat-batsat)[:package:](https://crates.io/crates/rustsat-cadical)[:package:](https://crates.io/crates/rustsat-glucose)[:package:](https://crates.io/crates/rustsat-ipasir)[:package:](https://crates.io/crates/rustsat-kissat)[:package:](https://crates.io/crates/rustsat-minisat)[:package:](https://crates.io/crates/rustsat-tools) - provide elements commonly used in satisfiability solving software.
+- [RustSAT](https://github.com/chrjabs/rustsat) [:package:](https://crates.io/crates/rustsat)[:package:](https://crates.io/crates/rustsat-batsat)[:package:](https://crates.io/crates/rustsat-cadical)[:package:](https://crates.io/crates/rustsat-glucose)[:package:](https://crates.io/crates/rustsat-ipasir)[:package:](https://crates.io/crates/rustsat-kissat)[:package:](https://crates.io/crates/rustsat-minisat)[:package:](https://crates.io/crates/pigeons)[:package:](https://crates.io/crates/rustsat-tools):star: - provide elements commonly used in satisfiability solving software.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star::zzz: - tool for constructing finite models for first-order theories.
 - [sat_toasty_helper](https://github.com/Nathan-Fenner/sat_toasty_helper) [:package:](https://crates.io/crates/sat_toasty_helper) - convenient way to write and solve SAT constraints.
 - [Satoxid](https://github.com/neuring/satoxid) [:package:](https://crates.io/crates/satoxid) - library to help with encoding SAT problems.
@@ -445,6 +445,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [implies](https://github.com/armaan-rashid/implies) [:package:](https://crates.io/crates/implies) - storing logical formulas as parse trees and performing complex operations on them.
 - [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic):baby_chick::zzz: - crate for propositional logic.
 - [logic-resolver](https://github.com/gustafla/logic-resolver) :baby_chick::zzz: - toy implementation of resolution for propositional logic.
+- [Logic Tracer](https://github.com/Yrrrrrf/logic_tracer) [:package:](https://crates.io/crates/logic_tracer) - reads a logical proposition and interprets it to build the truth table and the AST.
 - [mini-prop](https://github.com/emilHof/mini-prop) [:package:](https://crates.io/crates/mini-prop) - CLI tool for parsing and processing LaTex formatted propositional statements.
 - [plc](https://github.com/trolleyman/plc) :zzz: - propositional logic calculator.
 - [Plogic](https://github.com/Janko-dev/plogic) :star: - propositional logic evaluator and rule-based pattern matcher.
@@ -535,17 +536,17 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 128 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 133 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 104 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 64 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 45 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 41 entries. :100:
-- [satisfiability](https://crates.io/keywords/satisfiability) - 28 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 65 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 46 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 42 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 29 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 18 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
-- [prover](https://crates.io/keywords/prover) - 8 entries. :100:
+- [prover](https://crates.io/keywords/prover) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [sat-solver](https://crates.io/keywords/sat-solver) - 9 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 8 entries. :100:
@@ -731,6 +732,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, lickety, SATCoP, tptp.
 - [Alastair Reid](https://alastairreid.github.io) - Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs, Rust Software Verification Benchmarks, Rust verification tools, Rust verification tools list.
 - [Adrien Renaudineau](https://github.com/arenaudineau) - sat_lab.
+- [Fernando Bryan Reza Campos](https://github.com/Yrrrrrf) - Logic Tracer.
 - [Corey Richardson](https://github.com/emberian) - lpsolve.
 - [Nathan Ringo](https://remexre.xyz) - FALL.
 - [Benjamin Rogers-Newsome](https://github.com/BenRogersNewsome) - Rust First Order Logic.
