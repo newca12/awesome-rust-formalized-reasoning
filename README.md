@@ -191,6 +191,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [electrolysis](https://github.com/Kha/electrolysis) :star::zzz: - tool for formally verifying Rust programs by transpiling them into the Lean 2 theorem prover.
 - [Flux](https://github.com/flux-rs/flux) [:tv:](https://www.youtube.com/watch?v=k-izcFCHN2o):star:[:lab_coat:](https://arxiv.org/pdf/2207.04034.pdf):fire: - refinement type checker for Rust.
 - [Granite](https://github.com/Skasselbard/Granite) :star:[:lab_coat:](https://github.com/Skasselbard/Granite/blob/master/doc/MasterThesis/main.pdf):zzz: - find Deadlocks in Rust with Petri-Net Model checking.
+- [Hax](https://github.com/cryspen/hax) [:package:](https://crates.io/crates/cargo-hax):star:[:lab_coat:](https://eprint.iacr.org/2025/142) - tool for high assurance translations of a large subset of Rust into formal languages such as F* or Rocq.
 - [Kani](https://github.com/model-checking/kani) [:package:](https://crates.io/crates/kani-verifier):star:[:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf):fire: - bit-precise model-checker, ensures that unsafe Rust code is actually safe.
 - [Liquid Rust](https://github.com/fan-tom/liquid-rust) :star::zzz: - implement Liquid Types type checker.
 - [lockbud](https://github.com/BurtonQin/lockbud) :star:[:lab_coat:](https://songlh.github.io/paper/rust-study.pdf) - statically detect deadlocks bugs for Rust.
@@ -289,7 +290,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Ipasir-loading]() [:package:](https://crates.io/crates/ipasir-loading) - load shared libraries of IPASIR compatible SAT solvers.
 - [isabelle-client](https://github.com/lotzk/rust-isabelle-client) [:package:](https://crates.io/crates/isabelle-client) - client to interact with an [Isabelle](https://isabelle.in.tum.de) server.
 - [Kissat-rs](https://github.com/firefighterduck/kissat-rs) [:package:](https://crates.io/crates/kissat) - bindings for the Kissat SAT solver.
-- [lean-sys](https://gitlab.com/tekne/lean-sys) [:package:](https://crates.io/crates/lean-sys) - bindings to Lean 4's C API.
+- [lean-sys](https://github.com/digama0/lean-sys) [:package:](https://crates.io/crates/lean-sys):star: - bindings to [Lean 4](https://github.com/leanprover/lean4)'s C API.
 - [libsmt.rs](https://github.com/sushant94/libsmt.rs) :zzz: - bindings for SMTLIB2.
 - [logicng-open-wbo-sys](https://github.com/booleworks/logicng-rs) [:package:](https://crates.io/crates/logicng-open-wbo-sys) - low-level LogicNG bindings for the MaxSAT solver [Open-WBO](https://github.com/sat-group/open-wbo).
 - [lpsolve](https://docs.rs/crate/lpsolve/latest/source) [:package:](https://crates.io/crates/lpsolve)[:package:](https://crates.io/crates/lpsolve-sys):zzz: - high-level [lpsolve](https://sourceforge.net/projects/lpsolve) wrapper.
@@ -349,7 +350,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [mmb-types](https://github.com/trivial-rs/mmb-types) [:package:](https://crates.io/crates/mmb-types):zzz: - library containing the definitions of the opcodes in the Metamath Zero binary proof files.
 - [moniker](https://github.com/brendanzab/moniker) [:package:](https://crates.io/crates/moniker)[:package:](https://crates.io/crates/moniker-derive):star::zzz: - automagical variable binding library.
 - [nanoda](https://github.com/ammkrn/nanoda) :star::skull: - became nanoda-lib.
-- [nanoda_lib](https://github.com/ammkrn/nanoda_lib) - type inference/checking functionality based on the Lean theorem prover.
+- [nanoda_lib](https://github.com/ammkrn/nanoda_lib) :star: - type inference/checking functionality based on the Lean theorem prover.
 - [nnf](https://github.com/night-crawler/nnf) [:package:](https://crates.io/crates/nnf) - Negation Normal Form manipulation library.
 - [polytype](https://github.com/lucasem/polytype-rs) [:package:](https://crates.io/crates/polytype):star: - Hindley-Milner polymorphic typing system.
 - [program-induction](https://github.com/lucasem/program-induction) [:package:](https://crates.io/crates/programinduction):star: - library for program induction and learning representations.
@@ -536,13 +537,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 133 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 104 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 65 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 135 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 106 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 69 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 46 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 42 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 29 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 18 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 19 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
@@ -662,6 +663,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Igor Kalichevski](https://github.com/night-crawler) - nnf.
 - [karroffel](https://gitlab.com/karroffel) - contracts.
 - [Anto Keinänen](https://github.com/antoKeinanen) - logical_solver, logical_tui.
+- [Franziskus Kiefer](https://github.com/franziskuskiefer) - Hax.
 - [Rahul Kumar](https://github.com/rahulku) - How Open Source Projects are Using Kani to Write Better Software in Rust, Rust std-lib verification.
 - [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
 - [Alexey Kutepov](https://tsoding.org) - Noq.
