@@ -93,6 +93,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [microsat](https://github.com/RobScheidegger/microsat) [:package:](https://crates.io/crates/microsat) - tiny DPLL SAT-solver.
 - [minisat-rust](https://github.com/mishun/minisat-rust) :star::zzz: - experimental minisat SAT solver.
 - [msat](https://github.com/solhop/msat) [:package:](https://crates.io/crates/msat):skull: - MaxSAT Solver.
+- [NanoSAT](https://github.com/vinisilvag/nanosat) :construction: - almost-efficient implementation of the Conflit-Driven Clause Learning (CDCL) framework.
 - [otter_sat](https://github.com/teeaychem/otter_sat) [:package:](https://crates.io/crates/otter_sat) - CDCL SAT solver written for skill and research.
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin):star::zzz: - reimplementation of MiniSat.
 - [Resolvo](https://github.com/mamba-org/resolvo) [:package:](https://crates.io/crates/resolvo):star: - fast package resolver (CDCL based SAT solving).
@@ -101,6 +102,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rust-sat](https://github.com/michaelbeaumont/rust-sat) - SAT solver that accepts input in the DIMACS CNF file format.
 - [rustsat(2)](https://github.com/jamesbornholt/rustsat) :baby_chick::zzz: - toy SAT solver.
 - [sat](https://github.com/KomaEc/sat) - simple CDCL sat solver.
+- [satsol](https://github.com/vinisilvag/satsol) :baby_chick: - some SAT solving algorithms for DIMACS inputs.
 - [SAT solver](https://github.com/shinkwhek/SATsolver) :baby_chick::zzz: - SAT solver.
 - [SAT Solver(2)](https://github.com/NVictor2004/SATSolver) :baby_chick: - simple SAT solver.
 - [SAT-MICRO](https://github.com/OCamlPro/sat_micro_rust) [:lab_coat:](https://hal.inria.fr/inria-00202831/en) - reimplementation of the SAT-solver described in 'SAT-MICRO: petit mais costaud!'.
@@ -191,7 +193,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [electrolysis](https://github.com/Kha/electrolysis) :star::zzz: - tool for formally verifying Rust programs by transpiling them into the Lean 2 theorem prover.
 - [Flux](https://github.com/flux-rs/flux) [:tv:](https://www.youtube.com/watch?v=k-izcFCHN2o):star:[:lab_coat:](https://arxiv.org/pdf/2207.04034.pdf):fire: - refinement type checker for Rust.
 - [Granite](https://github.com/Skasselbard/Granite) :star:[:lab_coat:](https://github.com/Skasselbard/Granite/blob/master/doc/MasterThesis/main.pdf):zzz: - find Deadlocks in Rust with Petri-Net Model checking.
-- [Hax](https://github.com/cryspen/hax) [:package:](https://crates.io/crates/cargo-hax):star:[:lab_coat:](https://eprint.iacr.org/2025/142) - tool for high assurance translations of a large subset of Rust into formal languages such as F* or Rocq.
+- [Hax](https://github.com/cryspen/hax) [:package:](https://crates.io/crates/cargo-hax):star:[:lab_coat:](https://eprint.iacr.org/2025/142) - tool for high assurance translations of a large subset of Rust into formal languages (F*, Rocq, ...).
 - [Kani](https://github.com/model-checking/kani) [:package:](https://crates.io/crates/kani-verifier):star:[:lab_coat:](https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf):fire: - bit-precise model-checker, ensures that unsafe Rust code is actually safe.
 - [Liquid Rust](https://github.com/fan-tom/liquid-rust) :star::zzz: - implement Liquid Types type checker.
 - [lockbud](https://github.com/BurtonQin/lockbud) :star:[:lab_coat:](https://songlh.github.io/paper/rust-study.pdf) - statically detect deadlocks bugs for Rust.
@@ -537,8 +539,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 135 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 106 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 136 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 107 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 69 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 46 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 42 entries. :100:
@@ -629,6 +631,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mohammed Ghannam](https://github.com/mmghannam) - russcip, scip-sys.
 - [Nathan Graule ](https://github.com/SolarLiner) - rs-logik.
 - [Brandon H. Gomes](https://github.com/bhgomes) - qbar.
+- [Vinicius Gomes](https://github.com/vinisilvag) - NanoSAT, satsol.
 - [William Goodall](https://github.com/wgoodall01) - roq.
 - [Robert Grosse](https://github.com/Storyyeller) - cryptominisat-rs.
 - [Masaki Hara](https://twitter.com/qnighy) - Logic solver, RatSat.
