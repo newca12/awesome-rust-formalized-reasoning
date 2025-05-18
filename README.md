@@ -18,7 +18,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
     - [Proof assistant](#proof-assistant)
     - [Misc](#misc)
   - [Verification](#verification)
-    - [Static Analysis & Rust verification tools](#static-analysis--rust-verification-tools)
+    - [Static Analysis & Rust verification tools / framework](#static-analysis--rust-verification-tools--framework)
     - [Misc](#misc-1)
   - [Libraries](#libraries)
     - [Parser](#parser)
@@ -182,7 +182,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Verification
 
-#### Static Analysis & Rust verification tools/framework
+#### Static Analysis & Rust verification tools / framework
 
 - [Charon](https://github.com/sonmarcho/charon) :star:[:lab_coat:](https://arxiv.org/abs/2410.18042):fire: - interface with the rustc compiler for the purpose of program verification.
 - [coq-of-rust](https://github.com/formal-land/coq-of-rust) :star: - formal verification for Rust.
@@ -378,6 +378,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [logic-rs](https://github.com/ixjf/logic-rs) [:book:](https://ruccs.rutgers.edu/lepore-meaning-and-argument/lepore-about-the-book):star::zzz: - parser of relational predicate logic & truth tree solver
 - [plar-rs](https://github.com/nikomatsakis/plar-rs) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp):zzz:[:ghost:](https://github.com/newca12/plar-rs) - exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
+- [program-proofs-prusti](https://github.com/viperproject/program-proofs-prusti) [:book:](https://program-proofs.com/) - examples and exercises from the book Program Proofs by K. Rustan M. Leino.
 - [tapl](https://github.com/v4kst1z/tapl) :zzz: - implementation of TAPL.
 - [TAPL Implementations](https://github.com/ps-tuebingen/TAPL) - collection of implementations of TAPL (Chap 3-7,9,11,13-14,19,22).
 - [TAPL in Rust](https://github.com/hayatoito/tapl-in-rust) :star::zzz: - collection of implementations of TAPL (Chap 3-10,17,25).
@@ -539,13 +540,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 136 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 107 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 69 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 139 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 110 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 73 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 46 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 42 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 29 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 19 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 20 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
@@ -575,6 +576,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Antoine Belvire](https://github.com/super7ramp) - Croissant.
 - [Tim Beurskens](https://timbeurskens.github.io) - RsBDD.
 - [Matteo Biggio](https://github.com/mbiggio) - cplex-rs.
+- [Aurel Bílý](https://github.com/Aurel300) - program-proofs-prusti.
 - [Justin Blanchard](https://github.com/UncombedCoconut) - cat_solver.
 - [boitsov14](https://github.com/boitsov14) - theorem-prover-rs.
 - [James Bornholt](https://www.cs.utexas.edu/~bornholt) - rustsat(2), Shuttle.
