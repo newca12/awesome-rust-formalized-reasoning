@@ -18,7 +18,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
     - [Proof assistant](#proof-assistant)
     - [Misc](#misc)
   - [Verification](#verification)
-    - [Static Analysis & Rust verification tools / framework](#static-analysis--rust-verification-tools--framework)
+    - [Static Analysis & Rust verification tools/framework](#static-analysis--rust-verification-toolsframework)
     - [Misc](#misc-1)
   - [Libraries](#libraries)
     - [Parser](#parser)
@@ -131,9 +131,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 #### Proof assistant
 
-- [hakim](https://github.com/babaeee/hakim) - hacky interactive theorem prover.
+- [Canonical](https://github.com/chasenorman/Canonical) [:lab_coat:](https://arxiv.org/abs/2504.06239)[:tv:](https://www.youtube.com/watch?v=y6p0hHkabXs):diamonds::star: - exhaustively searches for proofs of any mathematical statement in dependent type theory.
 - [~~cobalt~~](https://github.com/lcnr/cobalt) :recycle:[:ghost:](https://github.com/isgasho/cobalt) - a wip minimal proof assistant.
 - [Esther](https://github.com/aodhneine/esther) :zzz: - simple automated proof assistant.
+- [hakim](https://github.com/babaeee/hakim) - hacky interactive theorem prover.
 - [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) [:lab_coat:](https://arxiv.org/abs/1812.10586)[:lab_coat:](https://arxiv.org/abs/1902.03831):diamonds::star: - implementation of homotopy.io proof assistant.
 - [LSTS](https://github.com/andrew-johnson-4/LSTS) [:package:](https://crates.io/crates/lsts):star: - proof assistant that is also a programming language.
 - [minimo](https://github.com/gpoesia/minimo) [:lab_coat:](https://arxiv.org/abs/2407.00695)[:lab_coat:](https://arxiv.org/abs/2211.15864):diamonds::star: - An environment for learning formal mathematical reasoning from scratch.
@@ -182,7 +183,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Verification
 
-#### Static Analysis & Rust verification tools / framework
+#### Static Analysis & Rust verification tools/framework
 
 - [Charon](https://github.com/sonmarcho/charon) :star:[:lab_coat:](https://arxiv.org/abs/2410.18042):fire: - interface with the rustc compiler for the purpose of program verification.
 - [coq-of-rust](https://github.com/formal-land/coq-of-rust) :star: - formal verification for Rust.
@@ -713,8 +714,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Chandrakana Nandi](https://github.com/chandrakananandi) - Ruler.
 - [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
 - [Sven Nilsen](https://github.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Caso, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
-- [Sven Thiele](https://github.com/sthiele) - clingo-rs.
 - [Yuichi Nishiwaki](https://github.com/nyuichi) - shari.
+- [Chase Norman](https://github.com/chasenorman) - Canonical.
 - [Stefan O'Rear](https://github.com/sorear) - smetamath.
 - [Robert Obkircher](https://github.com/RobertObkircher) - sat-solver.
 - [Adolfo Ochagavía](https://ochagavia.nl) - An adventure with optimization, Rust and Z3.
@@ -772,6 +773,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Lucas Tabary-Maujean](https://github.com/loutr) - Proost.
 - [Victor Taelin](https://github.com/VictorTaelin) - High-order Virtual Machine (HVM), Kind2, Interaction Calculus.
 - [Calin Tataru](https://github.com/calintat) - homotopy-rs.
+- [Sven Thiele](https://github.com/sthiele) - clingo-rs.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Fabian Thorand](https://github.com/fatho) - LogRu.
 - [Hitoshi Togasaki](https://github.com/togatoga) - scrapsat, screwsat.
