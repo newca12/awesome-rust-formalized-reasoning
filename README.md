@@ -118,6 +118,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [~~slp~~](https://github.com/solhop/slp) [:package:](https://crates.io/crates/slp):recycle: - became SolHOP.
 - [SolHOP](https://github.com/solhop/solhop) [:package:](https://crates.io/crates/solhop):skull: - aims to be a SAT and MaxSAT solver. Currently, a CDCL based SAT.
 - [Splr](https://github.com/shnarazk/splr) [:package:](https://crates.io/crates/splr):diamonds::star: - modern CDCL SAT solver.
+- [StalmarckSAT](https://github.com/Stalmarck-Satisfiability/StalmarckSAT) [:package:](https://crates.io/crates/stalmarck-sat) - SAT solver based on the Stålmarck Procedure.
 - [starlit](https://github.com/jix/starlit) :construction: - CDCL SAT solver.
 - [Stevia](https://github.com/Robbepop/stevia) :star::zzz: - simple (unfinished) SMT solver for QF_ABV.
 - [UASAT-RS](https://github.com/mmaroti/uasat-rs) - SAT solver based calculator for discrete mathematics and universal algebra.
@@ -541,12 +542,12 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 139 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 115 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 75 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 143 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 120 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 77 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 46 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 42 entries. :100:
-- [satisfiability](https://crates.io/keywords/satisfiability) - 29 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 44 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 30 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 20 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
@@ -606,6 +607,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Azeez Daoud](https://azeezda.github.io/portfolio) - ceetle.
 - [DavidD12](https://github.com/DavidD12) - SMT-language, smt_sb-rs.
 - [Ariel Davis](https://azdavis.net) - coc.
+- [Liam Davis](https://github.com/liamjdavis) - StalmarckSAT.
 - [Xavier Denis](https://www.lri.fr/membre_en.php?mb=2819) - Creusot, RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code, RustHornBelt Library & Benchmarks, Rust verification tools (2021), Specifying and Verifying Higher-order Rust Iterators (2023), A hybrid approach to semi-automated Rust verification (2024), Visions of the future: formal verification in Rust.
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Sylvie Dirkswager](https://github.com/tolziplohu) - Pika.
