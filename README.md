@@ -302,12 +302,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [pblib-rs](https://github.com/crillab/pblib-rs) [:package:](https://crates.io/crates/pblib-rs) - safe bindings for [pblib](https://github.com/master-keying/pblib).
 - [rplex](https://github.com/emallson/rplex) :zzz: - bindings for [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer).
 - [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star::zzz: - generic library to interact with SMT-LIB 2 compliant solvers.
-- [rssat](https://github.com/francisol/rssat) [:package:](https://crates.io/crates/rssat) - provides Rust bindings for multiple popular SAT solvers.
+- [rssat](https://github.com/francisol/rssat) [:package:](https://crates.io/crates/rssat):skull: - bindings for multiple popular SAT solvers, superseded by satgalaxy-rs.
 - [russcip](https://github.com/scipopt/russcip) [:package:](https://crates.io/crates/russcip):star: - safe Rust interface for [SCIP](https://www.scipopt.org).
 - [Rust-SMT-LIB-API](https://github.com/facebookarchive/Rust-SMT-LIB-API) [:package:](https://crates.io/crates/rust_smt):star::skull: - generic high-level API for interacting with SMT solvers.
 - [rust_z3prover](https://github.com/hrkzmnm/rust_z3prover) :zzz: - use Z3 SMT solver from rust.
 - [rustproof-libsmt](https://github.com/Rust-Proof/libsmt.rs) [:package:](https://crates.io/crates/rustproof-libsmt):zzz: - fork of libsmt.rs.
 - [SAT Nexus](https://github.com/Lipen/sat-nexus) - interfaces and wrappers for SAT solvers.
+- [satgalaxy-rs](https://github.com/sat-galaxy/satgalaxy-rs) [:package:](https://crates.io/crates/satgalaxy) - FFI bindings for [satgalaxy-core](https://github.com/sat-galaxy/satgalaxy-core) bringing high-performance SAT solving to Rust.
 - [scip-sys](https://github.com/scipopt/scip-sys) [:package:](https://crates.io/crates/scip-sys) - raw rust bindings to [SCIP](https://www.scipopt.org).
 - [smt_sb-rs](https://github.com/DavidD12/smt_sb-rs) [:package:](https://crates.io/crates/smt_sb-rs) - Z3 SMT Simple Binding.
 - [smtlib](https://github.com/oeb25/smtlib-rs) [:package:](https://crates.io/crates/smtlib)[:package:](https://crates.io/crates/smtlib-lowlevel)[:package:](https://crates.io/crates/smtlib-build-util) - high-level API for interacting with SMT solvers.
@@ -542,13 +543,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 143 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 145 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 120 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 77 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 78 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 46 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 44 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 45 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 30 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 20 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 21 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
@@ -804,7 +805,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Eric Zhang](https://www.ekzhang.com) - µKanren-rs.
 - [Hanliang Zhang](https://github.com/KomaEc) - sat.
 - [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
-- [Xie Zhongtao](https://github.com/francisol) - rssat.
+- [Xie Zhongtao](https://github.com/francisol) - rssat, satgalaxy-rs.
 - [Felix Zhu](https://github.com/felixzhuologist) - lambdacube.
 - [Li Zhuohua](https://zhuohua.me) - MirChecker.
 - [Philip Zucker](https://github.com/philzook58) - res-rs.
