@@ -71,9 +71,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Provers TPTP compliant
 
 - [CoP](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/cop) - reimplement automated theorem provers of the leanCoP family, such as leanCoP and nanoCoP.
+- [HopCoP](https://github.com/MichaelRawson/hopcop) - theorem prover for first-order logic based on connection tableaux and backjumping.
 - [lazyCoP](https://github.com/MichaelRawson/lazycop) [:watch:](https://www.tptp.org/CASC/J10/WWWFiles/DivisionSummary1.html):zzz: - automatic theorem prover for first-order logic with equality.
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
-- [lickety](https://github.com/MichaelRawson/lickety)   :zzz: - prototype system for linear resolution with splitting.
+- [lickety](https://github.com/MichaelRawson/lickety) :zzz: - prototype system for linear resolution with splitting.
 - [meancop](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/meancop):recycle: - became CoP.
 - [res-rs](https://github.com/philzook58/res-rs) :construction: - first bits for first-order logic prover.
 - [Serkr](https://github.com/mAarnos/Serkr) :star:[:ghost:](https://github.com/newca12/Serkr) - automated theorem prover for first order logic with equality.
@@ -544,19 +545,19 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 145 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 120 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 78 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 125 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 85 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 50 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 46 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 45 entries. :100:
-- [satisfiability](https://crates.io/keywords/satisfiability) - 30 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 35 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 21 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
-- [cnf](https://crates.io/keywords/cnf) - 10 entries. :100:
-- [prover](https://crates.io/keywords/prover) - 10 entries. :100:
+- [prover](https://crates.io/keywords/prover) - 10 entries. :100
+- [cnf](https://crates.io/keywords/cnf) - 10 entries. :100::
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [sat-solver](https://crates.io/keywords/sat-solver) - 9 entries. :100:
-- [z3](https://crates.io/keywords/z3) - 8 entries. :100:
+- [z3](https://crates.io/keywords/z3) - 9 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 6 entries. :100:
 - [dimacs](https://crates.io/keywords/dimacs) - 6 entries. :100:
@@ -740,7 +741,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [petersn](https://github.com/petersn) - autosat.
 - [Boqin Qin](https://github.com/BurtonQin) - lockbud.
 - [Armaan Rashid](https://github.com/armaan-rashid) - implies.
-- [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, lickety, SATCoP, tptp.
+- [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, lickety, HopCoP, SATCoP, tptp.
 - [Alastair Reid](https://alastairreid.github.io) - Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs, Rust Software Verification Benchmarks, Rust verification tools, Rust verification tools list.
 - [Adrien Renaudineau](https://github.com/arenaudineau) - sat_lab.
 - [Fernando Bryan Reza Campos](https://github.com/Yrrrrrf) - Logic Tracer.
