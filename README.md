@@ -202,6 +202,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lockbud](https://github.com/BurtonQin/lockbud) :star:[:lab_coat:](https://songlh.github.io/paper/rust-study.pdf) - statically detect deadlocks bugs for Rust.
 - [Logically Qualified Data Types](https://github.com/bpowers/liquid-types) - implementation of liquid types on an implicitly-typed variant of ML.
 - [Loom](https://github.com/tokio-rs/loom) [:package:](https://crates.io/crates/loom):star: - concurrency permutation testing tool for Rust.
+- [Machine-check](https://github.com/onderjan/machine-check)  [:package:](https://crates.io/crates/machine-check)[:package:](https://crates.io/crates/machine-check-gui)[:package:](https://crates.io/crates/machine-check-avr)[:package:](https://crates.io/crates/machine-check-common)[:package:](https://crates.io/crates/machine-check-macros)[:package:](https://crates.io/crates/machine-check-exec)[:package:](https://crates.io/crates/machine-check-bitmask-switch)[:package:](https://crates.io/crates/machine-check-machine)[:package:](https://crates.io/crates/mck)[:package:](https://crates.io/crates/machine-check-compile)[:package:](https://crates.io/crates/machine-check-hw) - formal verification tool for digital systems.
 - [matla](https://github.com/OCamlPro/matla) - a manager for TLA+ projects.
 - [MIRAI](https://github.com/facebookexperimental/MIRAI) [:package:](https://crates.io/crates/mirai-annotations):star: - intended to become a widely used static analysis tool for Rust.
 - [MirChecker](https://github.com/lizhuohua/rust-mir-checker) :star:[:lab_coat:](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/CCS2021.pdf) - simple static analysis tool.
@@ -546,15 +547,15 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 146 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 126 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 88 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 129 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 89 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 51 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 46 entries. :100:
-- [satisfiability](https://crates.io/keywords/satisfiability) - 35 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 36 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 21 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
-- [prover](https://crates.io/keywords/prover) - 10 entries. :100
+- [prover](https://crates.io/keywords/prover) - 12 entries. :100
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100::
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [sat-solver](https://crates.io/keywords/sat-solver) - 9 entries. :100:
@@ -725,6 +726,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Stefan O'Rear](https://github.com/sorear) - smetamath.
 - [Robert Obkircher](https://github.com/RobertObkircher) - sat-solver.
 - [Adolfo Ochagavía](https://ochagavia.nl) - An adventure with optimization, Rust and Z3.
+- [Jan Onderka](https://github.com/onderjan) - Machine-check.
 - [Edgar Onghena](https://edgar.bzh/) - inf402.
 - [Alex Ozdemir](https://cs.stanford.edu/~aozdemir) - rlfsc.
 - [Mohsen Pakzad](https://github.com/mohsenpakzad) - Rustplex.
