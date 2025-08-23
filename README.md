@@ -303,6 +303,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [maxpre-rs](https://github.com/chrjabs/maxpre-rs) [:package:](https://crates.io/crates/maxpre) - bindings for the (multi-objective) MaxSAT preprocessor MaxPre.
 - [pblib-rs](https://github.com/crillab/pblib-rs) [:package:](https://crates.io/crates/pblib-rs) - safe bindings for [pblib](https://github.com/master-keying/pblib).
 - [rplex](https://github.com/emallson/rplex) :zzz: - bindings for [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer).
+- [rsmaxsat](https://github.com/francisol/rsmaxsat) [:package:](https://crates.io/crates/rsmaxsat) - bindings for [EvalMaxSAT ](https://github.com/FlorentAvellaneda/EvalMaxSAT).
 - [rsmt2](https://github.com/kino-mc/rsmt2) [:package:](https://crates.io/crates/rsmt2)[:package:](https://crates.io/crates/rsmt2-zz):star::zzz: - generic library to interact with SMT-LIB 2 compliant solvers.
 - [rssat](https://github.com/francisol/rssat) [:package:](https://crates.io/crates/rssat):skull: - bindings for multiple popular SAT solvers, superseded by satgalaxy-rs.
 - [russcip](https://github.com/scipopt/russcip) [:package:](https://crates.io/crates/russcip):star: - safe Rust interface for [SCIP](https://www.scipopt.org).
@@ -366,7 +367,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Rust First Order Logic](https://github.com/BenRogersNewsome/First-Order-Logic) [:package:](https://crates.io/crates/first_order_logic) - syntax of First Order Logic with self-consistent logical assertions.
 - [rust-nbe-for-mltt](https://github.com/brendanzab/rust-nbe-for-mltt) :star: - normalization by evaluation for Martin-Löf Type Theory with dependent records.
 - [rust-smt-strings](https://github.com/awslabs/rust-smt-strings) [:package:](https://crates.io/crates/aws-smt-strings) - library for strings as defined in the SMT-LIB theory of strings.
-- [~~rust-unify~~](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle: - unification algorithum implementation.
+- [~~rust-unify~~](https://github.com/bongo227/rust-unify) [:package:](https://crates.io/crates/rust-unify) :recycle:[:lab_coat:](https://arxiv.org/abs/cs/0603080) - unification algorithum implementation.
 - [RustSAT](https://github.com/chrjabs/rustsat) [:package:](https://crates.io/crates/rustsat)[:package:](https://crates.io/crates/rustsat-batsat)[:package:](https://crates.io/crates/rustsat-cadical)[:package:](https://crates.io/crates/rustsat-glucose)[:package:](https://crates.io/crates/rustsat-ipasir)[:package:](https://crates.io/crates/rustsat-kissat)[:package:](https://crates.io/crates/rustsat-minisat)[:package:](https://crates.io/crates/pigeons)[:package:](https://crates.io/crates/rustsat-tools):star: - provide elements commonly used in satisfiability solving software.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) [:package:](https://crates.io/crates/razor)[:package:](https://crates.io/crates/razor-fol)[:package:](https://crates.io/crates/razor-chase):star::zzz: - tool for constructing finite models for first-order theories.
 - [sat_toasty_helper](https://github.com/Nathan-Fenner/sat_toasty_helper) [:package:](https://crates.io/crates/sat_toasty_helper) - convenient way to write and solve SAT constraints.
@@ -569,15 +570,15 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
-- [ammkrn](https://twitter.com/ammkrn) - nanoda, nanoda_lib, second_opinion.
+- [ammkrn](https://twitter.com/ammkrn) - ~~nanoda~~, nanoda_lib, second_opinion.
 - [Bruno Andreotti](https://github.com/bpandreotti) - Carcara.
 - [Arata](https://github.com/arata-nvm) - lutrix.
 - [arbaregni](https://github.com/arbaregni) - resolution-prover.
 - [astrobeastie](https://github.com/astrobeastie) - sequentprover.
 - [Alexis Aurandt](https://github.com/aaurandt) - r2u2_core.
 - [Yechan Bae](https://qwaz.github.io) - Rudra, Satire.
-- [Clark Barrett](https://github.com/cbarrettfb) - Rust-SMT-LIB-API.
-- [Mathieu Baudet](https://github.com/ma2bd) - smt2utils.
+- [Clark Barrett](https://github.com/cbarrettfb) - ~~Rust-SMT-LIB-API~~.
+- [Mathieu Baudet](https://github.com/ma2bd) - ~~smt2utils~~.
 - [Mike Beaumont](https://github.com/michaelbeaumont) - rust-sat.
 - [Antoine Belvire](https://github.com/super7ramp) - Croissant.
 - [Tim Beurskens](https://timbeurskens.github.io) - RsBDD.
@@ -593,7 +594,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Pierre Carbonnelle](https://gitlab.com/pierre.carbonnelle) - m2cSMT.
 - [Mario Carneiro](https://github.com/digama0) - coq-rs, FRAT-rs, hz-to-mm0, isabelle export tool, Metamath hammer, Metamath-knife, Mizar proof checker, mm0-rs, olean-rs.
 - [Tej Chajed](https://github.com/tchajed) - Temporal Verifier.
-- [Adrien Champion](https://github.com/AdrienChampion) - hoice, Kinō, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
+- [Adrien Champion](https://github.com/AdrienChampion) - hoice, ~~Kinō~~, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
 - [David Chanin](https://github.com/chanind) - Tensor Theorem Prover.
 - [Michelle Cheatham](https://github.com/mcheatham) - rusty-logic.
 - [Thomas Chaumeny](https://github.com/tchaumeny) - Satisfaction.
@@ -637,7 +638,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Lennard Gäher](https://gitlab.mpi-sws.org/lgaeher) - RefinedRust.
 - [Galois, Inc.](http://galois.com) - crux-mir.
 - [Alexey Gerasimov](https://github.com/fan-tom) - Liquid Rust.
-- [Jad Ghalayini](https://gitlab.com/tekne) - isotope-prover-experiments, lean-sys.
+- [Jad Ghalayini](https://gitlab.com/tekne) - ~~isotope-prover-experiments~~, lean-sys.
 - [Mohammed Ghannam](https://github.com/mmghannam) - russcip, scip-sys.
 - [Nathan Graule ](https://github.com/SolarLiner) - rs-logik.
 - [Brandon H. Gomes](https://github.com/bhgomes) - qbar.
@@ -678,13 +679,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Anto Keinänen](https://github.com/antoKeinanen) - logical_solver, logical_tui.
 - [Franziskus Kiefer](https://github.com/franziskuskiefer) - Hax.
 - [Rahul Kumar](https://github.com/rahulku) - How Open Source Projects are Using Kani to Write Better Software in Rust, Rust std-lib verification.
-- [Prateek Kumar](https://prateekkumar.in) - msat, rsat, slp, SolHOP.
+- [Prateek Kumar](https://prateekkumar.in) - ~~msat~~, ~~rsat~~, ~~slp~~, ~~SolHOP~~.
 - [Alexey Kutepov](https://tsoding.org) - Noq.
 - [Ivan Ladelshchikov](https://github.com/tsionyx) - nonogrid.
 - [Kevin Laeufer](https://github.com/ekiwi) - Patronus.
 - [Aleksandr Larionov](https://github.com/snigavik) - bootfrost.
 - [Andrea Lattuada](https://github.com/utaal) - verus.
-- [lcnr](https://lcnr.de) - cobalt.
+- [lcnr](https://lcnr.de) - ~~cobalt~~.
 - [Shea Leffler](http://loud.fyi) - tarpit-rs, whisper.
 - [Alessandro Legnani](https://github.com/alegnani) - VeriFactory.
 - [Nico Lehmann](https://github.com/nilehmann) - Flux.
@@ -701,7 +702,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Scott J Maddox](https://github.com/scottjmaddox) - Untyped Concatenative Calculus, Untyped Multistack Concatenative Calculus.
 - [Indraneel Mahendrakumar](https://github.com/Carnagion) - Lamb.
 - [Harald Maida](https://github.com/haraldmaida) - Lamcal.
-- [Krzysztof Małysa](https://github.com/varqox) - prover.
+- [Krzysztof Małysa](https://github.com/varqox) - ~~prover~~.
 - [Manas](https://github.com/weirdsmiley) - fuzzylogic.
 - [MarcoTz](https://github.com/MarcoTz) - TAPL Implementations.
 - [Miklos Maroti](https://www.math.u-szeged.hu/~mmaroti) - cadical-rs, relsat-rs, uasat-rs.
@@ -709,7 +710,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, Kani, plar-rs.
 - [Yusuke Matsushita](https://github.com/shiatsumat) - Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy, RustHorn.
 - [mbillingr](https://github.com/mbillingr) - miniKANREN, The Little Prover, the-little-typer.
-- [mcmfb](https://github.com/mcmfb) - lambda_calc.
+- [mcmfb](https://github.com/mcmfb) - ~~lambda_calc~~.
 - [Tom Meyer](https://github.com/Skasselbard) - Granite.
 - [Alexander Mishunin](https://github.com/mishun) - minisat-rust.
 - [Proloy Mishra](https://github.com/pro465) - lam, nnoq, nyaya.
@@ -739,13 +740,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Dan Pittman](https://dpitt.me) - Bounded Registers.
 - [Gabriel Poesia](https://github.com/gpoesia) - minimo.
 - [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova) - cyclegg.
-- [Christian Poveda](https://github.com/pvdrz) - Chevre.
+- [Christian Poveda](https://github.com/pvdrz) - ~~Chevre~~.
 - [Bobby Powers](https://github.com/bpowers) - Logically Qualified Data Types.
 - [Joshua Pratt](https://blog.mimir.systems) - ArcsJs - Provable, tako.
 - [petersn](https://github.com/petersn) - autosat.
 - [Boqin Qin](https://github.com/BurtonQin) - lockbud.
 - [Armaan Rashid](https://github.com/armaan-rashid) - implies.
-- [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, lerna, lickety, HopCoP, SATCoP, tptp.
+- [Michael Rawson](http://rawsons.uk/michael) - discrimination-tree, lazyCoP, ~~lerna~~, lickety, HopCoP, SATCoP, tptp.
 - [Alastair Reid](https://alastairreid.github.io) - Articles about a collection of tools/libraries to support both static and dynamic verification of Rust programs, Rust Software Verification Benchmarks, Rust verification tools, Rust verification tools list.
 - [Adrien Renaudineau](https://github.com/arenaudineau) - sat_lab.
 - [Fernando Bryan Reza Campos](https://github.com/Yrrrrrf) - Logic Tracer.
@@ -806,11 +807,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Ren Yanjie](https://github.com/Rose1917) - bool2dimacs, RustLogic.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Bas Zalmstra](https://github.com/baszalmstra) - Resolvo.
-- [Alexey Zatelepin](https://github.com/ztlpn) - minilp.
+- [Alexey Zatelepin](https://github.com/ztlpn) - ~~minilp~~.
 - [Eric Zhang](https://www.ekzhang.com) - µKanren-rs.
 - [Hanliang Zhang](https://github.com/KomaEc) - sat.
-- [Tesla Ice Zhang](https://ice1000.org) - minitt-rs, Narc, Voile.
-- [Xie Zhongtao](https://github.com/francisol) - rssat, satgalaxy-rs.
+- [Tesla Ice Zhang](https://ice1000.org) - ~~minitt-rs~~, Narc, Voile.
+- [Xie Zhongtao](https://github.com/francisol) - rsmaxsat, ~~rssat~~, satgalaxy-rs.
 - [Felix Zhu](https://github.com/felixzhuologist) - lambdacube.
 - [Li Zhuohua](https://zhuohua.me) - MirChecker.
 - [Philip Zucker](https://github.com/philzook58) - res-rs.
