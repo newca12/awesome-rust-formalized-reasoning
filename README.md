@@ -240,7 +240,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli):star::diamonds:[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
 - [Metamath-knife](https://github.com/metamath/metamath-knife) [:package:](https://crates.io/crates/metamath-rs):star: - verify Metamath proofs.
 - [Mist](https://github.com/oeb25/mist) - userfriendly verification frontend language.
-- [Mizar proof checker](https://github.com/digama0/mizar-rs) :star::construction: - Alternative [Mizar](http://mizar.org) proof checker.
+- [Mizar proof checker](https://github.com/digama0/mizar-rs) :star: - Alternative [Mizar](http://mizar.org) proof checker.
 - [pocket_prover-set](https://github.com/advancedresearch/pocket_prover-set) [:package:](https://crates.io/crates/pocket_prover-set) - base logical system for PocketProver to reason about set properties.
 - [rate](https://github.com/krobelus/rate) [:package:](https://crates.io/crates/rate)[:package:](https://crates.io/crates/rate-common)[:package:](https://github.com/krobelus/rate)[:package:](https://crates.io/crates/rate-proof-utils)[:package:](https://crates.io/crates/rate-sick-check):diamonds:[:lab_coat:](https://github.com/krobelus/rate-experiments/blob/master/thesis.pdf) - clausal proof checker (DRAT, DPR) for certifying SAT solvers' unsatisfiability results.
 - [rlfsc](https://github.com/alex-ozdemir/rlfsc) [:package:](https://crates.io/crates/rlfsc):zzz: - checker for the LFSC proof language.
@@ -275,7 +275,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Patronus](https://github.com/ekiwi/patronus) [:package:](https://crates.io/crates/patronus):construction: - btor2 parser, wip hardware bug-finding toolkit.
 - [RustLogic](https://github.com/Rose1917/rustlogic) [:package:](https://crates.io/crates/rustlogic-march1917) - parsing and handling simple logical expressings.
 - [smt2](https://github.com/regular-pv/smt2) [:package:](https://crates.io/crates/smt2) - SMT-LIB 2 parsing library.
-- [tptp](https://github.com/MichaelRawson/tptp) [:package:](https://crates.io/crates/tptp):diamonds: - parse the TPTP format.
+- [tptp](https://github.com/MichaelRawson/tptp) [:package:](https://crates.io/crates/tptp):diamonds::zzz: - parse the TPTP format.
 
 #### Bindings
 
@@ -411,6 +411,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Pika](https://github.com/tolziplohu/pika) :star::construction: - small, performance-oriented, dependently typed ML with algebraic effects and unboxed types..
 - [Pikelet](https://github.com/pikelet-lang/pikelet) [:package:](https://crates.io/crates/pikelet):star::zzz: - small, functional, dependently typed programming language.
 - [proto-vulcan](https://github.com/terohuttunen/proto-vulcan) [:package:](https://crates.io/crates/proto-vulcan)[:package:](https://crates.io/crates/proto-vulcan-macros) - miniKanren-family relational logic programming language.
+- [reckon](https://github.com/adam-mcdaniel/reckon) :star: - programming language designed for reasoning tasks, proof checking, and logical inferencing.
 - [rooc](https://github.com/Specy/rooc) :mortar_board::star: - a language for compiling formal mathematical models into static models.
 - [Rust pi-forall](https://github.com/sourcedennis/rust-pi-forall) [:lab_coat:](https://github.com/sweirich/pi-forall/blob/2022/doc/oplss.pdf) - partial re-implementation of pi-forall.
 - [Scryer Prolog](https://github.com/mthom/scryer-prolog) [:package:](https://crates.io/crates/scryer-prolog):star: - modern Prolog implementation.
@@ -710,6 +711,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Niko Matsakis](http://smallcultfollowing.com/babysteps) - Chalk, Kani, plar-rs.
 - [Yusuke Matsushita](https://github.com/shiatsumat) - Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy, RustHorn.
 - [mbillingr](https://github.com/mbillingr) - miniKANREN, The Little Prover, the-little-typer.
+- [adam mcdaniel](https://github.com/adam-mcdaniel) - reckon.
 - [mcmfb](https://github.com/mcmfb) - ~~lambda_calc~~.
 - [Tom Meyer](https://github.com/Skasselbard) - Granite.
 - [Alexander Mishunin](https://github.com/mishun) - minisat-rust.
