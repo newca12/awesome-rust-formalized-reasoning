@@ -133,6 +133,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 #### Proof assistant
 
+- [Acorn](https://github.com/acornprover/acorn) :star: - theorem prover with built-in AI assistant.
 - [Canonical](https://github.com/chasenorman/Canonical) [:lab_coat:](https://arxiv.org/abs/2504.06239)[:tv:](https://www.youtube.com/watch?v=y6p0hHkabXs)[:tv:](https://www.youtube.com/watch?v=cyyR7j2ChCI):diamonds::star: - solver for type inhabitation in dependent type theory.
 - [~~cobalt~~](https://github.com/lcnr/cobalt) :recycle:[:ghost:](https://github.com/isgasho/cobalt) - a wip minimal proof assistant.
 - [Esther](https://github.com/aodhneine/esther) :zzz: - simple automated proof assistant.
@@ -549,8 +550,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 146 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 129 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 89 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 130 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 96 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 51 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 46 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 36 entries. :100:
@@ -682,6 +683,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Rahul Kumar](https://github.com/rahulku) - How Open Source Projects are Using Kani to Write Better Software in Rust, Rust std-lib verification.
 - [Prateek Kumar](https://prateekkumar.in) - ~~msat~~, ~~rsat~~, ~~slp~~, ~~SolHOP~~.
 - [Alexey Kutepov](https://tsoding.org) - Noq.
+- [Kevin Lacker](https://github.com/lacker) - Acorn.
 - [Ivan Ladelshchikov](https://github.com/tsionyx) - nonogrid.
 - [Kevin Laeufer](https://github.com/ekiwi) - Patronus.
 - [Aleksandr Larionov](https://github.com/snigavik) - bootfrost.
