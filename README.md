@@ -136,15 +136,19 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Acorn](https://github.com/acornprover/acorn) :star: - theorem prover with built-in AI assistant.
 - [Canonical](https://github.com/chasenorman/Canonical) [:lab_coat:](https://arxiv.org/abs/2504.06239)[:tv:](https://www.youtube.com/watch?v=y6p0hHkabXs)[:tv:](https://www.youtube.com/watch?v=cyyR7j2ChCI):diamonds::star: - solver for type inhabitation in dependent type theory.
 - [~~cobalt~~](https://github.com/lcnr/cobalt) :recycle:[:ghost:](https://github.com/isgasho/cobalt) - a wip minimal proof assistant.
+- [Croof](https://github.com/alexjercan/croof) :star: - simple math proof tool for simple math expressions.
 - [Esther](https://github.com/aodhneine/esther) :zzz: - simple automated proof assistant.
 - [hakim](https://github.com/babaeee/hakim) - hacky interactive theorem prover.
 - [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) [:lab_coat:](https://arxiv.org/abs/1812.10586)[:lab_coat:](https://arxiv.org/abs/1902.03831):diamonds::star: - implementation of homotopy.io proof assistant.
 - [LSTS](https://github.com/andrew-johnson-4/LSTS) [:package:](https://crates.io/crates/lsts):star: - proof assistant that is also a programming language.
 - [minimo](https://github.com/gpoesia/minimo) [:lab_coat:](https://arxiv.org/abs/2407.00695)[:lab_coat:](https://arxiv.org/abs/2211.15864):diamonds::star: - An environment for learning formal mathematical reasoning from scratch.
+- [nnoq](https://github.com/pro465/nnoq) - simple theorem prover (nay, verifier) based on functional expression rewriting.
 - [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZVE64QKPf6y_TIUwj5nKQ7):star: - Not Coq. Simple expression transformer that is not Coq.
+- [nyaya](https://github.com/pro465/nyaya) - proof language based on [sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus) and [Metamath](https://us.metamath.org).
 - [Poi](https://github.com/advancedresearch/poi) [:package:](https://crates.io/crates/poi):star: - pragmatic point-free theorem prover assistant.
 - [Proost](https://gitlab.crans.org/loutr/proost) - simple proof assistant.
 - [qbar](https://github.com/qdeduction/qbar) [:package:](https://crates.io/crates/qbar):zzz: - experimental automated theorem verifier/prover and proof assistant.
+- [shari](https://github.com/nyuichi/shari) - proof assistant based on the internal language of topos with NNO (intuitionistic higher-order arithmetic).
 
 #### Misc
 
@@ -162,8 +166,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star::zzz: - logic solver.
 - [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - simple induction and BMC engine.
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
-- [nnoq](https://github.com/pro465/nnoq) - simple theorem prover (nay, verifier) based on functional expression rewriting.
-- [nyaya](https://github.com/pro465/nyaya) - proof language based on [sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus) and [Metamath](https://us.metamath.org).
 - [Obvious](https://github.com/hargoniX/obvious) :zzz: - simple little logic solver and calculator.
 - [pocket_prover](https://github.com/advancedresearch/pocket_prover) [:package:](https://crates.io/crates/pocket_prover)[:package:](https://crates.io/crates/pocket_prover-derive):star: - fast, brute force, automatic theorem prover for first order logic.
 - [prover](https://github.com/varqox/prover) :skull: - first-order logic prover.
@@ -177,7 +179,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SAT solver ANalyser](https://github.com/SAT-solver-ANalyzer/SATAn) :construction: - toolbox for analyzing performance and runtime characteristics of SAT solvers.
 - [sequentprover](https://github.com/astrobeastie/sequentprover) :baby_chick: - proof search algorithm for boolean formulae.
 - [Sequent solver](https://github.com/Dacit/sequent_prover) :baby_chick::zzz: - simple sequent solver.
-- [shari](https://github.com/nyuichi/shari) - the 🍣 prover.
 - [SMTSCOPE](https://github.com/viperproject/smt-scope) - [:package:](https://crates.io/crates/smt-scope):star: - automatically analyses and visualises SMT solver execution traces.
 - [stupid-smt](https://github.com/Hoblovski/stupid-smt) :baby_chick::zzz: - SMT library. Mainly project at the verification course in THU.
 - [Tensor Theorem Prover](https://github.com/chanind/tensor-theorem-prover) - first-order logic theorem prover (support unification with approximate vector similarity).
@@ -549,9 +550,9 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 146 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 152 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 130 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 96 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 98 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 51 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 46 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 36 entries. :100:
@@ -647,6 +648,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Vinicius Gomes](https://github.com/vinisilvag) - NanoSAT, satsol.
 - [William Goodall](https://github.com/wgoodall01) - roq.
 - [Robert Grosse](https://github.com/Storyyeller) - cryptominisat-rs.
+- [Alexandru Jercan](https://github.com/alexjercan) - Croof.
 - [Masaki Hara](https://twitter.com/qnighy) - Logic solver, RatSat.
 - [Jannis Harder](https://jix.one) - Cnfpack, Flussab CNF, Minimal models, starlit, Varisat, Varisat notebook.
 - [David S. Hardin](https://github.com/david-s-hardin) - Hardware/Software Co-Assurance using the Rust Programming Language and ACL2, Verification of a Rust Implementation of Knuth's Dancing Links using ACL2.
