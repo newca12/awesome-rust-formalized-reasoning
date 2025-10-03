@@ -89,6 +89,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Debug-SAT](https://github.com/advancedresearch/debug_sat) [:package:](https://crates.io/crates/debug_sat):zzz: - debuggable automatic theorem prover for boolean satisfiability problems (SAT).
 - [dpll-sat](https://github.com/snsinfu/dpll-sat) :zzz: - naïve SAT solver implementing the classic DPLL algorithm.
 - [DRSAT](https://github.com/danielschemmel/drsat) - Daniel's Rusty SAT solver.
+- [logiq](https://github.com/CoCoSol007/logiq) [:package:](https://crates.io/crates/logiq) - a Domain-Specific Language for SAT Solving and a solver using advanced SAT solving algorithms.
 - [lutrix](https://github.com/arata-nvm/lutrix) :zzz: - SAT/SMT Solver.
 - [m2cSMT](https://gitlab.com/pierre.carbonnelle/m2csmt) [:package:](https://crates.io/crates/m2csmt) - solver of non-linear (in)equations encoded in a subset of the SMT-Lib format.
 - [microsat](https://github.com/RobScheidegger/microsat) [:package:](https://crates.io/crates/microsat) - tiny DPLL SAT-solver.
@@ -550,19 +551,19 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 152 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 130 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 98 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 155 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 131 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 99 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 51 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 46 entries. :100:
-- [satisfiability](https://crates.io/keywords/satisfiability) - 36 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 37 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 21 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 12 entries. :100
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100::
+- [sat-solver](https://crates.io/keywords/sat-solver) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
-- [sat-solver](https://crates.io/keywords/sat-solver) - 9 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 9 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 6 entries. :100:
@@ -606,6 +607,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Konstantin Chukharev](https://github.com/Lipen) - SAT Nexus, backdoor-solver.
 - [Guillaume Claret](https://github.com/clarus) - coq-of-rust, Formal Land.
 - [Cobalt](https://cobalt.rocks/) - SAT solver ANalyser.
+- [CoCoSol](https://github.com/CoCoSol007) - logiq.
 - [Lorenzo Colombini](https://github.com/Lorenzinco) - Colombini-SAT.
 - [convexbrain](https://github.com/convexbrain) - Totsu.
 - [David Cox](https://github.com/david-r-cox) - mps.
