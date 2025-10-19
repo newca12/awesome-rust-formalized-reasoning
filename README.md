@@ -476,6 +476,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [rust-proplogic-toylang](https://github.com/SnO2WMaN/rust-proplogic-toylang) :baby_chick: - toy language for Propositional Logic.
 - [rusty-logic](https://github.com/mcheatham/rusty-logic) :baby_chick::zzz: - propositional logic analysis.
 - [simple-proof-assistant](https://github.com/long-long-float/simple-proof-assistant) :baby_chick::zzz: - a proof assistant kernel for minimal propositional logic.
+- [type-proof](https://github.com/MrWoafer/type-proof) [:package:](https://crates.io/crates/type-proof)[:package:](https://crates.io/crates/type-proof-macros/) - crate for type-checked propositional logic proofs.
 - [validator](https://github.com/Maaarcocr/validator) :zzz: - small utility to test a propositional logic theorem prover.
 
 ## Unclassified
@@ -552,10 +553,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 155 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 131 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 99 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 134 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 101 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 51 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 46 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 47 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 37 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 21 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
@@ -794,7 +795,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Fabian Thorand](https://github.com/fatho) - LogRu.
 - [Hitoshi Togasaki](https://github.com/togatoga) - scrapsat, screwsat.
-- [Callum Tolley](https://github.com/trolleyman) - plc
+- [Callum Tolley](https://github.com/trolleyman) - plc.
+- [William Towler](https://github.com/MrWoafer) - type-proof.
 - [Aaron Trent](https://github.com/novacrazy) - tribool.
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
