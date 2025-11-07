@@ -235,6 +235,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Misc
 
 - [ArcsJs - Provable](https://github.com/project-oak/arcsjs-provable) - set of ArcsJs focused tools for doing proofs on ArcsJs models.
+- [AutoVerus: Verus Proof Synthesis](https://github.com/microsoft/verus-proof-synthesis)[:lab_coat:](https://arxiv.org/pdf/2409.13082):star: - code and artifacts for automated Verus proof synthesis.
 - [Bounded Registers](https://github.com/auxoncorp/bounded-registers) [:package:](https://crates.io/crates/bounded-registers):star: - high-assurance memory-mapped register interaction library.
 - [Carcara](https://github.com/ufmg-smite/carcara) :star:[:lab_coat:](https://team.inria.fr/veridis/files/2023/05/carcara.pdf) - proof checker and elaborator for SMT proofs in the [Alethe format](https://verit.gitlabpages.uliege.be/alethe/specification.pdf).
 - [ceetle](https://github.com/AzeezDa/ceetle) [:package:](https://crates.io/crates/ceetle)[:package:](https://crates.io/crates/ceetle_macros) - library for defining models in Computational Tree Logic and verifying their semantics.
@@ -552,7 +553,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 155 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 156 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 134 entries. :100:
 - [verification](https://crates.io/keywords/verification) - 101 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 51 entries. :100:
@@ -814,6 +815,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Jan Winkelmann](https://github.com/keks) - smtlib-syntax.
 - [Florian Würmseer](https://github.com/FWuermse) - SAT-Solver.
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
+- [Chenyuan Yang](https://github.com/YangChenyuan) - AutoVerus: Verus Proof Synthesis.
 - [Ren Yanjie](https://github.com/Rose1917) - bool2dimacs, RustLogic.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Bas Zalmstra](https://github.com/baszalmstra) - Resolvo.
