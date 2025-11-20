@@ -19,6 +19,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
     - [Misc](#misc)
   - [Verification](#verification)
     - [Static Analysis & Rust verification tools/framework](#static-analysis--rust-verification-toolsframework)
+    - [Formally verified](#formally-verified)
     - [Misc](#misc-1)
   - [Libraries](#libraries)
     - [Parser](#parser)
@@ -232,10 +233,15 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [vostd](https://github.com/asterinas/vostd) - formal verification of Asterinas OSTD with Verus.
 - [Xori](https://github.com/endgameinc/xori) :star::zzz: - static analysis library for PE32, 32+ and shellcode.
 
+#### Formally verified
+
+- [verdict](https://github.com/secure-foundations/verdict) [:package:](https://crates.io/crates/verdict)[:lab_coat:](https://verdict.rs/paper)[:watch:](https://github.com/secure-foundations/verdict-bench) - end-to-end formally verified X.509 certificate validation library.
+- [vest](https://github.com/secure-foundations/vest) [:package:](https://crates.io/crates/vest):star:[:lab_coat:](https://tracycy.com/papers/vest-usenix-security25.pdf) - high-assurance and performant parsing and serialization of binary data formats verified in Verus.
+
 #### Misc
 
 - [ArcsJs - Provable](https://github.com/project-oak/arcsjs-provable) - set of ArcsJs focused tools for doing proofs on ArcsJs models.
-- [AutoVerus: Verus Proof Synthesis](https://github.com/microsoft/verus-proof-synthesis)[:lab_coat:](https://arxiv.org/pdf/2409.13082):star: - code and artifacts for automated Verus proof synthesis.
+- [AutoVerus: Verus Proof Synthesis](https://github.com/microsoft/verus-proof-synthesis):star:[:lab_coat:](https://arxiv.org/pdf/2409.13082) - code and artifacts for automated Verus proof synthesis.
 - [Bounded Registers](https://github.com/auxoncorp/bounded-registers) [:package:](https://crates.io/crates/bounded-registers):star: - high-assurance memory-mapped register interaction library.
 - [Carcara](https://github.com/ufmg-smite/carcara) :star:[:lab_coat:](https://team.inria.fr/veridis/files/2023/05/carcara.pdf) - proof checker and elaborator for SMT proofs in the [Alethe format](https://verit.gitlabpages.uliege.be/alethe/specification.pdf).
 - [ceetle](https://github.com/AzeezDa/ceetle) [:package:](https://crates.io/crates/ceetle)[:package:](https://crates.io/crates/ceetle_macros) - library for defining models in Computational Tree Logic and verifying their semantics.
@@ -553,11 +559,11 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 156 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 134 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 101 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 157 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 142 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 104 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 51 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 47 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 48 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 37 entries. :100:
 - [linear-programming](https://crates.io/keywords/linear-programming) - 21 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
@@ -565,10 +571,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [prover](https://crates.io/keywords/prover) - 12 entries. :100
 - [cnf](https://crates.io/keywords/cnf) - 10 entries. :100::
 - [sat-solver](https://crates.io/keywords/sat-solver) - 10 entries. :100:
+- [dependent-types](https://crates.io/keywords/dependent-types) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [z3](https://crates.io/keywords/z3) - 9 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
-- [dependent-types](https://crates.io/keywords/dependent-types) - 6 entries. :100:
 - [dimacs](https://crates.io/keywords/dimacs) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
 
@@ -817,12 +823,14 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
 - [Chenyuan Yang](https://github.com/YangChenyuan) - AutoVerus: Verus Proof Synthesis.
 - [Ren Yanjie](https://github.com/Rose1917) - bool2dimacs, RustLogic.
+- [Yi Cai](https://github.com/y1ca1) - vest.
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Bas Zalmstra](https://github.com/baszalmstra) - Resolvo.
 - [Alexey Zatelepin](https://github.com/ztlpn) - ~~minilp~~.
 - [Eric Zhang](https://www.ekzhang.com) - µKanren-rs.
 - [Hanliang Zhang](https://github.com/KomaEc) - sat.
 - [Tesla Ice Zhang](https://ice1000.org) - ~~minitt-rs~~, Narc, Voile.
+- [Lin Zhengyao](https://github.com/zhengyao-lin) - verdict.
 - [Xie Zhongtao](https://github.com/francisol) - rsmaxsat, ~~rssat~~, satgalaxy-rs.
 - [Felix Zhu](https://github.com/felixzhuologist) - lambdacube.
 - [Li Zhuohua](https://zhuohua.me) - MirChecker.
