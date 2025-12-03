@@ -299,6 +299,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [cplex-rs](https://github.com/mbiggio/cplex-rs) [:package:](https://crates.io/crates/cplex-rs)[:package:](https://crates.io/crates/cplex-rs-sys) - safe rust bindings for [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer).
 - [cryptominisat-rs](https://github.com/storyyeller/cryptominisat-rs) [:package:](https://crates.io/crates/cryptominisat):zzz: - bindings for [CryptoMiniSat](https://github.com/msoos/cryptominisat).
 - [EasyZ3](https://github.com/PatrickTheElder/easyz3) [:package:](https://crates.io/crates/easyz3) - simplified API to get started with the z3 SAT solver.
+- [Espresso Logic Minimizer](https://github.com/marlls1989/espresso-logic) [:package:](https://crates.io/crates/espresso-logic)[:package:](https://crates.io/crates/espresso-logic-macros) - bindings to the [Espresso](https://ptolemy.berkeley.edu/projects/embedded/pubs/downloads/espresso/index.htm) heuristic logic minimiser from UC Berkeley.
 - [falcon-z3](https://github.com/falconre/falcon-z3) [:package:](https://crates.io/crates/falcon-z3) - bindings for Z3.
 - [highs](https://github.com/rust-or/highs) [:package:](https://crates.io/crates/highs) - safe rust bindings for the [HiGHS](https://highs.dev) linear programming solver.
 - [highs-sys](https://github.com/rust-or/highs-sys) [:package:](https://crates.io/crates/highs-sys) - bindings for the [HiGHS](https://highs.dev) linear programming solver.
@@ -467,7 +468,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [implies](https://github.com/armaan-rashid/implies) [:package:](https://crates.io/crates/implies) - storing logical formulas as parse trees and performing complex operations on them.
 - [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic):baby_chick::zzz: - crate for propositional logic.
 - [logic-resolver](https://github.com/gustafla/logic-resolver) :baby_chick::zzz: - toy implementation of resolution for propositional logic.
-- [Logic Tracer](https://github.com/Yrrrrrf/logic_tracer) [:package:](https://crates.io/crates/logic_tracer) - reads a logical proposition and interprets it to build the truth table and the AST.
+- [Logic Tracer](https://github.com/Yrrrrrf/logic_tracer) [:package:](https://crates.io/crates/logic_tracer)[:package:](https://crates.io/crates/digital)[:package:](https://crates.io/crates/proposition) - reads a logical proposition and interprets it to build the truth table and the AST.
 - [mini-prop](https://github.com/emilHof/mini-prop) [:package:](https://crates.io/crates/mini-prop) - CLI tool for parsing and processing LaTex formatted propositional statements.
 - [plc](https://github.com/trolleyman/plc) :zzz: - propositional logic calculator.
 - [Plogic](https://github.com/Janko-dev/plogic) :star: - propositional logic evaluator and rule-based pattern matcher.
@@ -774,6 +775,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
 - [Salman Saghafi](https://github.com/salmans) - rust-z3-practice, Rusty Razor.
 - [Michael Salter](https://github.com/salterm) - Rustproof, rustproof-libsmt.
+- [Marcos Sartori](https://github.com/marlls1989) - Espresso Logic Minimizer.
 - [Robert Scheidegger](https://github.com/RobScheidegger) - microsat.
 - [Daniel Schemmel](https://daniel.schemmel.net) - DRSAT.
 - [Ryan Schroeder](https://ryan-s.net) - AbsoluteUnity, epilog.
