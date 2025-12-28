@@ -191,6 +191,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 #### Static Analysis & Rust verification tools/framework
 
+- [::formally](https://github.com/formally-fm/formally) [:package:](https://crates.io/crates/formally-cli)[:package:](https://crates.io/crates/formally-io)[:package:](https://crates.io/crates/formally-smt)[:package:](https://crates.io/crates/formally-smt-macros)[:package:](https://crates.io/crates/formally-support)[:package:](https://crates.io/crates/formally-support-macros):construction: - extensible toolchain for building formal methods tools and applications.
 - [Charon](https://github.com/sonmarcho/charon) :star:[:lab_coat:](https://arxiv.org/abs/2410.18042):fire: - interface with the rustc compiler for the purpose of program verification.
 - [coq-of-rust](https://github.com/formal-land/coq-of-rust) :star: - formal verification for Rust.
 - [contracts](https://gitlab.com/karroffel/contracts) [:package:](https://crates.io/crates/contracts):star: - implements "[Design By Contract](https://en.wikipedia.org/wiki/Design_by_contract)" via procedural macros.
@@ -285,11 +286,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [olean-rs](https://github.com/digama0/olean-rs) :zzz: - parser/viewer for olean files.
 - [Patronus](https://github.com/ekiwi/patronus) [:package:](https://crates.io/crates/patronus):construction: - btor2 parser, wip hardware bug-finding toolkit.
 - [RustLogic](https://github.com/Rose1917/rustlogic) [:package:](https://crates.io/crates/rustlogic-march1917) - parsing and handling simple logical expressings.
+- [smt-str](https://github.com/lotzk/smt-str) [:package:](https://crates.io/crates/smt-str) - data structures and utilities to parse, manipulate, and reason about [SMT-LIB strings](https://smt-lib.org/theories-UnicodeStrings.shtml).
 - [smt2](https://github.com/regular-pv/smt2) [:package:](https://crates.io/crates/smt2) - SMT-LIB 2 parsing library.
 - [tptp](https://github.com/MichaelRawson/tptp) [:package:](https://crates.io/crates/tptp):diamonds::zzz: - parse the TPTP format.
 
 #### Bindings
 
+- [bddminisat-sys]() [:package:](https://crates.io/crates/bddminisat-sys) - FFI bindings to [bdd_minisat_all](http://www.sd.is.uec.ac.jp/toda/code/cnf2obdd.html), a BDD-based AllSAT solver.
 - [boolector](https://github.com/cdisselkoen/boolector-rs) [:package:](https://crates.io/crates/boolector) - safe high-level bindings for the [Boolector](https://boolector.github.io) SMT solver.
 - [bitwuzla-sys](https://github.com/fatemender/bitwuzla-sys) [:package:](https://crates.io/crates/bitwuzla-sys) - low-level bindings for the [Bitwuzla](https://bitwuzla.github.io) SMT solver.
 - [boolector-sys](https://github.com/fatemender/boolector-sys) [:package:](https://crates.io/crates/boolector-sys) - low-level bindings for the [Boolector](https://boolector.github.io) SMT solver.
@@ -467,6 +470,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ## Propositional logic
 
 - [~~Chevre~~](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
+- [clawgic](https://github.com/shoobooshooboo/clawgic) [:package:](https://crates.io/crates/clawgic) - logic engine for making, modifying, and evaluating expressions from sentential logic.
 - [implies](https://github.com/armaan-rashid/implies) [:package:](https://crates.io/crates/implies) - storing logical formulas as parse trees and performing complex operations on them.
 - [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic):baby_chick::zzz: - crate for propositional logic.
 - [logic-resolver](https://github.com/gustafla/logic-resolver) :baby_chick::zzz: - toy implementation of resolution for propositional logic.
@@ -562,17 +566,17 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 162 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 145 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 109 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 52 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 48 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 168 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 148 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 115 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 54 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 52 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 37 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 22 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 23 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
+- [prover](https://crates.io/keywords/prover) - 13 entries. :100
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
-- [prover](https://crates.io/keywords/prover) - 12 entries. :100
-- [cnf](https://crates.io/keywords/cnf) - 10 entries. :100::
+- [cnf](https://crates.io/keywords/cnf) - 11 entries. :100::
 - [sat-solver](https://crates.io/keywords/sat-solver) - 10 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
@@ -656,6 +660,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Alexey Gerasimov](https://github.com/fan-tom) - Liquid Rust.
 - [Jad Ghalayini](https://gitlab.com/tekne) - ~~isotope-prover-experiments~~, lean-sys.
 - [Mohammed Ghannam](https://github.com/mmghannam) - russcip, scip-sys.
+- [Nicola Gigante](https://github.com/nicola-gigante) - ::formally.
 - [Nathan Graule ](https://github.com/SolarLiner) - rs-logik.
 - [Brandon H. Gomes](https://github.com/bhgomes) - qbar.
 - [Vinicius Gomes](https://github.com/vinisilvag) - NanoSAT, satsol.
@@ -714,7 +719,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Ophir LOJKINE](https://github.com/lovasoa) - highs, highs-sys, good_lp.
 - [Emmanuel Lonca](https://github.com/elonca) - Decdnnf-rs, Ipasir-loading, pblib-rs.
-- [Kevin Lotz](https://github.com/lotzk) - isabelle-client.
+- [Kevin Lotz](https://github.com/lotzk) - isabelle-client, smt-str.
 - [Andrew Luka](https://github.com/sirandreww) - cadical-sys.
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
 - [Michael Madden](https://github.com/mikemadden42) - Xori.
@@ -792,6 +797,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [J David Smith](https://github.com/emallson) - rplex.
 - [SnO₂WMaN](https://github.com/SnO2WMaN) - rust-proplogic-toylang.
 - [snsinfu](https://github.com/snsinfu) - dpll-sat.
+- [Takehide Soh](https://github.com/TakehideSoh) - bddminisat-sys.
 - [Mikhail Solovev](https://github.com/fatemender) - bitwuzla-sys, boolector-sys.
 - [Ben Sparkes](https://github.com/teeaychem) - otter_sat.
 - [Specy](https://github.com/Specy) - microlp, rooc.
@@ -813,6 +819,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Sebastian Ullrich](https://twitter.com/derKha) - A Formal Verification of Rust's Binary Search Implementation, electrolysis, Simple Verification of Rust Programs via Functional Purification.
 - [V4kst1z](https://github.com/v4kst1z) - tapl, TIP.
 - [Alexa VanHattum](https://github.com/avanhatt) - Artifact Evaluation: Kani Rust Verifier (Kani).
+- [Noel vanSchaick](https://github.com/shoobooshooboo) - clawgic.
 - [Pavol Vargovčík](https://github.com/p4l1ly) - z3-rust.
 - [Herman Venter](https://github.com/hermanventer) - MIRAI, Rust static analysis/verification reading and resources.
 - [Mark Verleg](https://markv.nl) - prover(2).
