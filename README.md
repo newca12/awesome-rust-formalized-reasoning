@@ -525,6 +525,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Research Paper & Thesis
 
+- [Miri: Practical Undefined Behavior Detection for Rust](https://plf.inf.ethz.ch/research/popl26-miri.html) - 2026.
 - [How to discover short, shorter, and the shortest proofs of unsatisfiability](https://arxiv.org/pdf/2411.07955)[:factory:](https://zenodo.org/records/14051922) - 2024
 - [A hybrid approach to semi-automated Rust verification](https://arxiv.org/pdf/2403.15122) - 2024.
 - [Verification of a Rust Implementation of Knuth's Dancing Links using ACL2](https://arxiv.org/abs/2311.08862v1) - 2023.
@@ -692,7 +693,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Evan Johnson](https://github.com/enjhnsn2) - VeriWasm.
 - [Dylan R. Johnston](https://dylanj.xyz) - Formally Verifying Rust's Opaque Types.
 - [Matthias Jugan](https://github.com/Apfelbeet) - LogicNG, logicng-open-wbo-sys.
-- [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language.
+- [Ralf Jung](https://www.ralfj.de) - Understanding and Evolving the Rust Programming Language, Miri: Practical Undefined Behavior Detection for Rust.
 - [Oskari Jyrkinen](https://github.com/oskari1) - Axiom Profiler 2.0.
 - [jzbor](https://github.com/jzbor) - Lambda Shell.
 - [Carl Kadie](https://github.com/CarlKCarlK) - Check AI-Generated Code Perfectly and Automatically.
