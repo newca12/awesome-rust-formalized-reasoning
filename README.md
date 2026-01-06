@@ -639,7 +639,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Sushant Dinesh](https://github.com/sushant94) - libsmt.rs.
 - [Sylvie Dirkswager](https://github.com/tolziplohu) - Pika.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
-- [Andrei Dobrescu](https://github.com/andob) - INCL Automated Theorem Prover.
+- [Andrei Dobrescu](https://github.com/andob), [Marian Călborean](https://www.mariancalborean.com/) - INCL Automated Theorem Prover.
 - [Dragon-Hatcher](https://github.com/Dragon-Hatcher) - Type System Chess.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir, rust-smt-ir-examples, rust-smt-strings.
