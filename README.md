@@ -46,6 +46,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ## Legend
 
 - Actively maintened :fire:
+- Announcement :loudspeaker:
 - Archived :skull:
 - Benchmark :watch:
 - Best in Class :diamonds:
@@ -98,6 +99,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [msat](https://github.com/solhop/msat) [:package:](https://crates.io/crates/msat):skull: - MaxSAT Solver.
 - [NanoSAT](https://github.com/vinisilvag/nanosat) :construction: - almost-efficient implementation of the Conflit-Driven Clause Learning (CDCL) framework.
 - [otter_sat](https://github.com/teeaychem/otter_sat) [:package:](https://crates.io/crates/otter_sat) - CDCL SAT solver written for skill and research.
+- [OxiZ](https://github.com/cool-japan/oxiz) [:package:](https://crates.io/crates/oxiz-core)[:package:](https://crates.io/crates/oxiz-mat)[:package:](https://crates.io/crates/oxiz-nlsat)[:package:](https://crates.io/crates/oxiz-opt)[:package:](https://crates.io/crates/oxiz-proof)[:package:](https://crates.io/crates/oxiz-sat)[:package:](https://crates.io/crates/oxiz-solver)[:package:](https://crates.io/crates/oxiz-spacer)[:package:](https://crates.io/crates/oxiz-theories)[:loudspeaker:](https://kitasanio.medium.com/oxiz-0-1-1-why-we-are-re-inventing-the-smt-solver-in-pure-rust-z3-compatible-smt-solver-b5c3139dab1f):diamonds: - this project reimplements [Z3](https://www.microsoft.com/en-us/research/project/z3-3/).
 - [RatSat](https://github.com/qnighy/ratsat) [:package:](https://crates.io/crates/ratsat)[:package:](https://crates.io/crates/ratsat-bin):star::zzz: - reimplementation of MiniSat.
 - [Resolvo](https://github.com/mamba-org/resolvo) [:package:](https://crates.io/crates/resolvo):star: - fast package resolver (CDCL based SAT solving).
 - [rsat](https://github.com/solhop/rsat) [:package:](https://crates.io/crates/rsat):skull: - SAT Solver.
@@ -399,6 +401,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 *There is [numerous](https://github.com/search?l=Rust&q=tapl&type=Repositories) implementations of TAPL [:book:](https://www.cis.upenn.edu/~bcpierce/tapl), we keep only the most popular and keep an eye on implementations that worth attention.*
 
+- [harrison-rust](https://github.com/aetilley/harrison-rust) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp):star: - library for SAT solving and automated theorem proving derived from the book.
 - [logic-rs](https://github.com/ixjf/logic-rs) [:book:](https://ruccs.rutgers.edu/lepore-meaning-and-argument/lepore-about-the-book):star::zzz: - parser of relational predicate logic & truth tree solver
 - [plar-rs](https://github.com/nikomatsakis/plar-rs) [:book:](https://www.cl.cam.ac.uk/~jrh13/atp):zzz:[:ghost:](https://github.com/newca12/plar-rs) - exploring John Harrison's Handbook of Practical Logic and Automated Reasoning.
 - [program-proofs-prusti](https://github.com/viperproject/program-proofs-prusti) [:book:](https://program-proofs.com/) - examples and exercises from the book Program Proofs by K. Rustan M. Leino.
@@ -568,20 +571,20 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 ### Crates keywords
 
 - [solver](https://crates.io/keywords/solver) - 168 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 148 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 115 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 54 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 52 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 151 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 126 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 64 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 56 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 37 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 23 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 24 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 13 entries. :100
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
+- [dependent-types](https://crates.io/keywords/dependent-types) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 11 entries. :100::
 - [sat-solver](https://crates.io/keywords/sat-solver) - 10 entries. :100:
-- [dependent-types](https://crates.io/keywords/dependent-types) - 10 entries. :100:
+- [z3](https://crates.io/keywords/z3) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
-- [z3](https://crates.io/keywords/z3) - 9 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [dimacs](https://crates.io/keywords/dimacs) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
@@ -702,6 +705,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [karroffel](https://gitlab.com/karroffel) - contracts.
 - [Anto Keinänen](https://github.com/antoKeinanen) - logical_solver, logical_tui.
 - [Franziskus Kiefer](https://github.com/franziskuskiefer) - Hax.
+- [Tetsuya Kitahata](https://github.com/cool-japan) - OxiZ.
 - [Rahul Kumar](https://github.com/rahulku) - How Open Source Projects are Using Kani to Write Better Software in Rust, Rust std-lib verification.
 - [Prateek Kumar](https://prateekkumar.in) - ~~msat~~, ~~rsat~~, ~~slp~~, ~~SolHOP~~.
 - [Alexey Kutepov](https://tsoding.org) - Noq.
@@ -813,6 +817,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Sven Thiele](https://github.com/sthiele) - clingo-rs.
 - [Mark Thom](https://github.com/mthom) - Scryer Prolog.
 - [Fabian Thorand](https://github.com/fatho) - LogRu.
+- [Arthur Tilley](https://github.com/aetilley) - harrison-rust.
 - [Hitoshi Togasaki](https://github.com/togatoga) - scrapsat, screwsat.
 - [Callum Tolley](https://github.com/trolleyman) - plc.
 - [William Towler](https://github.com/MrWoafer) - type-proof.
