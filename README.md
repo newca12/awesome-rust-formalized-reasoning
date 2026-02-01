@@ -153,6 +153,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Proost](https://gitlab.crans.org/loutr/proost) - simple proof assistant.
 - [qbar](https://github.com/qdeduction/qbar) [:package:](https://crates.io/crates/qbar):zzz: - experimental automated theorem verifier/prover and proof assistant.
 - [shari](https://github.com/nyuichi/shari) - proof assistant based on the internal language of topos with NNO (intuitionistic higher-order arithmetic).
+- [watson](https://github.com/Dragon-Hatcher/watson) - a proof assistant with an extensible syntax system and Lua-based tactics.
 
 #### Misc
 
@@ -332,6 +333,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [scip-sys](https://github.com/scipopt/scip-sys) [:package:](https://crates.io/crates/scip-sys) - raw rust bindings to [SCIP](https://www.scipopt.org).
 - [smt_sb-rs](https://github.com/DavidD12/smt_sb-rs) [:package:](https://crates.io/crates/smt_sb-rs) - Z3 SMT Simple Binding.
 - [smtlib](https://github.com/oeb25/smtlib-rs) [:package:](https://crates.io/crates/smtlib)[:package:](https://crates.io/crates/smtlib-lowlevel)[:package:](https://crates.io/crates/smtlib-build-util) - high-level API for interacting with SMT solvers.
+- [vampire-rs](https://github.com/Dragon-Hatcher/vampire-rs) [:package:](https://crates.io/crates/vampire-prover)[:package:](https://crates.io/crates/vampire-sys) - safe Rust bindings to the [Vampire](https://vprover.github.io/) theorem prover for first-order logic with equality.
 - [vipers](https://github.com/oeb25/vipers) - crates for interacting with the Viper verification infrastructure.
 - [Yices2](https://github.com/novafacing/yices2-rs) [:package:](https://crates.io/crates/yices2)[:package:](https://crates.io/crates/yices2-sys) - low and high-level bindings to the [Yices2](https://yices.csl.sri.com/) SMT solver.
 - [z3](https://github.com/prove-rs/z3.rs) [:package:](https://crates.io/crates/z3)[:package:](https://crates.io/crates/z3-sys):star::fire: - high-level and low-level Rust bindings for the Z3 solver.
@@ -643,7 +645,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Sylvie Dirkswager](https://github.com/tolziplohu) - Pika.
 - [Craig Disselkoen](https://cseweb.ucsd.edu/~cdisselk) - boolector.
 - [Andrei Dobrescu](https://github.com/andob), [Marian Călborean](https://www.mariancalborean.com/) - INCL Automated Theorem Prover.
-- [Dragon-Hatcher](https://github.com/Dragon-Hatcher) - Type System Chess.
+- [Dragon-Hatcher](https://github.com/Dragon-Hatcher) - Type System Chess, vampire-rs, watson.
 - [Mark Drobnak](https://github.com/AzureMarker) - p4-analyzer.
 - [Bruno Dutertre](https://github.com/BrunoDutertre) - rust-smt-ir, rust-smt-ir-examples, rust-smt-strings.
 - [Thomas Dziedzic](https://www.thomasdziedzic0.com) - lambda_calculus.
