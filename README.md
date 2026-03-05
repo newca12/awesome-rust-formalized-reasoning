@@ -316,6 +316,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [isabelle-client](https://github.com/lotzk/rust-isabelle-client) [:package:](https://crates.io/crates/isabelle-client) - client to interact with an [Isabelle](https://isabelle.in.tum.de) server.
 - [Kissat-rs](https://github.com/firefighterduck/kissat-rs) [:package:](https://crates.io/crates/kissat) - bindings for the Kissat SAT solver.
 - [lean-sys](https://github.com/digama0/lean-sys) [:package:](https://crates.io/crates/lean-sys):star: - bindings to [Lean 4](https://github.com/leanprover/lean4)'s C API.
+- [Leo3](https://github.com/AndPuQing/leo3) [:package:](https://crates.io/crates/leo3)[:package:](https://crates.io/crates/leo3-ffi)[:package:](https://crates.io/crates/leo3-macros)[:package:](crates.io/crates/leo3-build-config) - safe, ergonomic Rust bindings to the [Lean4](https://github.com/leanprover/lean4) theorem prover, inspired by [PyO3](https://github.com/PyO3/pyo3)'s architecture..
 - [libsmt.rs](https://github.com/sushant94/libsmt.rs) :zzz: - bindings for SMTLIB2.
 - [logicng-open-wbo-sys](https://github.com/booleworks/logicng-rs) [:package:](https://crates.io/crates/logicng-open-wbo-sys) - low-level LogicNG bindings for the MaxSAT solver [Open-WBO](https://github.com/sat-group/open-wbo).
 - [lpsolve](https://docs.rs/crate/lpsolve/latest/source) [:package:](https://crates.io/crates/lpsolve)[:package:](https://crates.io/crates/lpsolve-sys):zzz: - high-level [lpsolve](https://sourceforge.net/projects/lpsolve) wrapper.
@@ -430,7 +431,8 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [isotope-prover-experiments](https://gitlab.com/tekne/isotope-prover-experiments) [:lab_coat:](https://gitlab.com/tekne/phd-proposal/-/blob/main/report.tex)[:lab_coat:](https://gitlab.com/isotope-project/msc-thesis/-/blob/master/thesis.tex):skull: - experimental dependently typed language supporting borrow checking.
 - [Kind](https://github.com/HigherOrderCO/Kind) [:package:](https://crates.io/crates/kind2):star: - next-gen functional language and proof assistant.
 - [Last Order Logic](https://github.com/advancedresearch/last_order_logic.git) [:package:](https://crates.io/crates/last_order_logic) - experimental logical language.
-- [Logicaffeine](https://github.com/Brahmastra-Labs/logicaffeine) [:package:](https://crates.io/crates/logicaffeine-language)[:package:](https://crates.io/crates/logicaffeine-compile)[:package:](https://crates.io/crates/logicaffeine-lsp)[:package:](https://crates.io/crates/logicaffeine-kernel)[:package:](https://crates.io/crates/logicaffeine-proof)[:package:](https://crates.io/crates/logicaffeine-lexicon)[:package:](https://crates.io/crates/logicaffeine-base)[:package:](https://crates.io/crates/logicaffeine-data)[:package:](https://crates.io/crates/logicaffeine-system)[:package:](https://crates.io/crates/logicaffeine-cli):star: - LOGOS compiles your words into programs, proofs, and formal systems.
+- [Lean-Claude](https://github.com/xiyuzhai/lean-rs) - rewrite Lean4 Compiler in Rust, using only Claude Code.
+- [Logicaffeine](https://github.com/Brahmastra-Labs/logicaffeine) [:package:](https://crates.io/crates/logicaffeine-language)[:package:](https://crates.io/crates/logicaffeine-compile)[:package:](https://crates.io/crates/logicaffeine-lsp)[:package:](https://crates.io/crates/logicaffeine-kernel)[:package:](https://crates.io/crates/logicaffeine-proof)[:package:](https://crates.io/crates/logicaffeine-lexicon)[:package:](https://crates.io/crates/logicaffeine-base)[:package:](https://crates.io/crates/logicaffeine-data)[:package:](https://crates.io/crates/logicaffeine-system)[:package:](https://crates.io/crates/logicaffeine-cli):star: - compiles your words into programs, proofs, and formal systems.
 - [minihl](https://github.com/firefighterduck/minihl) - formal methods playgorund for MiniHeapLang language.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util):star::skull: - became Voile.
 - [Narc](https://github.com/owo-lang/narc-rs) [:package:](https://crates.io/crates/nar):star::zzz: - dependently-typed programming language with Agda style dependent pattern matching.
@@ -578,22 +580,22 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [solver](https://crates.io/keywords/solver) - 178 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 185 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 183 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 167 entries. :100:
-- [verification](https://crates.io/keywords/verification) - 126 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 68 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 56 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 60 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 39 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 25 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 26 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 13 entries. :100
-- [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
-- [dependent-types](https://crates.io/keywords/dependent-types) - 12 entries. :100:
+- [smt-lib](https://crates.io/keywords/smt-lib) - 15 entries. :100:
+- [dependent-types](https://crates.io/keywords/dependent-types) - 15 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 12 entries. :100::
 - [z3](https://crates.io/keywords/z3) - 11 entries. :100:
 - [sat-solver](https://crates.io/keywords/sat-solver) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
-- [dimacs](https://crates.io/keywords/dimacs) - 7 entries. :100:
+- [dimacs](https://crates.io/keywords/dimacs) - 9 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
 
@@ -602,6 +604,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Mikko Aarnos](https://github.com/mAarnos) - Serkr.
 - [Johannes Altmanninger](https://github.com/krobelus) - rate.
 - [ammkrn](https://twitter.com/ammkrn) - ~~nanoda~~, nanoda_lib, second_opinion.
+- [AndPuQing](https://github.com/AndPuQing) - Leo3.
 - [Bruno Andreotti](https://github.com/bpandreotti) - Carcara.
 - [Arata](https://github.com/arata-nvm) - lutrix.
 - [arbaregni](https://github.com/arbaregni) - resolution-prover.
@@ -797,7 +800,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Benjamin Rogers-Newsome](https://github.com/BenRogersNewsome) - Rust First Order Logic.
 - [Erik Rohkohl](https://blogs.itemis.com/author/erik-rohkohl) - n-queens-sat.
 - [Marco Concetto Rudilosso](https://github.com/Maaarcocr) - validator.
-- [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs. 
+- [Josh Rule](http://www.joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs.
 - [Salman Saghafi](https://github.com/salmans) - rust-z3-practice, Rusty Razor.
 - [Michael Salter](https://github.com/salterm) - Rustproof, rustproof-libsmt.
 - [Marcos Sartori](https://github.com/marlls1989) - Espresso Logic Minimizer.
@@ -857,6 +860,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Brendan Zabarauskas](https://github.com/brendanzab) - Fathom, moniker, Pikelet, rust-nbe-for-mltt.
 - [Bas Zalmstra](https://github.com/baszalmstra) - Resolvo.
 - [Alexey Zatelepin](https://github.com/ztlpn) - ~~minilp~~.
+- [Xiyu Zhai](https://github.com/xiyuzhai) - Lean-Claude.
 - [Eric Zhang](https://www.ekzhang.com) - µKanren-rs.
 - [Hanliang Zhang](https://github.com/KomaEc) - sat.
 - [Tesla Ice Zhang](https://ice1000.org) - ~~minitt-rs~~, Narc, Voile.
