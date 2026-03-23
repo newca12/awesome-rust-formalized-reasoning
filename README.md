@@ -306,6 +306,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [clingo-rs](https://github.com/potassco/clingo-rs) [:package:](https://crates.io/crates/clingo)[:package:](https://crates.io/crates/clingo-derive)[:package:](https://crates.io/crates/clingo-sys):star: - idiomatic bindings to the [clingo](https://github.com/potassco/clingo) library.
 - [cplex-rs](https://github.com/mbiggio/cplex-rs) [:package:](https://crates.io/crates/cplex-rs)[:package:](https://crates.io/crates/cplex-rs-sys) - safe rust bindings for [CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer).
 - [cryptominisat-rs](https://github.com/storyyeller/cryptominisat-rs) [:package:](https://crates.io/crates/cryptominisat):zzz: - bindings for [CryptoMiniSat](https://github.com/msoos/cryptominisat).
+- [cvc5-rs](https://github.com/cvc5/cvc5-rs) [:package:](https://crates.io/crates/cvc5-rs)[:package:](https://crates.io/crates/cvc5-sys) - safe, high-level Rust bindings for the [cvc5](https://cvc5.github.io/) SMT solver.
 - [EasyZ3](https://github.com/PatrickTheElder/easyz3) [:package:](https://crates.io/crates/easyz3) - simplified API to get started with the z3 SAT solver.
 - [Espresso Logic Minimizer](https://github.com/marlls1989/espresso-logic) [:package:](https://crates.io/crates/espresso-logic)[:package:](https://crates.io/crates/espresso-logic-macros) - bindings to the [Espresso](https://ptolemy.berkeley.edu/projects/embedded/pubs/downloads/espresso/index.htm) heuristic logic minimiser from UC Berkeley.
 - [falcon-z3](https://github.com/falconre/falcon-z3) [:package:](https://crates.io/crates/falcon-z3) - bindings for Z3.
@@ -580,19 +581,19 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [verification](https://crates.io/keywords/verification) - 185 entries. :100:
-- [solver](https://crates.io/keywords/solver) - 183 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 167 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 68 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 207 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 190 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 182 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 74 entries. :100:
 - [sat](https://crates.io/keywords/sat) - 60 entries. :100:
-- [satisfiability](https://crates.io/keywords/satisfiability) - 39 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 26 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 40 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 27 entries. :100:
+- [dependent-types](https://crates.io/keywords/dependent-types) - 18 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
-- [prover](https://crates.io/keywords/prover) - 13 entries. :100
-- [smt-lib](https://crates.io/keywords/smt-lib) - 15 entries. :100:
-- [dependent-types](https://crates.io/keywords/dependent-types) - 15 entries. :100:
+- [prover](https://crates.io/keywords/prover) - 14 entries. :100
+- [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 12 entries. :100::
-- [z3](https://crates.io/keywords/z3) - 11 entries. :100:
+- [z3](https://crates.io/keywords/z3) - 12 entries. :100:
 - [sat-solver](https://crates.io/keywords/sat-solver) - 10 entries. :100:
 - [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
 - [dimacs](https://crates.io/keywords/dimacs) - 9 entries. :100:
@@ -697,7 +698,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Emil Hofstetter](https://emilhofstetter.dev) - mini-prop, prop_tune.
 - [Khaled Hosseini](https://github.com/KhaledHosseini) - Propositional logic evaluator.
 - [hrkzmnm](https://github.com/hrkzmnm) - rust_z3prover.
-- [Jason Hu](https://www.getprog.ai/profile/6101711) - sat-interface, Yaspar, Yaspar-IR.
+- [Jason Hu](https://www.getprog.ai/profile/6101711) - cvc5-rs, sat-interface, Yaspar, Yaspar-IR.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Noel Huibers](https://github.com/NoelHuibers) - Hashi - Bridges Puzzle.
 - [Christoph Jabs](https://github.com/chrjabs) - Scuttle, maxpre-rs, rustsat.
