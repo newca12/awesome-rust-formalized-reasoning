@@ -62,6 +62,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - Popular :star:
 - Research paper :lab_coat:
 - Toy project :baby_chick:
+- Vibe coding :robot:
 - Video :tv:
 - Web demo :eyes:
 - WIP :construction:
@@ -149,6 +150,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [nnoq](https://github.com/pro465/nnoq) - simple theorem prover (nay, verifier) based on functional expression rewriting.
 - [Noq](https://github.com/tsoding/Noq) [:tv:](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZVE64QKPf6y_TIUwj5nKQ7):star: - Not Coq. Simple expression transformer that is not Coq.
 - [nyaya](https://github.com/pro465/nyaya) - proof language based on [sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus) and [Metamath](https://us.metamath.org).
+- [OxiLean](https://github.com/cool-japan/oxilean) [:package:](https://crates.io/crates/oxilean)[:package:](https://crates.io/crates/oxilean-build)[:package:](https://crates.io/crates/oxilean-cli)[:package:](https://crates.io/crates/oxilean-codegen)[:package:](https://crates.io/crates/oxilean-elab)[:package:](https://crates.io/crates/oxilean-kernel)[:package:](https://crates.io/crates/oxilean-lint)[:package:](https://crates.io/crates/oxilean-meta)[:package:](https://crates.io/crates/oxilean-parse)[:package:](https://crates.io/crates/oxilean-runtime)[:package:](https://crates.io/crates/oxilean-std)[:package:](https://crates.io/crates/oxilean-wasm):robot: - theorem prover & dependent type checker inspired by Lean 4.
 - [Poi](https://github.com/advancedresearch/poi) [:package:](https://crates.io/crates/poi):star: - pragmatic point-free theorem prover assistant.
 - [Proost](https://gitlab.crans.org/loutr/proost) - simple proof assistant.
 - [qbar](https://github.com/qdeduction/qbar) [:package:](https://crates.io/crates/qbar):zzz: - experimental automated theorem verifier/prover and proof assistant.
@@ -317,7 +319,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [isabelle-client](https://github.com/lotzk/rust-isabelle-client) [:package:](https://crates.io/crates/isabelle-client) - client to interact with an [Isabelle](https://isabelle.in.tum.de) server.
 - [Kissat-rs](https://github.com/firefighterduck/kissat-rs) [:package:](https://crates.io/crates/kissat) - bindings for the Kissat SAT solver.
 - [lean-sys](https://github.com/digama0/lean-sys) [:package:](https://crates.io/crates/lean-sys):star: - bindings to [Lean 4](https://github.com/leanprover/lean4)'s C API.
-- [Leo3](https://github.com/AndPuQing/leo3) [:package:](https://crates.io/crates/leo3)[:package:](https://crates.io/crates/leo3-ffi)[:package:](https://crates.io/crates/leo3-macros)[:package:](crates.io/crates/leo3-build-config) - safe, ergonomic Rust bindings to the [Lean4](https://github.com/leanprover/lean4) theorem prover, inspired by [PyO3](https://github.com/PyO3/pyo3)'s architecture..
+- [Leo3](https://github.com/AndPuQing/leo3) [:package:](https://crates.io/crates/leo3)[:package:](https://crates.io/crates/leo3-ffi)[:package:](https://crates.io/crates/leo3-macros)[:package:](crates.io/crates/leo3-build-config) - safe, ergonomic Rust bindings to the [Lean4](https://github.com/leanprover/lean4) theorem prover, inspired by [PyO3](https://github.com/PyO3/pyo3)'s architecture.
 - [libsmt.rs](https://github.com/sushant94/libsmt.rs) :zzz: - bindings for SMTLIB2.
 - [logicng-open-wbo-sys](https://github.com/booleworks/logicng-rs) [:package:](https://crates.io/crates/logicng-open-wbo-sys) - low-level LogicNG bindings for the MaxSAT solver [Open-WBO](https://github.com/sat-group/open-wbo).
 - [lpsolve](https://docs.rs/crate/lpsolve/latest/source) [:package:](https://crates.io/crates/lpsolve)[:package:](https://crates.io/crates/lpsolve-sys):zzz: - high-level [lpsolve](https://sourceforge.net/projects/lpsolve) wrapper.
@@ -433,7 +435,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Kind](https://github.com/HigherOrderCO/Kind) [:package:](https://crates.io/crates/kind2):star: - next-gen functional language and proof assistant.
 - [Last Order Logic](https://github.com/advancedresearch/last_order_logic.git) [:package:](https://crates.io/crates/last_order_logic) - experimental logical language.
 - [Lean-Claude](https://github.com/xiyuzhai/lean-rs) - rewrite Lean4 Compiler in Rust, using only Claude Code.
-- [Logicaffeine](https://github.com/Brahmastra-Labs/logicaffeine) [:package:](https://crates.io/crates/logicaffeine-language)[:package:](https://crates.io/crates/logicaffeine-compile)[:package:](https://crates.io/crates/logicaffeine-lsp)[:package:](https://crates.io/crates/logicaffeine-kernel)[:package:](https://crates.io/crates/logicaffeine-proof)[:package:](https://crates.io/crates/logicaffeine-lexicon)[:package:](https://crates.io/crates/logicaffeine-base)[:package:](https://crates.io/crates/logicaffeine-data)[:package:](https://crates.io/crates/logicaffeine-system)[:package:](https://crates.io/crates/logicaffeine-cli):star: - compiles your words into programs, proofs, and formal systems.
+- [Logicaffeine](https://github.com/Brahmastra-Labs/logicaffeine) [:package:](https://crates.io/crates/logicaffeine-language)[:package:](https://crates.io/crates/logicaffeine-compile)[:package:](https://crates.io/crates/logicaffeine-lsp)[:package:](https://crates.io/crates/logicaffeine-kernel)[:package:](https://crates.io/crates/logicaffeine-proof)[:package:](https://crates.io/crates/logicaffeine-lexicon)[:package:](https://crates.io/crates/logicaffeine-base)[:package:](https://crates.io/crates/logicaffeine-data)[:package:](https://crates.io/crates/logicaffeine-system)[:package:](https://crates.io/crates/logicaffeine-cli)[:package:](https://crates.io/crates/logicaffeine-verify):star: - compiles your words into programs, proofs, and formal systems.
 - [minihl](https://github.com/firefighterduck/minihl) - formal methods playgorund for MiniHeapLang language.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) [:package:](https://crates.io/crates/minitt)[:package:](https://crates.io/crates/minitt-util):star::skull: - became Voile.
 - [Narc](https://github.com/owo-lang/narc-rs) [:package:](https://crates.io/crates/nar):star::zzz: - dependently-typed programming language with Agda style dependent pattern matching.
@@ -581,15 +583,17 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [verification](https://crates.io/keywords/verification) - 207 entries. :100:
-- [solver](https://crates.io/keywords/solver) - 190 entries. :100:
-- [logic](https://crates.io/keywords/logic) - 182 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 229 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 200 entries. :100:
+- [logic](https://crates.io/keywords/logic) - 186 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 74 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 60 entries. :100:
-- [satisfiability](https://crates.io/keywords/satisfiability) - 40 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 27 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 62 entries. :100:
+- [satisfiability](https://crates.io/keywords/satisfiability) - 41 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 32 entries. :100:
+- [lean](https://crates.io/keywords/lean) - 31 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 18 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
+- [proof-assistant](https://crates.io/keywords/proof-assistant) - 15 entries. :100:
 - [prover](https://crates.io/keywords/prover) - 14 entries. :100
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 12 entries. :100::
@@ -720,7 +724,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [karroffel](https://gitlab.com/karroffel) - contracts.
 - [Anto Keinänen](https://github.com/antoKeinanen) - logical_solver, logical_tui.
 - [Franziskus Kiefer](https://github.com/franziskuskiefer) - Hax.
-- [Tetsuya Kitahata](https://github.com/cool-japan) - OxiZ.
+- [Tetsuya Kitahata](https://github.com/cool-japan) - OxiLean, OxiZ.
 - [Mike Kuykendall](https://github.com/Michael-A-Kuykendall) - Logician.
 - [Rahul Kumar](https://github.com/rahulku) - How Open Source Projects are Using Kani to Write Better Software in Rust, Rust std-lib verification.
 - [Prateek Kumar](https://prateekkumar.in) - ~~msat~~, ~~rsat~~, ~~slp~~, ~~SolHOP~~.
