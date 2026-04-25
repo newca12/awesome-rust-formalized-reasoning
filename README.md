@@ -184,9 +184,10 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [SAT-bench](https://github.com/shnarazk/SAT-bench) - benchmark suit for SAT solvers.
 - [sat_lab](https://github.com/arenaudineau/sat_lab) :baby_chick::construction: - framework for manipulating SAT problems.
 - [SAT solver ANalyser](https://github.com/SAT-solver-ANalyzer/SATAn) :construction: - toolbox for analyzing performance and runtime characteristics of SAT solvers.
+- [scalop](https://github.com/crillab/crustabri) [:package:](https://crates.io/crates/scalop) - argumentation solver.
 - [sequentprover](https://github.com/astrobeastie/sequentprover) :baby_chick: - proof search algorithm for boolean formulae.
 - [Sequent solver](https://github.com/Dacit/sequent_prover) :baby_chick::zzz: - simple sequent solver.
-- [SMTSCOPE](https://github.com/viperproject/smt-scope) - [:package:](https://crates.io/crates/smt-scope):star: - automatically analyses and visualises SMT solver execution traces.
+- [SMTSCOPE](https://github.com/viperproject/smt-scope) [:package:](https://crates.io/crates/smt-scope):star: - automatically analyses and visualises SMT solver execution traces.
 - [stupid-smt](https://github.com/Hoblovski/stupid-smt) :baby_chick::zzz: - SMT library. Mainly project at the verification course in THU.
 - [Tensor Theorem Prover](https://github.com/chanind/tensor-theorem-prover) - first-order logic theorem prover (support unification with approximate vector similarity).
 - [theorem-prover](https://github.com/jchenche/theorem-prover) - implementation of a theorem prover for first-order logic.
@@ -255,6 +256,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Chalk](https://github.com/rust-lang/chalk) [:package:](https://crates.io/crates/chalk-solve)[:package:](https://crates.io/crates/chalk-derive)[:package:](https://crates.io/crates/chalk-engine)[:package:](https://crates.io/crates/chalk-ir)[:package:](https://crates.io/crates/chalk-macros)[:package:](https://crates.io/crates/chalk-recursive)[:package:](https://crates.io/crates/chalk-rust-ir):star: - implements the Rust trait system, based on Prolog-ish logic rules.
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli):star::diamonds:[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
+- [Legalis-RS](https://github.com/cool-japan/legalis) [:package:](https://crates.io/crates/legalis-verifier) - formal verification for Legalis-RS legal statutes.
 - [Metamath-knife](https://github.com/metamath/metamath-knife) [:package:](https://crates.io/crates/metamath-rs):star: - verify Metamath proofs.
 - [Mist](https://github.com/oeb25/mist) - userfriendly verification frontend language.
 - [Mizar proof checker](https://github.com/digama0/mizar-rs) :star: - Alternative [Mizar](http://mizar.org) proof checker.
@@ -406,6 +408,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [tribool](https://github.com/novacrazy/rust-tribool) [:package:](https://crates.io/crates/tribool):zzz: - three-valued logic.
 - [The Trivial Metamath Zero kernel](https://github.com/trivial-rs/kernel) [:package:](https://crates.io/crates/trivial-kernel):zzz: - Metamath Zero kernel for Trivial.
 - [Whisper](https://github.com/sdleffler/whisper) :star::zzz: - logic Programming DSL.
+- [xmt-lib](https://github.com/pcarbonn/xmtlib) [:package:](https://crates.io/crates/xmt-lib) - grounder for SMT solvers.
 - [Yaspar-IR](https://github.com/yaspar-org/yaspar-ir) [:package:](https://crates.io/crates/yaspar-ir) - provides a few representations of SMT scripts and other functionalities.
 
 ## Books code
@@ -583,23 +586,23 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [verification](https://crates.io/keywords/verification) - 229 entries. :100:
-- [solver](https://crates.io/keywords/solver) - 200 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 257 entries. :100:
+- [solver](https://crates.io/keywords/solver) - 213 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 186 entries. :100:
-- [smt](https://crates.io/keywords/smt) - 74 entries. :100:
-- [sat](https://crates.io/keywords/sat) - 62 entries. :100:
+- [smt](https://crates.io/keywords/smt) - 77 entries. :100:
+- [sat](https://crates.io/keywords/sat) - 65 entries. :100:
 - [satisfiability](https://crates.io/keywords/satisfiability) - 41 entries. :100:
-- [linear-programming](https://crates.io/keywords/linear-programming) - 32 entries. :100:
-- [lean](https://crates.io/keywords/lean) - 31 entries. :100:
+- [linear-programming](https://crates.io/keywords/linear-programming) - 33 entries. :100:
+- [lean](https://crates.io/keywords/lean) - 32 entries. :100:
 - [dependent-types](https://crates.io/keywords/dependent-types) - 18 entries. :100:
 - [proving](https://crates.io/keywords/proving) - 16 entries. :100:
 - [proof-assistant](https://crates.io/keywords/proof-assistant) - 15 entries. :100:
-- [prover](https://crates.io/keywords/prover) - 14 entries. :100
+- [prover](https://crates.io/keywords/prover) - 13 entries. :100
+- [z3](https://crates.io/keywords/z3) - 13 entries. :100:
 - [smt-lib](https://crates.io/keywords/smt-lib) - 12 entries. :100:
 - [cnf](https://crates.io/keywords/cnf) - 12 entries. :100::
-- [z3](https://crates.io/keywords/z3) - 12 entries. :100:
 - [sat-solver](https://crates.io/keywords/sat-solver) - 10 entries. :100:
-- [rewriting](https://crates.io/keywords/rewriting) - 9 entries. :100:
+- [rewriting](https://crates.io/keywords/rewriting) - 10 entries. :100:
 - [dimacs](https://crates.io/keywords/dimacs) - 9 entries. :100:
 - [first-order](https://crates.io/keywords/first-order) - 6 entries. :100:
 - [metamath-zero](https://crates.io/keywords/metamath-zero) - 5 entries. :100:
@@ -630,7 +633,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Oliver Bøving](https://github.com/oeb25) - Mist, smtlib, vipers.
 - [Lee ByeongJun](https://github.com/notJoon) - Lambda Calculus Parser.
 - [Bickio O'Callahan](https://github.com/Bickio) - Solving The Witness with Z3.
-- [Pierre Carbonnelle](https://gitlab.com/pierre.carbonnelle) - m2cSMT.
+- [Pierre Carbonnelle](https://gitlab.com/pierre.carbonnelle) - m2cSMT, xmt-lib.
 - [Mario Carneiro](https://github.com/digama0) - coq-rs, FRAT-rs, hz-to-mm0, isabelle export tool, Metamath hammer, Metamath-knife, Mizar proof checker, mm0-rs, olean-rs.
 - [Tej Chajed](https://github.com/tchajed) - Temporal Verifier.
 - [Adrien Champion](https://github.com/AdrienChampion) - hoice, ~~Kinō~~, matla, Mikino, rsmt2, SAT-MICRO, Verification for Dummies.
@@ -724,7 +727,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [karroffel](https://gitlab.com/karroffel) - contracts.
 - [Anto Keinänen](https://github.com/antoKeinanen) - logical_solver, logical_tui.
 - [Franziskus Kiefer](https://github.com/franziskuskiefer) - Hax.
-- [Tetsuya Kitahata](https://github.com/cool-japan) - OxiLean, OxiZ.
+- [Tetsuya Kitahata](https://github.com/cool-japan) - Legalis-RS, OxiLean, OxiZ.
 - [Mike Kuykendall](https://github.com/Michael-A-Kuykendall) - Logician.
 - [Rahul Kumar](https://github.com/rahulku) - How Open Source Projects are Using Kani to Write Better Software in Rust, Rust std-lib verification.
 - [Prateek Kumar](https://prateekkumar.in) - ~~msat~~, ~~rsat~~, ~~slp~~, ~~SolHOP~~.
@@ -743,7 +746,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Nathan Lilienthal](https://nixpulvis.com/) - lambash, lalrpop-lambda.
 - [ljedrz](https://github.com/ljedrz) - blc, lambda_calculus.
 - [Ophir LOJKINE](https://github.com/lovasoa) - highs, highs-sys, good_lp.
-- [Emmanuel Lonca](https://github.com/elonca) - Decdnnf-rs, Ipasir-loading, pblib-rs.
+- [Emmanuel Lonca](https://github.com/elonca) - Decdnnf-rs, Ipasir-loading, pblib-rs, scalop.
 - [Kevin Lotz](https://github.com/lotzk) - isabelle-client, smt-str.
 - [Andrew Luka](https://github.com/sirandreww) - cadical-sys.
 - [Patrick Lühne](https://www.luehne.de) - anthem, foliage.
