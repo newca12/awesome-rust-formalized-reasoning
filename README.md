@@ -171,6 +171,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [INCL Automated Theorem Prover](https://github.com/andob/INCL-automated-theorem-prover) [:book:](https://www.cambridge.org/core/books/an-introduction-to-nonclassical-logic/61AD69C1D1B88006588B26C37F3A788E)[:eyes:](https://andob.io/incl) - multi logic theorem prover based on Graham Priests 2008 book.
 - [linear_solver](https://github.com/advancedresearch/linear_solver) [:package:](https://crates.io/crates/linear_solver):star: - linear solver designed to be easy to use with Rust enums.
 - [Logic solver](https://github.com/qnighy/logic-solver-rs) :star::zzz: - logic solver.
+- [lolli](https://github.com/ibrahimcesar/lolli) [:package:](https://crates.io/crates/lolli-cli)[:package:](https://crates.io/crates/lolli-codegen)[:package:](https://crates.io/crates/lolli-core)[:package:](https://crates.io/crates/lolli-extract)[:package:](https://crates.io/crates/lolli-parse)[:package:](https://crates.io/crates/lolli-prove)[:package:](https://crates.io/crates/lolli-viz) - linear logic workbench: parse, prove, extract, and compile linear logic to Rust.
 - [Mikino](https://github.com/OCamlPro/mikino) [:package:](https://crates.io/crates/mikino)[:package:](https://crates.io/crates/mikino_api) - simple induction and BMC engine.
 - [Monotonic-Solver](https://github.com/advancedresearch/monotonic_solver) [:package:](https://crates.io/crates/monotonic_solver):star: - monotonic solver designed to be easy to use with Rust enum expressions.
 - [Obvious](https://github.com/hargoniX/obvious) :zzz: - simple little logic solver and calculator.
@@ -198,7 +199,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 #### Static Analysis & Rust verification tools/framework
 
 - [::formally](https://github.com/formally-fm/formally) [:package:](https://crates.io/crates/formally-cli)[:package:](https://crates.io/crates/formally-io)[:package:](https://crates.io/crates/formally-smt)[:package:](https://crates.io/crates/formally-smt-macros)[:package:](https://crates.io/crates/formally-support)[:package:](https://crates.io/crates/formally-support-macros):construction: - extensible toolchain for building formal methods tools and applications.
-- [Charon](https://github.com/sonmarcho/charon) :star:[:lab_coat:](https://arxiv.org/abs/2410.18042):fire: - interface with the rustc compiler for the purpose of program verification.
+- [Charon](https://github.com/AeneasVerif/charon) :star:[:lab_coat:](https://arxiv.org/abs/2410.18042):fire: - interface with the rustc compiler for the purpose of program verification.
 - [coq-of-rust](https://github.com/formal-land/coq-of-rust) :star: - formal verification for Rust.
 - [contracts](https://gitlab.com/karroffel/contracts) [:package:](https://crates.io/crates/contracts):star: - implements "[Design By Contract](https://en.wikipedia.org/wiki/Design_by_contract)" via procedural macros.
 - [Creusot](https://github.com/xldenis/creusot) :star::fire: - tool for deductive verification of Rust code.
@@ -256,6 +257,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Chalk](https://github.com/rust-lang/chalk) [:package:](https://crates.io/crates/chalk-solve)[:package:](https://crates.io/crates/chalk-derive)[:package:](https://crates.io/crates/chalk-engine)[:package:](https://crates.io/crates/chalk-ir)[:package:](https://crates.io/crates/chalk-macros)[:package:](https://crates.io/crates/chalk-recursive)[:package:](https://crates.io/crates/chalk-rust-ir):star: - implements the Rust trait system, based on Prolog-ish logic rules.
 - [Kinō](https://github.com/kino-mc/kino) :skull: - re-implementation of the core verification engine of [Kind 2 model-checker](https://kind2-mc.github.io/kind2).
 - [Kontroli](https://github.com/01mf02/kontroli-rs) [:package:](https://crates.io/crates/dedukti-parse)[:package:](https://crates.io/crates/kocheck)[:package:](https://crates.io/crates/kontroli):star::diamonds:[:tv:](https://www.youtube.com/watch?v=lLjWBsU_BX0)[:lab_coat:](https://arxiv.org/pdf/2102.08766.pdf) - alternative implementation of the logical framework Dedukti.
+- [lean-tui](https://codeberg.org/wvhulle/lean-tui) [:package:](https://crates.io/crates/lean-tui) - standalone TUI infoview for Lean 4 theorem prover.
 - [Legalis-RS](https://github.com/cool-japan/legalis) [:package:](https://crates.io/crates/legalis-verifier) - formal verification for Legalis-RS legal statutes.
 - [Metamath-knife](https://github.com/metamath/metamath-knife) [:package:](https://crates.io/crates/metamath-rs):star: - verify Metamath proofs.
 - [Mist](https://github.com/oeb25/mist) - userfriendly verification frontend language.
@@ -349,7 +351,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 #### Translator
 
-- [anthem](https://github.com/potassco/anthem) :zzz: - translate answer set programs to first-order theorem prover language.
+- [anthem](https://github.com/potassco/anthem) [:package:](https://crates.io/crates/anthem):fire: - translate answer set programs to first-order theorem prover language (v2, complete rewrite).
 - [bool2dimacs](https://github.com/Rose1917/bool2dimacs) [:package:](https://crates.io/crates/bool2cnf) - transfer boolean expression to dimacs directly.
 - [CNFGEN](https://github.com/matszpk/cnfgen) [:package:](https://crates.io/crates/cnfgen) - create boolean formulae from boolean expressions and integer expressions.
 - [CNFGEN 2](https://github.com/matszpk/cnfgen2) [:package:](https://crates.io/crates/cnfgen2) - newer version of CNFGEN - DIMACS CNF generator.
@@ -490,6 +492,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [~~Chevre~~](https://github.com/pvdrz/chevre) :recycle: - small propositional logic interpreter.
 - [clawgic](https://github.com/shoobooshooboo/clawgic) [:package:](https://crates.io/crates/clawgic) - logic engine for making, modifying, and evaluating expressions from sentential logic.
+- [hooo](https://github.com/advancedresearch/hooo) [:package:](https://crates.io/crates/hooo) - propositional logic with exponentials (HOOO EP).
 - [implies](https://github.com/armaan-rashid/implies) [:package:](https://crates.io/crates/implies) - storing logical formulas as parse trees and performing complex operations on them.
 - [logic](https://github.com/nextzhou/logic) [:package:](https://crates.io/crates/logic):baby_chick::zzz: - crate for propositional logic.
 - [logic-resolver](https://github.com/gustafla/logic-resolver) :baby_chick::zzz: - toy implementation of resolution for propositional logic.
@@ -586,7 +589,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 ### Crates keywords
 
-- [verification](https://crates.io/keywords/verification) - 257 entries. :100:
+- [verification](https://crates.io/keywords/verification) - 271 entries. :100:
 - [solver](https://crates.io/keywords/solver) - 213 entries. :100:
 - [logic](https://crates.io/keywords/logic) - 186 entries. :100:
 - [smt](https://crates.io/keywords/smt) - 77 entries. :100:
@@ -708,6 +711,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Jason Hu](https://www.getprog.ai/profile/6101711) - cvc5-rs, sat-interface, Yaspar, Yaspar-IR.
 - [Tero Huttunen](https://github.com/terohuttunen) - proto-vulcan.
 - [Noel Huibers](https://github.com/NoelHuibers) - Hashi - Bridges Puzzle.
+- [ibrahimcesar](https://github.com/ibrahimcesar) - lolli.
 - [Christoph Jabs](https://github.com/chrjabs) - Scuttle, maxpre-rs, rustsat.
 - [Bart Jacobs](https://github.com/btj) - VeriFast.
 - [Alex Jackson](https://github.com/alexjackson1) - sat-solvers.
@@ -774,7 +778,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Jon Nadal](https://github.com/jonnadal) - Stateright.
 - [Chandrakana Nandi](https://github.com/chandrakananandi) - Ruler.
 - [neuring](https://github.com/neuring) - rummy_to_sat, Satoxid.
-- [Sven Nilsen](https://github.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Caso, Debug-SAT, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
+- [Sven Nilsen](https://github.com/bvssvni) - Avalog, Avatar Hypergraph Rewriting, Caso, Debug-SAT, hooo, Joker Calculus, Last Order Logic, linear_solver, Monotonic-Solver, pocket_prover, pocket_prover-set, Poi, Prop, reachability_solver.
 - [Yuichi Nishiwaki](https://github.com/nyuichi) - shari.
 - [Chase Norman](https://github.com/chasenorman) - Canonical.
 - [Stefan O'Rear](https://github.com/sorear) - smetamath.
@@ -860,6 +864,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Max Willsey](https://www.mwillsey.com) - egg, egglog.
 - [Ivo Wingelaar](https://github.com/IvoWingelaar) - compiler, mmb-binutils, mmb-parser, mmb-types, The Trivial Metamath Zero kernel, Verifier.
 - [Jan Winkelmann](https://github.com/keks) - smtlib-syntax.
+- [wvhulle](https://codeberg.org/wvhulle) - lean-tui.
 - [Florian Würmseer](https://github.com/FWuermse) - SAT-Solver.
 - [Jieyou Xu](https://github.com/jieyouxu) - Propositional Tableaux Solver.
 - [Chenyuan Yang](https://github.com/YangChenyuan) - AutoVerus: Verus Proof Synthesis.
