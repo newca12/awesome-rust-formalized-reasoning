@@ -79,6 +79,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lerna](https://github.com/MichaelRawson/lerna) :skull: - proves theorems.
 - [lickety](https://github.com/MichaelRawson/lickety) :zzz: - prototype system for linear resolution with splitting.
 - [meancop](https://github.com/01mf02/cop-rs) [:package:](https://crates.io/crates/meancop):recycle: - became CoP.
+- [mrs](https://github.com/newca12/mrs) [:package:](https://crates.io/crates/mrs)[:package:](https://crates.io/crates/mrs-calculus)[:package:](https://crates.io/crates/mrs-cnf)[:package:](https://crates.io/crates/mrs-core)[:package:](https://crates.io/crates/mrs-index)[:package:](https://crates.io/crates/mrs-proof)[:package:](https://crates.io/crates/mrs-search)[:package:](https://crates.io/crates/mrs-szs)[:package:](https://crates.io/crates/mrs-tptp)[:package:](https://crates.io/crates/mrs-unify):robot::construction: - automated theorem prover using superposition calculus.
 - [res-rs](https://github.com/philzook58/res-rs) :construction: - first bits for first-order logic prover.
 - [Serkr](https://github.com/mAarnos/Serkr) :star:[:ghost:](https://github.com/newca12/Serkr) - automated theorem prover for first order logic with equality.
 - [theorem-prover-rs](https://github.com/boitsov14/theorem-prover-rs) - rewrite of [theorem-prover-kt](https://github.com/boitsov14/theorem-prover-kt) a sequent-style automated theorem prover.
@@ -200,7 +201,6 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 - [::formally](https://github.com/formally-fm/formally) [:package:](https://crates.io/crates/formally-cli)[:package:](https://crates.io/crates/formally-io)[:package:](https://crates.io/crates/formally-smt)[:package:](https://crates.io/crates/formally-smt-macros)[:package:](https://crates.io/crates/formally-support)[:package:](https://crates.io/crates/formally-support-macros):construction: - extensible toolchain for building formal methods tools and applications.
 - [Charon](https://github.com/AeneasVerif/charon) :star:[:lab_coat:](https://arxiv.org/abs/2410.18042):fire: - interface with the rustc compiler for the purpose of program verification.
-- [rocq-of-rust](https://github.com/formal-land/rocq-of-rust) :star: - formal verification for Rust.
 - [contracts](https://gitlab.com/karroffel/contracts) [:package:](https://crates.io/crates/contracts):star: - implements "[Design By Contract](https://en.wikipedia.org/wiki/Design_by_contract)" via procedural macros.
 - [Creusot](https://github.com/creusot-rs/creusot) :star::fire: - tool for deductive verification of Rust code.
 - [crux-mir](https://github.com/GaloisInc/crucible/tree/master/crux-mir) :star:[:lab_coat:](https://arxiv.org/abs/2410.18280) - static simulator for Rust programs.
@@ -223,6 +223,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [r2u2_core](https://github.com/R2U2/r2u2/tree/rust-develop) [:package:](https://crates.io/crates/r2u2_core)[:lab_coat:](https://zenodo.org/records/7889284) - Realizable, Reconfigurable, Unobtrusive Unit (R2U2) stream-based runtime verification.
 - [RefinedRust](https://gitlab.mpi-sws.org/lgaeher/refinedrust-dev) [:lab_coat:](https://dl.acm.org/doi/10.1145/3656422) - type system for high-assurance verification of Rust Programs.
 - [rIC3 Hardware Model Checker](https://github.com/gipsyh/rIC3) [:package:](https://crates.io/crates/rIC3)[:watch:](https://hwmcc.github.io/2024/):star: - high-performance implementation of the IC3/PDR algorithm.
+- [rocq-of-rust](https://github.com/formal-land/rocq-of-rust) :star: - formal verification for Rust.
 - [Rudra](https://github.com/sslab-gatech/Rudra) :star:[:lab_coat:](https://github.com/sslab-gatech/Rudra/blob/master/rudra-sosp21.pdf) - static analyzer to detect common undefined behaviors in Rust programs.
 - [Rust Software Verification Benchmarks](https://github.com/alastairreid/rust-benchmarks) :zzz: - collection of Rust verification benchmarks with their verifier crates.
 - [Rust static analysis/verification reading and resources](https://github.com/facebookexperimental/MIRAI/blob/main/documentation/FurtherReading.md) :information_source: - for further reading.
@@ -292,12 +293,13 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [lp_parser_rs](https://github.com/dandxy89/lp_parser_rs) [:package:](https://crates.io/crates/lp_parser_rs) - LP file parser.
 - [mmb-parser](https://github.com/trivial-rs/mmb-parser) [:package:](https://crates.io/crates/mmb-parser) - parser for the Metamath Zero binary proof format.
 - [mps](https://github.com/integrated-reasoning/mps) [:package:](https://crates.io/crates/mps) - fast MPS parser.
+- [mrs-tptp](https://github.com/newca12/mrs) [:package:](https://crates.io/crates/mrs-tptp) :robot::diamonds: - high performance full featured TPTP parser.
 - [olean-rs](https://github.com/digama0/olean-rs) :zzz: - parser/viewer for olean files.
 - [Patronus](https://github.com/cucapra/patronus) [:package:](https://crates.io/crates/patronus):construction: - btor2 parser, wip hardware bug-finding toolkit.
 - [RustLogic](https://github.com/Rose1917/rustlogic) [:package:](https://crates.io/crates/rustlogic-march1917) - parsing and handling simple logical expressings.
 - [smt-str](https://github.com/lotzk/smt-str) [:package:](https://crates.io/crates/smt-str) - data structures and utilities to parse, manipulate, and reason about [SMT-LIB strings](https://smt-lib.org/theories-UnicodeStrings.shtml).
 - [smt2](https://github.com/regular-pv/smt2) [:package:](https://crates.io/crates/smt2) - SMT-LIB 2 parsing library.
-- [tptp](https://github.com/MichaelRawson/tptp) [:package:](https://crates.io/crates/tptp):diamonds::zzz: - parse the TPTP format.
+- [tptp](https://github.com/MichaelRawson/tptp) [:package:](https://crates.io/crates/tptp):star::zzz: - parse the TPTP format.
 - [Yaspar](https://github.com/yaspar-org/yaspar) [:package:](https://crates.io/crates/yaspar) - a parser for the [SMT-LIB 2.7](https://smt-lib.org/index.shtml) language generated by the [LARLPOP](https://github.com/lalrpop/lalrpop) parser generator.
 
 #### Bindings
@@ -811,6 +813,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 - [Nathan Ringo](https://remexre.com) - FALL.
 - [Benjamin Rogers-Newsome](https://github.com/BenRogersNewsome) - Rust First Order Logic.
 - [Erik Rohkohl](https://blogs.itemis.com/author/erik-rohkohl) - n-queens-sat.
+- [Olivier ROLAND](https://github.com/newca12) - mrs, mrs-tptp.
 - [Marco Concetto Rudilosso](https://github.com/Maaarcocr) - validator.
 - [Josh Rule](http://joshrule.com) - formal-systems-learning-rs, list-routine-learning-rs, term-rewriting-rs.
 - [Salman Saghafi](https://github.com/salmans) - rust-z3-practice, Rusty Razor.
