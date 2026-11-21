@@ -244,6 +244,7 @@ The purpose of [edla.org](http://www.edla.org) is to promote the state of the ar
 
 #### Formally verified
 
+- [Blubber](https://github.com/moshthepitt/blubber) [:package:](https://crates.io/crates/blubber)[:package:](https://crates.io/crates/blubber-core)[:package:](https://crates.io/crates/blubber-derive) - growable lists, strings and maps inside a Solana account, edited in place; Verus checks the byte-moving core.
 - [Rust standard library verification](https://github.com/model-checking/verify-rust-std) [:tv:](https://timclicks.dev/podcast/rahul-kumar-why-verify-rusts-stdlib):star: - verifying the Rust standard library.
 - [verdict](https://github.com/secure-foundations/verdict) [:package:](https://crates.io/crates/verdict)[:lab_coat:](https://zhengyao.page/papers/verdict.pdf)[:watch:](https://github.com/secure-foundations/verdict-bench) - end-to-end formally verified X.509 certificate validation library.
 - [verified-memory-allocator](https://github.com/verus-lang/verified-memory-allocator):star: - a memory allocator verified with Verus.
